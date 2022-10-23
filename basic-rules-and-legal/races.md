@@ -18,7 +18,7 @@ the terms of the Open Game License v1.0a.
 
 ## Favored Class
 
-A character's favored class doesn't count against him or her when
+A character’s favored class doesn’t count against him or her when
 determining experience point penalties for multiclassing.
 
 ## Race and Languages
@@ -33,7 +33,7 @@ Literacy: Any character except a barbarian can read and write all the
 languages he or she speaks.
 
 Class-Related Languages: Clerics, druids, and wizards can choose certain
-languages as bonus languages even if they're not on the lists found in
+languages as bonus languages even if they’re not on the lists found in
 the race descriptions. These class-related languages are as follows:
 
 *Cleric:* Abyssal, Celestial, Infernal.
@@ -45,7 +45,7 @@ the race descriptions. These class-related languages are as follows:
 ## Small Characters
 
 A Small character gets a +1 size bonus to Armor Class, a +1 size bonus
-on attack rolls, and a +4 size bonus on Hide checks. A Small character's
+on attack rolls, and a +4 size bonus on Hide checks. A Small character’s
 carrying capacity is three-quarters of that of a Medium character.
 
 A Small character generally moves about two-thirds as fast as a Medium
@@ -69,7 +69,7 @@ A Small character must use smaller weapons than a Medium character.
 
 ## Dwarves
 
--   +2 Constitution, --2 Charisma.
+-   +2 Constitution, –2 Charisma.
 -   Medium: As Medium creatures, dwarves have no special bonuses or
     penalties due to their size.
 -   Dwarf base land speed is 20 feet. However, dwarves can move at this
@@ -83,7 +83,7 @@ A Small character must use smaller weapons than a Medium character.
     Search checks to notice unusual stonework, such as sliding walls,
     stonework traps, new construction (even when built to match the
     old), unsafe stone surfaces, shaky stone ceilings, and the like.
-    Something that isn't stone but that is disguised as stone also
+    Something that isn’t stone but that is disguised as stone also
     counts as unusual stonework. A dwarf who merely comes within 10 feet
     of unusual stonework can make a Search check as if he were actively
     searching, and a dwarf can use the Search skill to find stonework
@@ -102,20 +102,20 @@ A Small character must use smaller weapons than a Medium character.
 -   +1 racial bonus on attack rolls against orcs and goblinoids.
 -   +4 dodge bonus to Armor Class against monsters of the giant type.
     Any time a creature loses its Dexterity bonus (if any) to Armor
-    Class, such as when it's caught flat-footed, it loses its dodge
+    Class, such as when it’s caught flat-footed, it loses its dodge
     bonus, too.
 -   +2 racial bonus on Appraise checks that are related to stone or
     metal items.
 -   +2 racial bonus on Craft checks that are related to stone or metal.
 -   Automatic Languages: Common and Dwarven. Bonus Languages: Giant,
     Gnome, Goblin, Orc, Terran, and Undercommon.
--   Favored Class: Fighter. A multiclass dwarf 's fighter class does not
+-   Favored Class: Fighter. A multiclass dwarf ’s fighter class does not
     count when determining whether he takes an experience point penalty
     for multiclassing
 
 ## Elves
 
--   +2 Dexterity, --2 Constitution.
+-   +2 Dexterity, –2 Constitution.
 -   Medium: As Medium creatures, elves have no special bonuses or
     penalties due to their size.
 -   Elf base land speed is 30 feet.
@@ -135,13 +135,13 @@ A Small character must use smaller weapons than a Medium character.
     looking for it.
 -   Automatic Languages: Common and Elven. Bonus Languages: Draconic,
     Gnoll, Gnome, Goblin, Orc, and Sylvan.
--   Favored Class: Wizard. A multiclass elf 's wizard class does not
+-   Favored Class: Wizard. A multiclass elf ’s wizard class does not
     count when determining whether she takes an experience point penalty
     for multiclassing.
 
 ## Gnomes
 
--   +2 Constitution, --2 Strength.
+-   +2 Constitution, –2 Strength.
 -   Small: As a Small creature, a gnome gains a +1 size bonus to Armor
     Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide
     checks, but he uses smaller weapons than humans use, and his lifting
@@ -161,7 +161,7 @@ A Small character must use smaller weapons than a Medium character.
 -   +1 racial bonus on attack rolls against kobolds and goblinoids.
 -   +4 dodge bonus to Armor Class against monsters of the giant type.
     Any time a creature loses its Dexterity bonus (if any) to Armor
-    Class, such as when it's caught flat-footed, it loses its dodge
+    Class, such as when it’s caught flat-footed, it loses its dodge
     bonus, too.
 -   +2 racial bonus on Listen checks.
 -   +2 racial bonus on Craft (alchemy) checks.
@@ -170,12 +170,12 @@ A Small character must use smaller weapons than a Medium character.
     speak with a burrowing mammal (a badger, fox, rabbit, or the like,
     see below). This ability is innate to gnomes. See the *speak with
     animals* spell description.
--   Spell-Like Abilities: 1/day---*speak with animals* (burrowing mammal
+-   Spell-Like Abilities: 1/day—*speak with animals* (burrowing mammal
     only, duration 1 minute). A gnome with a Charisma score of at least
-    10 also has the following spell-like abilities: 1/day---*dancing
+    10 also has the following spell-like abilities: 1/day—*dancing
     lights, ghost sound, prestidigitation.* Caster level 1st; save DC
-    10 + gnome's Cha modifier + spell level.
--   Favored Class: Bard. A multiclass gnome's bard class does not count
+    10 + gnome’s Cha modifier + spell level.
+-   Favored Class: Bard. A multiclass gnome’s bard class does not count
     when determining whether he takes an experience point penalty.
 
 ## Half-Elves
@@ -203,14 +203,14 @@ A Small character must use smaller weapons than a Medium character.
 
 -   <div>
 
-    +2 Strength, --2 Intelligence, --2 Charisma.
+    +2 Strength, –2 Intelligence, –2 Charisma.
 
     </div>
 
     <div>
 
-    A half-orc's starting Intelligence score is always at least 3. If
-    this adjustment would lower the character's score to 1 or 2, his
+    A half-orc’s starting Intelligence score is always at least 3. If
+    this adjustment would lower the character’s score to 1 or 2, his
     score is nevertheless 3.
 
     </div>
@@ -230,13 +230,13 @@ A Small character must use smaller weapons than a Medium character.
 -   Automatic Languages: Common and Orc. Bonus Languages: Draconic,
     Giant, Gnoll, Goblin, and Abyssal.
 
--   Favored Class: Barbarian. A multiclass half-orc's barbarian class
+-   Favored Class: Barbarian. A multiclass half-orc’s barbarian class
     does not count when determining whether he takes an experience point
     penalty.
 
 ## Halflings
 
--   +2 Dexterity, --2 Strength.
+-   +2 Dexterity, –2 Strength.
 -   Small: As a Small creature, a halfling gains a +1 size bonus to
     Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on
     Hide checks, but she uses smaller weapons than humans use, and her
@@ -246,11 +246,11 @@ A Small character must use smaller weapons than a Medium character.
 -   +2 racial bonus on Climb, Jump, and Move Silently checks.
 -   +1 racial bonus on all saving throws.
 -   +2 morale bonus on saving throws against fear: This bonus stacks
-    with the halfling's +1 bonus on saving throws in general.
+    with the halfling’s +1 bonus on saving throws in general.
 -   +1 racial bonus on attack rolls with thrown weapons and slings.
 -   +2 racial bonus on Listen checks.
 -   Automatic Languages: Common and Halfling. Bonus Languages: Dwarven,
     Elven, Gnome, Goblin, and Orc.
--   Favored Class: Rogue. A multiclass halfling's rogue class does not
+-   Favored Class: Rogue. A multiclass halfling’s rogue class does not
     count when determining whether she takes an experience point penalty
     for multiclassing.

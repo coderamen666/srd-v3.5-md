@@ -9,8 +9,8 @@ druids, and experienced paladins and rangers). Some spellcasters select
 their spells from a limited list of spells known, while others have
 access to a wide variety of options.
 
-Most spellcasters prepare their spells in advance---whether from a
-spellbook or through devout prayers and meditation--- while some cast
+Most spellcasters prepare their spells in advance—whether from a
+spellbook or through devout prayers and meditation— while some cast
 spells spontaneously without preparation.
 
 Despite these different ways that characters use to learn or prepare
@@ -29,7 +29,7 @@ take effect.
     -   [Counterspells](#counterspells)
     -   [Caster Level](#caster-level)
     -   [Spell Failure](#spell-failure)
-    -   [The Spell's Result](#the-spells-result)
+    -   [The Spell’s Result](#the-spells-result)
     -   [Special Spell Effects](#special-spell-effects)
     -   [Combining Magical Effects](#combining-magical-effects)
 -   [Spell Descriptions](#spell-descriptions)
@@ -58,7 +58,7 @@ take effect.
     -   [Arcane Magical Writings](#arcane-magical-writings)
         -   [Wizard Spells and Borrowed
             Spellbooks](#wizard-spells-and-borrowed-spellbooks)
-        -   [Adding Spells to a Wizard's
+        -   [Adding Spells to a Wizard’s
             Spellbook](#adding-spells-to-a-wizards-spellbook)
         -   [Writing a New Spell Into a
             Spellbook](#writing-a-new-spell-into-a-spellbook)
@@ -80,12 +80,12 @@ same way.
 
 ### Choosing a Spell
 
-First you must choose which spell to cast. If you're a cleric, druid,
+First you must choose which spell to cast. If you’re a cleric, druid,
 experienced paladin, experienced ranger, or wizard, you select from
 among spells prepared earlier in the day and not yet cast (see Preparing
 Wizard Spells and Preparing Divine Spells).
 
-If you're a bard or sorcerer, you can select any spell you know,
+If you’re a bard or sorcerer, you can select any spell you know,
 provided you are capable of casting spells of that level or higher.
 
 To cast a spell, you must be able to speak (if the spell has a verbal
@@ -94,19 +94,19 @@ material components or focus (if any). Additionally, you must
 concentrate to cast a spell.
 
 If a spell has multiple versions, you choose which version to use when
-you cast it. You don't have to prepare (or learn, in the case of a bard
+you cast it. You don’t have to prepare (or learn, in the case of a bard
 or sorcerer) a specific version of the spell.
 
-Once you've cast a prepared spell, you can't cast it again until you
-prepare it again. (If you've prepared multiple copies of a single spell,
-you can cast each copy once.) If you're a bard or sorcerer, casting a
+Once you’ve cast a prepared spell, you can’t cast it again until you
+prepare it again. (If you’ve prepared multiple copies of a single spell,
+you can cast each copy once.) If you’re a bard or sorcerer, casting a
 spell counts against your daily limit for spells of that spell level,
-but you can cast the same spell again if you haven't reached your limit.
+but you can cast the same spell again if you haven’t reached your limit.
 
 ### Concentration
 
 To cast a spell, you must concentrate. If something interrupts your
-concentration while you're casting, you must make a Concentration check
+concentration while you’re casting, you must make a Concentration check
 or lose the spell. The more distracting the interruption and the higher
 the level of the spell you are trying to cast, the higher the DC is. If
 you fail the check, you lose the spell just as if you had cast it to no
@@ -114,7 +114,7 @@ effect.
 
 **Injury:** If while trying to cast a spell you take damage, you must
 make a Concentration check (DC 10 + points of damage taken + the level
-of the spell you're casting). If you fail the check, you lose the spell
+of the spell you’re casting). If you fail the check, you lose the spell
 without effect. The interrupting event strikes during spellcasting if it
 comes between when you start and when you complete a spell (for a spell
 with a casting time of 1 full round or more) or if it comes in response
@@ -124,7 +124,7 @@ the spell or a contingent attack, such as a readied action).
 If you are taking continuous damage half the damage is considered to
 take place while you are casting a spell. You must make a Concentration
 check (DC 10 + 1/2 the damage that the continuous source last dealt +
-the level of the spell you're casting). If the last damage dealt was the
+the level of the spell you’re casting). If the last damage dealt was the
 last damage that the effect could deal then the damage is over, and it
 does not distract you.
 
@@ -133,53 +133,53 @@ Repeated damage does not count as continuous damage.
 **Spell:** If you are affected by a spell while attempting to cast a
 spell of your own, you must make a Concentration check or lose the spell
 you are casting. If the spell affecting you deals damage, the DC is 10 +
-points of damage + the level of the spell you're casting.
+points of damage + the level of the spell you’re casting.
 
 If the spell interferes with you or distracts you in some other way, the
-DC is the spell's saving throw DC + the level of the spell you're
-casting. For a spell with no saving throw, it's the DC that the spell's
+DC is the spell’s saving throw DC + the level of the spell you’re
+casting. For a spell with no saving throw, it’s the DC that the spell’s
 saving throw would have if a save were allowed.
 
 **Grappling or Pinned:** The only spells you can cast while grappling or
 pinned are those without somatic components and whose material
 components (if any) you have in hand. Even so, you must make a
-Concentration check (DC 20 + the level of the spell you're casting) or
+Concentration check (DC 20 + the level of the spell you’re casting) or
 lose the spell.
 
 **Vigorous Motion:** If you are riding on a moving mount, taking a
 bouncy ride in a wagon, on a small boat in rough water, below-decks in a
 storm-tossed ship, or simply being jostled in a similar fashion, you
-must make a Concentration check (DC 10 + the level of the spell you're
+must make a Concentration check (DC 10 + the level of the spell you’re
 casting) or lose the spell.
 
 **Violent Motion:** If you are on a galloping horse, taking a very rough
 ride in a wagon, on a small boat in rapids or in a storm, on deck in a
 storm-tossed ship, or being tossed roughly about in a similar fashion,
 you must make a Concentration check (DC 15 + the level of the spell
-you're casting) or lose the spell.
+you’re casting) or lose the spell.
 
 **Violent Weather:** You must make a Concentration check if you try to
 cast a spell in violent weather. If you are in a high wind carrying
-blinding rain or sleet, the DC is 5 + the level of the spell you're
+blinding rain or sleet, the DC is 5 + the level of the spell you’re
 casting. If you are in wind-driven hail, dust, or debris, the DC is 10 +
-the level of the spell you're casting. In either case, you lose the
+the level of the spell you’re casting. In either case, you lose the
 spell if you fail the Concentration check. If the weather is caused by a
 spell, use the rules in the Spell subsection above.
 
 **Casting Defensively:** If you want to cast a spell without provoking
 any attacks of opportunity, you must make a Concentration check (DC 15 +
-the level of the spell you're casting) to succeed. You lose the spell if
+the level of the spell you’re casting) to succeed. You lose the spell if
 you fail.
 
 **Entangled:** If you want to cast a spell while entangled in a net or
-by a tanglefoot bag or while you're affected by a spell with similar
+by a tanglefoot bag or while you’re affected by a spell with similar
 effects, you must make a DC 15 Concentration check to cast the spell.
 You lose the spell if you fail.
 
 ### Counterspells
 
 It is possible to cast any spell as a counterspell. By doing so, you are
-using the spell's energy to disrupt the casting of the same spell by
+using the spell’s energy to disrupt the casting of the same spell by
 another character. Counterspelling works even if one spell is divine and
 the other arcane.
 
@@ -190,9 +190,9 @@ until your opponent tries to cast a spell. (You may still move your
 speed, since ready is a standard action.)
 
 If the target of your counterspell tries to cast a spell, make a
-Spellcraft check (DC 15 + the spell's level). This check is a free
-action. If the check succeeds, you correctly identify the opponent's
-spell and can attempt to counter it. If the check fails, you can't do
+Spellcraft check (DC 15 + the spell’s level). This check is a free
+action. If the check succeeds, you correctly identify the opponent’s
+spell and can attempt to counter it. If the check fails, you can’t do
 either of these things.
 
 To complete the action, you must then cast the correct spell. As a
@@ -209,14 +209,14 @@ account when determining whether a spell can be countered
 especially when they have diametrically opposed effects.
 
 ***Dispel Magic* as a Counterspell:** You can use *dispel magic* to
-counterspell another spellcaster, and you don't need to identify the
-spell he or she is casting. However, *dispel magic* doesn't always work
+counterspell another spellcaster, and you don’t need to identify the
+spell he or she is casting. However, *dispel magic* doesn’t always work
 as a counterspell (see the spell description).
 
 ### Caster Level
 
-A spell's power often depends on its caster level, which for most
-spellcasting characters is equal to your class level in the class you're
+A spell’s power often depends on its caster level, which for most
+spellcasting characters is equal to your class level in the class you’re
 using to cast the spell.
 
 You can cast a spell at a lower caster level than normal, but the caster
@@ -228,7 +228,7 @@ In the event that a class feature, domain granted power, or other
 special ability provides an adjustment to your caster level, that
 adjustment applies not only to effects based on caster level (such as
 range, duration, and damage dealt) but also to your caster level check
-to overcome your target's spell resistance and to the caster level used
+to overcome your target’s spell resistance and to the caster level used
 in dispel checks (both the dispel check and the DC of the check).
 
 ### Spell Failure
@@ -238,9 +238,9 @@ of the spell cannot be made to conform, the casting fails and the spell
 is wasted.
 
 Spells also fail if your concentration is broken and might fail if
-you're wearing armor while casting a spell with somatic components.
+you’re wearing armor while casting a spell with somatic components.
 
-### The Spell's Result
+### The Spell’s Result
 
 Once you know which creatures (or objects or areas) are affected, and
 whether those creatures have made successful saving throws (if any were
@@ -253,33 +253,33 @@ spells in question Certain other special spell features are found across
 spell schools.
 
 **Attacks:** Some spell descriptions refer to attacking. All offensive
-combat actions, even those that don't damage opponents are considered
+combat actions, even those that don’t damage opponents are considered
 attacks. Attempts to turn or rebuke undead count as attacks. All spells
 that opponents resist with saving throws, that deal damage, or that
 otherwise harm or hamper subjects are attacks. Spells that summon
 monsters or other allies are not attacks because the spells themselves
-don't harm anyone.
+don’t harm anyone.
 
 **Bonus Types:** Usually, a bonus has a type that indicates how the
 spell grants the bonus. The important aspect of bonus types is that two
-bonuses of the same type don't generally stack. With the exception of
+bonuses of the same type don’t generally stack. With the exception of
 dodge bonuses, most circumstance bonuses, and racial bonuses, only the
 better bonus works (see Combining Magical Effects, below). The same
-principle applies to penalties---a character taking two or more
-penalties of the same type applies only the worst one.
+principle applies to penalties—a character taking two or more penalties
+of the same type applies only the worst one.
 
 **Bringing Back the Dead:** Several spells have the power to restore
 slain characters to life.
 
 When a living creature dies, its soul departs its body, leaves the
 Material Plane, travels through the Astral Plane, and goes to abide on
-the plane where the creature's deity resides. If the creature did not
+the plane where the creature’s deity resides. If the creature did not
 worship a deity, its soul departs to the plane corresponding to its
 alignment. Bringing someone back from the dead means retrieving his or
 her soul and returning it to his or her body.
 
 *Level Loss:* Any creature brought back to life usually loses one level
-of experience. The character's new XP total is midway between the
+of experience. The character’s new XP total is midway between the
 minimum needed for his or her new (reduced) level and the minimum needed
 for the next one. If the character was 1st level at the time of death,
 he or she loses 2 points of Constitution instead of losing a level.
@@ -297,7 +297,7 @@ prevents others from using *raise dead* or *resurrection* to restore the
 slain character to life. Casting *trap the soul* prevents any sort of
 revivification unless the soul is first released.
 
-*Revivification against One's Will:* A soul cannot be returned to life
+*Revivification against One’s Will:* A soul cannot be returned to life
 if it does not wish to be. A soul knows the name, alignment, and patron
 deity (if any) of the character attempting to revive it and may refuse
 to return on that basis.
@@ -315,11 +315,11 @@ in the same place:
 **Stacking Effects:** Spells that provide bonuses or penalties on attack
 rolls, damage rolls, saving throws, and other attributes usually do not
 stack with themselves. More generally, two bonuses of the same type
-don't stack even if they come from different spells (or from effects
+don’t stack even if they come from different spells (or from effects
 other than spells; see Bonus Types, above).
 
 *Different Bonus Names:* The bonuses or penalties from two different
-spells stack if the modifiers are of different types. A bonus that isn't
+spells stack if the modifiers are of different types. A bonus that isn’t
 named stacks with any bonus.
 
 *Same Effect More than Once in Different Strengths:* In cases when two
@@ -338,8 +338,8 @@ rendered the other useless in some fashion.
 
 *Multiple Mental Control Effects:* Sometimes magical effects that
 establish mental control render each other irrelevant, such as a spell
-that removes the subjects ability to act. Mental controls that don't
-remove the recipient's ability to act usually do not interfere with each
+that removes the subjects ability to act. Mental controls that don’t
+remove the recipient’s ability to act usually do not interfere with each
 other. If a creature is under the mental control of two or more
 creatures, it tends to obey each to the best of its ability, and to the
 extent of the control each effect allows. If the controlled creature
@@ -350,7 +350,7 @@ obeys.
 **Spells with Opposite Effects:** Spells with opposite effects apply
 normally, with all bonuses, penalties, or changes accruing in the order
 that they apply. Some spells negate or counter each other. This is a
-special effect that is noted in a spell's description.
+special effect that is noted in a spell’s description.
 
 **Instantaneous Effects:** Two or more spells with instantaneous
 durations work cumulatively when they affect the same target.
@@ -365,7 +365,7 @@ category of information is explained and defined below.
 The first line of every spell description gives the name by which the
 spell is generally known.
 
-### School (Subschool) {#school}
+### School (Subschool)
 
 Beneath the spell name is a line giving the school of magic (and the
 subschool, if appropriate) that the spell belongs to.
@@ -407,7 +407,7 @@ by a conjuration spell cannot appear inside another creature or object,
 nor can it appear floating in an empty space. It must arrive in an open
 location on a surface capable of supporting it.
 
-The creature or object must appear within the spell's range, but it does
+The creature or object must appear within the spell’s range, but it does
 not have to remain within the range.
 
 **Calling:** A calling spell transports a creature from another plane to
@@ -417,7 +417,7 @@ circumstances under which this is possible. Creatures who are called
 actually die when they are killed; they do not disappear and reform, as
 do those brought by a summoning spell (see below). The duration of a
 calling spell is instantaneous, which means that the called creature
-can't be dispelled.
+can’t be dispelled.
 
 **Creation:** A creation spell manipulates matter to create an object or
 creature in the place the spellcaster designates (subject to the limits
@@ -437,7 +437,7 @@ summoned creature is instantly sent back to where it came from, but a
 summoned object is not sent back unless the spell description
 specifically indicates this. A summoned creature also goes away if it is
 killed or if its hit points drop to 0 or lower. It is not really dead.
-It takes 24 hours for the creature to reform, during which time it can't
+It takes 24 hours for the creature to reform, during which time it can’t
 be summoned again.
 
 When the spell that summoned a creature ends and the creature
@@ -494,8 +494,8 @@ making it see you as a good friend.
 
 **Compulsion:** A compulsion spell forces the subject to act in some
 manner or changes the way her mind works. Some compulsion spells
-determine the subject's actions or the effects on the subject, some
-compulsion spells allow you to determine the subject's actions when you
+determine the subject’s actions or the effects on the subject, some
+compulsion spells allow you to determine the subject’s actions when you
 cast the spell, and others give you ongoing control over the subject.
 
 #### Evocation
@@ -529,9 +529,9 @@ or provide protection from the elements. Consequently, these spells are
 useful for confounding or delaying foes, but useless for attacking them
 directly.
 
-A figment's AC is equal to 10 + its size modifier.
+A figment’s AC is equal to 10 + its size modifier.
 
-**Glamer:** A glamer spell changes a subject's sensory qualities, making
+**Glamer:** A glamer spell changes a subject’s sensory qualities, making
 it look, feel, taste, smell, or sound like something else, or even seem
 to disappear.
 
@@ -542,9 +542,9 @@ or are caught in it. All patterns are mind-affecting spells.
 **Phantasm:** A phantasm spell creates a mental image that usually only
 the caster and the subject (or subjects) of the spell can perceive. This
 impression is totally in the minds of the subjects. It is a personalized
-mental impression. (It's all in their heads and not a fake picture or
+mental impression. (It’s all in their heads and not a fake picture or
 something that they actually see.) Third parties viewing or studying the
-scene don't notice the phantasm. All phantasms are mind-affecting
+scene don’t notice the phantasm. All phantasms are mind-affecting
 spells.
 
 **Shadow:** A shadow spell creates something that is partially real from
@@ -560,7 +560,7 @@ A successful saving throw against an illusion reveals it to be false,
 but a figment or phantasm remains as a translucent outline.
 
 A failed saving throw indicates that a character fails to notice
-something is amiss. A character faced with proof that an illusion isn't
+something is amiss. A character faced with proof that an illusion isn’t
 real needs no saving throw. If any viewer successfully disbelieves an
 illusion and communicates this fact to others, each such viewer gains a
 saving throw with a +4 bonus.
@@ -599,12 +599,12 @@ score of 1 or higher.
 
 ### Level
 
-The next line of a spell description gives the spell's level, a number
-between 0 and 9 that defines the spell's relative power. This number is
+The next line of a spell description gives the spell’s level, a number
+between 0 and 9 that defines the spell’s relative power. This number is
 preceded by an abbreviation for the class whose members can cast the
 spell. The Level entry also indicates whether a spell is a domain spell
 and, if so, what its domain and its level as a domain spell are. A
-spell's level affects the DC for any save allowed against the effect.
+spell’s level affects the DC for any save allowed against the effect.
 
 Names of spellcasting classes are abbreviated as follows: bard Brd;
 cleric Clr; druid Drd; paladin Pal; ranger Rgr; sorcerer Sor; wizard
@@ -617,11 +617,11 @@ and Water.
 
 ### Components
 
-A spell's components are what you must do or possess to cast it. The
+A spell’s components are what you must do or possess to cast it. The
 Components entry in a spell description includes abbreviations that tell
 you what type of components it has. Specifics for material, focus, and
 XP components are given at the end of the descriptive text. Usually you
-don't worry about components, but when you can't use a component for
+don’t worry about components, but when you can’t use a component for
 some reason or when a material or focus component is expensive, then the
 components are important.
 
@@ -638,7 +638,7 @@ component.
 **Material (M):** A material component is one or more physical
 substances or objects that are annihilated by the spell energies in the
 casting process. Unless a cost is given for a material component, the
-cost is negligible. Don't bother to keep track of material components
+cost is negligible. Don’t bother to keep track of material components
 with negligible cost. Assume you have all you need as long as you have
 your spell component pouch.
 
@@ -650,7 +650,7 @@ negligible cost are in your spell component pouch.
 
 **Divine Focus (DF):** A divine focus component is an item of spiritual
 significance. The divine focus for a cleric or a paladin is a holy
-symbol appropriate to the character's faith.
+symbol appropriate to the character’s faith.
 
 If the Components line includes F/DF or M/DF, the arcane version of the
 spell has a focus component or a material component (the abbreviation
@@ -663,8 +663,8 @@ spend so much XP that you lose a level, so you cannot cast the spell
 unless you have enough XP to spare. However, you may, on gaining enough
 XP to attain a new level, use those XP for casting a spell rather than
 keeping them and advancing a level. The XP are treated just like a
-material component---expended when you cast the spell, whether or not
-the casting succeeds.
+material component—expended when you cast the spell, whether or not the
+casting succeeds.
 
 ### Casting Time
 
@@ -687,21 +687,21 @@ continue the concentration from the current round to just before your
 turn in the next round (at least). If you lose concentration before the
 casting is complete, you lose the spell.
 
-A spell with a casting time of 1 free action doesn't count against your
+A spell with a casting time of 1 free action doesn’t count against your
 normal limit of one spell per round. However, you may cast such a spell
 only once per round. Casting a spell with a casting time of 1 free
-action doesn't provoke attacks of opportunity.
+action doesn’t provoke attacks of opportunity.
 
 You make all pertinent decisions about a spell (range, target, area,
 effect, version, and so forth) when the spell comes into effect.
 
 ### Range
 
-A spell's range indicates how far from you it can reach, as defined in
-the Range entry of the spell description. A spell's range is the maximum
-distance from you that the spell's effect can occur, as well as the
-maximum distance at which you can designate the spell's point of origin.
-If any portion of the spell's area would extend beyond this range, that
+A spell’s range indicates how far from you it can reach, as defined in
+the Range entry of the spell description. A spell’s range is the maximum
+distance from you that the spell’s effect can occur, as well as the
+maximum distance at which you can designate the spell’s point of origin.
+If any portion of the spell’s area would extend beyond this range, that
 area is wasted. Standard ranges include the following.
 
 **Personal:** The spell affects only you.
@@ -733,7 +733,7 @@ category, just a range expressed in feet.
 
 You must make some choice about whom the spell is to affect or where the
 effect is to originate, depending on the type of spell. The next entry
-in a spell description defines the spell's target (or targets), its
+in a spell description defines the spell’s target (or targets), its
 effect, or its area, as appropriate.
 
 **Target or Targets:** Some spellshave a target or targets. You cast
@@ -749,7 +749,7 @@ are omitted from such spells.
 
 Some spells restrict you to willing targets only. Declaring yourself as
 a willing target is something that can be done at any time (even if
-you're flat-footed or it isn't your turn). Unconscious creatures are
+you’re flat-footed or it isn’t your turn). Unconscious creatures are
 automatically considered willing, but a character who is conscious but
 immobile or helpless (such as one who is bound, cowering, grappling,
 paralyzed, pinned, or stunned) is not automatically willing.
@@ -764,17 +764,17 @@ things that are already present.
 You must designate the location where these things are to appear, either
 by seeing it or defining it. Range determines how far away an effect can
 appear, but if the effect is mobile it can move regardless of the
-spell's range.
+spell’s range.
 
 *Ray:* Some effects are rays. You aim a ray as if using a ranged weapon,
 though typically you make a ranged touch attack rather than a normal
 ranged attack. As with a ranged weapon, you can fire into the dark or at
-an invisible creature and hope you hit something. You don't have to see
-the creature you're trying to hit, as you do with a targeted spell.
+an invisible creature and hope you hit something. You don’t have to see
+the creature you’re trying to hit, as you do with a targeted spell.
 Intervening creatures and obstacles, however, can block your line of
-sight or provide cover for the creature you're aiming at.
+sight or provide cover for the creature you’re aiming at.
 
-If a ray spell has a duration, it's the duration of the effect that the
+If a ray spell has a duration, it’s the duration of the effect that the
 ray causes, not the length of time the ray itself persists.
 
 If a ray spell deals damage, you can score a critical hit just as if it
@@ -783,7 +783,7 @@ were a weapon. A ray spell threatens a critical hit on a natural roll of
 
 *Spread:* Some effects, notably clouds and fogs, spread out from a point
 of origin, which must be a grid intersection. The effect can extend
-around corners and into areas that you can't see. Figure distance by
+around corners and into areas that you can’t see. Figure distance by
 actual distance traveled, taking into account turns the spell effect
 takes. When determining distance for spread effects, count around walls,
 not through them. As with movement, do not trace diagonals across
@@ -796,7 +796,7 @@ specifies a specially defined area, but usually an area falls into one
 of the categories defined below.
 
 Regardless of the shape of the area, you select the point where the
-spell originates, but otherwise you don't control which creatures or
+spell originates, but otherwise you don’t control which creatures or
 objects the spell affects. The point of origin of a spell is always a
 grid intersection. When determining whether a given creature is within
 the area of a spell, count out the distance from the point of origin in
@@ -807,20 +807,20 @@ count from intersection to intersection.
 
 You can count diagonally across a square, but remember that every second
 diagonal counts as 2 squares of distance. If the far edge of a square is
-within the spell's area, anything within that square is within the
-spell's area. If the spell's area only touches the near edge of a
+within the spell’s area, anything within that square is within the
+spell’s area. If the spell’s area only touches the near edge of a
 square, however, anything within that square is unaffected by the spell.
 
 *Burst, Emanation, or Spread:* Most spells that affect an area function
 as a burst, an emanation, or a spread. In each case, you select the
-spell's point of origin and measure its effect from that point.
+spell’s point of origin and measure its effect from that point.
 
 A burst spell affects whatever it catches in its area, even including
-creatures that you can't see. It can't affect creatures with total cover
-from its point of origin (in other words, its effects don't extend
+creatures that you can’t see. It can’t affect creatures with total cover
+from its point of origin (in other words, its effects don’t extend
 around corners). The default shape for a burst effect is a sphere, but
-some burst spells are specifically described as cone-shaped. A burst's
-area defines how far from the point of origin the spell's effect
+some burst spells are specifically described as cone-shaped. A burst’s
+area defines how far from the point of origin the spell’s effect
 extends.
 
 An emanation spell functions like a burst spell, except that the effect
@@ -838,9 +838,9 @@ a particular shape, such as a cone, cylinder, line, or sphere.
 A cone-shaped spell shoots away from you in a quarter-circle in the
 direction you designate. It starts from any corner of your square and
 widens out as it goes. Most cones are either bursts or emanations (see
-above), and thus won't go around corners.
+above), and thus won’t go around corners.
 
-When casting a cylinder-shaped spell, you select the spell's point of
+When casting a cylinder-shaped spell, you select the spell’s point of
 origin. This point is the center of a horizontal circle, and the spell
 shoots down from the circle, filling a cylinder. A cylinder-shaped spell
 ignores any obstructions within its area.
@@ -859,8 +859,8 @@ spherical area. Spheres may be bursts, emanations, or spreads.
 kind rather than individual creatures you select. The area might be a
 spherical burst , a cone-shaped burst, or some other shape.
 
-Many spells affect "living creatures," which means all creatures other
-than constructs and undead. Creatures in the spell's area that are not
+Many spells affect “living creatures,” which means all creatures other
+than constructs and undead. Creatures in the spell’s area that are not
 of the appropriate type do not count against the creatures affected.
 
 *Objects:* A spell with this kind of area affects objects within an area
@@ -868,7 +868,7 @@ you select (as Creatures, but affecting objects instead).
 
 *Other:* A spell can have a unique area, as defined in its description.
 
-*(S) Shapeable:* If an Area or Effect entry ends with "(S)," you can
+*(S) Shapeable:* If an Area or Effect entry ends with “(S),” you can
 shape the spell. A shaped effect or area can have no dimension smaller
 than 10 feet. Many effects or areas are given as cubes to make it easy
 to model irregular shapes. Three-dimensional volumes are most often
@@ -876,8 +876,8 @@ needed to define aerial or underwater effects and areas.
 
 **Line of Effect:** A line of effect is a straight, unblocked path that
 indicates what a spell can affect. A line of effect is canceled by a
-solid barrier. It's like line of sight for ranged weapons, except that
-it's not blocked by fog, darkness, and other factors that limit normal
+solid barrier. It’s like line of sight for ranged weapons, except that
+it’s not blocked by fog, darkness, and other factors that limit normal
 sight.
 
 You must have a clear line of effect to any target that you cast a spell
@@ -886,23 +886,23 @@ a clear line of effect to the point of origin of any spell you cast.
 
 A burst, cone, cylinder, or emanation spell affects only an area,
 creatures, or objects to which it has line of effect from its origin (a
-spherical burst's center point, a cone-shaped burst's starting point, a
-cylinder's circle, or an emanation's point of origin).
+spherical burst’s center point, a cone-shaped burst’s starting point, a
+cylinder’s circle, or an emanation’s point of origin).
 
 An otherwise solid barrier with a hole of at least 1 square foot through
-it does not block a spell's line of effect. Such an opening means that
+it does not block a spell’s line of effect. Such an opening means that
 the 5-foot length of wall containing the hole is no longer considered a
-barrier for purposes of a spell's line of effect.
+barrier for purposes of a spell’s line of effect.
 
 ### Duration
 
-A spell's Duration entry tells you how long the magical energy of the
+A spell’s Duration entry tells you how long the magical energy of the
 spell lasts.
 
 **Timed Durations:** Many durations are measured in rounds, minutes,
 hours, or some other increment. When the time is up, the magic goes away
-and the spell ends. If a spell's duration is variable the duration is
-rolled secretly (the caster doesn't know how long the spell will last).
+and the spell ends. If a spell’s duration is variable the duration is
+rolled secretly (the caster doesn’t know how long the spell will last).
 
 **Instantaneous:** The spell energy comes and goes the instant the spell
 is cast, though the consequences might be long-lasting.
@@ -914,13 +914,13 @@ the spell is vulnerable to *dispel magic*.
 Concentrating to maintain a spell is a standard action that does not
 provoke attacks of opportunity. Anything that could break your
 concentration when casting a spell can also break your concentration
-while you're maintaining one, causing the spell to end.
+while you’re maintaining one, causing the spell to end.
 
-You can't cast a spell while concentrating on another one. Sometimes a
+You can’t cast a spell while concentrating on another one. Sometimes a
 spell lasts for a short time after you cease concentrating.
 
 **Subjects, Effects, and Areas:** If the spell affects creatures
-directly the result travels with the subjects for the spell's duration.
+directly the result travels with the subjects for the spell’s duration.
 If the spell creates an effect, the effect lasts for the duration. The
 effect might move or remain still. Such an effect can be destroyed prior
 to when its duration ends. If the spell affects an area then the spell
@@ -929,24 +929,24 @@ stays with that area for its duration.
 Creatures become subject to the spell when they enter the area and are
 no longer subject to it when they leave.
 
-**Touch Spells and Holding the Charge:** In most cases, if you don't
+**Touch Spells and Holding the Charge:** In most cases, if you don’t
 discharge a touch spell on the round you cast it, you can hold the
 charge (postpone the discharge of the spell) indefinitely. You can make
 touch attacks round after round. If you cast another spell, the touch
 spell dissipates.
 
 Some touch spellsallow you to touch multiple targets as part of the
-spell. You can't hold the charge of such a spell; you must touch all
+spell. You can’t hold the charge of such a spell; you must touch all
 targets of the spell in the same round that you finish casting the
 spell.
 
 **Discharge:** Occasionally a spells lasts for a set duration or until
 triggered or discharged.
 
-**(D) Dismissible:** If the Duration line ends with "(D)," you can
-dismiss the spell at will. You must be within range of the spell's
+**(D) Dismissible:** If the Duration line ends with “(D),” you can
+dismiss the spell at will. You must be within range of the spell’s
 effect and must speak words of dismissal, which are usually a modified
-form of the spell's verbal component. If the spell has no verbal
+form of the spell’s verbal component. If the spell has no verbal
 component, you can dismiss the effect with a gesture. Dismissing a spell
 is a standard action that does not provoke attacks of opportunity.
 
@@ -977,11 +977,11 @@ the damage taken (round down).
 **(object):** The spell can be cast on objects, which receive saving
 throws only if they are magical or if they are attended (held, worn,
 grasped, or the like) by a creature resisting the spell, in which case
-the object uses the creature's saving throw bonus unless its own bonus
+the object uses the creature’s saving throw bonus unless its own bonus
 is greater. (This notation does not mean that a spell can be cast only
 on objects. Some spells of this sort can be cast on creatures or
-objects.) A magic item's saving throw bonuses are each equal to 2 +
-one-half the item's caster level.
+objects.) A magic item’s saving throw bonuses are each equal to 2 +
+one-half the item’s caster level.
 
 **(harmless):** The spell is usually beneficial, not harmful, but a
 targeted creature can attempt a saving throw if it desires.
@@ -989,14 +989,14 @@ targeted creature can attempt a saving throw if it desires.
 **Saving Throw Difficulty Class:** A saving throw against your spell has
 a DC of 10 + the level of the spell + your bonus for the relevant
 ability (Intelligence for a wizard, Charisma for a sorcerer or bard, or
-Wisdom for a cleric, druid, paladin, or ranger). A spell's level can
+Wisdom for a cleric, druid, paladin, or ranger). A spell’s level can
 vary depending on your class. Always use the spell level applicable to
 your class.
 
 **Succeeding on a Saving Throw:** A creature that successfully saves
 against a spell that has no obvious physical effects feels a hostile
 force or a tingle, but cannot deduce the exact nature of the attack.
-Likewise, if a creature's saving throw succeeds against a targeted spell
+Likewise, if a creature’s saving throw succeeds against a targeted spell
 you sense that the spell has failed. You do not sense when creatures
 succeed on saves against effect and area spells.
 
@@ -1006,7 +1006,7 @@ exposed items (see Items Surviving after a Saving Throw, below). A
 natural 20 (the d20 comes up 20) is always a success.
 
 **Voluntarily Giving up a Saving Throw:** A creature can voluntarily
-forego a saving throw and willingly accept a spell's result. Even a
+forego a saving throw and willingly accept a spell’s result. Even a
 character with a special resistance to magic can suppress this quality.
 
 **Items Surviving after a Saving Throw:** Unless the descriptive text
@@ -1022,29 +1022,29 @@ against the attack form and take whatever damage the attack deal.
 If an item is not carried or worn and is not magical, it does not get a
 saving throw. It simply is dealt the appropriate damage.
 
-  ----------------------------------------------------------- ----------------------------------------------------
-  Order^1^                                                    Item
-  1st                                                         Shield
-  2nd                                                         Armor
-  3rd                                                         Magic helmet, hat, or headband
-  4th                                                         Item in hand (including weapon, wand, or the like)
-  5th                                                         Magic cloak
-  6th                                                         Stowed or sheathed weapon
-  7th                                                         Magic bracers
-  8th                                                         Magic clothing
-  9th                                                         Magic jewelry (including rings)
-  10th                                                        Anything else
-  1 In order of most likely to least likely to be affected.   
-  ----------------------------------------------------------- ----------------------------------------------------
+|                                                           |                                                    |
+|-----------------------------------------------------------|----------------------------------------------------|
+| Order<sup>1</sup>                                         | Item                                               |
+| 1st                                                       | Shield                                             |
+| 2nd                                                       | Armor                                              |
+| 3rd                                                       | Magic helmet, hat, or headband                     |
+| 4th                                                       | Item in hand (including weapon, wand, or the like) |
+| 5th                                                       | Magic cloak                                        |
+| 6th                                                       | Stowed or sheathed weapon                          |
+| 7th                                                       | Magic bracers                                      |
+| 8th                                                       | Magic clothing                                     |
+| 9th                                                       | Magic jewelry (including rings)                    |
+| 10th                                                      | Anything else                                      |
+| 1 In order of most likely to least likely to be affected. |                                                    |
 
-  : Table: Items Affected by Magical Attacks
+Table: Items Affected by Magical Attacks
 
 ### Spell Resistance
 
 Spell resistance is a special defensive ability. If your spell is being
 resisted by a creature with spell resistance, you must make a caster
-level check (1d20 + caster level) at least equal to the creature's spell
-resistance for the spell to affect that creature. The defender's spell
+level check (1d20 + caster level) at least equal to the creature’s spell
+resistance for the spell to affect that creature. The defender’s spell
 resistance is like an Armor Class against magical attacks. Include any
 adjustments to your caster level to this caster level check.
 
@@ -1054,7 +1054,7 @@ the spell. In many cases, spell resistance applies only when a resistant
 creature is targeted by the spell, not when a resistant creature
 encounters a spell that is already in place.
 
-The terms "object" and "harmless" mean the same thing for spell
+The terms “object” and “harmless” mean the same thing for spell
 resistance as they do for saving throws. A creature with spell
 resistance must voluntarily lower the resistance (a standard action) in
 order to be affected by a spell noted as harmless. In such a case, you
@@ -1064,7 +1064,7 @@ do not need to make the caster level check described above.
 
 This portion of a spell description details what the spell does and how
 it works. If one of the previous entries in the description included
-"see text," this is where the explanation is found.
+“see text,” this is where the explanation is found.
 
 ## Arcane Spells
 
@@ -1073,12 +1073,12 @@ spells, arcane spells are more likely to produce dramatic results.
 
 ### Preparing Wizard Spells
 
-A wizard's level limits the number of spells she can prepare and cast.
+A wizard’s level limits the number of spells she can prepare and cast.
 Her high Intelligence score might allow her to prepare a few extra
 spells. She can prepare the same spell more than once, but each
 preparation counts as one spell toward her daily limit. To prepare a
 spell the wizard must have an Intelligence score of at least 10 + the
-spell's level.
+spell’s level.
 
 **Rest:** To prepare her daily spells, a wizard must first sleep for 8
 hours. The wizard does not have to slumber for every minute of the time,
@@ -1098,7 +1098,7 @@ has cast within the last 8 hours count against her daily limit.
 
 **Preparation Environment:** To prepare any spell, a wizard must have
 enough peace, quiet, and comfort to allow for proper concentration. The
-wizard's surroundings need not be luxurious, but they must be free from
+wizard’s surroundings need not be luxurious, but they must be free from
 overt distractions. Exposure to inclement weather prevents the necessary
 concentration, as does any injury or failed saving throw the character
 might experience while studying. Wizards also must have access to their
@@ -1144,7 +1144,7 @@ spells of lower level.
 in her mind as a nearly cast spell until she uses the prescribed
 components to complete and trigger it or until she abandons it. Certain
 other events, such as the effects of magic items or special attacks from
-monsters, can wipe a prepared spell from a character's mind.
+monsters, can wipe a prepared spell from a character’s mind.
 
 **Death and Prepared Spell Retention:** If a spellcaster dies, all
 prepared spells stored in his or her mind are wiped away. Potent magic
@@ -1157,12 +1157,12 @@ To record an arcane spell in written form, a character uses complex
 notation that describes the magical forces involved in the spell. The
 writer uses the same system no matter what her native language or
 culture. However, each character uses the system in her own way. Another
-person's magical writing remains incomprehensible to even the most
+person’s magical writing remains incomprehensible to even the most
 powerful wizard until she takes time to study and decipher it.
 
 To decipher an arcane magical writing (such as a single spell in written
-form in another's spellbook or on a scroll), a character must make a
-Spellcraft check (DC 20 + the spell's level). If the skill check fails,
+form in another’s spellbook or on a scroll), a character must make a
+Spellcraft check (DC 20 + the spell’s level). If the skill check fails,
 the character cannot attempt to read that particular spell again until
 the next day. A *read magic* spell automatically deciphers a magical
 writing without a skill check. If the person who created the magical
@@ -1181,15 +1181,15 @@ A wizard can use a borrowed spellbook to prepare a spell she already
 knows and has recorded in her own spellbook, but preparation success is
 not assured. First, the wizard must decipher the writing in the book
 (see Arcane Magical Writings, above). Once a spell from another
-spellcaster's book is deciphered, the reader must make a Spellcraft
-check (DC 15 + spell's level) to prepare the spell. If the check
+spellcaster’s book is deciphered, the reader must make a Spellcraft
+check (DC 15 + spell’s level) to prepare the spell. If the check
 succeeds, the wizard can prepare the spell. She must repeat the check to
 prepare the spell again, no matter how many times she has prepared it
 before. If the check fails, she cannot try to prepare the spell from the
 same source again until the next day. (However, as explained above, she
 does not need to repeat a check to decipher the writing.)
 
-#### Adding Spells to a Wizard's Spellbook
+#### Adding Spells to a Wizard’s Spellbook
 
 Wizards can add new spells to their spellbooks through several methods.
 If a wizard has chosen to specialize in a school of magic, she can learn
@@ -1202,12 +1202,12 @@ spellbook. The two free spells must be of spell levels she can cast. If
 she has chosen to specialize in a school of magic, one of the two free
 spells must be from her specialty school.
 
-**Spells Copied from Another's Spellbook or a Scroll:** A wizard can
+**Spells Copied from Another’s Spellbook or a Scroll:** A wizard can
 also add a spell to her book whenever she encounters one on a magic
-scroll or in another wizard's spellbook. No matter what the spell's
+scroll or in another wizard’s spellbook. No matter what the spell’s
 source, the wizard must first decipher the magical writing (see Arcane
 Magical Writings, above). Next, she must spend a day studying the spell.
-At the end of the day, she must make a Spellcraft check (DC 15 + spell's
+At the end of the day, she must make a Spellcraft check (DC 15 + spell’s
 level). A wizard who has specialized in a school of spells gains a +2
 bonus on the Spellcraft check if the new spell is from her specialty
 school. She cannot, however, learn any spells from her prohibited
@@ -1223,7 +1223,7 @@ rank in Spellcraft. A spell that was being copied from a scroll does not
 vanish from the scroll.
 
 In most cases, wizards charge a fee for the privilege of copying spells
-from their spellbooks. This fee is usually equal to the spell's level x
+from their spellbooks. This fee is usually equal to the spell’s level x
 50 gp.
 
 **Independent Research:** A wizard also can research a spell
@@ -1235,7 +1235,7 @@ one.
 Once a wizard understands a new spell, she can record it into her
 spellbook.
 
-**Time:** The process takes 24 hours, regardless of the spell's level.
+**Time:** The process takes 24 hours, regardless of the spell’s level.
 
 **Space in the Spellbook:** A spell takes up one page of the spellbook
 per spell level. Even a 0-level spell (cantrip) takes one page. A
@@ -1272,11 +1272,11 @@ of 100 gp per page of spells). A spellbook entirely filled with spells
 ### Sorcerers and Bards
 
 Sorcerers and bards cast arcane spells, but they do not have spellbooks
-and do not prepare their spells. A sorcerer's or bard's class level
+and do not prepare their spells. A sorcerer’s or bard’s class level
 limits the number of spells he can cast (see these class descriptions).
 His high Charisma score might allow him to cast a few extra spells. A
 member of either class must have a Charisma score of at least 10 + a
-spell's level to cast the spell.
+spell’s level to cast the spell.
 
 **Daily Readying of Spells:** Each day, sorcerers and bards must focus
 their minds on the task of casting their spells. A sorcerer or bard
@@ -1288,9 +1288,9 @@ such a period to refresh himself, the character does not regain the
 spell slots he used up the day before.
 
 **Recent Casting Limit:** As with wizards, any spells cast within the
-last 8 hours count against the sorcerer's or bard's daily limit.
+last 8 hours count against the sorcerer’s or bard’s daily limit.
 
-**Adding Spells to a Sorcerer's or Bard's Repertoire:** A sorcerer or
+**Adding Spells to a Sorcerer’s or Bard’s Repertoire:** A sorcerer or
 bard gains spells each time he attains a new level in his class and
 never gains spells any other way. When your sorcerer or bard gains a new
 level, consult Table: Bard Spells Known or Table: Sorcerer Spells Known
@@ -1314,7 +1314,7 @@ disruptive than arcane spells.
 Divine spellcasters prepare their spells in largely the same manner as
 wizards do, but with a few differences. The relevant ability for divine
 spells is Wisdom. To prepare a divine spell, a character must have a
-Wisdom score of 10 + the spell's level. Likewise, bonus spells are based
+Wisdom score of 10 + the spell’s level. Likewise, bonus spells are based
 on Wisdom.
 
 **Time of Day:** A divine spellcaster chooses and prepares spells ahead
@@ -1331,20 +1331,20 @@ prepares spells ahead of time through prayer and meditation at a
 particular time of day. The time required to prepare spells is the same
 as it is for a wizard (1 hour), as is the requirement for a relatively
 peaceful environment. A divine spellcaster does not have to prepare all
-his spells at once. However, the character's mind is considered fresh
+his spells at once. However, the character’s mind is considered fresh
 only during his or her first daily spell preparation, so a divine
 spellcaster cannot fill a slot that is empty because he or she has cast
 a spell or abandoned a previously prepared spell.
 
 Divine spellcasters do not require spellbooks. However, such a
-character's spell selection is limited to the spells on the list for his
+character’s spell selection is limited to the spells on the list for his
 or her class. Clerics, druids, paladins, and rangers have separate spell
 lists. A cleric also has access to two domains determined during his
 character creation. Each domain gives him access to a domain spell at
 each spell level from 1st to 9th, as well as a special granted power.
-With access to two domain spells at each spell level---one from each of
-his two domains---a cleric must prepare, as an extra domain spell, one
-or the other each day for each level of spell he can cast. If a domain
+With access to two domain spells at each spell level—one from each of
+his two domains—a cleric must prepare, as an extra domain spell, one or
+the other each day for each level of spell he can cast. If a domain
 spell is not on the cleric spell list, it can be prepared only in a
 domain spell slot.
 
@@ -1374,10 +1374,10 @@ of the spell that the *cure* or *inflict* spell substitutes for is
 converted into the *cure* or *inflict* spell as if that spell had been
 prepared all along.
 
-**Spontaneous Casting of *Summon Nature's Ally* Spells:** A druid can
-spontaneously cast a *summon nature's ally* spell in place of a prepared
+**Spontaneous Casting of *Summon Nature’s Ally* Spells:** A druid can
+spontaneously cast a *summon nature’s ally* spell in place of a prepared
 spell of the same level or higher. The divine energy of the spell that
-the *summon nature's ally* spell substitutes for is converted into the
+the *summon nature’s ally* spell substitutes for is converted into the
 *summon* spell as if that spell had been prepared all along.
 
 ### Divine Magical Writings
@@ -1412,7 +1412,7 @@ explained in the text where they are described.
 
 A spell-like ability has no verbal, somatic, or material component, nor
 does it require a focus or have an XP cost. The user activates it
-mentally. Armor never affects a spell-like ability's use, even if the
+mentally. Armor never affects a spell-like ability’s use, even if the
 ability resembles an arcane spell with a somatic component.
 
 A spell-like ability has a casting time of 1 standard action unless

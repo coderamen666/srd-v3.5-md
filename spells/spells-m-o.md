@@ -7,12 +7,12 @@ the terms of the Open Game License v1.0a.
 
 -   [Mage Armor](#mage-armor)
 -   [Mage Hand](#mage-hand)
--   [Mage's Disjunction](#mages-disjunction)
--   [Mage's Faithful Hound](#mages-faithful-hound)
--   [Mage's Lucubration](#mages-lucubration)
--   [Mage's Magnificent Mansion](#mages-magnificent-mansion)
--   [Mage's Private Sanctum](#mages-private-sanctum)
--   [Mage's Sword](#mages-sword)
+-   [Mage’s Disjunction](#mages-disjunction)
+-   [Mage’s Faithful Hound](#mages-faithful-hound)
+-   [Mage’s Lucubration](#mages-lucubration)
+-   [Mage’s Magnificent Mansion](#mages-magnificent-mansion)
+-   [Mage’s Private Sanctum](#mages-private-sanctum)
+-   [Mage’s Sword](#mages-sword)
 -   [Magic Aura](#magic-aura)
 -   [Magic Circle Against Chaos](#magic-circle-against-chaos)
 -   [Magic Circle Against Evil](#magic-circle-against-evil)
@@ -57,10 +57,10 @@ the terms of the Open Game License v1.0a.
 -   [Obscure Object](#obscure-object)
 -   [Obscuring Mist](#obscuring-mist)
 -   [Open/Close](#open-close)
--   [Order's Wrath](#orders-wrath)
+-   [Order’s Wrath](#orders-wrath)
 -   [Overland Flight](#overland-flight)
--   [Owl's Wisdom](#owls-wisdom)
--   [Owl's Wisdom, Mass](#owls-wisdom-mass)
+-   [Owl’s Wisdom](#owls-wisdom)
+-   [Owl’s Wisdom, Mass](#owls-wisdom-mass)
 
 ## Mage Armor
 
@@ -79,7 +79,7 @@ An invisible but tangible field of force surrounds the subject of a
 
 Unlike mundane armor, *mage armor* entails no armor check penalty,
 arcane spell failure chance, or speed reduction. Since *mage armor* is
-made of force, incorporeal creatures can't bypass it the way they do
+made of force, incorporeal creatures can’t bypass it the way they do
 normal armor.
 
 *Focus:* A piece of cured leather.
@@ -99,9 +99,9 @@ normal armor.
 You point your finger at an object and can lift it and move it at will
 from a distance. As a move action, you can propel the object as far as
 15 feet in any direction, though the spell ends if the distance between
-you and the object ever exceeds the spell's range.
+you and the object ever exceeds the spell’s range.
 
-## Mage's Disjunction
+## Mage’s Disjunction
 
 -   Abjuration
 -   **Level:** Magic 9, Sor/Wiz 9
@@ -119,8 +119,8 @@ except for those that you carry or touch, are disjoined. That is, spells
 and spell-like effects are separated into their individual components
 (ending the effect as a *dispel magic* spell does), and each permanent
 magic item must make a successful Will save or be turned into a normal
-item. An item in a creature's possession uses its own Will save bonus or
-its possessor's Will save bonus, whichever is higher.
+item. An item in a creature’s possession uses its own Will save bonus or
+its possessor’s Will save bonus, whichever is higher.
 
 You also have a 1% chance per caster level of destroying an *antimagic
 field.* If the *antimagic field* survives the *disjunction,* no items
@@ -136,7 +136,7 @@ cannot be recovered by mortal magic, not even *miracle* or *wish*.)
 likely to attract the attention of some powerful being who has an
 interest in or connection with the device.
 
-## Mage's Faithful Hound
+## Mage’s Faithful Hound
 
 -   Conjuration (Creation)
 -   **Level:** Sor/Wiz 5
@@ -164,7 +164,7 @@ piercing damage) once per round. The dog also gets the bonuses
 appropriate to an invisible creature.
 
 The dog is considered ready to bite intruders, so it delivers its first
-bite on the intruder's turn. Its bite is the equivalent of a magic
+bite on the intruder’s turn. Its bite is the equivalent of a magic
 weapon for the purpose of damage reduction. The hound cannot be
 attacked, but it can be dispelled.
 
@@ -175,7 +175,7 @@ than 100 feet distant from the hound, the spell ends.
 *Material Component:* A tiny silver whistle, a piece of bone, and a
 thread.
 
-## Mage's Lucubration
+## Mage’s Lucubration
 
 -   Transmutation
 -   **Level:** Wiz 6
@@ -194,7 +194,7 @@ If the recalled spell requires material components, you must provide
 them. The recovered spell is not usable until the material components
 are available.
 
-## Mage's Magnificent Mansion
+## Mage’s Magnificent Mansion
 
 -   Conjuration (Creation)
 -   **Level:** Sor/Wiz 7
@@ -216,7 +216,7 @@ your own side at will. Once observers have passed beyond the entrance,
 they are in a magnificent foyer with numerous chambers beyond. The
 atmosphere is clean, fresh, and warm.
 
-You can create any floor plan you desire to the limit of the spell's
+You can create any floor plan you desire to the limit of the spell’s
 effect. The place is furnished and contains sufficient foodstuffs to
 serve a nine-course banquet to a dozen people per caster level. A staff
 of near-transparent servants (as many as two per caster level), liveried
@@ -231,7 +231,7 @@ to the plane beyond.
 *Focus:* A miniature portal carved from ivory, a small piece of polished
 marble, and a tiny silver spoon (each item worth 5 gp).
 
-## Mage's Private Sanctum
+## Mage’s Private Sanctum
 
 -   Abjuration
 -   **Level:** Sor/Wiz 5
@@ -258,13 +258,13 @@ wizard and her familiar.
 The spell does not prevent creatures or objects from moving into and out
 of the area.
 
-*Mage's private sanctum* can be made permanent with a *permanency*
+*Mage’s private sanctum* can be made permanent with a *permanency*
 spell.
 
 *Material Component:* A thin sheet of lead, a piece of opaque glass, a
 wad of cotton or cloth, and powdered chrysolite.
 
-## Mage's Sword
+## Mage’s Sword
 
 -   Evocation \[Force\]
 -   **Level:** Sor/Wiz 7
@@ -283,7 +283,7 @@ target once each round on your turn. Its attack bonus is equal to your
 caster level + your Int bonus or your Cha bonus (for wizards or
 sorcerers, respectively) with an additional +3 enhancement bonus. As a
 force effect, it can strike ethereal and incorporeal creatures. It deals
-4d6+3 points of force damage, with a threat range of 19--20 and a
+4d6+3 points of force damage, with a threat range of 19–20 and a
 critical multiplier of x2.
 
 The sword always strikes from your direction. It does not get a bonus
@@ -293,15 +293,15 @@ directing it, the sword returns to you and hovers.
 
 Each round after the first, you can use a standard action to switch the
 sword to a new target. If you do not, the sword continues to attack the
-previous round's target.
+previous round’s target.
 
 The sword cannot be attacked or harmed by physical attacks, but *dispel
 magic*, *disintegrate*, a *sphere of annihilation*, or a *rod of
-cancellation* affects it. The sword's AC is 13 (10, +0 size bonus for
+cancellation* affects it. The sword’s AC is 13 (10, +0 size bonus for
 Medium object, +3 deflection bonus).
 
 If an attacked creature has spell resistance, the resistance is checked
-the first time *Mage's sword* strikes it. If the sword is successfully
+the first time *Mage’s sword* strikes it. If the sword is successfully
 resisted, the spell is dispelled. If not, the sword has its normal full
 effect on that creature for the duration of the spell.
 
@@ -320,18 +320,18 @@ zinc. It costs 250 gp to construct.
 -   **Saving Throw:** None; see text
 -   **Spell Resistance:** No
 
-You alter an item's aura so that it registers to *detect* spells (and
+You alter an item’s aura so that it registers to *detect* spells (and
 spells with similar capabilities) as though it were nonmagical, or a
 magic item of a kind you specify, or the subject of a spell you specify.
 
 If the object bearing *magic aura* has *identify* cast on it or is
 similarly examined, the examiner recognizes that the aura is false and
-detects the object's actual qualities if he succeeds on a Will save.
+detects the object’s actual qualities if he succeeds on a Will save.
 Otherwise, he believes the aura and no amount of testing reveals what
 the true magic is.
 
-If the targeted item's own aura is exceptionally powerful (if it is an
-artifact, for instance), *magic aura* doesn't work.
+If the targeted item’s own aura is exceptionally powerful (if it is an
+artifact, for instance), *magic aura* doesn’t work.
 
 *Note:* A magic weapon, shield, or suit of armor must be a masterwork
 item, so a sword of average make, for example, looks suspicious if it
@@ -363,10 +363,10 @@ and it can imprison a nonlawful called creature.
 
 All creatures within the area gain the effects of a *protection from
 evil* spell, and no nongood summoned creatures can enter the area
-either. You must overcome a creature's spell resistance in order to keep
+either. You must overcome a creature’s spell resistance in order to keep
 it at bay (as in the third function of *protection from evil*), but the
 deflection and resistance bonuses and the protection from mental control
-apply regardless of enemies' spell resistance.
+apply regardless of enemies’ spell resistance.
 
 This spell has an alternative version that you may choose when casting
 it. A *magic circle against evil* can be focused inward rather than
@@ -375,7 +375,7 @@ outward. When focused inward, the spell binds a nongood called creature
 and *greater planar binding* spells) for a maximum of 24 hours per
 caster level, provided that you cast the spell that calls the creature
 within 1 round of casting the *magic circle*. The creature cannot cross
-the circle's boundaries. If a creature too large to fit into the spell's
+the circle’s boundaries. If a creature too large to fit into the spell’s
 area is the subject of the spell, the spell acts as a normal *protection
 from evil* spell for that creature only.
 
@@ -389,7 +389,7 @@ free, destroying the circle. A creature capable of any form of
 dimensional travel (*astral projection, blink, dimension door,
 etherealness, gate, plane shift, shadow walk, teleport,* and similar
 abilities) can simply leave the circle through that means. You can
-prevent the creature's extradimensional escape by casting a *dimensional
+prevent the creature’s extradimensional escape by casting a *dimensional
 anchor* spell on it, but you must cast the spell before the creature
 acts. If you are successful, the *anchor* effect lasts as long as the
 *magic circle* does. The creature cannot reach across the *magic
@@ -415,7 +415,7 @@ against a *magic circle* prepared with a diagram, and none of its
 abilities or attacks can cross the diagram. If the creature tries a
 Charisma check to break free of the trap (see the *lesser planar
 binding* spell), the DC increases by 5. The creature is immediately
-released if anything disturbs the diagram---even a straw laid across it.
+released if anything disturbs the diagram—even a straw laid across it.
 However, the creature itself cannot disturb the diagram either directly
 or indirectly, as noted above.
 
@@ -458,7 +458,7 @@ it can imprison a nonchaotic called creature.
 *Magic fang* gives one natural weapon of the subject a +1 enhancement
 bonus on attack and damage rolls. The spell can affect a slam attack,
 fist, bite, or other natural weapon. (The spell does not change an
-unarmed strike's damage from nonlethal damage to lethal damage.)
+unarmed strike’s damage from nonlethal damage to lethal damage.)
 
 *Magic fang* can be made permanent with a *permanency* spell.
 
@@ -474,7 +474,7 @@ This spell functions like *magic fang*, except that the enhancement
 bonus on attack and damage rolls is +1 per four caster levels (maximum
 +5).
 
-Alternatively, you may imbue all of the creature's natural weapons with
+Alternatively, you may imbue all of the creature’s natural weapons with
 a +1 enhancement bonus (regardless of your caster level).
 
 *Greater magic fang* can be made permanent with a *permanency* spell.
@@ -519,20 +519,20 @@ is determined randomly.
 
 Attempting to possess a body is a full-round action. It is blocked by
 *protection from evil* or a similar ward. You possess the body and force
-the creature's soul into the *magic jar* unless the subject succeeds on
+the creature’s soul into the *magic jar* unless the subject succeeds on
 a Will save. Failure to take over the host leaves your life force in the
 *magic jar,* and the target automatically succeeds on further saving
 throws if you attempt to possess its body again.
 
 If you are successful, your life force occupies the host body, and the
-host's life force is imprisoned in the *magic jar.* You keep your
+host’s life force is imprisoned in the *magic jar.* You keep your
 Intelligence, Wisdom, Charisma, level, class, base attack bonus, base
 save bonuses, alignment, and mental abilities. The body retains its
 Strength, Dexterity, Constitution, hit points, natural abilities, and
 automatic abilities. A body with extra limbs does not allow you to make
 more attacks (or more advantageous two-weapon attacks) than normal. You
-can't choose to activate the body's extraordinary or supernatural
-abilities. The creature's spells and spell-like abilities do not stay
+can’t choose to activate the body’s extraordinary or supernatural
+abilities. The creature’s spells and spell-like abilities do not stay
 with the body.
 
 As a standard action, you can shift freely from a host to the *magic
@@ -550,7 +550,7 @@ ends while you are in a host, you return to your body (or die, if it is
 out of range of your current position), and the soul in the *magic jar*
 returns to its body (or dies if it is out of range). Destroying the
 receptacle ends the spell, and the spell can be dispelled at either the
-*magic jar* or at the host's location.
+*magic jar* or at the host’s location.
 
 *Focus:* A gem or crystal worth at least 100 gp.
 
@@ -572,12 +572,12 @@ its target, dealing 1d4+1 points of force damage.
 
 The missile strikes unerringly, even if the target is in melee combat or
 has less than total cover or total concealment. Specific parts of a
-creature can't be singled out. Inanimate objects are not damaged by the
+creature can’t be singled out. Inanimate objects are not damaged by the
 spell.
 
 For every two caster levels beyond 1st, you gain an additional
-missile---two at 3rd level, three at 5th, four at 7th, and the maximum
-of five missiles at 9th level or higher. If you shoot multiple missiles,
+missile—two at 3rd level, three at 5th, four at 7th, and the maximum of
+five missiles at 9th level or higher. If you shoot multiple missiles,
 you can have them strike a single creature or several creatures. A
 single missile can strike only one creature. You must designate targets
 before you check for spell resistance or roll damage.
@@ -645,7 +645,7 @@ slung. If hurled, they have a range increment of 20 feet. If slung,
 treat them as sling bullets (range increment 50 feet). The spell gives
 them a +1 enhancement bonus on attack and damage rolls. The user of the
 stones makes a normal ranged attack. Each stone that hits deals 1d6+1
-points of damage (including the spell's enhancement bonus), or 2d6+2
+points of damage (including the spell’s enhancement bonus), or 2d6+2
 points against undead.
 
 ## Magic Vestment
@@ -680,10 +680,10 @@ for the purpose of this spell.
 
 *Magic weapon* gives a weapon a +1 enhancement bonus on attack and
 damage rolls. (An enhancement bonus does not stack with a masterwork
-weapon's +1 bonus on attack rolls.)
+weapon’s +1 bonus on attack rolls.)
 
-You can't cast this spell on a natural weapon, such as an unarmed strike
-(instead, see *magic fang*). A monk's unarmed strike is considered a
+You can’t cast this spell on a natural weapon, such as an unarmed strike
+(instead, see *magic fang*). A monk’s unarmed strike is considered a
 weapon, and thus it can be enhanced by this spell.
 
 ## Magic Weapon, Greater
@@ -725,15 +725,15 @@ create an object of mineral nature: stone, crystal, metal, or the like.
 The duration of the created item varies with its relative hardness and
 rarity, as indicated on the following table.
 
-  ----------------------------------------------------------------------------------------------------------------- ---------------
-  Hardness and Rarity Examples                                                                                      Duration
-  Vegetable matter                                                                                                  2 hr./level
-  Stone, crystal, base metals                                                                                       1 hr./level
-  Precious metals                                                                                                   20 min./level
-  Gems                                                                                                              10 min./level
-  Rare metal^1^                                                                                                     1 round/level
-  1 Includes adamantine, alchemical silver, and mithral. You can't use major creation to create a cold iron item.   
-  ----------------------------------------------------------------------------------------------------------------- ---------------
+|                                                                                                                 |               |
+|-----------------------------------------------------------------------------------------------------------------|---------------|
+| Hardness and Rarity Examples                                                                                    | Duration      |
+| Vegetable matter                                                                                                | 2 hr./level   |
+| Stone, crystal, base metals                                                                                     | 1 hr./level   |
+| Precious metals                                                                                                 | 20 min./level |
+| Gems                                                                                                            | 10 min./level |
+| Rare metal<sup>1</sup>                                                                                          | 1 round/level |
+| 1 Includes adamantine, alchemical silver, and mithral. You can’t use major creation to create a cold iron item. |               |
 
 ## Major Image
 
@@ -793,18 +793,18 @@ only if its caster level is equal to or higher than your *mark of
 justice* caster level. These restrictions apply regardless of whether
 the mark has activated.
 
-## Mass (Spell Name) {#mass}
+## Mass (Spell Name)
 
 -   Any spell whose name begins with *mass* is alphabetized in this
     chapter according to the second word of the spell name. Thus, the
     description of a *mass* spell appears near the description of the
     spell on which it is based. Spell chains that have *mass* spells in
-    them include those based on the spells *bear's endurance, bull's
-    strength, cat's grace, charm monster, cure critical wounds, cure
-    light wounds, cure moderate wounds, cure serious wounds, eagle's
-    splendor, enlarge person, fox's cunning, heal, hold monster, hold
+    them include those based on the spells *bear’s endurance, bull’s
+    strength, cat’s grace, charm monster, cure critical wounds, cure
+    light wounds, cure moderate wounds, cure serious wounds, eagle’s
+    splendor, enlarge person, fox’s cunning, heal, hold monster, hold
     person, inflict critical wounds, inflict light wounds, inflict
-    moderate wounds, inflict serious wounds, invisibility, owl's wisdom,
+    moderate wounds, inflict serious wounds, invisibility, owl’s wisdom,
     reduce person,* and *suggestion.*
 
 ## Maze
@@ -822,7 +822,7 @@ the mark has activated.
 You banish the subject into an extradimensional labyrinth of force
 planes. Each round on its turn, it may attempt a DC 20 Intelligence
 check to escape the labyrinth as a full-round action. If the subject
-doesn't escape, the maze disappears after 10 minutes, forcing the
+doesn’t escape, the maze disappears after 10 minutes, forcing the
 subject to leave.
 
 On escaping or leaving the maze, the subject reappears where it had been
@@ -856,11 +856,11 @@ stone. Nothing that goes on outside the stone can be seen, but you can
 still hear what happens around you. Minor physical damage to the stone
 does not harm you, but its partial destruction (to the extent that you
 no longer fit within it) expels you and deals you 5d6 points of damage.
-The stone's complete destruction expels you and slays you instantly
+The stone’s complete destruction expels you and slays you instantly
 unless you make a DC 18 Fortitude save.
 
 Any time before the duration expires, you can step out of the stone
-through the surface that you entered. If the spell's duration expires or
+through the surface that you entered. If the spell’s duration expires or
 the effect is dispelled before you voluntarily exit the stone, you are
 violently expelled and take 5d6 points of damage.
 
@@ -891,7 +891,7 @@ providing but one break exists.
 Ceramic or wooden objects with multiple breaks can be invisibly rejoined
 to be as strong as new. A hole in a leather sack or a wineskin is
 completely healed over by *mending.* The spell can repair a magic item,
-but the item's magical abilities are not restored. The spell cannot mend
+but the item’s magical abilities are not restored. The spell cannot mend
 broken magic rods, staffs, or wands, nor does it affect creatures
 (including constructs).
 
@@ -914,10 +914,10 @@ audible to all targeted creatures within range. Magical *silence,* 1
 foot of stone, 1 inch of common metal (or a thin sheet of lead), or 3
 feet of wood or dirt blocks the spell. The message does not have to
 travel in a straight line. It can circumvent a barrier if there is an
-open path between you and the subject, and the path's entire length lies
-within the spell's range. The creatures that receive the message can
+open path between you and the subject, and the path’s entire length lies
+within the spell’s range. The creatures that receive the message can
 whisper a reply that you hear. The spell transmits sound, not meaning.
-It doesn't transcend language barriers.
+It doesn’t transcend language barriers.
 
 *Note:* To speak a message, you must mouth the words and whisper,
 possibly allowing observers the opportunity to read your lips.
@@ -945,15 +945,15 @@ sparks.
 If you aim a sphere at a specific creature, you may make a ranged touch
 attack to strike the target with the meteor. Any creature struck by one
 of these spheres takes 2d6 points of bludgeoning damage (no save) and
-receives no saving throw against the sphere's fire damage (see below).
+receives no saving throw against the sphere’s fire damage (see below).
 If a targeted sphere misses its target, it simply explodes at the
-nearest corner of the target's space. You may aim more than one meteor
+nearest corner of the target’s space. You may aim more than one meteor
 at the same target.
 
 Once a sphere reaches its destination, it explodes in a 40-foot-radius
 spread, dealing 6d6 points of fire damage to each creature in the area.
 If a creature is within the area of more than one sphere, it must save
-separately against each. (Fire resistance applies to each sphere's
+separately against each. (Fire resistance applies to each sphere’s
 damage individually.)
 
 ## Mind Blank
@@ -973,9 +973,9 @@ influence, or read emotions or thoughts. This spell protects against all
 mind-affecting spells and effects as well as information gathering by
 divination spells or effects. *Mind blank* even foils *limited wish*,
 *miracle*, and *wish* spells when they are used in such a way as to
-affect the subject's mind or to gain information about it. In the case
+affect the subject’s mind or to gain information about it. In the case
 of scrying that scans an area the creature is in, such as *arcane eye,*
-the spell works but the creature simply isn't detected. Scrying attempts
+the spell works but the creature simply isn’t detected. Scrying attempts
 that are targeted specifically at the subject do not work at all.
 
 ## Mind Fog
@@ -991,11 +991,11 @@ that are targeted specifically at the subject do not work at all.
 -   **Spell Resistance:** Yes
 
 *Mind fog* produces a bank of thin mist that weakens the mental
-resistance of those caught in it. Creatures in the *mind fog* take a
---10 competence penalty on Wisdom checks and Will saves. (A creature
-that successfully saves against the fog is not affected and need not
-make further saves even if it remains in the fog.) Affected creatures
-take the penalty as long as they remain in the fog and for 2d6 rounds
+resistance of those caught in it. Creatures in the *mind fog* take a –10
+competence penalty on Wisdom checks and Will saves. (A creature that
+successfully saves against the fog is not affected and need not make
+further saves even if it remains in the fog.) Affected creatures take
+the penalty as long as they remain in the fog and for 2d6 rounds
 thereafter. The fog is stationary and lasts for 30 minutes (or until
 dispersed by wind).
 
@@ -1049,7 +1049,7 @@ includes some minor sounds but not understandable speech.
 -   **Saving Throw:** See text
 -   **Spell Resistance:** Yes
 
-You don't so much cast a *miracle* as request one. You state what you
+You don’t so much cast a *miracle* as request one. You state what you
 would like to have happen and request that your deity (or the power you
 pray to for spells) intercede.
 
@@ -1095,8 +1095,8 @@ A *miracle* can do any of the following things.
 -   Protecting a city from an earthquake, volcanic eruption, flood, or
     other major natural disaster.
 
-In any event, a request that is out of line with the deity's (or
-alignment's) nature is refused.
+In any event, a request that is out of line with the deity’s (or
+alignment’s) nature is refused.
 
 A duplicated spell allows saving throws and spell resistance as normal,
 but the save DCs are as for a 9th-level spell. When a *miracle*
@@ -1119,7 +1119,7 @@ This spell functions like *hallucinatory terrain*, except that it
 enables you to make any area appear to be something other than it is.
 The illusion includes audible, visual, tactile, and olfactory elements.
 Unlike *hallucinatory terrain,* the spell can alter the appearance of
-structures (or add them where none are present). Still, it can't
+structures (or add them where none are present). Still, it can’t
 disguise, conceal, or add creatures (though creatures within the area
 might hide themselves within the illusion just as they can hide
 themselves within a real location).
@@ -1142,7 +1142,7 @@ and disappear when struck.
 (maximum eight images total). These figments separate from you and
 remain in a cluster, each within 5 feet of at least one other figment or
 you. You can move into and through a *mirror image.* When you and the
-*mirror image* separate, observers can't use vision or hearing to tell
+*mirror image* separate, observers can’t use vision or hearing to tell
 which one is you and which the image. The figments may also move through
 each other. The figments mimic your actions, pretending to cast spells
 when you cast a spell, drink potions when you drink a potion, levitate
@@ -1151,9 +1151,9 @@ when you levitate, and so on.
 Enemies attempting to attack you or cast spells at you must select from
 among indistinguishable targets. Generally, roll randomly to see whether
 the selected target is real or a figment. Any successful attack against
-an image destroys it. An image's AC is 10 + your size modifier + your
+an image destroys it. An image’s AC is 10 + your size modifier + your
 Dex modifier. Figments seem to react normally to area spells (such as
-looking like they're burned or dead after being hit by a *fireball*).
+looking like they’re burned or dead after being hit by a *fireball*).
 
 While moving, you can merge with and split off from figments so that
 enemies who have learned which image is real are again confounded.
@@ -1208,7 +1208,7 @@ appears. You are then free to go elsewhere while your double moves away.
 The double appears within range but thereafter moves as you direct it
 (which requires concentration beginning on the first round after the
 casting). You can make the figment appear superimposed perfectly over
-your own body so that observers don't notice an image appearing and you
+your own body so that observers don’t notice an image appearing and you
 turning invisible. You and the figment can then move in different
 directions. The double moves at your speed and can talk and gesture as
 if it were real, but it cannot attack or cast spells, though it can
@@ -1246,7 +1246,7 @@ In either event, the spell or spells prepared or retained fade after 24
 hours (if not cast).
 
 *Material Component:* A piece of string, and ink consisting of squid
-secretion with black dragon's blood.
+secretion with black dragon’s blood.
 
 *Focus:* An ivory plaque of at least 50 gp value.
 
@@ -1262,7 +1262,7 @@ secretion with black dragon's blood.
 -   **Saving Throw:** Will negates
 -   **Spell Resistance:** Yes
 
-You reach into the subject's mind and modify as many as 5 minutes of its
+You reach into the subject’s mind and modify as many as 5 minutes of its
 memories in one of the following ways.
 
 -   Eliminate all memory of an event the subject actually experienced.
@@ -1278,10 +1278,10 @@ proceed with the spell by spending as much as 5 minutes (a period of
 time equal to the amount of memory time you want to modify) visualizing
 the memory you wish to modify in the subject. If your concentration is
 disturbed before the visualization is complete, or if the subject is
-ever beyond the spell's range during this time, the spell is lost.
+ever beyond the spell’s range during this time, the spell is lost.
 
-A modified memory does not necessarily affect the subject's actions,
-particularly if it contradicts the creature's natural inclinations. An
+A modified memory does not necessarily affect the subject’s actions,
+particularly if it contradicts the creature’s natural inclinations. An
 illogical modified memory is dismissed by the creature as a bad dream or
 a memory muddied by too much wine.
 
@@ -1296,16 +1296,16 @@ a memory muddied by too much wine.
 -   **Duration:** 1 hour/level or until discharged
 
 This spell grants you a powerful sixth sense in relation to yourself.
-Once during the spell's duration, you may choose to use its effect. This
+Once during the spell’s duration, you may choose to use its effect. This
 spell grants you an insight bonus equal to your caster level (maximum
 +25) on any single attack roll, opposed ability or skill check, or
 saving throw. Alternatively, you can apply the insight bonus to your AC
 against a single attack (even if flatfooted). Activating the effect
-doesn't take an action; you can even activate it on another character's
+doesn’t take an action; you can even activate it on another character’s
 turn if needed. You must choose to use the *moment of prescience* before
 you make the roll it is to modify. Once used, the spell ends.
 
-You can't have more than one *moment of prescience* active on you at the
+You can’t have more than one *moment of prescience* active on you at the
 same time.
 
 ## Mount
@@ -1378,16 +1378,15 @@ You detoxify any sort of venom in the creature or object touched. A
 poisoned creature suffers no additional effects from the poison, and any
 temporary effects are ended, but the spell does not reverse
 instantaneous effects, such as hit point damage, temporary ability
-damage, or effects that don't go away on their own.
+damage, or effects that don’t go away on their own.
 
 The creature is immune to any poison it is exposed to during the
-duration of the spell. Unlike with *delay poison*, such effects aren't
-postponed until after the duration ---the creature need not make any
-saves against poison effects applied to it during the length of the
-spell.
+duration of the spell. Unlike with *delay poison*, such effects aren’t
+postponed until after the duration —the creature need not make any saves
+against poison effects applied to it during the length of the spell.
 
 This spell can instead neutralize the poison in a poisonous creature or
-object for the duration of the spell, at the caster's option.
+object for the duration of the spell, at the caster’s option.
 
 *Arcane Material Component:* A bit of charcoal.
 
@@ -1413,21 +1412,21 @@ spells for the next 24 hours.
 The difficulty of the save depends on how well you know the subject and
 what sort of physical connection (if any) you have to that creature.
 
-  --------------------------------------------------------------------------------- --------------------
-  Knowledge                                                                         Will Save Modifier
-  None^1^                                                                           +10
-  Secondhand (you have heard of the subject)                                        +5
-  Firsthand (you have met the subject)                                              +0
-  Familiar (you know the subject well)                                              --5
-  1 You must have some sort of connection to a creature you have no knowledge of.   
-  --------------------------------------------------------------------------------- --------------------
+|                                                                                 |                    |
+|---------------------------------------------------------------------------------|--------------------|
+| Knowledge                                                                       | Will Save Modifier |
+| None<sup>1</sup>                                                                | +10                |
+| Secondhand (you have heard of the subject)                                      | +5                 |
+| Firsthand (you have met the subject)                                            | +0                 |
+| Familiar (you know the subject well)                                            | –5                 |
+| 1 You must have some sort of connection to a creature you have no knowledge of. |                    |
 
-  -------------------------------------------- --------------------
-  Connection                                   Will Save Modifier
-  Likeness or picture                          --2
-  Possession or garment                        --4
-  Body part, lock of hair, bit of nail, etc.   --10
-  -------------------------------------------- --------------------
+|                                            |                    |
+|--------------------------------------------|--------------------|
+| Connection                                 | Will Save Modifier |
+| Likeness or picture                        | –2                 |
+| Possession or garment                      | –4                 |
+| Body part, lock of hair, bit of nail, etc. | –10                |
 
 *Dispel evil* cast on the subject while you are casting the spell
 dispels the *nightmare* and causes you to be stunned for 10 minutes per
@@ -1445,7 +1444,7 @@ or the activities around you while in the trance.
 You are defenseless, both physically and mentally, while in the trance.
 (You always fail any saving throw, for example.)
 
-Creatures who don't sleep (such as elves, but not half-elves) or dream
+Creatures who don’t sleep (such as elves, but not half-elves) or dream
 are immune to this spell.
 
 ## Nondetection
@@ -1470,7 +1469,7 @@ spellcaster who cast *nondetection*. If you cast *nondetection* on
 yourself or on an item currently in your possession, the DC is 15 + your
 caster level.
 
-If cast on a creature, *nondetection* wards the creature's gear as well
+If cast on a creature, *nondetection* wards the creature’s gear as well
 as the creature itself.
 
 *Material Component:* A pinch of diamond dust worth 50 gp.
@@ -1516,12 +1515,12 @@ attacker cannot use sight to locate the target).
 A moderate wind (11+ mph), such as from a *gust of wind* spell,
 disperses the fog in 4 rounds. A strong wind (21+ mph) disperses the fog
 in 1 round. A *fireball, flame strike*, or similar spell burns away the
-fog in the explosive or fiery spell's area. A *wall of fire* burns away
+fog in the explosive or fiery spell’s area. A *wall of fire* burns away
 the fog in the area into which it deals damage.
 
 This spell does not function underwater.
 
-## Open/Close {#open-close}
+## Open/Close
 
 -   Transmutation
 -   **Level:** Brd 0, Sor/Wiz 0
@@ -1539,11 +1538,11 @@ pouch, bottle, barrel, or other container. If anything resists this
 activity (such as a bar on a door or a lock on a chest), the spell
 fails. In addition, the spell can only open and close things weighing 30
 pounds or less. Thus, doors, chests, and similar objects sized for
-enormous creatures may be beyond this spell's ability to affect.
+enormous creatures may be beyond this spell’s ability to affect.
 
 *Focus:* A brass key.
 
-## Order's Wrath
+## Order’s Wrath
 
 -   Evocation \[Lawful\]
 -   **Level:** Law 4
@@ -1587,7 +1586,7 @@ nonlethal damage (a forced march still requires Constitution checks).
 This means you can cover 64 miles in an eight-hour period of flight (or
 48 miles at a speed of 30 feet).
 
-## Owl's Wisdom
+## Owl’s Wisdom
 
 -   Transmutation
 -   **Level:** Clr 2, Drd 2, Pal 2, Rgr 2, Sor/Wiz 2
@@ -1602,14 +1601,14 @@ This means you can cover 64 miles in an eight-hour period of flight (or
 The transmuted creature becomes wiser. The spell grants a +4 enhancement
 bonus to Wisdom, adding the usual benefit to Wisdom-related skills.
 Clerics, druids, paladins, and rangers (and other Wisdom-based
-spellcasters) who receive *owl's wisdom* do not gain any additional
+spellcasters) who receive *owl’s wisdom* do not gain any additional
 bonus spells for the increased Wisdom, but the save DCs for their spells
 increase.
 
 *Arcane Material Component:* A few feathers, or a pinch of droppings,
 from an owl.
 
-## Owl's Wisdom, Mass
+## Owl’s Wisdom, Mass
 
 -   Transmutation
 -   **Level:** Clr 6, Drd 6, Sor/Wiz 6
@@ -1617,5 +1616,5 @@ from an owl.
 -   **Target:** One creature/level, no two of which can be more than 30
     ft. apart
 
-This spell functions like *owl's wisdom*, except that it affects
+This spell functions like *owl’s wisdom*, except that it affects
 multiple creatures.

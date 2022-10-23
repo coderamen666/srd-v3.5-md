@@ -1,9 +1,9 @@
 # Revised (v.3.5) System Reference Document
 
-Github Repository: <https://github.com/olimot/srd-v3.5>\
+Github Repository: <https://github.com/olimot/srd-v3.5>  
 Original Documents:
-<http://www.wizards.com/default.asp?x=d20/article/srd35>\
-Archive: <https://archive.org/details/dnd35srd>\
+<http://www.wizards.com/default.asp?x=d20/article/srd35>  
+Archive: <https://archive.org/details/dnd35srd>  
 
 The System Reference Document is a comprehensive toolbox consisting of
 rules, races, classes, feats, skills, various systems, spells, magic

@@ -221,7 +221,7 @@ order to select or use that feat. A character can gain an epic feat at
 the same level at which he or she gains the prerequisite, just as with
 regular feats. A prerequisite expressed as a numerical value is a
 minimum; any value higher than the one given also meets the
-prerequisite. A character can't use an epic feat if he or she has lost a
+prerequisite. A character can’t use an epic feat if he or she has lost a
 prerequisite.
 
 ## Types of Epic Feats
@@ -229,7 +229,7 @@ prerequisite.
 Most epic feats are general, meaning that no special rules govern them
 as a group. Others may be item creation feats or metamagic feats, which
 follow all the normal rules for such feats, except as specified in the
-feat's description. In addition, some feats are defined as divine feats
+feat’s description. In addition, some feats are defined as divine feats
 or as wild feats. Such feats are described below.
 
 ### Divine Feats
@@ -242,8 +242,8 @@ creatures does not qualify a character to select one of these feats.)
 Second, the force that powers a divine feat is the ability to channel
 positive or negative energy to turn or rebuke undead. Each use of a
 divine feat costs the character one turn/rebuke attempt from his or her
-number of attempts each day. If a character doesn't have any turn/rebuke
-attempts left, he or she can't use the feat. Since turning or rebuking
+number of attempts each day. If a character doesn’t have any turn/rebuke
+attempts left, he or she can’t use the feat. Since turning or rebuking
 is a standard action, activating any of these feats is also a standard
 action.
 
@@ -256,24 +256,24 @@ feat.
 
 ### Epic Psionic Feats
 
-Psionic characters can acquire epic "psionically flavored" feats. Some
+Psionic characters can acquire epic “psionically flavored” feats. Some
 feats require so much translation that converted feats are provided.
 Whenever a feat concerns conferring or altering a spell in some fashion,
 some translation must be done to use it with psionics. Sometimes this
 translation is as straightforward as changing a few names. Translating
 epic metamagic feats to epic metapsionic feats requires that Spellcraft
 prerequisites be replaced with Psicraft. It also requires a little
-math---instead of casting a spell at a higher level, a psionic character
+math—instead of casting a spell at a higher level, a psionic character
 pays more power points. For every spell slot one level higher than the
-spell's actual level the metamagic feat requires, the metapsionic feat
+spell’s actual level the metamagic feat requires, the metapsionic feat
 requires a character to pay a power point cost equal to its standard
-cost +2. Likewise, when a feat allows a spellcaster to "pay" one less
+cost +2. Likewise, when a feat allows a spellcaster to “pay” one less
 level to use a metamagic feat, the psionic version allows a character to
 pay 2 power points less for a given metapsionic feat.
 
 ## Feats
 
-### Additional Magic Item Space [\[Epic\]]{.small} {#additional-magic-item-space}
+### Additional Magic Item Space <span class="small">\[Epic\]</span>
 
 **Benefit:** Choose one type of magic item that has a limit on the
 number a character can simultaneously wear and gain its benefit. The
@@ -291,7 +291,7 @@ belt; and one pair of boots.
 the character takes the feat, it applies to a new type of wearable magic
 item.
 
-### Armor Skin [\[Epic\]]{.small} {#armor-skin}
+### Armor Skin <span class="small">\[Epic\]</span>
 
 **Benefit:** The character gains a +1 natural armor bonus to Armor
 Class, or his or her existing natural armor bonus increases by 1.
@@ -299,7 +299,7 @@ Class, or his or her existing natural armor bonus increases by 1.
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Augmented Alchemy [\[Epic\]]{.small} {#augmented-alchemy}
+### Augmented Alchemy <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Int 21, Craft(alchemy) 24 ranks.
 
@@ -307,14 +307,14 @@ stack.
 character can choose to make it more powerful than normal by adding +20
 to the DC required to create it and multiplying its price by 5. If the
 item or substance deals damage, double the damage dealt. If the item or
-substance doesn't deal damage, double the duration of its effect. If the
-item or substance doesn't deal damage and doesn't have a specific listed
+substance doesn’t deal damage, double the duration of its effect. If the
+item or substance doesn’t deal damage and doesn’t have a specific listed
 duration (or has an instantaneous duration), double all dimensions of
-its area. If the item or substance doesn't fit any of these categories,
+its area. If the item or substance doesn’t fit any of these categories,
 then it cannot be affected by this feat. See the Craft (alchemy) skill
 description.
 
-### Automatic Quicken Spell [\[Epic\]]{.small} {#automatic-quicken-spell}
+### Automatic Quicken Spell <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Quicken Spell, Spellcraft 30 ranks, ability to cast
 9th-level arcane or divine spells.
@@ -323,15 +323,15 @@ description.
 spells as quickened spells without using higher-level spell slots. The
 normal limit to the number of quickened spells a character may cast per
 round applies. Spells with a casting time of more than 1 full round
-can't be quickened.
+can’t be quickened.
 
 **Special:** A character can gain this feat multiple times. Each time a
 character takes the feat, the spells of his or her next three lowest
 spell levels can now be quickened with no adjustment to their spell
-slots. This feat doesn't increase the casting time for those spells that
+slots. This feat doesn’t increase the casting time for those spells that
 normally become full-round actions when cast in metamagic form.
 
-### Automatic Silent Spell [\[Epic\]]{.small} {#automatic-silent-spell}
+### Automatic Silent Spell <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Silent Spell, Spellcraft 24 ranks, ability to cast
 9th-level arcane or divine spells.
@@ -342,12 +342,12 @@ spells as silent spells without using higher-level spell slots.
 **Special:** A character can gain this feat multiple times. Each time a
 character takes the feat, the spells of his or her next three lowest
 spell levels can now be silenced with no adjustment to their spell
-slots. This feat doesn't increase the casting time for those spells that
+slots. This feat doesn’t increase the casting time for those spells that
 normally become full-round actions when cast in metamagic form. However,
-since bard spells can't be enhanced with the Silent Spell feat, they
-can't be affected by this feat either.
+since bard spells can’t be enhanced with the Silent Spell feat, they
+can’t be affected by this feat either.
 
-### Automatic Still Spell [\[Epic\]]{.small} {#automatic-still-spell}
+### Automatic Still Spell <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Still Spell, Spellcraft 27 ranks, ability to cast
 9th-level arcane or divine spells.
@@ -358,19 +358,19 @@ spells as stilled spells without using higher-level spell slots.
 **Special:** A character can gain this feat multiple times. Each time a
 character takes the feat, the spells of his or her next three lowest
 spell levels can now be stilled with no adjustment to their spell slots.
-This feat doesn't increase the casting time for those spells that
+This feat doesn’t increase the casting time for those spells that
 normally become full-round actions when cast in metamagic form.
 
-### Bane of Enemies [\[Epic\]]{.small} {#bane-of-enemies}
+### Bane of Enemies <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Survival 24 ranks, five or more favored enemies.
 
 **Benefit:** Any weapon the character wields against one of his or her
 favored enemies is treated as a bane weapon for that creature type
 (thus, its enhancement bonus is increased by +2 and it deals +2d6 points
-of damage). This ability doesn't stack with similar abilities.
+of damage). This ability doesn’t stack with similar abilities.
 
-### Blinding Speed [\[Epic\]]{.small} {#blinding-speed}
+### Blinding Speed <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Dex 25.
 
@@ -382,26 +382,26 @@ this power is a free action.
 or she takes the feat, it grants an additional 5 rounds of *haste* per
 day.
 
-### Bonus Domain [\[Epic\]]{.small} {#bonus-domain}
+### Bonus Domain <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Wis 21, ability to cast 9th-level divine spells.
 
-**Benefit:** Choose an additional domain from the character's deity's
-domain list. The character now has access to that domain's spells as
-normal for his or her domain spells and the domain's granted powers.
+**Benefit:** Choose an additional domain from the character’s deity’s
+domain list. The character now has access to that domain’s spells as
+normal for his or her domain spells and the domain’s granted powers.
 
 **Special:** A character can gain this feat multiple times. Each time he
 or she takes the feat, it applies to a different domain.
 
-### Bulwark of Defense [\[Epic\]]{.small} {#bulwark-of-defense}
+### Bulwark of Defense <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Con 25, defensive stance 3/day.
 
-**Benefit:** The character's defensive stance bonuses increase to +4
+**Benefit:** The character’s defensive stance bonuses increase to +4
 Strength, +6 Constitution, +4 resistance bonus on all saves, and +6
 dodge bonus to AC.
 
-### Chaotic Rage [\[Epic\]]{.small} {#chaotic-rage}
+### Chaotic Rage <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Rage 5/day, chaotic alignment.
 
@@ -410,7 +410,7 @@ as an anarchic weapon (it is chaos-aligned and deals an extra 2d6 points
 of damage against creatures of lawful alignment). This ability does not
 stack with similar abilities.
 
-### Colossal Wild Shape [\[Wild\]\[Epic\]]{.small} {#colossal-wild-shape}
+### Colossal Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisite:** The ability to *wild shape* into a Gargantuan
 creature.
@@ -421,7 +421,7 @@ shape of a Colossal animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal of greater than Huge size.
 
-### Combat Archery [\[Epic\]]{.small} {#combat-archery}
+### Combat Archery <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dodge, Mobility, Point Blank Shot.
 
@@ -432,7 +432,7 @@ firing a bow when threatened.
 opportunity from all opponents who threaten him or her whenever he or
 she uses a bow.
 
-### Craft Epic Magic Arms and Armor [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-magic-arms-and-armor}
+### Craft Epic Magic Arms and Armor <span class="small">\[Item Creation\]\[Epic\]</span>
 
 **Prerequisites:** Craft Magic Arms and Armor, Knowledge (arcana) 28
 ranks, Spellcraft 28 ranks.
@@ -440,7 +440,7 @@ ranks, Spellcraft 28 ranks.
 **Benefit:** The character can craft magic arms and armor which exceed
 the normal limits for such items
 
-### Craft Epic Rod [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-rod}
+### Craft Epic Rod <span class="small">\[Item Creation\]\[Epic\]</span>
 
 **Prerequisites:** Craft Rod, Knowledge (arcana) 32 ranks, Spellcraft 32
 ranks.
@@ -448,7 +448,7 @@ ranks.
 **Benefit:** The character can craft rods that exceed the normal limits
 for such items.
 
-### Craft Epic Staff [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-staff}
+### Craft Epic Staff <span class="small">\[Item Creation\]\[Epic\]</span>
 
 **Prerequisites:** Craft Staff, Knowledge (arcana) 35 ranks, Spellcraft
 35 ranks.
@@ -456,7 +456,7 @@ for such items.
 **Benefit:** The character can craft staffs that exceed the normal
 limits for such items.
 
-### Craft Epic Wondrous Item [\[Item Creation\]\[Epic\]]{.small} {#craft-epic-wondrous-item}
+### Craft Epic Wondrous Item <span class="small">\[Item Creation\]\[Epic\]</span>
 
 **Prerequisites:** Craft Wondrous Item, Knowledge (arcana) 26 ranks,
 Spellcraft 26 ranks.
@@ -464,11 +464,11 @@ Spellcraft 26 ranks.
 **Benefit:** The character can craft wondrous items that exceed the
 normal limits for such items.
 
-### Damage Reduction [\[Epic\]]{.small} {#damage-reduction}
+### Damage Reduction <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Con 21.
 
-**Benefit:** The character gains damage reduction 3/--. This does not
+**Benefit:** The character gains damage reduction 3/–. This does not
 stack with damage reduction granted by magic items or nonpermanent
 magical effects, but it does stack with any damage reduction granted by
 permanent magical effects, class features, or this feat itself.
@@ -476,36 +476,36 @@ permanent magical effects, class features, or this feat itself.
 **Special:** A character can gain this feat multiple times. Each time he
 or she gains the feat, his or her damage reduction increases by 3.
 
-### Deafening Song [\[Epic\]]{.small} {#deafening-song}
+### Deafening Song <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Perform 24 ranks, bardic music class feature.
 
 **Benefit:** The character can use song or poetics to temporarily deafen
 all enemies within a 30-foot spread from him or her. A successful
-Fortitude save (DC 10 + 1/2 the character's class level + the
-character's Charisma modifier) negates the effect. The deafening effect
+Fortitude save (DC 10 + 1/2 the character’s class level + the
+character’s Charisma modifier) negates the effect. The deafening effect
 lasts for as long as the character continues the deafening song. The
 character can choose to exclude any characters from this effect. The
 character may sing, play, or recite a deafening song while taking other
-mundane actions, but not magical ones (see the bard's inspire courage
+mundane actions, but not magical ones (see the bard’s inspire courage
 ability for more details). The character may keep up the deafening song
 for a maximum of 10 rounds. Using the deafening song counts as one of
-the character's uses of song or poetics for the day.
+the character’s uses of song or poetics for the day.
 
-### Death of Enemies [\[Epic\]]{.small} {#death-of-enemies}
+### Death of Enemies <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Bane of Enemies, Survival 30 ranks, five or more
 favored enemies.
 
 **Benefit:** Any time the character scores a critical hit against one of
 his or her favored enemies, it must make a Fortitude save (DC 10 + 1/2
-character's ranger class level + character's Wisdom modifier) or die
+character’s ranger class level + character’s Wisdom modifier) or die
 instantly.
 
-**Special:** Creatures immune to critical hits can't be affected by this
+**Special:** Creatures immune to critical hits can’t be affected by this
 feat.
 
-### Devastating Critical [\[Epic\]]{.small} {#devastating-critical}
+### Devastating Critical <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Str 25, Cleave, Great Cleave, Improved Critical
 (chosen weapon), Overwhelming Critical (chosen weapon), Power Attack,
@@ -513,14 +513,14 @@ Weapon Focus (chosen weapon).
 
 **Benefit:** Whenever the character scores a critical hit with the
 chosen weapon, the target must make a Fortitude save (DC 10 + 1/2
-character level + character's Strength modifier) or die instantly.
-(Creatures immune to critical hits can't be affected by this feat.)
+character level + character’s Strength modifier) or die instantly.
+(Creatures immune to critical hits can’t be affected by this feat.)
 
 **Special:** A character can gain this feat multiple times. Its effects
 do not stack. Each time a character takes the feat, it applies to a
 different type of weapon.
 
-### Dexterous Fortitude [\[Epic\]]{.small} {#dexterous-fortitude}
+### Dexterous Fortitude <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 25, slippery mind class feature.
 
@@ -528,7 +528,7 @@ different type of weapon.
 Fortitude saving throw, the character may make a Reflex save instead to
 avoid the effect (evasion is not applicable).
 
-### Dexterous Will [\[Epic\]]{.small} {#dexterous-will}
+### Dexterous Will <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 25, slippery mind class feature.
 
@@ -536,7 +536,7 @@ avoid the effect (evasion is not applicable).
 Will saving throw, the character may make a Reflex save instead to avoid
 the effect (evasion is not applicable).
 
-### Diminutive Wild Shape [\[Wild\]\[Epic\]]{.small} {#diminutive-wild-shape}
+### Diminutive Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisite:** Ability to *wild shape* into a Huge animal.
 
@@ -546,7 +546,7 @@ Diminutive animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal of smaller than Tiny size.
 
-### Dire Charge [\[Epic\]]{.small} {#dire-charge}
+### Dire Charge <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Improved Initiative.
 
@@ -557,73 +557,73 @@ it), he or she can make a full attack against the opponent charged.
 **Normal:** Without this feat, a character may only make a single attack
 as part of a charge.
 
-### Distant Shot [\[Epic\]]{.small} {#distant-shot}
+### Distant Shot <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 25, Far Shot, Point Blank Shot, Spot 20 ranks.
 
 **Benefit:** The character may throw or fire a ranged weapon at any
 target within line of sight, with no penalty for range.
 
-### Dragon Wild Shape [\[Wild\]\[Epic\]]{.small} {#dragon-wild-shape}
+### Dragon Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisites:** Wis 30, Knowledge (nature) 30 ranks, *wild shape*
 6/day.
 
 **Benefit:** The character may use *wild shape* to change into a dragon
 (black, blue, green, red, white, brass, bronze, copper, gold, or
-silver). The size limitation is the same as the character's limitation
+silver). The size limitation is the same as the character’s limitation
 on animal size. The character gains all extraordinary and supernatural
 abilities of the dragon whose form he or she takes.
 
-### Efficient Item Creation [\[Epic\]]{.small} {#efficient-item-creation}
+### Efficient Item Creation <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Item creation feat to be selected, Knowledge (arcana)
 24 ranks, Spellcraft 24 ranks.
 
 **Benefit:** Select an item creation feat. Creating a magic item using
-that feat requires one day per 10,000 gp of the item's market price,
+that feat requires one day per 10,000 gp of the item’s market price,
 with a minimum of one day.
 
 **Normal:** Without this feat, creating a magic item requires one day
-for each 1,000 gp of the item's market price.
+for each 1,000 gp of the item’s market price.
 
 **Special:** A character can gain this feat multiple times. Its effects
 do not stack. Each time a character takes the feat, it applies to a
 different item creation feat.
 
-### Energy Resistance [\[Epic\]]{.small} {#energy-resistance}
+### Energy Resistance <span class="small">\[Epic\]</span>
 
 **Benefit:** Choose a type of energy (acid, cold, electricity, fire, or
 sonic). The character gains resistance 10 to that type of energy, or the
-character's existing resistance to that type of energy increases by 10.
+character’s existing resistance to that type of energy increases by 10.
 This feat does not stack with energy resistance granted by magic items
 or nonpermanent magical effects.
 
 **Special:** A character can gain this feat multiple times. If the same
 type of energy is chosen, the effects stack.
 
-### Enhance Spell [\[Metamagic\]\[Epic\]]{.small} {#enhance-spell}
+### Enhance Spell <span class="small">\[Metamagic\]\[Epic\]</span>
 
 **Prerequisite:** Maximize Spell.
 
-**Benefit:** The damage cap for the character's spells increases by 10
+**Benefit:** The damage cap for the character’s spells increases by 10
 dice (for spells that deal a number of dice of damage equal to caster
 level) or by 5 dice (for spells that deal a number of dice of damage
 equal to half caster level). An enhanced spell uses up a spell slot four
-levels higher than the spell's actual level. This feat has no effect on
-spells that don't specifically deal a number of dice of damage equal to
-the caster's level or half level, even if the spell's effect is largely
-dictated by the caster's level.
+levels higher than the spell’s actual level. This feat has no effect on
+spells that don’t specifically deal a number of dice of damage equal to
+the caster’s level or half level, even if the spell’s effect is largely
+dictated by the caster’s level.
 
 **Normal:** Without this feat, use the damage dice caps indicated in the
-spell's description.
+spell’s description.
 
 **Special:** A character may gain this feat multiple times. Each time he
 or she selects this feat, the damage cap increases by 10 dice or 5 dice,
 as appropriate to the spell, and the enhanced spell takes up a spell
 slot an additional four levels higher.
 
-### Epic Dodge [\[Epic\]]{.small} {#epic-dodge}
+### Epic Dodge <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 25, Dodge, Tumble 30 ranks, improved evasion,
 defensive roll class feature.
@@ -632,7 +632,7 @@ defensive roll class feature.
 the character has designated as the object of his or her dodge, the
 character may automatically avoid all damage from the attack.
 
-### Epic Endurance [\[Epic\]]{.small} {#epic-endurance}
+### Epic Endurance <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Con 25, Endurance.
 
@@ -640,7 +640,7 @@ character may automatically avoid all damage from the attack.
 physical action that extends over a period of time, he or she gets a +10
 bonus on the check.
 
-### Epic Expanded Knowledge [\[Epic, Psionic\]]{.small} {#epic-expanded-knowledge}
+### Epic Expanded Knowledge <span class="small">\[Epic, Psionic\]</span>
 
 You learn another power.
 
@@ -649,30 +649,30 @@ the normal maximum power level in at least one psionic class.
 
 **Benefit:** You learn one additional power at any level up to the
 highest level of power you can manifest. You can choose any power, even
-one that is part of another discipline's list or another class's list.
+one that is part of another discipline’s list or another class’s list.
 
 **Special:** You can gain this feat multiple times. Each time, you learn
 one new power at any level up to the highest level of power you can
 manifest.
 
-### Epic Fortitude[\[Epic\]]{.small} {#epic-fortitude}
+### Epic Fortitude<span class="small">\[Epic\]</span>
 
 **Benefit:** The character gains a +4 bonus on all Fortitude saving
 throws.
 
-### Epic Inspiration [\[Epic\]]{.small} {#epic-inspiration}
+### Epic Inspiration <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Cha 25, Perform 30 ranks, bardic music class feature.
 
 **Benefit:** All competence bonuses, dodge bonuses, and morale bonuses
-granted by the character's bardic music ability increase by +1. If you
+granted by the character’s bardic music ability increase by +1. If you
 have the inspire greatness bardic music ability, it grants one
 additional bonus HD.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Epic Leadership [\[Epic\]]{.small} {#epic-leadership}
+### Epic Leadership <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Cha 25, Leadership, Leadership score 25.
 
@@ -683,43 +683,43 @@ functions as the Leadership feat.
 **Normal:** The Leadership feat provides no benefit for leadership
 scores beyond 25.
 
-  ------------------ -------------- -------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ----- ----- ----- ----- ----- ----- ----- ------
-  Leadership Score   Cohort Level                                                                          []{style="                                                                                                                        
-                                                                                                                display: block;                                                                                                              
-                                                                                                              position: absolute;                                                                                                            
-                                                                                                                   right: 0;                                                                                                                 
-                                                                                                                   top: 50%;                                                                                                                 
-                                                                                                                   left: 0px;                                                                                                                
-                                                                                                      border-top: 1px solid currentColor;                                                                                                    
-                                                   "}[Number of Followers by Level ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                                                  
-                                                                                                              1st                                                                             2nd   3rd   4th   5th   6th   7th   8th   9th   10th
-  25                 17th                                                                                     135                                                                             13     7     4     2     2     1    ---   ---   ---
-  26                 18th                                                                                     160                                                                             16     8     4     2     2     1    ---   ---   ---
-  27                 18th                                                                                     190                                                                             19    10     5     3     2     1    ---   ---   ---
-  28                 19th                                                                                     220                                                                             22    11     6     3     2     1    ---   ---   ---
-  29                 19th                                                                                     260                                                                             26    13     7     4     2     1    ---   ---   ---
-  30                 20th                                                                                     300                                                                             30    15     8     4     2     1    ---   ---   ---
-  31                 20th                                                                                     350                                                                             35    18     9     5     3     2     1    ---   ---
-  32                 21st                                                                                     400                                                                             40    20    10     5     3     2     1    ---   ---
-  33                 21st                                                                                     460                                                                             46    23    12     6     3     2     1    ---   ---
-  34                 22nd                                                                                     520                                                                             52    26    13     6     3     2     1    ---   ---
-  35                 22nd                                                                                     590                                                                             59    30    15     8     4     2     1    ---   ---
-  36                 23rd                                                                                     660                                                                             66    33    17     9     5     3     2     1    ---
-  37                 23rd                                                                                     740                                                                             74    37    19    10     5     3     2     1    ---
-  38                 24th                                                                                     820                                                                             82    41    21    11     6     3     2     1    ---
-  39                 24th                                                                                     910                                                                             91    46    23    12     6     3     2     1    ---
-  40                 25th                                                                                     1000                                                                            100   50    25    13     7     4     2     1    ---
-  per +1             +1/2\*                                                                                 +100\*\*                                                                           †     †     †     †     †     †     †     †     †
-  ------------------ -------------- -------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ----- ----- ----- ----- ----- ----- ----- ------
+|                  |              |                                                                                                                                                                         |     |     |     |     |     |     |     |     |      |
+|------------------|--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
+| Leadership Score | Cohort Level |                                                                              <span style="                                                                              
+                                                                                                                        display: block;                                                                     
+                                                                                                                      position: absolute;                                                                   
+                                                                                                                           right: 0;                                                                        
+                                                                                                                           top: 50%;                                                                        
+                                                                                                                          left: 0px;                                                                        
+                                                                                                              border-top: 1px solid currentColor;                                                           
+                                                 "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Number of Followers by Level </span>  |     |     |     |     |     |     |     |     |      |
+|                  |              |                                                                                   1st                                                                                   | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
+| 25               | 17th         |                                                                                   135                                                                                   | 13  |  7  |  4  |  2  |  2  |  1  |  —  |  —  |  —   |
+| 26               | 18th         |                                                                                   160                                                                                   | 16  |  8  |  4  |  2  |  2  |  1  |  —  |  —  |  —   |
+| 27               | 18th         |                                                                                   190                                                                                   | 19  | 10  |  5  |  3  |  2  |  1  |  —  |  —  |  —   |
+| 28               | 19th         |                                                                                   220                                                                                   | 22  | 11  |  6  |  3  |  2  |  1  |  —  |  —  |  —   |
+| 29               | 19th         |                                                                                   260                                                                                   | 26  | 13  |  7  |  4  |  2  |  1  |  —  |  —  |  —   |
+| 30               | 20th         |                                                                                   300                                                                                   | 30  | 15  |  8  |  4  |  2  |  1  |  —  |  —  |  —   |
+| 31               | 20th         |                                                                                   350                                                                                   | 35  | 18  |  9  |  5  |  3  |  2  |  1  |  —  |  —   |
+| 32               | 21st         |                                                                                   400                                                                                   | 40  | 20  | 10  |  5  |  3  |  2  |  1  |  —  |  —   |
+| 33               | 21st         |                                                                                   460                                                                                   | 46  | 23  | 12  |  6  |  3  |  2  |  1  |  —  |  —   |
+| 34               | 22nd         |                                                                                   520                                                                                   | 52  | 26  | 13  |  6  |  3  |  2  |  1  |  —  |  —   |
+| 35               | 22nd         |                                                                                   590                                                                                   | 59  | 30  | 15  |  8  |  4  |  2  |  1  |  —  |  —   |
+| 36               | 23rd         |                                                                                   660                                                                                   | 66  | 33  | 17  |  9  |  5  |  3  |  2  |  1  |  —   |
+| 37               | 23rd         |                                                                                   740                                                                                   | 74  | 37  | 19  | 10  |  5  |  3  |  2  |  1  |  —   |
+| 38               | 24th         |                                                                                   820                                                                                   | 82  | 41  | 21  | 11  |  6  |  3  |  2  |  1  |  —   |
+| 39               | 24th         |                                                                                   910                                                                                   | 91  | 46  | 23  | 12  |  6  |  3  |  2  |  1  |  —   |
+| 40               | 25th         |                                                                                  1000                                                                                   | 100 | 50  | 25  | 13  |  7  |  4  |  2  |  1  |  —   |
+| per +1           | +1/2\*       |                                                                                +100\*\*                                                                                 |  †  |  †  |  †  |  †  |  †  |  †  |  †  |  †  |  †   |
 
-  : Table: Epic Leadership
+Table: Epic Leadership
 
-**Leadership Score:** A character's Leadership score equals his or her
+**Leadership Score:** A character’s Leadership score equals his or her
 level plus any Charisma modifier. Outside factors can affect a
-character's Leadership score, as detailed in the Leadership feat.
+character’s Leadership score, as detailed in the Leadership feat.
 
 **Cohort Level:** The character can attract a cohort of up to this
-level. Regardless of the character's Leadership score, he or she can't
+level. Regardless of the character’s Leadership score, he or she can’t
 recruit a cohort of his or her level or higher.
 
 **Number of Followers by Level:** The character can lead up to the
@@ -733,42 +733,42 @@ Leadership above 40. \*\*The number of 1st-level followers increases by
 1st-level followers. A character can command one-half as many 3rd-level
 followers as 2nd-level followers, one-half as many 4th-level followers
 as 3rd-level followers, and so on (round fractions up, except any
-fraction less than 1 rounds to 0). A character can't have a follower of
+fraction less than 1 rounds to 0). A character can’t have a follower of
 higher than 20th level.
 
 Table: Example Special Epic Cohorts presents some creatures that make
 good cohorts for epic characters.
 
-  ------------------------ -------------- ------------------
-  Creature                 Alignment      Level Equivalent
-  Angel, astral deva       Any good       20nd
-  Dragon, ancient silver   Lawful good    42nd
-  Couatl                   Lawful good    16th
-  Giant, cloud             Neutral good   24th
-  Ghaele                   Chaotic good   20st
-  Giant, storm             Chaotic good   28th
-  Dragon, wyrm brass       Chaotic good   42th
-  Dragon turtle            Neutral        21st
-  Hydra, 12-headed         Neutral        19th
-  Roc                      Neutral        23rd
-  Dragon, ancient green    Lawful evil    40th
-  Devil, ice (gelugon)     Lawful evil    21st
-  Giant, cloud             Neutral evil   24th
-  Demon, glabrezu          Chaotic evil   23rd
-  Demon, succubus          Chaotic evil   12th
-  Dragon, wyrm white       Chaotic evil   41th
-  ------------------------ -------------- ------------------
+|                        |              |                  |
+|------------------------|--------------|------------------|
+| Creature               | Alignment    | Level Equivalent |
+| Angel, astral deva     | Any good     | 20nd             |
+| Dragon, ancient silver | Lawful good  | 42nd             |
+| Couatl                 | Lawful good  | 16th             |
+| Giant, cloud           | Neutral good | 24th             |
+| Ghaele                 | Chaotic good | 20st             |
+| Giant, storm           | Chaotic good | 28th             |
+| Dragon, wyrm brass     | Chaotic good | 42th             |
+| Dragon turtle          | Neutral      | 21st             |
+| Hydra, 12-headed       | Neutral      | 19th             |
+| Roc                    | Neutral      | 23rd             |
+| Dragon, ancient green  | Lawful evil  | 40th             |
+| Devil, ice (gelugon)   | Lawful evil  | 21st             |
+| Giant, cloud           | Neutral evil | 24th             |
+| Demon, glabrezu        | Chaotic evil | 23rd             |
+| Demon, succubus        | Chaotic evil | 12th             |
+| Dragon, wyrm white     | Chaotic evil | 41th             |
 
-  : Table: Example Special Epic Cohorts
+Table: Example Special Epic Cohorts
 
-### Epic Prowess [\[Epic\]]{.small} {#epic-prowess}
+### Epic Prowess <span class="small">\[Epic\]</span>
 
 **Benefit:** Gain a +1 bonus on all attacks.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Epic Psionic Focus [\[Epic, Psionic\]]{.small} {#epic-psionic-focus}
+### Epic Psionic Focus <span class="small">\[Epic, Psionic\]</span>
 
 You can expend your psionic focus to greater effect.
 
@@ -785,16 +785,16 @@ cannot exceed the power point limit set by your manifester level.
 you can simultaneously use one additional feat that requires a psionic
 focus to be expended.
 
-### Epic Reflexes [\[Epic\]]{.small} {#epic-reflexes}
+### Epic Reflexes <span class="small">\[Epic\]</span>
 
 **Benefit:** The character gains a +4 bonus on all Reflex saving throws.
 
-### Epic Reputation [\[Epic\]]{.small} {#epic-reputation}
+### Epic Reputation <span class="small">\[Epic\]</span>
 
 **Benefit:** The character gains a +4 bonus on Bluff, Diplomacy, Gather
 Information, Intimidate, and Perform checks.
 
-### Epic Skill Focus [\[Epic\]]{.small} {#epic-skill-focus}
+### Epic Skill Focus <span class="small">\[Epic\]</span>
 
 **Prerequisite:** 20 ranks in the skill selected.
 
@@ -805,18 +805,18 @@ that skill.
 do not stack. Each time a character takes the feat, it applies to a
 different skill.
 
-### Epic Speed [\[Epic\]]{.small} {#epic-speed}
+### Epic Speed <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 21, Run.
 
-**Benefit:** The character's speed increases by 30 feet. This benefit
+**Benefit:** The character’s speed increases by 30 feet. This benefit
 does not stack with increased speed granted by magic items or
 nonpermanent magical effects.
 
 **Special:** This feat only functions when the character is wearing
 medium armor, light armor, or no armor.
 
-### Epic Spell Focus [\[Epic\]]{.small} {#epic-spell-focus}
+### Epic Spell Focus <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Greater Spell Focus and Spell Focus in the school
 selected, ability to cast at least one 9th-level spell of the school to
@@ -831,15 +831,15 @@ Focus.
 do not stack. Each time the character takes the feat, it applies to a
 different school of magic.
 
-### Epic Spell Penetration [\[Epic\]]{.small} {#epic-spell-penetration}
+### Epic Spell Penetration <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Greater Spell Penetration, Spell Penetration.
 
 **Benefit:** The character gets a +2 bonus on caster level checks to
-beat a creature's spell resistance. This stacks with the bonuses from
+beat a creature’s spell resistance. This stacks with the bonuses from
 Spell Penetration and Greater Spell Penetration.
 
-### Epic Spellcasting [\[Epic\]]{.small} {#epic-spellcasting}
+### Epic Spellcasting <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Spellcraft 24 ranks, Knowledge (arcana) 24 ranks,
 ability to cast 9th-level arcane spells. OR Spellcraft 24 ranks,
@@ -858,14 +858,14 @@ number of epic spells per day equal to his or her ranks in Knowledge
 the limit on the number of spells he or she may cast per day is
 cumulative.
 
-### Epic Toughness [\[Epic\]]{.small} {#epic-toughness}
+### Epic Toughness <span class="small">\[Epic\]</span>
 
 **Benefit:** The character gains +30 hit points.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Epic Weapon Focus [\[Epic\]]{.small} {#epic-weapon-focus}
+### Epic Weapon Focus <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Weapon Focus in the chosen weapon.
 
@@ -876,7 +876,7 @@ using the selected weapon.
 do not stack. Each time the character takes the feat it applies to a
 different type of weapon.
 
-### Epic Weapon Specialization [\[Epic\]]{.small} {#epic-weapon-specialization}
+### Epic Weapon Specialization <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Epic Weapon Focus, Weapon Focus, Weapon
 Specialization (all in the chosen weapon).
@@ -889,11 +889,11 @@ if the target is within 30 feet.
 do not stack. Each time the character takes the feat, it applies to a
 different type of weapon.
 
-### Epic Will [\[Epic\]]{.small} {#epic-will}
+### Epic Will <span class="small">\[Epic\]</span>
 
 **Benefit:** The character gains a +4 bonus on all Will saving throws.
 
-### Exceptional Deflection [\[Epic\]]{.small} {#exceptional-deflection}
+### Exceptional Deflection <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 21, Wis 19, Deflect Arrows, Improved Unarmed
 Strike.
@@ -901,26 +901,26 @@ Strike.
 **Benefit:** The character can deflect any ranged attacks (including
 spells that require ranged touch attacks) as if they were arrows.
 
-### Extended Life Span [\[Epic\]]{.small} {#extended-life-span}
+### Extended Life Span <span class="small">\[Epic\]</span>
 
-**Benefit:** Add one-half the maximum result of the character's race's
-maximum age modifier to the character's normal middle age, old, and
-venerable age categories. Calculate the character's maximum age using
-the new venerable number. This feat can't lower the character's current
+**Benefit:** Add one-half the maximum result of the character’s race’s
+maximum age modifier to the character’s normal middle age, old, and
+venerable age categories. Calculate the character’s maximum age using
+the new venerable number. This feat can’t lower the character’s current
 age category.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Familiar Spell [\[Epic\]]{.small} {#familiar-spell}
+### Familiar Spell <span class="small">\[Epic\]</span>
 
-**Prerequisite:** Int 25 (if the character's spellcasting is controlled
-by Intelligence) or Cha 25 (if the character's spellcasting is
+**Prerequisite:** Int 25 (if the character’s spellcasting is controlled
+by Intelligence) or Cha 25 (if the character’s spellcasting is
 controlled by Charisma).
 
 **Benefit:** Choose one arcane spell the character knows of 8th level or
-lower. The character's familiar can now use this spell once per day as a
-spell-like ability, at a caster level equal to the character's caster
+lower. The character’s familiar can now use this spell once per day as a
+spell-like ability, at a caster level equal to the character’s caster
 level. A character cannot bestow a spell to his or her familiar if the
 spell normally has a material component cost of more than 1 gp or an XP
 cost.
@@ -930,17 +930,17 @@ the character takes the feat, he or she can give his or her familiar a
 different spell-like ability or another daily use of the same spell-like
 ability.
 
-### Fast Healing [\[Epic\]]{.small} {#fast-healing}
+### Fast Healing <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Con 25.
 
-**Benefit:** The character gains fast healing 3, or the character's
+**Benefit:** The character gains fast healing 3, or the character’s
 existing fast healing increases by 3. This feat does not stack with fast
 healing granted by magic items or nonpermanent magical effects.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Fine Wild Shape [\[Wild\]\[Epic\]]{.small} {#fine-wild-shape}
+### Fine Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisite:** Ability to *wild shape* into a Diminutive creature.
 
@@ -950,7 +950,7 @@ shape of a Fine animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal smaller than Tiny size.
 
-### Forge Epic Ring [\[Item Creation\]\[Epic\]]{.small} {#forge-epic-ring}
+### Forge Epic Ring <span class="small">\[Item Creation\]\[Epic\]</span>
 
 **Prerequisites:** Forge Ring, Knowledge (arcana) 35 ranks, Spellcraft
 35 ranks.
@@ -958,7 +958,7 @@ animal smaller than Tiny size.
 **Benefit:** The character can forge magic rings that exceed the normal
 limits for such items.
 
-### Gargantuan Wild Shape [\[Wild\]\[Epic\]]{.small} {#gargantuan-wild-shape}
+### Gargantuan Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisite:** Ability to *wild shape* into a Huge animal.
 
@@ -968,62 +968,62 @@ of a Gargantuan animal.
 **Normal:** Without this feat, a character cannot *wild shape* into an
 animal greater than Huge size.
 
-### Great Charisma [\[Epic\]]{.small} {#great-charisma}
+### Great Charisma <span class="small">\[Epic\]</span>
 
-**Benefit:** The character's Charisma increases by 1 point.
-
-**Special:** A character can gain this feat multiple times. Its effects
-stack.
-
-### Great Constitution [\[Epic\]]{.small} {#great-constitution}
-
-**Benefit:** The character's Constitution increases by 1 point.
+**Benefit:** The character’s Charisma increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Great Dexterity [\[Epic\]]{.small} {#great-dexterity}
+### Great Constitution <span class="small">\[Epic\]</span>
 
-**Benefit:** The character's Dexterity increases by 1 point.
-
-**Special:** A character can gain this feat multiple times. Its effects
-stack.
-
-### Great Intelligence [\[Epic\]]{.small} {#great-intelligence}
-
-**Benefit:** The character's Intelligence increases by 1 point.
+**Benefit:** The character’s Constitution increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Great Smiting [\[Epic\]]{.small} {#great-smiting}
+### Great Dexterity <span class="small">\[Epic\]</span>
+
+**Benefit:** The character’s Dexterity increases by 1 point.
+
+**Special:** A character can gain this feat multiple times. Its effects
+stack.
+
+### Great Intelligence <span class="small">\[Epic\]</span>
+
+**Benefit:** The character’s Intelligence increases by 1 point.
+
+**Special:** A character can gain this feat multiple times. Its effects
+stack.
+
+### Great Smiting <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Cha 25, smite ability (from class feature or domain
 granted power).
 
 **Benefit:** Whenever the character makes a successful smite attack, add
-twice the appropriate level to damage (rather than just the character's
+twice the appropriate level to damage (rather than just the character’s
 level).
 
 **Special:** A character may select this feat multiple times. Its
 effects stack. Remember that two doublings equals a tripling, and so
 forth.
 
-### Great Strength [\[Epic\]]{.small} {#great-strength}
+### Great Strength <span class="small">\[Epic\]</span>
 
-**Benefit:** The character's Strength increases by 1 point.
-
-**Special:** A character can gain this feat multiple times. Its effects
-stack.
-
-### Great Wisdom [\[Epic\]]{.small} {#great-wisdom}
-
-**Benefit:** The character's Wisdom increases by 1 point.
+**Benefit:** The character’s Strength increases by 1 point.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Group Inspiration [\[Epic\]]{.small} {#group-inspiration}
+### Great Wisdom <span class="small">\[Epic\]</span>
+
+**Benefit:** The character’s Wisdom increases by 1 point.
+
+**Special:** A character can gain this feat multiple times. Its effects
+stack.
+
+### Group Inspiration <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Perform 30 ranks, bardic music class feature.
 
@@ -1035,7 +1035,7 @@ choose different skills to inspire for different allies.
 **Special:** A character can gain this feat multiple times. Its effects
 stack. Remember that two doublings equals a tripling, and so forth.
 
-### Hindering Song [\[Epic\]]{.small} {#hindering-song}
+### Hindering Song <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Deafening Song, Perform 27 ranks, bardic music class
 feature.
@@ -1044,15 +1044,15 @@ feature.
 spellcasters within a 30-foot spread from the character. To successfully
 cast a spell within this area, a spellcaster must make a Concentration
 check as if he or she were casting defensively, and all such checks have
-a penalty equal to half the character's level. The character can choose
+a penalty equal to half the character’s level. The character can choose
 to exclude any characters from this effect. The character may sing,
 play, or recite a hindering song while taking other mundane actions, but
-not magical ones (see the bard's inspire courage ability for more
+not magical ones (see the bard’s inspire courage ability for more
 details). The character may keep up the hindering song for a maximum of
-10 rounds. Using the hindering song counts as one of the character's
+10 rounds. Using the hindering song counts as one of the character’s
 uses of song or poetics for the day.
 
-### Holy Strike [\[Epic\]]{.small} {#holy-strike}
+### Holy Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Smite evil class feature, any good alignment.
 
@@ -1061,7 +1061,7 @@ uses of song or poetics for the day.
 creatures of evil alignment).If the weapon already has an alignment,
 this feat has no effect on the weapon.
 
-### Ignore Material Components [\[Epic\]]{.small} {#ignore-material-components}
+### Ignore Material Components <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Eschew Materials, Spellcraft 25 ranks, ability to
 cast 9th-level arcane or divine spells.
@@ -1070,7 +1070,7 @@ cast 9th-level arcane or divine spells.
 components. This feat does not affect the need for a focus or divine
 focus.
 
-### Improved Alignment-Based Casting [\[Epic\]]{.small} {#improved-alignment-based-casting}
+### Improved Alignment-Based Casting <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Access to domain of Chaos, Evil, Good, or Law,
 alignment must match domain chosen, ability to cast 9th-level divine
@@ -1086,67 +1086,67 @@ this feat multiple times. Its effects do not stack. Each time a
 character takes the feat, it applies to a different alignment-based
 domain to which the character has access.
 
-### Improved Arrow of Death [\[Epic\]]{.small} {#improved-arrow-of-death}
+### Improved Arrow of Death <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 19, Wis 19, Point Blank Shot, Precise Shot, arrow
 of death class feature.
 
-**Benefit:** Add +2 to the DC of the character's arrows of death. This
+**Benefit:** Add +2 to the DC of the character’s arrows of death. This
 feat may be taken multiple times. Its effects stack.
 
-### Improved Aura of Courage [\[Epic\]]{.small} {#improved-aura-of-courage}
+### Improved Aura of Courage <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Cha 25, aura of courage class ability.
 
-**Benefit:** The character's aura of courage grants a +8 morale bonus on
+**Benefit:** The character’s aura of courage grants a +8 morale bonus on
 saving throws against fear effects.
 
-### Improved Aura of Despair [\[Epic\]]{.small} {#improved-aura-of-despair}
+### Improved Aura of Despair <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Cha 25, aura of despair class ability.
 
-**Benefit:** The character's aura of despair causes a --4 morale penalty
+**Benefit:** The character’s aura of despair causes a –4 morale penalty
 on all saving throws.
 
-### Improved Combat Casting [\[Epic\]]{.small} {#improved-combat-casting}
+### Improved Combat Casting <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Combat Casting, Concentration 25 ranks.
 
-**Benefit:** The character doesn't incur attacks of opportunity for
+**Benefit:** The character doesn’t incur attacks of opportunity for
 casting spells when threatened.
 
-### Improved Combat Reflexes [\[Epic\]]{.small} {#improved-combat-reflexes}
+### Improved Combat Reflexes <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 21, Combat Reflexes.
 
 **Benefit:** There is no limit to the number of attacks of opportunity
-the character can make in one round. (the character still can't make
+the character can make in one round. (the character still can’t make
 more than one attack of opportunity for a given oppertunity.)
 
-### Improved Darkvision [\[Epic\]]{.small} {#improved-darkvision}
+### Improved Darkvision <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Darkvision.
 
-**Benefit:** The range of the character's darkvision doubles. This feat
+**Benefit:** The range of the character’s darkvision doubles. This feat
 does not stack with darkvision granted by magic items or nonpermanent
 magical effects.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 Remember that two doublings equals a tripling, and so on.
 
-### Improved Death Attack [\[Epic\]]{.small} {#improved-death-attack}
+### Improved Death Attack <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Death attack class feature, sneak attack +5d6.
 
-**Benefit:** Add +2 to the DC of the character's death attack.
+**Benefit:** Add +2 to the DC of the character’s death attack.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Elemental Wild Shape [\[Wild\]\[Epic\]]{.small} {#improved-elemental-wild-shape}
+### Improved Elemental Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisites:** Wis 25, ability to *wild shape* into an elemental.
 
-**Benefit:** The character's ability to *wild shape* into an elemental
+**Benefit:** The character’s ability to *wild shape* into an elemental
 is expanded to include all elemental creatures (not just air, earth,
 fire, and water elementals) of any size that the character can take when
 using *wild shape* to become an animal. The character gains all
@@ -1156,17 +1156,17 @@ or she takes.
 **Normal:** Without this feat, a character may only *wild shape* into a
 Small, Medium-size, or Large air, earth, fire, or water elemental.
 
-### Improved Favored Enemy [\[Epic\]]{.small} {#improved-favored-enemy}
+### Improved Favored Enemy <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Five or more favored enemies.
 
 **Benefit:** Add +1 to the bonus on Bluff, Listen, Sense Motive, Spot,
-and Survival checks and damage rolls against all the character's favored
+and Survival checks and damage rolls against all the character’s favored
 enemies.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Heighten Spell [\[Epic\]]{.small} {#improved-heighten-spell}
+### Improved Heighten Spell <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Heighten Spell, Spellcraft 20 ranks.
 
@@ -1176,25 +1176,25 @@ which the character can heighten the spell.
 **Normal:** Without this feat, a spell can only be heightened to a
 maximum of 9th level.
 
-### Improved Ki Strike [\[Epic\]]{.small} {#improved-ki-strike}
+### Improved Ki Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Wis 21, *Ki* strike (adamantine).
 
-**Benefit:** The character's unarmed strikes are treated as epic magic
+**Benefit:** The character’s unarmed strikes are treated as epic magic
 weapons for the purposes of damage reduction.
 
-### Improved Low-Light Vision [\[Epic\]]{.small} {#improved-low-light-vision}
+### Improved Low-Light Vision <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Low-light vision.
 
-**Benefit:** The range of the character's low-light vision doubles. This
+**Benefit:** The range of the character’s low-light vision doubles. This
 feat does not stack with low-light vision granted by magic items or
 nonpermanent magical effects.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 Remember that two doublings equals a tripling, and so on.
 
-### Improved Manifestation [\[Epic, Psionic\]]{.small} {#improved-manifestation}
+### Improved Manifestation <span class="small">\[Epic, Psionic\]</span>
 
 You increase your power point reserve.
 
@@ -1207,7 +1207,7 @@ the normal maximum power level in at least one psionic class.
 you gain an additional number of power points equal to your previous
 benefit +2.
 
-### Improved Manyshot [\[Epic\]]{.small} {#improved-manyshot}
+### Improved Manyshot <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 19, base attack bonus +21, Many-shot, Point Blank
 Shot, Rapid Shot
@@ -1218,27 +1218,27 @@ arrow for every 5 points of base attack bonus above +6).
 
 **Special:** Regardless of the number of arrows the character fires, he
 or she only applies precision-based damage (such as sneak attack damage
-or the ranger's favored enemy bonus) once. If the character scores a
-critical hit, only one of the arrows deals critical damage (character's
+or the ranger’s favored enemy bonus) once. If the character scores a
+critical hit, only one of the arrows deals critical damage (character’s
 choice); all others deal normal damage.
 
 **Normal:** With the Manyshot feat, the character is limited to a
-maximum of four arrows fired (when the character's base attack bonus is
+maximum of four arrows fired (when the character’s base attack bonus is
 +16 or higher).
 
-### Improved Metamagic [\[Epic\]]{.small} {#improved-metamagic}
+### Improved Metamagic <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Four metamagic feats, Spellcraft 30 ranks.
 
-**Benefit:** The spell slot modifier of all the character's metamagic
+**Benefit:** The spell slot modifier of all the character’s metamagic
 feats is reduced by one level, to a minimum of +1. This feat has no
 effect on metamagic feats whose spell slot modifier is +1 or less.
 
 **Special:** A character can gain this feat multiple times. The effects
-stack, though a character can't reduce any metamagic feat's spell slot
+stack, though a character can’t reduce any metamagic feat’s spell slot
 modifier to less than +1.
 
-### Improved Metapsionics [\[Epic, Psionic\]]{.small} {#improved-metapsionics}
+### Improved Metapsionics <span class="small">\[Epic, Psionic\]</span>
 
 You can manifest powers using metapsionic feats more easily than normal.
 
@@ -1252,18 +1252,18 @@ This feat has no effect on metapsionic powers that inflate the cost by
 only 2 power points.
 
 **Special:** You can gain this feat multiple times. The effects stack,
-though you can't lower the cost of any metapsionic power to less than 1
+though you can’t lower the cost of any metapsionic power to less than 1
 power point.
 
-### Improved Sneak Attack [\[Epic\]]{.small} {#improved-sneak-attack}
+### Improved Sneak Attack <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Sneak attack +8d6.
 
-**Benefit:** Add +1d6 to the character's sneak attack damage.
+**Benefit:** Add +1d6 to the character’s sneak attack damage.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Spell Capacity [\[Epic\]]{.small} {#improved-spell-capacity}
+### Improved Spell Capacity <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Ability to cast spells of the normal maximum spell
 level in at least one spellcasting class.
@@ -1294,7 +1294,7 @@ paladins, and rangers; or Charisma for bards and sorcerers) may receive
 bonus spells of those levels, as shown on Table: Expanded Ability
 Modifiers and Bonus Spells, but only if they already have at least one
 spell slot of that level (such as from the Improved Spell Capacity
-feat). A character without any spell slots of a level can't receive any
+feat). A character without any spell slots of a level can’t receive any
 bonus spells of that level, even if the appropriate ability score is
 high enough to award them.
 
@@ -1303,67 +1303,67 @@ slots up to 25th level, the progression continues infinitely in both
 directions. For ability scores beyond 61, or for spell slots above 25th
 level, expand the table to follow the same patterns as shown.
 
-  ---------- ---------- ----- ------------------------------------------------------------------------------------------------------------------------------------------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
-                                                                                              []{style="                                                                                                                                                                   
-                                                                                                   display: block;                                                                                                                                                         
-                                                                                                 position: absolute;                                                                                                                                                       
-                                                                                                      right: 0;                                                                                                                                                            
-                                                                                                      top: 50%;                                                                                                                                                            
-                                                                                                      left: 0px;                                                                                                                                                           
-                                                                                         border-top: 1px solid currentColor;                                                                                                                                               
-                                             "}[Spells per Day ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                                                                                                    
-  Score      Modifier                                                                            10th                                                                     11th   12th   13th   14th   15th   16th   17th   18th   19th   20th   21st   22nd   23rd   24th   25th
-  10--11                +0                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  12--13                +1                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  14--15                +2                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  16--17                +3                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  18--19                +4                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  20--21                +5                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  22--23                +6                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  24--25                +7                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  26--27                +8                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  28--29                +9                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  30--31                +10                                                                       1                                                                       ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  32--33                +11                                                                       1                                                                        1     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  34--35                +12                                                                       1                                                                        1      1     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  36--37                +13                                                                       1                                                                        1      1      1     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  38--39                +14                                                                       2                                                                        1      1      1      1     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  40--41                +15                                                                       2                                                                        2      1      1      1      1     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  42--43                +16                                                                       2                                                                        2      2      1      1      1      1     ---    ---    ---    ---    ---    ---    ---    ---    ---
-  44--45                +17                                                                       2                                                                        2      2      2      1      1      1      1     ---    ---    ---    ---    ---    ---    ---    ---
-  46--47                +18                                                                       3                                                                        2      2      2      2      1      1      1      1     ---    ---    ---    ---    ---    ---    ---
-  48--49                +19                                                                       3                                                                        3      2      2      2      2      1      1      1      1     ---    ---    ---    ---    ---    ---
-  50--51                +20                                                                       3                                                                        3      3      2      2      2      2      1      1      1      1     ---    ---    ---    ---    ---
-  52--53                +21                                                                       3                                                                        3      3      3      2      2      2      2      1      1      1      1     ---    ---    ---    ---
-  54--55                +22                                                                       4                                                                        3      3      3      3      2      2      2      2      1      1      1      1     ---    ---    ---
-  56--57                +23                                                                       4                                                                        4      3      3      3      3      2      2      2      2      1      1      1      1     ---    ---
-  58--59                +24                                                                       4                                                                        4      4      3      3      3      3      2      2      2      2      1      1      1      1     ---
-  60--61                +25                                                                       4                                                                        4      4      4      3      3      3      3      2      2      2      2      1      1      1      1
-  etc. . .                                                                                                                                                                                                                                                                 
-  ---------- ---------- ----- ------------------------------------------------------------------------------------------------------------------------------------------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+|          |          |     |                                                                                                                                                           |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+|----------|----------|-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|          |          |     |                                                                       <span style="                                                                       
+                                                                                                           display: block;                                                              
+                                                                                                         position: absolute;                                                            
+                                                                                                              right: 0;                                                                 
+                                                                                                              top: 50%;                                                                 
+                                                                                                             left: 0px;                                                                 
+                                                                                                 border-top: 1px solid currentColor;                                                    
+                                           "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Spells per Day </span>  |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Score    | Modifier |     |                                                                           10th                                                                            | 11th | 12th | 13th | 14th | 15th | 16th | 17th | 18th | 19th | 20th | 21st | 22nd | 23rd | 24th | 25th |
+| 10–11    |          | +0  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 12–13    |          | +1  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 14–15    |          | +2  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 16–17    |          | +3  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 18–19    |          | +4  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 20–21    |          | +5  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 22–23    |          | +6  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 24–25    |          | +7  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 26–27    |          | +8  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 28–29    |          | +9  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 30–31    |          | +10 |                                                                             1                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 32–33    |          | +11 |                                                                             1                                                                             |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 34–35    |          | +12 |                                                                             1                                                                             |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 36–37    |          | +13 |                                                                             1                                                                             |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 38–39    |          | +14 |                                                                             2                                                                             |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 40–41    |          | +15 |                                                                             2                                                                             |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 42–43    |          | +16 |                                                                             2                                                                             |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 44–45    |          | +17 |                                                                             2                                                                             |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 46–47    |          | +18 |                                                                             3                                                                             |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 48–49    |          | +19 |                                                                             3                                                                             |  3   |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 50–51    |          | +20 |                                                                             3                                                                             |  3   |  3   |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |  —   |
+| 52–53    |          | +21 |                                                                             3                                                                             |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |  —   |
+| 54–55    |          | +22 |                                                                             4                                                                             |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |  —   |
+| 56–57    |          | +23 |                                                                             4                                                                             |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |  —   |
+| 58–59    |          | +24 |                                                                             4                                                                             |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |  —   |
+| 60–61    |          | +25 |                                                                             4                                                                             |  4   |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  1   |  1   |  1   |  1   |
+| etc. . . |          |     |                                                                                                                                                           |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
-  : Table: Expanded Ability Modifiers and Bonus Spells
+Table: Expanded Ability Modifiers and Bonus Spells
 
-### Improved Spell Resistance [\[Epic\]]{.small} {#improved-spell-resistance}
+### Improved Spell Resistance <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Must have spell resistance from a feat, class feature,
 or other permanent effect.
 
-**Benefit:** The character's spell resistance increases by +2.
+**Benefit:** The character’s spell resistance increases by +2.
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Improved Stunning Fist [\[Epic\]]{.small} {#improved-stunning-fist}
+### Improved Stunning Fist <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Dex 19, Wis 19, Improved Unarmed Strike, Stunning
 Fist.
 
-**Benefit:** Add +2 to the DC of the character's stunning attack.
+**Benefit:** Add +2 to the DC of the character’s stunning attack.
 
 **Special:** This feat may be taken multiple times. Its effects stack.
 
-### Improved Whirlwind Attack [\[Epic\]]{.small} {#improved-whirlwind-attack}
+### Improved Whirlwind Attack <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Int 13, Dex 23, Combat Expertise, Dodge, Mobility,
 Spring Attack, Whirlwind Attack.
@@ -1374,28 +1374,28 @@ epic attack bonus, round fractions down).
 
 The character cannot attack any one opponent more than once as part of
 this action. These attacks (as well as all other attacks made until the
-start of the character's next turn) suffer a --4 penalty.
+start of the character’s next turn) suffer a –4 penalty.
 
 When using the Improved Whirlwind feat, the character also forfeits any
 bonus or extra attacks granted by other spells or abilities (such as
 Cleave or the haste spell).
 
 Since these attacks are made as part of a standard action the character
-can't make a 5-foot step between any two of the attacks.
+can’t make a 5-foot step between any two of the attacks.
 
 **Normal:** Without this feat, using the Whirlwind Attack feat requires
 a full attack action, and the character can take a 5-foot step between
 any two of the attacks.
 
-### Incite Rage [\[Epic\]]{.small} {#incite-rage}
+### Incite Rage <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Cha 25, greater rage class feature.
 
 **Benefit:** When the character enters a rage, he or she can incite a
 barbarian rage in any or all allies within 60 feet. (Any ally who
-doesn't wish to become enraged is unaffected.) The ally gains +4 to
+doesn’t wish to become enraged is unaffected.) The ally gains +4 to
 Strength, +4 to Constitution, and a +2 morale bonus on Will saves, but
-takes a --2 penalty to AC, for as long as the character remains raging.
+takes a –2 penalty to AC, for as long as the character remains raging.
 The rage of affected allies lasts a number of rounds equal to 3 + their
 Constitution modifier, regardless of whether they remain within 60 feet
 of the character. This is otherwise identical with normal barbarian rage
@@ -1403,7 +1403,7 @@ of the character. This is otherwise identical with normal barbarian rage
 
 **Special:** This is a mind-affecting effect.
 
-### Infinite Deflection [\[Epic\]]{.small} {#infinite-deflection}
+### Infinite Deflection <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 25, Combat Reflexes, Deflect Arrows, Improved
 Unarmed Strike.
@@ -1411,7 +1411,7 @@ Unarmed Strike.
 **Benefit:** The character may perform any number of deflections each
 round, as the Deflect Arrows feat.
 
-### Inspire Excellence [\[Epic\]]{.small} {#inspire-excellence}
+### Inspire Excellence <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Perform 30 ranks, bardic music class feature.
 
@@ -1425,13 +1425,13 @@ fight but cannot cast spells, activate magic items by spell completion
 wands). Each ally to be inspired gains a +4 competence bonus to the same
 ability score, which the character must choose before he or she begins
 inspiring. Inspire excellence is a supernatural, mind-affecting ability.
-Use of this feat counts as one of the character's bardic music uses for
+Use of this feat counts as one of the character’s bardic music uses for
 the day.
 
 **Special:** This feat is treated as a bardic music inspiration ability
 for purposes of feats that affect such abilities.
 
-### Instant Reload [\[Epic\]]{.small} {#instant-reload}
+### Instant Reload <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Quick Draw, Rapid Reload, Weapon Focus (crossbow type
 to be selected).
@@ -1444,7 +1444,7 @@ attacks of opportunity.
 do not stack. Each time a character takes the feat, it applies to a
 different type of crossbow.
 
-### Intensify Spell \[Metamagic\][\[Epic\]]{.small} {#intensify-spell}
+### Intensify Spell \[Metamagic\]<span class="small">\[Epic\]</span>
 
 **Prerequisites:** Empower Spell, Maximize Spell, Spellcraft 30 ranks,
 ability to cast 9th-level arcane or divine spells.
@@ -1454,43 +1454,43 @@ maximized, then doubled. An intensified spell deals twice maximum
 damage, cures twice the maximum number of hit points, affects twice the
 maximum number of targets, and so forth, as appropriate. Saving throws
 and opposed rolls are not affected. An intensified spell uses up a spell
-slot seven levels higher than the spell's actual level. A character
-can't combine the effects of this feat with any other feat that affects
+slot seven levels higher than the spell’s actual level. A character
+can’t combine the effects of this feat with any other feat that affects
 the variable, numeric effects of a spell.
 
-### Keen Strike [\[Epic\]]{.small} {#keen-strike}
+### Keen Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Str 23, Wis 23, Improved Critical (unarmed strike),
 Improved Unarmed Strike, Stunning fist, *ki* strike (adamantine).
 
-**Benefit:** The character's unarmed strike has a critical threat range
-of 18-20 and deals slashing damage (at the character's option any attack
+**Benefit:** The character’s unarmed strike has a critical threat range
+of 18-20 and deals slashing damage (at the character’s option any attack
 can deal bludgeoning damage, but cannot then take advantage of the
-enhanced threat range). This ability doesn't stack with other abilities
-that expand that character's unarmed strike's threat range.
+enhanced threat range). This ability doesn’t stack with other abilities
+that expand that character’s unarmed strike’s threat range.
 
-### Lasting Inspiration [\[Epic\]]{.small} {#lasting-inspiration}
+### Lasting Inspiration <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Perform 25 ranks, bardic music class feature.
 
-**Benefit:** The effects of the character's bardic music inspiration
+**Benefit:** The effects of the character’s bardic music inspiration
 abilities last for ten times as long as normal after he or she stops
 singing. This feat has no effect on inspiration abilities that have no
 duration after the character stops singing.
 
-### Legendary Climber [\[Epic\]]{.small} {#legendary-climber}
+### Legendary Climber <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 21, Balance 12 ranks, Climb 24 ranks.
 
 **Benefit:** The character can ignore any check penalties applied for
 accelerated climbing or rapid climbing.
 
-**Normal:** Without this feat, a character takes a --5 penalty on Climb
+**Normal:** Without this feat, a character takes a –5 penalty on Climb
 checks when attempting to cover his or her full speed in climbing
-distance in a round, or a --20 penalty when attempting to cover twice
-his or her speed in climbing distance in a round.
+distance in a round, or a –20 penalty when attempting to cover twice his
+or her speed in climbing distance in a round.
 
-### Legendary Commander [\[Epic\]]{.small} {#legendary-commander}
+### Legendary Commander <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Cha 25, Epic Leadership, Leadership, Diplomacy 30
 ranks, must rule own kingdom and have a stronghold.
@@ -1498,7 +1498,7 @@ ranks, must rule own kingdom and have a stronghold.
 **Benefit:** Multiply the number of followers of each level that the
 character can lead by 10. This has no effect on cohorts.
 
-### Legendary Leaper [\[Epic\]]{.small} {#legendary-leaper}
+### Legendary Leaper <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Jump 24 ranks.
 
@@ -1508,21 +1508,21 @@ make a running jump.
 **Normal:** Without this feat, a character must move at least 20 feet in
 a straight line before attempting a running jump.
 
-### Legendary Rider [\[Epic\]]{.small} {#legendary-rider}
+### Legendary Rider <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Ride 24 ranks.
 
-**Benefit:** The character doesn't take a penalty on Ride checks when
+**Benefit:** The character doesn’t take a penalty on Ride checks when
 riding a mount without a saddle (bareback). The character never needs to
 make a Ride check to control a mount in combat (and even controlling a
-mount not trained for combat doesn't require an action).
+mount not trained for combat doesn’t require an action).
 
-**Normal:** Without this feat, a character takes a --5 penalty on Ride
+**Normal:** Without this feat, a character takes a –5 penalty on Ride
 checks without a saddle, and must make a Ride check to control a mount
 in combat (and controlling a mount not trained for combat requires a
 move action).
 
-### Legendary Tracker [\[Epic\]]{.small} {#legendary-tracker}
+### Legendary Tracker <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Wis 25, Track, Knowledge (nature) 30 ranks, Survival
 30 ranks.
@@ -1531,46 +1531,46 @@ move action).
 under-water, or through the air. This adds the surfaces of water,
 underwater, and air to the list of surfaces found under the Track feat:
 
-  ------------ -----
-  Surface      DC
-  Water        60
-  Underwater   80
-  Air          120
-  ------------ -----
+|            |     |
+|------------|-----|
+| Surface    | DC  |
+| Water      | 60  |
+| Underwater | 80  |
+| Air        | 120 |
 
-### Legendary Wrestler [\[Epic\]]{.small} {#legendary-wrestler}
+### Legendary Wrestler <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Str 21, Dex 21, Improved Unarmed Strike, Escape Artist
 15 ranks.
 
 **Benefit:** The character gains a +10 bonus on all grapple checks.
 
-### Lingering Damage [\[Epic\]]{.small} {#lingering-damage}
+### Lingering Damage <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Sneak attack +8d6, crippling strike class feature.
 
 **Benefit:** Any time the character deals damage with a sneak attack,
-that target takes damage equal to the character's sneak attack bonus
-damage on the character's next turn as well.
+that target takes damage equal to the character’s sneak attack bonus
+damage on the character’s next turn as well.
 
-### Magical Beast Companion [\[Wild\]\[Epic\]]{.small} {#magical-beast-companion}
+### Magical Beast Companion <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisites:** Knowledge (nature) 24 ranks, *wild shape* 6/day.
 
 **Benefit:** The following magical beasts are added to the lists of
 animal companions from which you can select.
 
-#### 1st Level (No Adjustment) {#1st-level}
+#### 1st Level (No Adjustment)
 
 -   Stirge
 -   Darkmantle
 
-#### 4th Level (-3) {#4th-level}
+#### 4th Level (-3)
 
 -   Hippogriff
 -   Shocker lizard
 
-#### 7th Level (-6) {#7th-level}
+#### 7th Level (-6)
 
 -   Cockatrice
 -   Ankheg
@@ -1578,20 +1578,20 @@ animal companions from which you can select.
 -   Owlbear
 -   Sea cat\*
 
-#### 10th Level (-9) {#10th-level}
+#### 10th Level (-9)
 
 -   Basilisk
 -   Digerster
 -   Girallon
 -   Spider eater
 
-#### 13th Level (-12) {#13th-level}
+#### 13th Level (-12)
 
 -   Bulette
 -   Chimera
 -   Remorhaz
 
-#### 16th Level (-15) {#16th-level}
+#### 16th Level (-15)
 
 -   Gorgon
 -   Gray render
@@ -1599,18 +1599,18 @@ animal companions from which you can select.
 **Special:** Creatures marked with an asterisk are available only in an
 aquatic environment.
 
-### Magical Beast Wild Shape [\[Wild\]\[Epic\]]{.small} {#magical-beast-wild-shape}
+### Magical Beast Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisites:** Wis 25, Knowledge (nature) 27 ranks, *wild shape*
 6/day.
 
 **Benefit:** The character can use his or her normal *wild shape*
 ability to take the form of a magical beast. The size limitation is the
-same as the character's limitation on animal size. The character gains
+same as the character’s limitation on animal size. The character gains
 all supernatural abilities of the magical beast whose form he or she
 takes.
 
-### Master Staff [\[Epic\]]{.small} {#master-staff}
+### Master Staff <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Craft Staff, Spellcraft 15 ranks.
 
@@ -1624,7 +1624,7 @@ spell stored in the staff, including any level-increasing metamagic
 enhancements. A character cannot emulate a charge for a staff function
 that does not match a specific spell.
 
-### Master Wand [\[Epic\]]{.small} {#master-wand}
+### Master Wand <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Craft Wand, Spellcraft 15 ranks.
 
@@ -1636,7 +1636,7 @@ prepared spells from his or her school of specialty, if any). The spell
 slot lost must be equal to or higher in level than the spell stored in
 the wand, including any level-increasing metamagic enhancements.
 
-### Mighty Rage [\[Epic\]]{.small} {#mighty-rage}
+### Mighty Rage <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Str 21, Con 21, greater rage class feature, rage
 5/day.
@@ -1645,7 +1645,7 @@ the wand, including any level-increasing metamagic enhancements.
 Strength and Constitution and a +4 morale bonus on Will saves. (These
 bonuses replace the normal rage bonuses.)
 
-### Mobile Defense [\[Epic\]]{.small} {#mobile-defense}
+### Mobile Defense <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 15, Dodge, Mobility, Spring Attack, defensive
 stance 3/day class feature.
@@ -1653,10 +1653,10 @@ stance 3/day class feature.
 **Benefit:** While in a defensive stance, the character may take one
 5-foot adjustment each round without losing the benefits of the stance.
 
-**Normal:** Without this feat, a character can't move while in a
+**Normal:** Without this feat, a character can’t move while in a
 defensive stance.
 
-### Multispell [\[Epic\]]{.small} {#multispell}
+### Multispell <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Quicken Spell, ability to cast 9th-level arcane or
 divine spells.
@@ -1667,7 +1667,7 @@ round.
 **Special:** A character can gain this feat multiple times. Its effects
 stack.
 
-### Multiweapon Rend [\[Epic\]]{.small} {#multiweapon-rend}
+### Multiweapon Rend <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 15, base attack bonus +9, three or more hands,
 Multiweapon Fighting.
@@ -1676,22 +1676,22 @@ Multiweapon Fighting.
 (wielded in different hands) in the same round, he or she may
 automatically rend the opponent. This rending deals additional damage
 equal to the base damage of the smallest weapon that hit plus 1 1/2
-times the character's Strength modifier. The character can only rend
+times the character’s Strength modifier. The character can only rend
 once per round, regardless of how many successful attacks he or she
 makes.
 
 **Special:** This feat replaces the Two-Weapon Rend feat for creatures
 with more than two arms.
 
-### Music of the Gods [\[Epic\]]{.small} {#music-of-the-gods}
+### Music of the Gods <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Cha 25, Perform 30 ranks, bardic music class feature.
 
-**Benefit:** The character's bardic music can affect even those normally
+**Benefit:** The character’s bardic music can affect even those normally
 immune to mind-affecting effects. However, such creatures gain a +10
 bonus on their Will saves to resist such effects.
 
-### Negative Energy Burst [\[Divine\]\[Epic\]]{.small} {#negative-energy-burst}
+### Negative Energy Burst <span class="small">\[Divine\]\[Epic\]</span>
 
 **Prerequisites:** Cha 25, ability to rebuke or command undead, ability
 to cast *inflict critical wounds,*any evil alignment.
@@ -1703,25 +1703,25 @@ living creatures rather than undead. Any creature that would be rebuked
 by this result gains one negative level. Any creature that would be
 commanded by this check gains two negative levels. The Fortitude save DC
 to remove these levels one day later is equal to 10 + 1/2 the
-character's effective turning level + the character's Charisma modifier.
+character’s effective turning level + the character’s Charisma modifier.
 
-### Overwhelming Critical [\[Epic\]]{.small} {#overwhelming-critical}
+### Overwhelming Critical <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Str 23, Cleave, Great Cleave, Improved Critical
 (chosen weapon), Power Attack, Weapon Focus (chosen weapon).
 
 **Benefit:** When using the weapon the character has selected, he or she
 deals an extra 1d6 points of bonus damage on a successful critical hit.
-If the weapon's critical multiplier is x3, add +2d6 points of bonus
+If the weapon’s critical multiplier is x3, add +2d6 points of bonus
 damage instead, and if the multiplier is x4, add +3d6 points of bonus
-damage instead. Creatures immune to critical hits can't be affected by
+damage instead. Creatures immune to critical hits can’t be affected by
 this feat.
 
 **Special:** A character can gain this feat multiple times. Its effects
 do not stack. Each time a character takes the feat, it applies to a
 different type of weapon.
 
-### Penetrate Damage Reduction [\[Epic\]]{.small} {#penetrate-damage-reduction}
+### Penetrate Damage Reduction <span class="small">\[Epic\]</span>
 
 Select a special material, such as adamantine.
 
@@ -1729,21 +1729,21 @@ Select a special material, such as adamantine.
 treated as being crafted from the chosen special material for the
 purposes of bypassing the damage reduction of any creature the character
 strikes. None of the other special properties of special materials are
-gained by the character's melee weapons.
+gained by the character’s melee weapons.
 
 **Special:** A character can gain this feat multiple times. Each time
 the feat is selected the character selects a different special material.
-The character's melee attacks are treated as being crafted of all chosen
+The character’s melee attacks are treated as being crafted of all chosen
 materials for the purposes of bypassing damage reduction.
 
-### Perfect Health [\[Epic\]]{.small} {#perfect-health}
+### Perfect Health <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Con 25, Great Fortitude.
 
 **Benefit:** The character is immune to all nonmagical diseases, as well
 as to all poisons whose Fortitude save DC is 25 or less.
 
-### Perfect Multiweapon Fighting [\[Epic\]]{.small} {#perfect-multiweapon-fighting}
+### Perfect Multiweapon Fighting <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Dex 25, three or more hands, Greater Multiweapon
 Fighting, Multiweapon Fighting.
@@ -1757,12 +1757,12 @@ two weapons.
 round with each extra weapon (or two attacks per round with each weapon
 if it has Multiweapon Fighting, or three attacks per round with each
 extra weapon if it has Greater Multiweapon Fighting). Each attack after
-the first extra attack has a cumulative --5 penalty.
+the first extra attack has a cumulative –5 penalty.
 
 **Special:** This feat replaces the Perfect Two-Weapon Fighting feat for
 creatures with more than two arms.
 
-### Perfect Two-Weapon Fighting [\[Epic\]]{.small} {#perfect-two-weapon-fighting}
+### Perfect Two-Weapon Fighting <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 25, Greater Two-Weapon Fighting, Improved
 Two-Weapon Fighting, Two-Weapon Fighting.
@@ -1777,13 +1777,13 @@ with an off-hand weapon (or two attacks with an off-hand weapon if he or
 she has Improved Two-Weapon Fighting, or three attacks with an off-hand
 weapon if he or she has Greater Two-Weapon Fighting).
 
-### Permanent Emanation [\[Epic\]]{.small} {#permanent-emanation}
+### Permanent Emanation <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Spellcraft 25 ranks, ability to cast the spell to be
 made permanent.
 
-**Benefit:** Designate any one of the character's spells whose area is
-an emanation from the character. This spell's effect is permanent
+**Benefit:** Designate any one of the character’s spells whose area is
+an emanation from the character. This spell’s effect is permanent
 (though the character can dismiss or restart it as a free action).
 Effects that would normally dispel this spell instead suppress it for
 2d4 rounds.
@@ -1791,7 +1791,7 @@ Effects that would normally dispel this spell instead suppress it for
 **Special:** This feat may be taken multiple times. Each time, select a
 different spell to become permanent.
 
-### Planar Turning [\[Epic\]]{.small} {#planar-turning}
+### Planar Turning <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Wis 25, Cha 25, ability to turn or rebuke undead.
 
@@ -1803,15 +1803,15 @@ nonevil outsiders. If the character can rebuke undead, he or she rebukes
 (or commands) all evil outsiders and turns (or destroys) all nonevil
 outsiders.
 
-### Plant Wild Shape [\[Wild\]\[Epic\]]{.small} {#plant-wild-shape}
+### Plant Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisites:** Knowledge (nature) 24 ranks, *wild shape* 4/day.
 
 **Benefit:** The character can use his or her normal *wild shape*
 ability to take the form of a plant. The size limitation is the same as
-the character's limitation on animal size.
+the character’s limitation on animal size.
 
-### Polyglot [\[Epic\]]{.small} {#polyglot}
+### Polyglot <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Int 25, Speak Language (five languages).
 
@@ -1819,22 +1819,22 @@ the character's limitation on animal size.
 literate, he or she can also read and write all languages (not including
 magical script).
 
-### Positive Energy Aura [\[Epic\]]{.small} {#positive-energy-aura}
+### Positive Energy Aura <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Cha 25, ability to turn undead, ability to cast
 *dispel evil.*
 
 **Benefit:** Every undead creature that comes within 15 feet of the
 character is automatically affected as if the character had turned it.
-This doesn't cost a turning attempt, and the character doesn't have to
+This doesn’t cost a turning attempt, and the character doesn’t have to
 roll turning damage (it automatically affects all undead in a 15-foot
 burst), but it only turns undead with Hit Dice equal to or less than the
-character's effective cleric level minus 10 (and automatically destroys
-undead with Hit Dice equal to or less than the character's effective
-cleric level minus 20). Just as with normal turning, the character can't
+character’s effective cleric level minus 10 (and automatically destroys
+undead with Hit Dice equal to or less than the character’s effective
+cleric level minus 20). Just as with normal turning, the character can’t
 affect undead that have total cover relative to him or her.
 
-### Power Knowledge [\[Epic, Psionic\]]{.small} {#power-knowledge}
+### Power Knowledge <span class="small">\[Epic, Psionic\]</span>
 
 You add two additional powers to your list of powers known.
 
@@ -1849,7 +1849,7 @@ class list or the list for your discipline.
 two new powers at any level up to the highest level of power you can
 manifest.
 
-### Psicrystal Power [\[Epic, Psionic\]]{.small} {#psicrystal-power}
+### Psicrystal Power <span class="small">\[Epic, Psionic\]</span>
 
 Your psicrystal can manifest a power.
 
@@ -1870,19 +1870,19 @@ All power points gained by a psicrystal from multiple applications of
 this feat go into its reserve and can be used to manifest the powers it
 knows as you desire.
 
-### Ranged Inspiration [\[Epic\]]{.small} {#ranged-inspiration}
+### Ranged Inspiration <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Bardic music class feature, Perform 25 ranks
 
 **Benefit:** Double the range of any bardic music ability that has a
 range. (If the creature must hear the bard to be affected by the
-ability, that requirement doesn't change regardless of any extended
-range the bard's ability may have.)
+ability, that requirement doesn’t change regardless of any extended
+range the bard’s ability may have.)
 
 **Special:** A character can gain this feat multiple times. Its effects
 stack. Remember that two doublings equals a tripling, and so forth.
 
-### Rapid Inspiration [\[Epic\]]{.small} {#rapid-inspiration}
+### Rapid Inspiration <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Perform 25 ranks, bardic music class feature.
 
@@ -1890,15 +1890,15 @@ stack. Remember that two doublings equals a tripling, and so forth.
 inspiration abilities as a standard action. The inspiration takes effect
 immediately after the character concludes the action.
 
-### Reactive Countersong [\[Epic\]]{.small} {#reactive-countersong}
+### Reactive Countersong <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Combat Reflexes, Perform 30 ranks, bardic music class
 feature.
 
 **Benefit:** The character can begin a countersong at any time, even
-when it isn't his or her turn (much like a wizard who has readied a
-counterspell action), though the character doesn't have to ready an
-action to do so. The character can't use Reactive Countersong at the
+when it isn’t his or her turn (much like a wizard who has readied a
+counterspell action), though the character doesn’t have to ready an
+action to do so. The character can’t use Reactive Countersong at the
 same time he or she isusing another bardic music ability (though the
 character could stop the other bardic music ability to begin Reactive
 Countersong if so desired).
@@ -1906,35 +1906,35 @@ Countersong if so desired).
 **Normal:** Without this feat, a character can only use counter-song on
 his or her turn.
 
-### Reflect Arrows [\[Epic\]]{.small} {#reflect-arrows}
+### Reflect Arrows <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 25, Deflect Arrows, Improved Unarmed Strike.
 
 **Benefit:** When the character deflects an arrow or other ranged
 attack, the attack is reflected back upon the attacker at the
-character's base ranged attack bonus.
+character’s base ranged attack bonus.
 
-### Righteous Strike [\[Epic\]]{.small} {#righteous-strike}
+### Righteous Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Wis 19, Improved Unarmed Strike, Stunning Fist, any
 lawful alignment.
 
-**Benefit:** The character's unarmed strike is treated as an axiomatic
+**Benefit:** The character’s unarmed strike is treated as an axiomatic
 weapon (it is lawfully aligned and deals an extra 2d6 points of damage
-against creatures of chaotic alignment). This ability doesn't stack with
+against creatures of chaotic alignment). This ability doesn’t stack with
 similar abilities.
 
-### Ruinous Rage [\[Epic\]]{.small} {#ruinous-rage}
+### Ruinous Rage <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Str 25, Improved Sunder, Power Attack, rage 5/day.
 
 **Benefit:** While in a rage, the character ignores the hardness of any
-object he or she strikes. Also, double the character's Strength bonus
+object he or she strikes. Also, double the character’s Strength bonus
 for the purposes of any Strength check made to break an object with
 sudden force rather than by dealing normal damage (including bursting
 bindings, such as ropes or manacles).
 
-### Scribe Epic Scroll [\[Item Creation\]\[Epic\]]{.small} {#scribe-epic-scroll}
+### Scribe Epic Scroll <span class="small">\[Item Creation\]\[Epic\]</span>
 
 **Prerequisites:** Scribe Scroll, Knowledge (arcana) 24 ranks,
 Spellcraft 24 ranks.
@@ -1943,7 +1943,7 @@ Spellcraft 24 ranks.
 limits for such items. Even this feat does not allow the character to
 scribe a scroll with an epic spell.
 
-### Self-Concealment [\[Epic\]]{.small} {#self-concealment}
+### Self-Concealment <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 30, Hide 30 ranks, Tumble 30 ranks, improved
 evasion.
@@ -1956,7 +1956,7 @@ whenever he or she would lose his or her Dexterity bonus to AC.
 taken, the miss chance increases by 10% to a maximum of 50% after it has
 been taken five times.
 
-### Shattering Strike [\[Epic\]]{.small} {#shattering-strike}
+### Shattering Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Epic Weapon Focus (unarmed strike), Weapon Focus
 (unarmed strike), Concentration 25 ranks, *ki* strike (adamantine).
@@ -1965,28 +1965,28 @@ been taken five times.
 with sudden force (rather than by dealing normal damage), make a
 Concentration check rather than a Strength check. The break DC remains
 the same. Using Shattering Strike is a full-round action that incurs
-attacks of opportunity. The character can't use Shattering Strike to
+attacks of opportunity. The character can’t use Shattering Strike to
 escape bonds (unless he or she is so bound as to allow the character to
 make an unarmed strike against his or her bindings).
 
-### Sneak Attack of Opportunity [\[Epic\]]{.small} {#sneak-attack-of-opportunity}
+### Sneak Attack of Opportunity <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Sneak attack +8d6, opportunist class feature.
 
 **Benefit:** Any attack of opportunity the character makes is considered
 a sneak attack.
 
-### Spectral Strike [\[Epic\]]{.small} {#spectral-strike}
+### Spectral Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Wis 19, ability to turn or rebuke undead.
 
-**Benefit:** The character's attacks deal damage normally against
+**Benefit:** The character’s attacks deal damage normally against
 incorporeal creatures.
 
 **Normal:** Without this feat, even attacks that can damage an
 incorporeal creature have a 50% chance to deal no damage.
 
-### Spell Knowledge [\[Epic\]]{.small} {#spell-knowledge}
+### Spell Knowledge <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Ability to cast spells of the maximum normal spell
 level of an arcane spellcasting class.
@@ -1997,39 +1997,39 @@ additional spell slots.
 
 **Special:** A character can gain this feat multiple times.
 
-### Spell Opportunity [\[Epic\]]{.small} {#spell-opportunity}
+### Spell Opportunity <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Combat Casting, Combat Reflexes, Quicken Spell,
 Spellcraft 25 ranks.
 
 **Benefit:** Whenever the character is allowed an attack of opportunity,
-he or she may cast (and attack with) a touch spell as the character's
+he or she may cast (and attack with) a touch spell as the character’s
 attack of opportunity. This incurs attacks of opportunity just as if the
 character had cast the spell normally.
 
 **Normal:** Without this feat, a character can only make a melee attack
 as an attack of opportunity.
 
-### Spell Stowaway [\[Epic\]]{.small} {#spell-stowaway}
+### Spell Stowaway <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Spellcraft 24 ranks, caster level 12th.
 
 **Benefit:** Choose a spell-like ability the character knows, or a spell
 the character cam cast. The character is attuned to the magic he or she
 chooses. If another spellcaster within 300 feet of the character uses
-this magic, the character also immediately gains the magic's effect as
+this magic, the character also immediately gains the magic’s effect as
 if it had been used on the character by the same caster. The character
 must have direct line of effect to the spellcaster in order to gain the
 benefit of the attuned magic (though the character does not have to know
 the spellcaster is present, and he or she can be flat-footed). The
-magic's duration, effect, and other specifics are determined by its
-original caster's level.
+magic’s duration, effect, and other specifics are determined by its
+original caster’s level.
 
 **Special:** A character can gain this feat multiple times. Its effects
 do not stack. Each time a character takes the feat, it applies to a
 different spell or spell-like ability.
 
-### Spellcasting Harrier [\[Epic\]]{.small} {#spellcasting-harrier}
+### Spellcasting Harrier <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Combat Reflexes.
 
@@ -2037,7 +2037,7 @@ different spell or spell-like ability.
 an attack of opportunity if he or she tries to cast defensively. The
 character gets a +4 bonus on this attack roll.
 
-### Spontaneous Domain Access [\[Epic\]]{.small} {#spontaneous-domain-access}
+### Spontaneous Domain Access <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Wis 25, Spellcraft 30 ranks, ability to cast
 9th-level divine spells.
@@ -2050,20 +2050,20 @@ just as a cleric channels energy to convert spells into *cure* spells.
 **Special:** A character can gain this feat multiple times. Each time a
 character takes the feat, it applies to a different domain.
 
-### Spontaneous Spell [\[Epic\]]{.small} {#spontaneous-spell}
+### Spontaneous Spell <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Spellcraft 25 ranks, ability to cast the maximum
 normal spell level of at least one spell-casting class.
 
 **Benefit:** Select a spell the character can cast. The character may
-spontaneously convert any prepared spell of the selected spell's level
+spontaneously convert any prepared spell of the selected spell’s level
 into the selected spell, just as a cleric channels energy to convert
 spells into *cure* spells.
 
 **Special:** A character can gain this feat multiple times. Each time he
 or she takes the feat, it applies to a different spell.
 
-### Storm of Throws [\[Epic\]]{.small} {#storm-of-throws}
+### Storm of Throws <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Dex 23, Point Blank Shot, Quick Draw, Rapid Shot.
 
@@ -2071,14 +2071,14 @@ or she takes the feat, it applies to a different spell.
 weapon at his or her full base attack bonus at each opponent within 30
 feet. All light weapons thrown need not be the same type.
 
-### Superior Initiative [\[Epic\]]{.small} {#superior-initiative}
+### Superior Initiative <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Improved Initiative.
 
 **Benefit:** The character gets a +8 bonus on initiative checks. This
 bonus overlaps (does not stack with) the bonus from Improved Initiative.
 
-### Swarm of Arrows [\[Epic\]]{.small} {#swarm-of-arrows}
+### Swarm of Arrows <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 23, Point Blank Shot, Rapid Shot, Weapon Focus
 (type of bow used).
@@ -2086,7 +2086,7 @@ bonus overlaps (does not stack with) the bonus from Improved Initiative.
 **Benefit:** As a full-round action, the character may fire an arrow at
 his or her full base attack bonus at each opponent within 30 feet.
 
-### Terrifying Rage [\[Epic\]]{.small} {#terrifying-rage}
+### Terrifying Rage <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Intimidate 25 ranks, rage 5/day
 
@@ -2097,7 +2097,7 @@ or up to twice your character level) for 4d6 rounds. An enemy with Hit
 Dice greater than twice your character level is not affected by this
 feat.
 
-### Tenacious Magic [\[Epic\]]{.small} {#tenacious-magic}
+### Tenacious Magic <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Spellcraft 15 ranks.
 
@@ -2113,16 +2113,16 @@ dismissible) or dispel his or her own tenacious magic normally.
 or she takes the feat, it applies to a different spell or spell-like
 ability.
 
-### Thundering Rage [\[Epic\]]{.small} {#thundering-rage}
+### Thundering Rage <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Str 25, rage 5/day.
 
 **Benefit:** Any weapon the character wields while in a rage is treated
 as a thundering weapon. The DC of the Fortitude save to resist deafness
-is equal to 10 + 1/2 the character's level. This ability does not stack
+is equal to 10 + 1/2 the character’s level. This ability does not stack
 with similar abilities.
 
-### Trap Sense [\[Epic\]]{.small} {#trap-sense}
+### Trap Sense <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Search 25 ranks, Spot 25 ranks, trapfinding class
 ability.
@@ -2131,7 +2131,7 @@ ability.
 is entitled to a Search check to notice it as if the character was
 actively looking for it.
 
-### Two-Weapon Rend [\[Epic\]]{.small} {#two-weapon-rend}
+### Two-Weapon Rend <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 15, base attack bonus +9, Improved Two-Weapon
 Fighting, Two-Weapon Fighting.
@@ -2139,17 +2139,17 @@ Fighting, Two-Weapon Fighting.
 **Benefit:** If the character hits an opponent with a weapon in each
 hand in the same round, he or she may automatically rend the opponent.
 This deals additional damage equal to the base damage of the smaller
-weapon plus 1 1/2 times the character's Strength modifier. Base weapon
+weapon plus 1 1/2 times the character’s Strength modifier. Base weapon
 damage includes an enhancement bonus on damage, if any. The character
 can only rend once per round, regardless of how many successful attacks
 he or she makes.
 
-### Uncanny Accuracy [\[Epic\]]{.small} {#uncanny-accuracy}
+### Uncanny Accuracy <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Dex 21, base attack bonus +11, Point Blank Shot,
 Precise Shot, Improved Precise Shot, Spot 20 ranks.
 
-**Benefit:** The character's ranged attacks ignore the miss chance
+**Benefit:** The character’s ranged attacks ignore the miss chance
 granted to targets by total concealment. The character must aim his or
 her attacks at the correct square to gain advantage of this feat.
 
@@ -2160,57 +2160,57 @@ making a ranged attack against a target with total concealment.
 for this feat even if he or she does not have the prerequisites for it,
 but can only use it when wearing light or no armor.
 
-### Undead Mastery [\[Divine\]\[Epic\]]{.small} {#undead-mastery}
+### Undead Mastery <span class="small">\[Divine\]\[Epic\]</span>
 
 **Prerequisites:** Cha 21, ability to rebuke or command undead.
 
 **Benefit:** The character may command up to ten times his or her level
 in HD of undead.
 
-### Unholy Strike [\[Epic\]]{.small} {#unholy-strike}
+### Unholy Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Smite good class feature, any evil alignment.
 
 **Benefit:** Any weapon the character wields is treated as an unholy
 weapon (it is evil-aligned and deals an extra 2d6 points of damage
-against creatures of good alignment). This ability doesn't stack with
+against creatures of good alignment). This ability doesn’t stack with
 similar abilities. If the weapon already has an alignment, this feat has
 no effect on the weapon.
 
-### Vermin Wild Shape [\[Wild\]\[Epic\]]{.small} {#vermin-wild-shape}
+### Vermin Wild Shape <span class="small">\[Wild\]\[Epic\]</span>
 
 **Prerequisites:** Knowledge (nature) 24 ranks, *wild shape* 6/day.
 
 **Benefit:** The character can use his or her normal *wild shape*
 ability to take the form of a vermin. The size limitation is the same as
-the character's limitation on animal size.
+the character’s limitation on animal size.
 
-### Vorpal Strike [\[Epic\]]{.small} {#vorpal-strike}
+### Vorpal Strike <span class="small">\[Epic\]</span>
 
 **Prerequisites:** Str 25, Wis 25, Improved Critical (unarmed strike),
 Improved Unarmed Strike, Keen Strike, Stunning Fist, *ki* strike
 (adamantine).
 
-**Benefit:** The character's unarmed strike is considered to be a
-slashing vorpal weapon. (At the character's option, any unarmed strike
+**Benefit:** The character’s unarmed strike is considered to be a
+slashing vorpal weapon. (At the character’s option, any unarmed strike
 can do bludgeoning damage instead, but it loses the vorpal quality.)
-This ability doesn't stack with similar abilities
+This ability doesn’t stack with similar abilities
 
-### Widen Aura of Courage [\[Epic\]]{.small} {#widen-aura-of-courage}
+### Widen Aura of Courage <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Cha 25, aura of courage class ability.
 
-**Benefit:** The character's aura of courage extends to all allies
+**Benefit:** The character’s aura of courage extends to all allies
 within 100 feet of the character.
 
-### Widen Aura of Despair [\[Epic\]]{.small} {#widen-aura-of-despair}
+### Widen Aura of Despair <span class="small">\[Epic\]</span>
 
 **Prerequisite:** Cha 25, aura of despair class ability.
 
-**Benefit:** The character's aura of despair extends to all allies
+**Benefit:** The character’s aura of despair extends to all allies
 within 100 feet of the character.
 
-### Zone of Animation [\[Divine\]\[Epic\]]{.small} {#zone-of-animation}
+### Zone of Animation <span class="small">\[Divine\]\[Epic\]</span>
 
 **Prerequisite:** Cha 25, Undead Mastery, ability to rebuke or command
 undead.
@@ -2218,31 +2218,31 @@ undead.
 **Benefit:** The character can use a rebuke or command undead attempt to
 animate corpses within range of his or her rebuke or command attempt.
 The character animates a total number of HD of undead equal to the
-number of undead that would be commanded by the character's result
-(though the character can't animate more undead than there are available
-corpses within range). The character can't animate more undead with any
+number of undead that would be commanded by the character’s result
+(though the character can’t animate more undead than there are available
+corpses within range). The character can’t animate more undead with any
 single attempt than the maximum number he or she can command (including
 any undead already under his or her command). These undead are
-automatically under the character's command, though his or her normal
+automatically under the character’s command, though his or her normal
 limit of commanded undead still applies. If the corpses are relatively
 fresh, the animated undead are zombies. Otherwise, they are skeletons.
 
 These feats are not epic feats, so they may be selected by character any
 time he or she could select a new feat.
 
-### Greater Multiweapon Fighting [\[General\]]{.small} {#greater-multiweapon-fighting}
+### Greater Multiweapon Fighting <span class="small">\[General\]</span>
 
 **Prerequisites:** Dex 19, three or more arms, Improved Multiweapon
 Fighting, Multiweapon Fighting, base attack bonus +15.
 
 **Benefit:** The creature may make up to three extra attacks with each
-extra offhand weapon it wields, albeit at a --10 penalty on the third
+extra offhand weapon it wields, albeit at a –10 penalty on the third
 attack with each weapon.
 
 **Special:** This feat replaces the Greater Two-Weapon Fighting feat for
 creatures with more than two arms.
 
-### Improved Flyby Attack [\[General\]]{.small} {#improved-flyby-attack}
+### Improved Flyby Attack <span class="small">\[General\]</span>
 
 **Prerequisite:** Fly speed, Dodge, Flyby Attack, Mobility.
 
@@ -2255,25 +2255,25 @@ target.
 Flyby Attack maneuver provokes attacks of opportunity as normal from
 moving out of squares threatened by its target.
 
-### Improved Multiattack [\[General\]]{.small} {#improved-multiattack}
+### Improved Multiattack <span class="small">\[General\]</span>
 
 **Prerequisite:** Three or more natural weapons, Multiattack
 
-**Benefit:** The creature's secondary attacks with natural weapons have
-no penalty. They still add only one-half the creature's Strength bonus,
+**Benefit:** The creature’s secondary attacks with natural weapons have
+no penalty. They still add only one-half the creature’s Strength bonus,
 if any, to damage dealt.
 
-**Normal:** Without this feat, the creature's secondary natural attacks
-have a --5 penalty (or a --2 penalty if it has the Multiattack feat).
+**Normal:** Without this feat, the creature’s secondary natural attacks
+have a –5 penalty (or a –2 penalty if it has the Multiattack feat).
 
-### Improved Multiweapon Fighting [\[General\]]{.small} {#improved-multiweapon-fighting}
+### Improved Multiweapon Fighting <span class="small">\[General\]</span>
 
 **Prerequisites:** Dex 15, three or more arms, Multiweapon Fighting,
 base attack bonus +9.
 
 **Benefit:** In addition to the single extra attack a creature gets with
 each extra weapon from Multiweapon Fighting, it gets a second attack
-with each extra weapon, albeit at a --5 penalty.
+with each extra weapon, albeit at a –5 penalty.
 
 **Normal:** With only Multiweapon Fighting, a creater can only get a
 single attack with each extra weapon.

@@ -79,21 +79,21 @@ Focus (any bow other than a crossbow), Improved Arrow of Death, Improved
 Combat Casting, Improved Low-Light Vision, Improved Manyshot, Swarm of
 Arrows, Uncanny Accuracy.
 
-  ------- -------------------
-  Level   Special
-  11th    Enchant arrow +6
-  12th    ---
-  13th    Enchant arrow +7
-  14th    Bonus feat
-  15th    Enchant arrow +8
-  16th    ---
-  17th    Enchant arrow +9
-  18th    Bonus feat
-  19th    Enchant arrow +10
-  20th    ---
-  ------- -------------------
+|       |                   |
+|-------|-------------------|
+| Level | Special           |
+| 11th  | Enchant arrow +6  |
+| 12th  | —                 |
+| 13th  | Enchant arrow +7  |
+| 14th  | Bonus feat        |
+| 15th  | Enchant arrow +8  |
+| 16th  | —                 |
+| 17th  | Enchant arrow +9  |
+| 18th  | Bonus feat        |
+| 19th  | Enchant arrow +10 |
+| 20th  | —                 |
 
-  : Table: The Epic Arcane Archer
+Table: The Epic Arcane Archer
 
 ## Epic Arcane Trickster
 
@@ -101,14 +101,14 @@ Arrows, Uncanny Accuracy.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier
 
-**Spells:** The epic arcane trickster's caster level increases by 1 per
+**Spells:** The epic arcane trickster’s caster level increases by 1 per
 level gained above 10th. The epic arcane trickster continues to gain new
 spells per day (and spells known, if applicable) at each new level, up
 to the maximum spells per day and spells known of the arcane
 spellcasting class to which the arcane trickster belonged before adding
 the prestige class.
 
-**Sneak Attack:** The epic arcane trickster's sneak attack damage
+**Sneak Attack:** The epic arcane trickster’s sneak attack damage
 increases by +1d6 every 2 levels above 10th.
 
 **Impromptu Sneak Attack:** The arcane trickster may use this ability
@@ -126,21 +126,21 @@ Casting, Improved Sneak Attack, Improved Spell Capacity, Lingering
 Damage, Self-Concealment, Sneak Attack of Opportunity, Spell Knowledge,
 Spell Opportunity, Spell Stowaway.
 
-  ------- ------------------------------
-  Level   Special
-  11th    Impromptu sneak attack 3/day
-  12th    Sneak attack +8d6
-  13th    Ranged legerdemain 4/day
-  14th    Sneak attack +9d6
-  15th    Impromptu sneak attack 4/day
-  16th    Sneak attack +10d6
-  17th    Ranged legerdemain 5/day
-  18th    Sneak attack +11d6
-  19th    Impromptu sneak attack 5/day
-  20th    Sneak attack +12d6
-  ------- ------------------------------
+|       |                              |
+|-------|------------------------------|
+| Level | Special                      |
+| 11th  | Impromptu sneak attack 3/day |
+| 12th  | Sneak attack +8d6            |
+| 13th  | Ranged legerdemain 4/day     |
+| 14th  | Sneak attack +9d6            |
+| 15th  | Impromptu sneak attack 4/day |
+| 16th  | Sneak attack +10d6           |
+| 17th  | Ranged legerdemain 5/day     |
+| 18th  | Sneak attack +11d6           |
+| 19th  | Impromptu sneak attack 5/day |
+| 20th  | Sneak attack +12d6           |
 
-  : Table: Epic Arcane Trickster
+Table: Epic Arcane Trickster
 
 ## Epic Assassin
 
@@ -148,20 +148,20 @@ Spell Opportunity, Spell Stowaway.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-**Sneak Attack:** The epic assassin's sneak attack damage increases by
+**Sneak Attack:** The epic assassin’s sneak attack damage increases by
 +1d6 every two levels after 9th.
 
 **Death Attack:** The assassin counts only half his or her class levels
 beyond 10th when determining the DC to resist this attack.
 
-**Spells:** The assassin's caster level is equal to his or her class
-level. The assassin's number of spells per day does not increase after
+**Spells:** The assassin’s caster level is equal to his or her class
+level. The assassin’s number of spells per day does not increase after
 10th level.
 
-**Uncanny Dodge:** The assassin's uncanny dodge bonus on saves against
-traps doesn't increase after 10th level.
+**Uncanny Dodge:** The assassin’s uncanny dodge bonus on saves against
+traps doesn’t increase after 10th level.
 
-**Saving Throw Bonus against Poison:** The assassin's bonus on saves
+**Saving Throw Bonus against Poison:** The assassin’s bonus on saves
 against poison increases by +1 every two levels after 10th.
 
 **Bonus Feats:** The epic assassin gains a bonus feat (selected from the
@@ -173,21 +173,21 @@ Improved Spell Capacity, Legendary Tracker, Lingering Damage, Sneak
 Attack of Opportunity, Spell Knowledge, Spontaneous Spell, Superior
 Initiative, Tenacious Magic, Uncanny Accuracy.
 
-  ------- ------------------------------------
-  Level   Special
-  11th    Sneak attack +6d6
-  12th    +6 save against poison
-  13th    Sneak attack +7d6
-  14th    +7 save against poison, bonus feat
-  15th    Sneak attack +8d6
-  16th    +8 save against poison
-  17th    Sneak attack +9d6
-  18th    +9 save against poison, bonus feat
-  19th    Sneak attack +10d6
-  20th    +10 save against poison
-  ------- ------------------------------------
+|       |                                    |
+|-------|------------------------------------|
+| Level | Special                            |
+| 11th  | Sneak attack +6d6                  |
+| 12th  | +6 save against poison             |
+| 13th  | Sneak attack +7d6                  |
+| 14th  | +7 save against poison, bonus feat |
+| 15th  | Sneak attack +8d6                  |
+| 16th  | +8 save against poison             |
+| 17th  | Sneak attack +9d6                  |
+| 18th  | +9 save against poison, bonus feat |
+| 19th  | Sneak attack +10d6                 |
+| 20th  | +10 save against poison            |
 
-  : Table: The Epic Assassin
+Table: The Epic Assassin
 
 ## Epic Blackguard
 
@@ -195,8 +195,8 @@ Initiative, Tenacious Magic, Uncanny Accuracy.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-**Spells:** The blackguard's caster level is equal to his or her class
-level. The blackguard's number of spells per day does not increase after
+**Spells:** The blackguard’s caster level is equal to his or her class
+level. The blackguard’s number of spells per day does not increase after
 10th level.
 
 **Smite Good:** The epic blackguard gains one additional daily use of
@@ -206,11 +206,11 @@ her class level to damage with any smite good attack, as normal.
 **Command Undead:** The blackguard commands undead as a cleric of two
 levels lower, as normal.
 
-**Sneak Attack:** The epic blackguard's sneak attack damage increases by
+**Sneak Attack:** The epic blackguard’s sneak attack damage increases by
 +1d6 every three levels after 10th.
 
-**Fiendish Servant:** Up to 20th character level, a fiendish servant's
-powers depend on its master's character level, not his or her blackguard
+**Fiendish Servant:** Up to 20th character level, a fiendish servant’s
+powers depend on its master’s character level, not his or her blackguard
 class level. After that, they depend on his or her blackguard level. For
 every five blackguard levels above 10th the fiendish servant gains +2
 bonus Hit Dice, its natural armor in-creases by +2, and its Strength and
@@ -232,21 +232,21 @@ Overwhelming Critical, Perfect Health, Permanent Emanation, Planar
 Turning, Spontaneous Spell, Undead Mastery, Unholy Strike, Widen Aura of
 Despair, Zone of Animation.
 
-  ------- -------------------------------
-  Level   Special
-  11th    ---
-  12th    ---
-  13th    Sneak attack +4d6, bonus feat
-  14th    ---
-  15th    Smite good 4/day
-  16th    Sneak attack +5d6, bonus feat
-  17th    ---
-  18th    ---
-  19th    Sneak attack +6d6, bonus feat
-  20th    Smite good 5/day
-  ------- -------------------------------
+|       |                               |
+|-------|-------------------------------|
+| Level | Special                       |
+| 11th  | —                             |
+| 12th  | —                             |
+| 13th  | Sneak attack +4d6, bonus feat |
+| 14th  | —                             |
+| 15th  | Smite good 4/day              |
+| 16th  | Sneak attack +5d6, bonus feat |
+| 17th  | —                             |
+| 18th  | —                             |
+| 19th  | Sneak attack +6d6, bonus feat |
+| 20th  | Smite good 5/day              |
 
-  : Table: The Epic Blackguard
+Table: The Epic Blackguard
 
 ## Epic Dragon Disciple
 
@@ -255,11 +255,11 @@ Despair, Zone of Animation.
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
 **Natural Armor:** At 13th level, and every 3 levels thereafter, the
-dragon disciple\'s natural armor bonus increases by +1 (to +5 at 13th,
-+6 at 16th, and so on).
+dragon disciple's natural armor bonus increases by +1 (to +5 at 13th, +6
+at 16th, and so on).
 
 **Breath Weapon:** At 13th level, and every 4 levels thereafter, the
-damage dealt by the epic dragon disciple\'s breath weapon increases by
+damage dealt by the epic dragon disciple's breath weapon increases by
 2d8.
 
 **Bonus Feats:** The epic dragon disciple gains a bonus feat (selected
@@ -272,24 +272,24 @@ Great Strength, Hover†, Improved Combat Casting, Improved Darkvision,
 Improved Spell Capacity, Improved Spell Resistance, Snatch†, Spell
 Knowledge, Wingover†.
 
-†Non-epic feat. Treat the dragon disciple\'s age category as one-half
-his class level for the purpose of the Hover feat.
+†Non-epic feat. Treat the dragon disciple's age category as one-half his
+class level for the purpose of the Hover feat.
 
-  ------- ---------------------------------------
-  Level   Special
-  11th    ---
-  12th    ---
-  13th    Breath weapon (8d8), natural armor +5
-  14th    Bonus feat
-  15th    ---
-  16th    Natural armor +6
-  17th    Breath weapon (10d8)
-  18th    Bonus feat
-  19th    Natural armor +7
-  20th    ---
-  ------- ---------------------------------------
+|       |                                       |
+|-------|---------------------------------------|
+| Level | Special                               |
+| 11th  | —                                     |
+| 12th  | —                                     |
+| 13th  | Breath weapon (8d8), natural armor +5 |
+| 14th  | Bonus feat                            |
+| 15th  | —                                     |
+| 16th  | Natural armor +6                      |
+| 17th  | Breath weapon (10d8)                  |
+| 18th  | Bonus feat                            |
+| 19th  | Natural armor +7                      |
+| 20th  | —                                     |
 
-  : Table: Epic Dragon Disciple
+Table: Epic Dragon Disciple
 
 ## Epic Duelist
 
@@ -298,7 +298,7 @@ his class level for the purpose of the Hover feat.
 **Skill Points at Each Additional Level:** 4 + Int modifier
 
 **Precise Strike:** Every five levels above 10th, the extra damage
-inflicted by the epic duelist's precise strike increases by +1d6.
+inflicted by the epic duelist’s precise strike increases by +1d6.
 
 **Bonus Feats:** The epic duelist gains a bonus feat (selected from the
 list of epic duelist feats) every 3 levels after 10th.
@@ -313,21 +313,21 @@ Initiative, Two-Weapon Rend.
 these feats, but in that case must be using a light or one-handed
 piercing weapon.
 
-  ------- ---------------------
-  Level   Special
-  11th    ---
-  12th    ---
-  13th    Bonus feat
-  14th    ---
-  15th    Precise strike +3d6
-  16th    Bonus feat
-  17th    ---
-  18th    ---
-  19th    Bonus feat
-  20th    Precise strike +4d6
-  ------- ---------------------
+|       |                     |
+|-------|---------------------|
+| Level | Special             |
+| 11th  | —                   |
+| 12th  | —                   |
+| 13th  | Bonus feat          |
+| 14th  | —                   |
+| 15th  | Precise strike +3d6 |
+| 16th  | Bonus feat          |
+| 17th  | —                   |
+| 18th  | —                   |
+| 19th  | Bonus feat          |
+| 20th  | Precise strike +4d6 |
 
-  : Table: Epic Duelist
+Table: Epic Duelist
 
 ## Epic Dwarven Defender
 
@@ -338,13 +338,13 @@ piercing weapon.
 **Defensive Stance:** The epic dwarven defender gains one additional
 defensive stance per day every two levels above 9th.
 
-**Defensive Awareness:** The dwarven defender's defensive awareness
-bonus on saves against traps doesn't increase after 10th level.
+**Defensive Awareness:** The dwarven defender’s defensive awareness
+bonus on saves against traps doesn’t increase after 10th level.
 
-**Damage Reduction:** The epic dwarven defender's damage reduction
+**Damage Reduction:** The epic dwarven defender’s damage reduction
 increases by 3 points every four levels above 10th.
 
-**Trap Sense (Ex):** The epic dwarven defender's bonus increases by +1
+**Trap Sense (Ex):** The epic dwarven defender’s bonus increases by +1
 every four levels higher than 8th.
 
 **Bonus Feats:** The epic dwarven defender gains a bonus feat (selected
@@ -358,21 +358,21 @@ Healing, Improved Combat Reflexes, Improved Dark-vision, Instant Reload,
 Mobile Defense, Overwhelming Critical, Perfect Health, Spellcasting
 Harrier.
 
-  ------- ------------------------------------
-  Level   Special
-  11th    Defensive stance 6/day
-  12th    Trap sense +3
-  13th    Defensive stance 7/day
-  14th    Damage reduction 9/---
-  15th    Bonus feat, defensive stance 8/day
-  16th    Trap sense +4
-  17th    Defensive stance 9/day
-  18th    Damage reduction 12/---
-  19th    Defensive stance 10/day
-  20th    Bonus feat, trap sense +5
-  ------- ------------------------------------
+|       |                                    |
+|-------|------------------------------------|
+| Level | Special                            |
+| 11th  | Defensive stance 6/day             |
+| 12th  | Trap sense +3                      |
+| 13th  | Defensive stance 7/day             |
+| 14th  | Damage reduction 9/—               |
+| 15th  | Bonus feat, defensive stance 8/day |
+| 16th  | Trap sense +4                      |
+| 17th  | Defensive stance 9/day             |
+| 18th  | Damage reduction 12/—              |
+| 19th  | Defensive stance 10/day            |
+| 20th  | Bonus feat, trap sense +5          |
 
-  : Table: The Epic Dwarven Defender
+Table: The Epic Dwarven Defender
 
 ## Epic Eldritch Knight
 
@@ -380,7 +380,7 @@ Harrier.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier
 
-**Spells:** The epic eldritch knight's caster level increases by 1 per
+**Spells:** The epic eldritch knight’s caster level increases by 1 per
 level gained above 10th. The epic eldritch knight continues to gain new
 spells per day (and spells known, if applicable) at each new level, up
 to the maximum spells per day and spells known of the arcane
@@ -403,21 +403,21 @@ Spellcasting Harrier, Spontaneous Spell, Storm of Throws, Superior
 Initiative, Swarm of Arrows, Tenacious Magic, Two-Weapon Rend, Uncanny
 Accuracy.
 
-  ------- ------------
-  Level   Special
-  11th    ---
-  12th    ---
-  13th    ---
-  14th    Bonus feat
-  15th    ---
-  16th    ---
-  17th    ---
-  18th    Bonus feat
-  19th    ---
-  20th    ---
-  ------- ------------
+|       |            |
+|-------|------------|
+| Level | Special    |
+| 11th  | —          |
+| 12th  | —          |
+| 13th  | —          |
+| 14th  | Bonus feat |
+| 15th  | —          |
+| 16th  | —          |
+| 17th  | —          |
+| 18th  | Bonus feat |
+| 19th  | —          |
+| 20th  | —          |
 
-  : Table: Epic Eldritch Knight
+Table: Epic Eldritch Knight
 
 ## Epic Horizon Walker
 
@@ -429,7 +429,7 @@ Accuracy.
 the terrains already in her terrain mastery repertoire. The insight
 bonus on attack and damage rolls against creatures of that terrain
 increases by +1. The maximum insight bonus for any one terrain is equal
-to the epic horizon walker's class level divided by 10, rounded up.
+to the epic horizon walker’s class level divided by 10, rounded up.
 
 **Bonus Feats:** The epic horizon walker gains a bonus feat (selected
 from the list of epic horizon walker feats) every 4 levels after 10th.
@@ -439,21 +439,21 @@ Energy Resistance, Epic Endurance, Epic Prowess, Epic Reputation, Epic
 Skill Focus, Epic Speed, Epic Toughness, Extended Life Span, Legendary
 Climber, Perfect Health, Polyglot.
 
-  ------- --------------------------------------
-  Level   Special
-  11th    Improved Terrain Mastery
-  12th    Improved Terrain Mastery
-  13th    Improved Terrain Mastery
-  14th    Bonus feat, improved Terrain Mastery
-  15th    Improved Terrain Mastery
-  16th    Improved Terrain Mastery
-  17th    Improved Terrain Mastery
-  18th    Bonus feat, improved Terrain Mastery
-  19th    Improved Terrain Mastery
-  20th    Improved Terrain Mastery
-  ------- --------------------------------------
+|       |                                      |
+|-------|--------------------------------------|
+| Level | Special                              |
+| 11th  | Improved Terrain Mastery             |
+| 12th  | Improved Terrain Mastery             |
+| 13th  | Improved Terrain Mastery             |
+| 14th  | Bonus feat, improved Terrain Mastery |
+| 15th  | Improved Terrain Mastery             |
+| 16th  | Improved Terrain Mastery             |
+| 17th  | Improved Terrain Mastery             |
+| 18th  | Bonus feat, improved Terrain Mastery |
+| 19th  | Improved Terrain Mastery             |
+| 20th  | Improved Terrain Mastery             |
 
-  : Table: Epic Horizon Walker
+Table: Epic Horizon Walker
 
 ## Epic Loremaster
 
@@ -461,19 +461,19 @@ Climber, Perfect Health, Polyglot.
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-**Spells:** The epic loremaster's caster level increases by 1 per level
+**Spells:** The epic loremaster’s caster level increases by 1 per level
 gained above 10th. The epic loremaster continues to gain new spells per
 day (and spells known, if applicable) at each new level, up to the
 maximum spells per day and spells known of the spellcasting class to
 which the loremaster belonged before adding the prestige class.
 
-**Secret:** The loremaster doesn't gain additional secrets after 10th
+**Secret:** The loremaster doesn’t gain additional secrets after 10th
 level, because there is a limit to the number of secrets that can be
 gained, but the character can choose a lore-master secret instead of a
-bonus feat. Remember that a character can't select the same secret
+bonus feat. Remember that a character can’t select the same secret
 twice.
 
-**Lore:** Add the loremaster's class level + Intelligence modifier to
+**Lore:** Add the loremaster’s class level + Intelligence modifier to
 all lore checks, as normal.
 
 **Bonus Feats:** The epic loremaster gains a bonus feat (selected from
@@ -491,21 +491,21 @@ Scroll, Spell Knowledge, Spell Stowaway, Spell Opportunity, Spontaneous
 Spell, Tenacious Magic. In addition to the feats on this list, the
 loremaster can select a loremaster secret instead of a bonus feat.
 
-  ------- ------------
-  Level   Special
-  11th    ---
-  12th    ---
-  13th    Bonus feat
-  14th    ---
-  15th    ---
-  16th    Bonus feat
-  17th    ---
-  18th    ---
-  19th    Bonus feat
-  20th    ---
-  ------- ------------
+|       |            |
+|-------|------------|
+| Level | Special    |
+| 11th  | —          |
+| 12th  | —          |
+| 13th  | Bonus feat |
+| 14th  | —          |
+| 15th  | —          |
+| 16th  | Bonus feat |
+| 17th  | —          |
+| 18th  | —          |
+| 19th  | Bonus feat |
+| 20th  | —          |
 
-  : Table: The Epic Loremaster
+Table: The Epic Loremaster
 
 ## Epic Mystic Theurge
 
@@ -536,21 +536,21 @@ Spell Capacity, Intensify Spell, Multispell, Permanent Emanation, Spell
 Knowledge, Spell Opportunity, Spell Stowaway, Spontaneous Domain Access,
 Spontaneous Spell, Tenacious Magic.
 
-  ------- ------------
-  Level   Special
-  11th    ---
-  12th    ---
-  13th    ---
-  14th    ---
-  15th    ---
-  16th    Bonus feat
-  17th    ---
-  18th    ---
-  19th    ---
-  20th    ---
-  ------- ------------
+|       |            |
+|-------|------------|
+| Level | Special    |
+| 11th  | —          |
+| 12th  | —          |
+| 13th  | —          |
+| 14th  | —          |
+| 15th  | —          |
+| 16th  | Bonus feat |
+| 17th  | —          |
+| 18th  | —          |
+| 19th  | —          |
+| 20th  | —          |
 
-  : Table: Epic Mystic Theurge
+Table: Epic Mystic Theurge
 
 ## Epic Shadowdancer
 
@@ -560,9 +560,9 @@ Spontaneous Spell, Tenacious Magic.
 
 **Summon Shadow:** Every third level gained after 9th adds +2 HD (and
 the requisite base attace and base save bonus increases) to the
-shadowdancer's shadow companion.
+shadowdancer’s shadow companion.
 
-**Shadow Jump:** The total distance of a shadowdancer's shadow jump
+**Shadow Jump:** The total distance of a shadowdancer’s shadow jump
 doubles every two levels after 10th.
 
 **Bonus Feats:** The epic shadowdancer gains a bonus feat (selected from
@@ -575,21 +575,21 @@ Improved Whirlwind Attack, Infinite Deflection, Legendary Leaper,
 Reflect Arrows, Self-Concealment, Spellcasting Harrier, Superior
 Initiative.
 
-  ------- ------------------------------------------------------------
-  Level   Special
-  11th    ---
-  12th    Summon shadow (four of 8 HD each), shadow jump (320 ft.)
-  13th    Bonus feat
-  14th    Shadow jump (640 ft.)
-  15th    Summon shadow (five of 10 HD each)
-  16th    Shadow jump (1,280 ft.), bonus feat
-  17th    ---
-  18th    Summon shadow (six of 12 HD each), shadow jump (2,560 ft.)
-  19th    Bonus feat
-  20th    Shadow jump (5,120 ft.)
-  ------- ------------------------------------------------------------
+|       |                                                            |
+|-------|------------------------------------------------------------|
+| Level | Special                                                    |
+| 11th  | —                                                          |
+| 12th  | Summon shadow (four of 8 HD each), shadow jump (320 ft.)   |
+| 13th  | Bonus feat                                                 |
+| 14th  | Shadow jump (640 ft.)                                      |
+| 15th  | Summon shadow (five of 10 HD each)                         |
+| 16th  | Shadow jump (1,280 ft.), bonus feat                        |
+| 17th  | —                                                          |
+| 18th  | Summon shadow (six of 12 HD each), shadow jump (2,560 ft.) |
+| 19th  | Bonus feat                                                 |
+| 20th  | Shadow jump (5,120 ft.)                                    |
 
-  : Table: The Epic Shadowdancer
+Table: The Epic Shadowdancer
 
 ## Epic Prestige Classes
 
@@ -604,7 +604,7 @@ desires.
 
 **Hit Die:** d6.
 
-### Requirements {#agent-retriever--requirements}
+### Requirements
 
 To qualify to become an agent retriever, a character must fulfill all
 the following criteria.
@@ -616,9 +616,9 @@ ranks.
 
 **Feats:** Track.
 
-### Class Skills {#agent-retriever--class-skills}
+### Class Skills
 
-The agent retriever's class skills (and the key ability for each skill)
+The agent retriever’s class skills (and the key ability for each skill)
 are Appraise (Int), Decipher Script (Int), Diplomacy (Cha), Forgery
 (Int), Gather Information (Cha), Knowledge (arcana) (Int), Knowledge
 (geography) (Int), Knowledge (history) (Int), Knowledge (local) (Int),
@@ -627,23 +627,23 @@ Knowledge (the planes) (Int), Listen (Wis), Search (Int), and Spot
 
 **Skill Points at Each Level:** 6 + Int modifier.
 
-  ------- --------------------------------------- ----------------------------
-  Level   Special                                 Spells per Day
-  1st     *Uncanny location,*tracking bonus +10   +1 level of existing class
-  2nd     *Plane shift* 1/day                     +1 level of existing class
-  3rd     *Force sphere* 1/day                    +1 level of existing class
-  4th     *Ethereal jaunt* 1/day                  +1 level of existing class
-  5th     Bonus feat                              +1 level of existing class
-  6th     Tracking bonus +20                      +1 level of existing class
-  7th     *Plane shift* 2/day                     +1 level of existing class
-  8th     *Force sphere* 2/day                    +1 level of existing class
-  9th     *Ethereal jaunt* 2/day                  +1 level of existing class
-  10th    Bonus feat                              +1 level of existing class
-  ------- --------------------------------------- ----------------------------
+|       |                                       |                            |
+|-------|---------------------------------------|----------------------------|
+| Level | Special                               | Spells per Day             |
+| 1st   | *Uncanny location,*tracking bonus +10 | +1 level of existing class |
+| 2nd   | *Plane shift* 1/day                   | +1 level of existing class |
+| 3rd   | *Force sphere* 1/day                  | +1 level of existing class |
+| 4th   | *Ethereal jaunt* 1/day                | +1 level of existing class |
+| 5th   | Bonus feat                            | +1 level of existing class |
+| 6th   | Tracking bonus +20                    | +1 level of existing class |
+| 7th   | *Plane shift* 2/day                   | +1 level of existing class |
+| 8th   | *Force sphere* 2/day                  | +1 level of existing class |
+| 9th   | *Ethereal jaunt* 2/day                | +1 level of existing class |
+| 10th  | Bonus feat                            | +1 level of existing class |
 
-  : Table: The Agent Retriever
+Table: The Agent Retriever
 
-### Class Features {#agent-retriever--class-features}
+### Class Features
 
 The following are class features of the agent retriever prestige class.
 
@@ -663,7 +663,7 @@ for the purpose of determining spells per day.
 
 ***Uncanny Location* (Sp):** When a agent retriever spends one day
 attuning him or herself to a person or object he or she is seeking, he
-or she automatically determines that person's or item's location as the
+or she automatically determines that person’s or item’s location as the
 *discern location* spell. Once he or she has established a sense of the
 location, the agent retriever can maintain this uncanny link even if the
 target moves, but only so long as he or she hunts down this person or
@@ -684,13 +684,13 @@ additional time per day every five levels thereafter.
 forth a *force sphere.* The agent retriever can attempt to enclose any
 creature or object he or she can see within 30 feet. The target is
 allowed a Reflex saving throw (DC 20 + 1/2 the class level of the agent
-retriever + the agent retriever's Dexterity modifier). Those who fail
+retriever + the agent retriever’s Dexterity modifier). Those who fail
 are then encapsulated in a sphere of force with a radius of up to 50
 feet (the sphere is only as large as it needs to be, up to its maximum
 radius). Those trapped inside cannot escape except with methods that can
 bypass or destroy a *wall of force.*The sphere persists as long as the
 agent retriever desires, up to a maximum of seven days. A captured
-target does not count toward the capacity of the agent retriever's
+target does not count toward the capacity of the agent retriever’s
 *plane shift* ability, and the agent retriever can plane shift with the
 target despite the presence of the *force sphere.* The agent retriever
 can use this power once per day at 3rd level, plus one additional time
@@ -713,7 +713,7 @@ Accuracy.
 
 **Hit Die:** d4.
 
-### Requirements {#cosmic-descryer--requirements}
+### Requirements
 
 To qualify to become a cosmic descryer, a character must fulfill all the
 following criteria.
@@ -730,9 +730,9 @@ binding* spell.
 **Special:** Must have previously traveled to any other plane of
 existence.
 
-### Class Skills {#cosmic-descryer--class-skills}
+### Class Skills
 
-The cosmic descryer's class skills (and the key ability for each skill)
+The cosmic descryer’s class skills (and the key ability for each skill)
 are Bluff (Cha), Concentration (Con), Craft (Int), Diplomacy (Cha),
 Knowledge (arcana) (Int), Knowledge (religion) (Int), Knowledge (the
 planes) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft
@@ -740,23 +740,23 @@ planes) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ------- ------------------------------------------------------------ ----------------------------
-  Level   Special                                                      Spells per Day
-  1st     Superior planar summoning (+4 HD)                            
-  2nd     Naturalization (1 plane)                                     +1 level of existing class
-  3rd     Enduring gate (1 day)                                        
-  4th     Naturalization (2 planes)                                    +1 level of existing class
-  5th     Bonus feat, superior planar summoning (+8 HD)                
-  6th     Naturalization (3 planes), enduring gate (2 days)            +1 level of existing class
-  7th     Cosmic connection 1/day                                      
-  8th     Naturalization (4 planes)                                    +1 level of existing class
-  9th     Superior planar summoning (+12 HD), enduring gate (3 days)   
-  10th    Naturalization (5 planes), bonus feat                        +1 level of existing class
-  ------- ------------------------------------------------------------ ----------------------------
+|       |                                                            |                            |
+|-------|------------------------------------------------------------|----------------------------|
+| Level | Special                                                    | Spells per Day             |
+| 1st   | Superior planar summoning (+4 HD)                          |                            |
+| 2nd   | Naturalization (1 plane)                                   | +1 level of existing class |
+| 3rd   | Enduring gate (1 day)                                      |                            |
+| 4th   | Naturalization (2 planes)                                  | +1 level of existing class |
+| 5th   | Bonus feat, superior planar summoning (+8 HD)              |                            |
+| 6th   | Naturalization (3 planes), enduring gate (2 days)          | +1 level of existing class |
+| 7th   | Cosmic connection 1/day                                    |                            |
+| 8th   | Naturalization (4 planes)                                  | +1 level of existing class |
+| 9th   | Superior planar summoning (+12 HD), enduring gate (3 days) |                            |
+| 10th  | Naturalization (5 planes), bonus feat                      | +1 level of existing class |
 
-  : Table: The Cosmic Descryer
+Table: The Cosmic Descryer
 
-### Class Features {#cosmic-descryer--class-features}
+### Class Features
 
 The following are class features of the cosmic descryer prestige class.
 
@@ -776,9 +776,9 @@ the purpose of determining spells per day.
 
 **Superior Planar Summoning (Ex):** Beginning at 1st level, the cosmic
 descryer can increase the power of any of the following
-spells---*elemental swarm, gate, greater planar ally, greater planar
-binding, summon monster IX,* or *summon nature's ally IX---to*affect or
-summon outsiders of 4 Hit Dice higher than the spell's normal limit or
+spells—*elemental swarm, gate, greater planar ally, greater planar
+binding, summon monster IX,* or *summon nature’s ally IX—to*affect or
+summon outsiders of 4 Hit Dice higher than the spell’s normal limit or
 conjure creatures with 4 Hit Dice of advancement. Every four levels
 thereafter, the cosmic descryer can increase the number of extra Hit
 Dice by 4.
@@ -828,26 +828,26 @@ spell.
 
 **Hit Die:** d10.
 
-### Requirements {#divine-emissary--requirements}
+### Requirements
 
 To become a divine emissary, the character must fulfill all the
 following criteria.
 
 **Base Attack Bonus:** +23.
 
-**Feats:** Weapon Focus (deity's favored weapon).
+**Feats:** Weapon Focus (deity’s favored weapon).
 
 **Epic Feat:** Great Smiting.
 
 **Skills:** Knowledge (religion) 10 ranks.
 
 **Special:** Must have a patron deity. Furthermore, the potential divine
-emissary must complete some quest that furthers his or her deity's goals
+emissary must complete some quest that furthers his or her deity’s goals
 so much that it impresses the deity.
 
-### Class Skills {#divine-emissary--class-skills}
+### Class Skills
 
-The divine emissary's class skills (and the key ability for each) are:
+The divine emissary’s class skills (and the key ability for each) are:
 Concentration (Con), Craft (Int), Diplomacy (Cha), Disguise (Cha),
 Gather Information (Cha), Heal (Wis), Intimidate (Cha), Knowledge
 (religion) (Int), Profession (Wis), Search (Int), Sense Motive (Wis),
@@ -857,21 +857,21 @@ Spellcraft (Int), Spot (Wis), and Use Magic Device (Cha).
 
 ### Table : the Divine Emissary
 
-  ------- --------------------------------------------
-  Level   Special
-  1st     *Divine inspiration* 1/day, granted domain
-  2nd     Extra smite 2/day
-  3rd     *Greater planar ally* 1/day
-  4th     *Divine inspiration* 2/day
-  5th     Extra smite 3/day
-  6th     Bonus feat
-  7th     *Divine inspiration* 3/day
-  8th     Extra smite 4/day
-  9th     Divine hand 1/day
-  10th    *Divine inspiration* 4/day
-  ------- --------------------------------------------
+|       |                                            |
+|-------|--------------------------------------------|
+| Level | Special                                    |
+| 1st   | *Divine inspiration* 1/day, granted domain |
+| 2nd   | Extra smite 2/day                          |
+| 3rd   | *Greater planar ally* 1/day                |
+| 4th   | *Divine inspiration* 2/day                 |
+| 5th   | Extra smite 3/day                          |
+| 6th   | Bonus feat                                 |
+| 7th   | *Divine inspiration* 3/day                 |
+| 8th   | Extra smite 4/day                          |
+| 9th   | Divine hand 1/day                          |
+| 10th  | *Divine inspiration* 4/day                 |
 
-### Class Features {#divine-emissary--class-features}
+### Class Features
 
 All the following are features of the divine emissary prestige class.
 
@@ -886,17 +886,17 @@ character had more than one spellcasting class before becoming a divine
 emissary, the player must decide to which class to add the new level for
 the purpose of determining spells per day.
 
-**Special Mount:** If he or she has one, the divine emissary's special
+**Special Mount:** If he or she has one, the divine emissary’s special
 mount continues to increase in power. Every five levels after 1st, the
 special mount gains +2 bonus Hit Dice, its natural armor increases by
 +2, its Strength adjustment increases by +1, and its Intelligence
-increases by +1. The mount's spell resistance equals the divine
-emissary's class level + the class level that provided the special
+increases by +1. The mount’s spell resistance equals the divine
+emissary’s class level + the class level that provided the special
 mount + 5.
 
 **Granted Domain (Ex):** A divine emissary gains access to one of his or
-her deity's domains, as well as the granted power of that domain. The
-extra domain expands a paladin's selection of spells, but he or she does
+her deity’s domains, as well as the granted power of that domain. The
+extra domain expands a paladin’s selection of spells, but he or she does
 not gain the ability to cast higher-level spells than he or she
 otherwise could. Clerics gain an additional domain but otherwise use the
 rules for preparing spells from their domains normally.
@@ -928,7 +928,7 @@ Strike, Spontaneous Spell, Widen Aura of Courage.
 
 **Divine Hand (Su):** As a free action, the emissary gains a +20 sacred
 (or profane if appropriate) bonus on his next melee or ranged attack
-roll, as long as the attack is made with the deity's favored weapon. The
+roll, as long as the attack is made with the deity’s favored weapon. The
 emissary can use divine hand once per day at 9th level, plus one
 additional time per day every ten levels thereafter.
 
@@ -936,7 +936,7 @@ additional time per day every ten levels thereafter.
 
 **Hit Die:** d6.
 
-### Requirements {#epic-infiltrator--requirements}
+### Requirements
 
 To qualify to become an epic infiltrator, a character must fulfill all
 the following criteria.
@@ -953,9 +953,9 @@ the following criteria.
 **Special:** Must have successfully spent one month using the Disguise
 skill to pose as someone else.
 
-### Class Skills {#epic-infiltrator--class-skills}
+### Class Skills
 
-The epic infiltrator's class skills (and the key ability for each skill)
+The epic infiltrator’s class skills (and the key ability for each skill)
 are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft
 (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int),
 Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information
@@ -965,23 +965,23 @@ Sleight of Hand (Dex), and Spot (Wis).
 
 **Skill Points at Each Level:** 8 + Int modifier.
 
-  ------- --------------------------------------------------
-  Level   Special
-  1st     Improved cover identity (3), sneak attack +1d6
-  2nd     Specialist training
-  3rd     Read thoughts 1/day, *mind blank* 1/day
-  4th     Far senses 1/day, sneak attack +2d6
-  5th     Specialist training, improved cover identity (4)
-  6th     Far senses 2/day
-  7th     Read thoughts 2/day, sneak attack +3d6
-  8th     Far senses 3/day, specialist training
-  9th     Improved cover identity (5)
-  10th    Far senses 4/day, sneak attack +4d6
-  ------- --------------------------------------------------
+|       |                                                  |
+|-------|--------------------------------------------------|
+| Level | Special                                          |
+| 1st   | Improved cover identity (3), sneak attack +1d6   |
+| 2nd   | Specialist training                              |
+| 3rd   | Read thoughts 1/day, *mind blank* 1/day          |
+| 4th   | Far senses 1/day, sneak attack +2d6              |
+| 5th   | Specialist training, improved cover identity (4) |
+| 6th   | Far senses 2/day                                 |
+| 7th   | Read thoughts 2/day, sneak attack +3d6           |
+| 8th   | Far senses 3/day, specialist training            |
+| 9th   | Improved cover identity (5)                      |
+| 10th  | Far senses 4/day, sneak attack +4d6              |
 
-  : Table: The Epic Infiltrator
+Table: The Epic Infiltrator
 
-### Class Features {#epic-infiltrator--class-features}
+### Class Features
 
 The following are class features of the epic infiltrator prestige class.
 
@@ -999,12 +999,12 @@ cover identity already possessed. An improved cover identity grants a +6
 circumstance bonus on Disguise checks and a +4 circumstance bonus on
 Bluff and Gather Information checks while operating in that identity. A
 specific cover identity may be improved multiple times, each time adding
-+2 to the bonuses. It is impossible to detect the epic infiltrator's
++2 to the bonuses. It is impossible to detect the epic infiltrator’s
 alignment with any form of divination. This ability functions exactly
 like an *undetectable alignment* spell, except that it is always active
 as a supernatural ability. Only divinations are confounded; spells that
 function only against certain alignments affect the epic infiltrator
-normally. Should the epic infiltrator wish to "retire" a cover identity
+normally. Should the epic infiltrator wish to “retire” a cover identity
 and develop a new one, he or she must spend one week practicing the new
 identity before he or she earns the bonuses. Cover identities do not in
 themselves provide the epic infiltrator with additional skills,
@@ -1016,24 +1016,24 @@ also put on or take off armor in one-half the normal time.
 **Sneak Attack:** If an epic infiltrator can catch an opponent when the
 opponent is unable to defend effectively from his or her attack, he or
 she can strike a vital spot for extra damage. Any time the epic
-infiltrator's target would be denied his or her Dexterity bonus to AC
+infiltrator’s target would be denied his or her Dexterity bonus to AC
 (whether he or she actually has a Dexterity bonus or not), the epic
-infiltrator's attack deals +1d6 points of damage. This extra damage
+infiltrator’s attack deals +1d6 points of damage. This extra damage
 increases by +1d6 points every three levels. Should the epic infiltrator
 score a critical hit with a sneak attack, this extra damage is not
 multiplied. Ranged attacks can only count as sneak attacks if the target
 is 30 feet away or less. With a sap or an unarmed strike, the epic
 infiltrator can make a sneak attack that deals subdual damage instead of
 normal damage. He or she cannot use a weapon that deals normal damage to
-deal subdual damage in a sneak attack, not even with the usual --4
+deal subdual damage in a sneak attack, not even with the usual –4
 penalty. An epic infiltrator can only sneak attack living creatures with
-discernible anatomies---undead, constructs, oozes, plants, and
-incorporeal creatures lack vital areas to attack. Additionally, any
-creature immune to critical hits is similarly immune to sneak attacks.
-Also, the epic infiltrator must also be able to see the target well
-enough to pick out a vital spot and must be able to reach a vital spot.
-The epic infiltrator cannot sneak attack while striking at a creature
-with concealment or by striking the limbs of a creature whose vitals are
+discernible anatomies—undead, constructs, oozes, plants, and incorporeal
+creatures lack vital areas to attack. Additionally, any creature immune
+to critical hits is similarly immune to sneak attacks. Also, the epic
+infiltrator must also be able to see the target well enough to pick out
+a vital spot and must be able to reach a vital spot. The epic
+infiltrator cannot sneak attack while striking at a creature with
+concealment or by striking the limbs of a creature whose vitals are
 beyond reach. If an epic infiltrator gets a sneak attack bonus from
 another source, the bonuses to damage stack.
 
@@ -1065,7 +1065,7 @@ normal range, once per day, to a distance of 20 feet plus an additional
 personally visited the physical location earlier to use far senses on
 it. Barriers do not impede far senses, and low-light vision or
 darkvision function normally if the epic infiltrator has one or both of
-those abilities. Far senses can also apply to the epic infiltrator's
+those abilities. Far senses can also apply to the epic infiltrator’s
 read thoughts ability. Every two levels beyond 4th the epic infiltrator
 can perform this ability one additional time per day. This ability
 functions as the *clairaudience/clairvoyance* spell cast by a 15th-level
@@ -1081,7 +1081,7 @@ works as the *mind blank* spell cast by a 15th-level caster.
 
 **Hit Die:** d10.
 
-### Requirements {#guardian-paramount--requirements}
+### Requirements
 
 To qualify to become a guardian paramount, a character must fulfill all
 the following criteria.
@@ -1096,31 +1096,31 @@ the following criteria.
 
 **Special:** Uncanny dodge, evasion.
 
-### Class Skills {#guardian-paramount--class-skills}
+### Class Skills
 
-The guardian paramount's class skills (and the key ability for each
+The guardian paramount’s class skills (and the key ability for each
 skill) are Bluff (Cha), Climb (Str), Diplomacy (Cha), Intimidate (Cha),
 Jump (Str), Listen (Wis), Profession (Wis), and Spot (Wis).
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-  ------- ---------------------------------------------------
-  Level   Special
-  1st     Bonus feat, uncanny dodge enabler 3/day
-  2nd     Evasive preceptor 1/day
-  3rd     *Protective aura* 1/day
-  4th     Bonus feat, uncanny dodge enabler 4/day
-  5th     Adjust probability 2/day, evasive preceptor 2/day
-  6th     *Call back* 1/day, *protective aura* 2/day
-  7th     Bonus feat, uncanny dodge enabler 5/day
-  8th     Evasive preceptor 3/day, adjust probability 3/day
-  9th     *Protective aura* 3/day
-  10th    Bonus feat, uncanny dodge enabler 6/day
-  ------- ---------------------------------------------------
+|       |                                                   |
+|-------|---------------------------------------------------|
+| Level | Special                                           |
+| 1st   | Bonus feat, uncanny dodge enabler 3/day           |
+| 2nd   | Evasive preceptor 1/day                           |
+| 3rd   | *Protective aura* 1/day                           |
+| 4th   | Bonus feat, uncanny dodge enabler 4/day           |
+| 5th   | Adjust probability 2/day, evasive preceptor 2/day |
+| 6th   | *Call back* 1/day, *protective aura* 2/day        |
+| 7th   | Bonus feat, uncanny dodge enabler 5/day           |
+| 8th   | Evasive preceptor 3/day, adjust probability 3/day |
+| 9th   | *Protective aura* 3/day                           |
+| 10th  | Bonus feat, uncanny dodge enabler 6/day           |
 
-  : Table: The Guardian Paramount
+Table: The Guardian Paramount
 
-### Class Features {#guardian-paramount--class-features}
+### Class Features
 
 The following are class features of the guardian paramount prestige
 class.
@@ -1169,19 +1169,19 @@ one additional time per day every three levels thereafter. When a
 guardian paramount creates a *protective aura,*the transferred wounds
 are dealt to the guardian paramount as subdual damage, not normal
 damage, as with the *shield other* spell. Otherwise, the guardian
-paramount's *protective aura* functions like the *shield other spell*
+paramount’s *protective aura* functions like the *shield other spell*
 cast by an 8th-level cleric.
 
 **Adjust Probability (Ex):** On reaching 5th level, the guardian
 paramount gains the ability to affect probability twice per day, plus
 one additional time per day per three levels thereafter. The guardian
 paramount can force a reroll of one attack roll, check, or saving throw
-that another creature within 25 feet---friend or enemy---just made. The
+that another creature within 25 feet—friend or enemy—just made. The
 guardian paramount can find out whether the attack roll, check, or save
 would have succeeded before using this ability. The recipient must take
-the second roll, whether it's better or worse than the original roll.
+the second roll, whether it’s better or worse than the original roll.
 The use of this ability takes place outside the normal initiative order,
-but the paramount guardian can't use it if he or she is flat-footed or
+but the paramount guardian can’t use it if he or she is flat-footed or
 unable to see the situation resulting in the roll. The guardian
 paramount must decide whether to reroll as soon as the result of the
 attack roll, check, or save is known.
@@ -1197,7 +1197,7 @@ per day every six levels.
 
 **Hit Die:** d8.
 
-### Requirements {#high-proselytizer--requirements}
+### Requirements
 
 To qualify to become a high proselytizer, a character must fulfill all
 the following criteria.
@@ -1213,32 +1213,32 @@ or Knowledge (nature) 24 ranks.
 
 **Special:** Must have a patron deity.
 
-### Class Skills {#high-proselytizer--class-skills}
+### Class Skills
 
-The high proselytizer's class skills (and the key ability for each
+The high proselytizer’s class skills (and the key ability for each
 skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal
 (Wis), Knowledge (arcana) (Int), Knowledge (religion) (Int), Profession
 (Wis), Sense Motive (Wis), and Spellcraft (Int).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ------- ----------------------------------- ---------------------------------------
-  Level   Special                             Spells per Day
-  1st     *Proselytize* 1/day                 
-  2nd     *Heal* 1/day                        +1 level of divine spellcasting class
-  3rd     *Proselytize (deific touch)*1/day   
-  4th     Bonus feat                          +1 level of divine spellcasting class
-  5th     *Proselytize (deific word)*1/day    
-  6th     *Heal* 2/day                        +1 level of divine spellcasting class
-  7th     *Proselytize (deific face)*1/day    
-  8th     Bonus feat                          +1 level of divine spellcasting class
-  9th     *Proselytize (deific aura)*1/day    
-  10th    *Heal* 3/day                        +1 level of divine spellcasting class
-  ------- ----------------------------------- ---------------------------------------
+|       |                                   |                                       |
+|-------|-----------------------------------|---------------------------------------|
+| Level | Special                           | Spells per Day                        |
+| 1st   | *Proselytize* 1/day               |                                       |
+| 2nd   | *Heal* 1/day                      | +1 level of divine spellcasting class |
+| 3rd   | *Proselytize (deific touch)*1/day |                                       |
+| 4th   | Bonus feat                        | +1 level of divine spellcasting class |
+| 5th   | *Proselytize (deific word)*1/day  |                                       |
+| 6th   | *Heal* 2/day                      | +1 level of divine spellcasting class |
+| 7th   | *Proselytize (deific face)*1/day  |                                       |
+| 8th   | Bonus feat                        | +1 level of divine spellcasting class |
+| 9th   | *Proselytize (deific aura)*1/day  |                                       |
+| 10th  | *Heal* 3/day                      | +1 level of divine spellcasting class |
 
-  : Table: The High Proselytizer
+Table: The High Proselytizer
 
-### Class Features {#high-proselytizer--class-features}
+### Class Features
 
 The following are class features of the high proselytizer prestige
 class.
@@ -1268,15 +1268,15 @@ is speaking in this manner, he or she is treated as though affected by a
 anyone within a radius of 100 feet plus 50 feet per class level,
 regardless of background noise, and his or her speech can be understood
 as though the audience were affected by a *comprehend languages* spell.
-Finally, everyone in the range of the high proselytizer's voice
+Finally, everyone in the range of the high proselytizer’s voice
 immediately has a chance of becoming enraptured:
 
-  ------------------------------ ---------------------------------------------------------------------------------------------------------------
-  Type of Listener               Effect
-  Followers of the same deity    Automatic if 10 or fewer HD, otherwise Will save (DC 20 + 1/2 high proselytizer's class level + Wis modifier)
-  Others of the same alignment   Automatic if 5 or fewer HD, otherwise Will save (as above)
-  All others                     Will save (as above)
-  ------------------------------ ---------------------------------------------------------------------------------------------------------------
+|                              |                                                                                                               |
+|------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Type of Listener             | Effect                                                                                                        |
+| Followers of the same deity  | Automatic if 10 or fewer HD, otherwise Will save (DC 20 + 1/2 high proselytizer’s class level + Wis modifier) |
+| Others of the same alignment | Automatic if 5 or fewer HD, otherwise Will save (as above)                                                    |
+| All others                   | Will save (as above)                                                                                          |
 
 Enraptured audience members act as though affected by a *symbol of
 persuasion*, changing alignment as appropriate and otherwise functioning
@@ -1288,7 +1288,7 @@ the same deity, who never got a save in the first place). This rapture
 lasts for 10 minutes plus an additional 5 minutes per high proselytizer
 level.
 
-At 3rd level, the high proselytizer's proselytize ability includes
+At 3rd level, the high proselytizer’s proselytize ability includes
 deific touch once per day, plus one additional time per day per ten
 levels thereafter. During his or her speech, the high proselytizer can
 move among the enraptured, shaking hands, caressing brows, and otherwise
@@ -1348,7 +1348,7 @@ Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.
 
 **Hit Die:** d12.
 
-### Requirements {#legendary-dreadnought--requirements}
+### Requirements
 
 To qualify to become a legendary dreadnought, a character must fulfill
 all the following criteria.
@@ -1360,31 +1360,31 @@ all the following criteria.
 **Feats:** Combat Reflexes, Great Cleave, Improved Bull Rush, Improved
 Critical.
 
-### Class Skills {#legendary-dreadnought--class-skills}
+### Class Skills
 
-The legendary dreadnought's class skills (and the key ability for each
+The legendary dreadnought’s class skills (and the key ability for each
 skill) are Climb (Str), Craft (Int), Intimidate (Cha), Jump (Str), and
 Swim (Str).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ------- ----------------------
-  Level   Special
-  1st     Unstoppable 1/day
-  2nd     Unmovable 1/day
-  3rd     Shrug off punishment
-  4th     Thick skinned
-  5th     Bonus feat
-  6th     Unstoppable 2/day
-  7th     Unmovable 2/day
-  8th     Shrug off punishment
-  9th     Thick skinned
-  10th    Bonus feat
-  ------- ----------------------
+|       |                      |
+|-------|----------------------|
+| Level | Special              |
+| 1st   | Unstoppable 1/day    |
+| 2nd   | Unmovable 1/day      |
+| 3rd   | Shrug off punishment |
+| 4th   | Thick skinned        |
+| 5th   | Bonus feat           |
+| 6th   | Unstoppable 2/day    |
+| 7th   | Unmovable 2/day      |
+| 8th   | Shrug off punishment |
+| 9th   | Thick skinned        |
+| 10th  | Bonus feat           |
 
-  : Table: The Legendary Dreadnought
+Table: The Legendary Dreadnought
 
-### Class Features {#legendary-dreadnought--class-features}
+### Class Features
 
 The following are class features of the legendary dreadnought prestige
 class.
@@ -1424,7 +1424,7 @@ He or she still gains the +20 bonus on the saving throw in such a case.
 hit points at 3rd level and 12 more every five levels thereafter.
 
 **Thick Skinned (Ex):** At 4th level, the legendary dreadnought gains
-damage reduction 3/--. This does not stack with damage reduction granted
+damage reduction 3/–. This does not stack with damage reduction granted
 by magic items or nonpermanent magical effects, but it does stack with
 any damage reduction granted by permanent magical effects, class
 features, the Damage Reduction feat, and this ability itself. The damage
@@ -1442,7 +1442,7 @@ Overwhelming Critical, Penetrate Damage Reduction.
 
 **Hit Die:** d6.
 
-### Requirements {#perfect-wight--requirements}
+### Requirements
 
 To qualify to become a perfect wight, a character must fulfill all the
 following criteria.
@@ -1453,9 +1453,9 @@ following criteria.
 
 **Special:** Sneak attack +10d6.
 
-### Class Skills {#perfect-wight--class-skills}
+### Class Skills
 
-The perfect wight's class skills (and the key ability for each skill)
+The perfect wight’s class skills (and the key ability for each skill)
 are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft
 (Int), Disable Device (Int), Diplomacy (Cha), Disguise (Cha), Escape
 Artist (Dex), Gather Information (Cha), Hide (Dex), Innuendo (Wis), Jump
@@ -1465,23 +1465,23 @@ Use Rope (Dex).
 
 **Skill Points at Each Level:** 8 + Int modifier.
 
-  ------- ----------------------------
-  Level   Special
-  1st     Greater invisibility 1/day
-  2nd     Improved legerdemain 1/day
-  3rd     Incorporeal 1/day
-  4th     Shadow form 1/day
-  5th     Bonus feat
-  6th     Greater invisibility 2/day
-  7th     Improved legerdemain 2/day
-  8th     Incorporeal 2/day
-  9th     Shadow form 2/day
-  10th    Bonus feat
-  ------- ----------------------------
+|       |                            |
+|-------|----------------------------|
+| Level | Special                    |
+| 1st   | Greater invisibility 1/day |
+| 2nd   | Improved legerdemain 1/day |
+| 3rd   | Incorporeal 1/day          |
+| 4th   | Shadow form 1/day          |
+| 5th   | Bonus feat                 |
+| 6th   | Greater invisibility 2/day |
+| 7th   | Improved legerdemain 2/day |
+| 8th   | Incorporeal 2/day          |
+| 9th   | Shadow form 2/day          |
+| 10th  | Bonus feat                 |
 
-  : Table: The Perfect Wight
+Table: The Perfect Wight
 
-### Class Features {#perfect-wight--class-features}
+### Class Features
 
 The following are class features of the perfect wight prestige class.
 
@@ -1524,13 +1524,13 @@ bonus). An incorporeal perfect wight can pass through solid objects at
 will, but not force effects. His or her attack ignores natural armor,
 armor, and shields, although deflection bonuses and force effects work
 normally against it. An incorporeal perfect wight moves silently and
-cannot be heard with Listen checks if he or she doesn't wish to be.
+cannot be heard with Listen checks if he or she doesn’t wish to be.
 While incorporeal, the perfect wight has no Strength score, so his or
 her Dexterity modifier applies to both melee and ranged attacks.
 
 **Shadow Form (Su):** At 4th level, the perfect wight can take shadow
 form once per day, plus one additional time per day every five levels
-thereafter. The perfect wight's shadow form lasts 1 minute per level of
+thereafter. The perfect wight’s shadow form lasts 1 minute per level of
 the prestige class. While in shadow form the perfect wight is
 incorporeal (see above), is immune to critical hits, and can fly at a
 speed of 100 feet (good). The perfect wight can also use the substance
@@ -1552,7 +1552,7 @@ Harrier, Superior Initiative, Uncanny Accuracy.
 
 **Hit Die:** d10.
 
-### Requirements {#union-sentinel--requirements}
+### Requirements
 
 To qualify to become a Union Sentinel, a character must fulfill all the
 following criteria.
@@ -1569,32 +1569,32 @@ following criteria.
 
 **Special:** Must reside in a demiplane-city.
 
-### Class Skills {#union-sentinel--class-skills}
+### Class Skills
 
-The Union Sentinel's class skills (and the key ability for each skill)
+The Union Sentinel’s class skills (and the key ability for each skill)
 are Diplomacy (Cha), Gather Information (Cha), Intimidate (Cha),
 Knowledge (local) (Int), Listen (Wis), Profession (Wis), Search (Int),
 Sense Motive (Wis), and Spot (Wis).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ------- ------------------------------------------------------------------------------
-  Level   Special
-  1st     *Sending* 1/day, *shield of law* 1/day
-  2nd     *Freedom* 1/day, *knock* 1/day
-  3rd     *Dimensional anchor* 1/day
-  4th     Portal guardian 1/day, *shield of law* 2/day
-  5th     *Forcecage* 1/day
-  6th     *Dimensional anchor* 2/day, *knock* 2/day
-  7th     *Imprisonment* 1/day, *shield of law* 3/day
-  8th     *Freedom* 2/day, *sending* 2/day
-  9th     *Dimensional anchor* 3/day
-  10th    *Knock* 3/day, *forcecage* 2/day, portal guardian 2/day, shield of law 4/day
-  ------- ------------------------------------------------------------------------------
+|       |                                                                              |
+|-------|------------------------------------------------------------------------------|
+| Level | Special                                                                      |
+| 1st   | *Sending* 1/day, *shield of law* 1/day                                       |
+| 2nd   | *Freedom* 1/day, *knock* 1/day                                               |
+| 3rd   | *Dimensional anchor* 1/day                                                   |
+| 4th   | Portal guardian 1/day, *shield of law* 2/day                                 |
+| 5th   | *Forcecage* 1/day                                                            |
+| 6th   | *Dimensional anchor* 2/day, *knock* 2/day                                    |
+| 7th   | *Imprisonment* 1/day, *shield of law* 3/day                                  |
+| 8th   | *Freedom* 2/day, *sending* 2/day                                             |
+| 9th   | *Dimensional anchor* 3/day                                                   |
+| 10th  | *Knock* 3/day, *forcecage* 2/day, portal guardian 2/day, shield of law 4/day |
 
-  : Table: The Union Sentinel
+Table: The Union Sentinel
 
-### Class Features {#union-sentinel--class-features}
+### Class Features
 
 The following are class features of the Union Sentinel prestige class.
 

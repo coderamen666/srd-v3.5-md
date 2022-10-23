@@ -114,12 +114,12 @@ Before it can be cast, an epic spell must be developed. The process of
 development can be a time-consuming and expensive process. It is during
 development that a caster determines whether a given epic spell lies
 within his or her abilities or beyond them. The basis of that
-determination lies in an epic spell's Spellcraft DC.
+determination lies in an epic spell’s Spellcraft DC.
 
 The easiest way to develop an epic spell is to use one already given.
 The description of each of these unique spells gives the amount of gold,
 time, and experience points required to develop the spell. If a
-character pays a spell's development cost, he or she develops (and thus
+character pays a spell’s development cost, he or she develops (and thus
 knows) that spell.
 
 For information on developing an epic spell completely from scratch, see
@@ -138,27 +138,27 @@ A spellcaster can prepare or cast any epic spell he or she knows as many
 times per day as he or she has available epic spell slots. A spellcaster
 who can cast epic spells has a number of open epic spell slots per day
 equal to one-tenth his or her ranks in the Knowledge skill appropriate
-to the spell and the caster's class. Knowledge (arcana) is appropriate
+to the spell and the caster’s class. Knowledge (arcana) is appropriate
 for arcane casters, and Knowledge (religion) or Knowledge (nature) is
 appropriate for divine casters. The rules for rest between casting a
-day's allotment of epic spells are the same as for rest required to
-prepare standard spells. If the caster doesn't use up a day's allotment
+day’s allotment of epic spells are the same as for rest required to
+prepare standard spells. If the caster doesn’t use up a day’s allotment
 of epic spell slots, the unused slots remain available whether or not
 the spellcaster receives appropriate rest.
 
 Even if the epic spell has been developed and an epic spell slot is
-available, successfully casting an epic spell isn't assured. The
-caster's Spellcraft skill modifier is vital for casting an epic spell.
+available, successfully casting an epic spell isn’t assured. The
+caster’s Spellcraft skill modifier is vital for casting an epic spell.
 To cast an epic spell, a spellcaster makes a Spellcraft check against
-the epic spell's Spellcraft DC. If the check succeeds, the spell is
+the epic spell’s Spellcraft DC. If the check succeeds, the spell is
 cast. If the caster fails the check, the epic spell fizzles and the epic
 spell slot is used for the day.
 
 Because epic spells require Spellcraft checks, a spell is beyond the
-caster's ability if the final Spellcraft DC is greater than 20 + the
-spellcaster's Spellcraft modifier. Epic spells with DCs higher than 10 +
-the spellcaster's Spellcraft modifier are risky; a caster can take 10
-when casting an epic spell, but he or she can't take 20. When routinely
+caster’s ability if the final Spellcraft DC is greater than 20 + the
+spellcaster’s Spellcraft modifier. Epic spells with DCs higher than 10 +
+the spellcaster’s Spellcraft modifier are risky; a caster can take 10
+when casting an epic spell, but he or she can’t take 20. When routinely
 casting epic spells, most spellcasters take 10 on their Spellcraft
 checks.
 
@@ -170,14 +170,14 @@ as if they were 10th-level spells.
 **Metamagic, Items, and Epic Spells:** Metamagic feats and other epic
 feats that manipulate normal spells cannot be used with epic spells.
 
-A character can't craft a magic item that casts an epic spell,
+A character can’t craft a magic item that casts an epic spell,
 regardless of whether the item is activated with spell completion, a
 spell trigger, a command word, or simple use. Only major artifacts,
 which are beyond the means of even epic characters to create, can
 possibly contain magic of this power.
 
-The saving throw against a character's epic spell has a DC of 20 + the
-character's relevant ability score modifier. It's possible to develop
+The saving throw against a character’s epic spell has a DC of 20 + the
+character’s relevant ability score modifier. It’s possible to develop
 epic spells that have even higher DCs, however, by applying the
 appropriate factor.
 
@@ -190,7 +190,7 @@ progression.
 
 **Epic Spell Slots:** A character must have an available epic spell slot
 to prepare or cast an epic spell, just as he or she needs a normal spell
-slot for a nonepic spell. A character doesn't gain epic spell slots by
+slot for a nonepic spell. A character doesn’t gain epic spell slots by
 virtue of his or her level and class, however. A character gets one epic
 spell slot for every 10 ranks he or she has in the relevant Knowledge
 skill.
@@ -217,7 +217,7 @@ The following formulas are important to epic spellcasters.
 **Epic Spells Per Day:** Knowledge (arcana), Knowledge (religion), or
 Knowledge (nature) ranks ÷ 10 (round down).
 
-**To Cast an Epic Spell:** Spellcraft check (DC = epic spell's
+**To Cast an Epic Spell:** Spellcraft check (DC = epic spell’s
 Spellcraft DC).
 
 **Level of an Epic Spell:** Epic spells are considered 10th level for
@@ -226,7 +226,7 @@ determinations.
 
 **Saving Throw for an Epic Spell:** DC = 20 + key ability modifier.
 
-## Dispelling,Epic Spells,and Antimagic Field {#dispelling-epic-spells-and-antimagic-field}
+## Dispelling,Epic Spells,and Antimagic Field
 
 A lucky nonepic spellcaster casting *greater dispel magic* might be able
 to dispel an epic spell. The game mechanics do not change, and epic
@@ -234,13 +234,13 @@ spells do not occupy any privileged position allowing them to resist
 being dispelled other than their presumably high caster level. Likewise,
 epic spells using the *dispel* seed can dispel nonepic spells. Such epic
 spells use the same game mechanic: The check to dispel is 1d20 + a
-specified number (usually dispeller's level), and the DC is 11 + the
-spellcaster's level.
+specified number (usually dispeller’s level), and the DC is 11 + the
+spellcaster’s level.
 
 *Antimagic field* does not automatically suppress epic spells as it does
 standard spells. Instead, each time an epic spell is subject to an
 *antimagic field,*make a dispel check as a 20th-level caster (1d20 +
-20). The epic spell has a DC of 11 + the epic spell's spellcaster level.
+20). The epic spell has a DC of 11 + the epic spell’s spellcaster level.
 If the suppression check is successful, the epic spell is suppressed
 like any other spell. If the dispel check is unsuccessful, the epic
 spell functions normally.
@@ -254,8 +254,8 @@ Spellcraft DC and To Develop.
 **Spellcraft DC:** This is the DC of the Spellcraft check required to
 cast the epic spell. When casting an epic spell, the character gains a
 +5 bonus on his or her Spellcraft check if the base seed of the epic
-spell is from the character's arcane school specialty or primary psionic
-discipline. The character takes a --15 penalty if the epic spell seed is
+spell is from the character’s arcane school specialty or primary psionic
+discipline. The character takes a –15 penalty if the epic spell seed is
 from his or her prohibited arcane school.
 
 **To Develop:** The first part of this entry shows the resources in
@@ -281,7 +281,7 @@ when they attempt to create and develop their own unique epic spells.
 -   **Spell Resistance:** Yes
 -   **To Develop:** 450,000 gp; 9 days; 18,000 XP. Seeds: *energy* (DC
     19), *animate dead* (DC 23). Factors: set undead type to skeleton
-    (--12 DC), 1-action casting time (+20 DC).
+    (–12 DC), 1-action casting time (+20 DC).
 
 When this spell is cast, enemies within range are dealt 10d6 points of
 cold damage. However, up to twenty of those victims that perish as a
@@ -305,7 +305,7 @@ limit for controlled undead work just as well with undead created with
 -   **Spell Resistance:** Yes
 -   **To Develop:** 702,000 gp; 15 days; 28,080 XP. Seeds: *energy* (DC
     19), *animate dead* (DC 23). Factors: increase damage to 30d6 (+40
-    DC), set undead type to wight (--4 DC).
+    DC), set undead type to wight (–4 DC).
 
 When this spell is cast, enemies within range are dealt 30d6 points of
 cold damage. However, up to five victims that perish as a result of this
@@ -344,7 +344,7 @@ level (or 1 point of Constitution if the subject was 1st level).
 *Contingent resurrection* does not work on a creature that has died of
 old age.
 
-## Create Living Vault [(Ritual)]{.small} {#create-living-vault}
+## Create Living Vault <span class="small">(Ritual)</span>
 
 -   Conjuration (Creation)
 -   **Spellcraft DC:** 58
@@ -357,12 +357,12 @@ old age.
 -   **Spell Resistance:** None
 -   **To Develop:** 540,000 gp; 11 days; 21,600 XP. Seeds: *animate*
     (DC 25) large chunk of stone, *fortify* (DC 27). Factors: allow
-    vault to "grow" to proper size after created in 4d4 days (ad hoc +20
+    vault to “grow” to proper size after created in 4d4 days (ad hoc +20
     DC), increase HD of object by 92 (+184 DC), grant magical immunity
     (ad hoc +105 DC), increase damage reduction to 15 (+28 DC) and to
     /epic (+15 DC), make permanent (x5 DC). Mitigating factors: increase
-    casting time by 10 minutes (--20 DC), increase casting time by 100
-    days (--200 DC), 9d6 backlash (--9 DC), seven additional casters
+    casting time by 10 minutes (–20 DC), increase casting time by 100
+    days (–200 DC), 9d6 backlash (–9 DC), seven additional casters
     contributing one epic spell slot (‑133 DC), burn 20,000 XP per epic
     caster (‑1,600 DC).
 
@@ -395,7 +395,7 @@ contact it.
     creature (ad hoc +8 DC), grant damage reduction 1/epic (+15 DC),
     allow mass to move at your speed (ad hoc +2 DC), perfect control of
     vermin (ad hoc +2 DC). Mitigating factor: change range to personal
-    (--2 DC).
+    (–2 DC).
 
 After casting *crown of vermin,* one thousand venomous, biting and
 stinging spiders, scorpions, beetles, and centipedes erupt from the very
@@ -414,9 +414,9 @@ Reflex saving throw each round to avoid the full press, and if
 successful, take only 10d10 bites (and 10d10 points of damage). A total
 of 1,000 points of damage can be dealt to those who fall prey to the
 *crown of vermin.*The vermin have damage reduction 1/epic, so the
-vermin's natural weapons are treated as epic for the purpose of
-overcoming damage reduction. If there aren't enough vermin to kill all
-the creatures in the spell's effect, the creature with the fewest hit
+vermin’s natural weapons are treated as epic for the purpose of
+overcoming damage reduction. If there aren’t enough vermin to kill all
+the creatures in the spell’s effect, the creature with the fewest hit
 points is affected first, then the creature with the second fewest hit
 points, and so on. After all creatures that can be killed have been
 killed, any remaining damage is distributed among the survivors equally.
@@ -425,17 +425,17 @@ The character has utter control over the vermin in his or her aura, and
 can force them into areas that would normally deter common vermin. The
 character can completely suppress his or her vermin aura as a free
 action so that no vermin are visible at all. The time that vermin are
-suppressed does not count toward the spell's duration. Alternatively,
+suppressed does not count toward the spell’s duration. Alternatively,
 the character can roughly shape and move the vermin in any fashion he or
 she desires within the limits of the 10-foot-radius spread as a
 move-equivalent action. The vermin cannot be wrested from the
-character's control through any means. The vermin make all saving throws
-to avoid damaging effects using the character's base saving throw
-bonuses. They gain the character's spell resistance, if any, and they
+character’s control through any means. The vermin make all saving throws
+to avoid damaging effects using the character’s base saving throw
+bonuses. They gain the character’s spell resistance, if any, and they
 get saving throws against spells that would otherwise automatically slay
 vermin. A character can see through his or her *crown of vermin* without
 difficulty, but gains one-half concealment against enemy attacks
-launched both outside and within the character's *crown of vermin.*
+launched both outside and within the character’s *crown of vermin.*
 
 ## Damnation
 
@@ -451,14 +451,14 @@ launched both outside and within the character's *crown of vermin.*
     preview likely hellscape) (DC 17), *transport* (DC 27), *compel* (to
     keep target in hell) (DC 19). Factors: interplanar travel (+4 DC),
     unwilling target (+4 DC), 1-action casting time (+20 DC), +15 to DC
-    of subject's save (+30 DC). Mitigating factor: burn 2,400 XP (--24
+    of subject’s save (+30 DC). Mitigating factor: burn 2,400 XP (–24
     DC).
 
 The character sends his or her foe to hell. If the character succeeds at
 a melee touch attack, the target must succeed at a Will saving throw (DC
 = the standard epic spell DC + 15). If he or she fails this saving
 throw, he or she is sent straight to a layer of a lawful evil plane (or
-a chaotic evil plane, at the character's option) swarming with fiends.
+a chaotic evil plane, at the character’s option) swarming with fiends.
 The subject will not willingly leave the plane for 20 hours, believing
 that his or her predicament is a just reward for an ill-spent life. Even
 after the compulsion fades, he or she must devise his or her own escape
@@ -481,16 +481,16 @@ balors, if in a chaotic evil plane) every hour he or she spends in hell.
 -   **Spell Resistance:** Yes
 -   **To Develop:** 738,000 gp; 15 days; 29,520 XP. Seeds: *slay* (DC
     25), *animate dead* (DC 23), *delude* (DC 14). Factors: change
-    undead type to ghoul (--10 DC), apply to all five senses (+8 DC),
+    undead type to ghoul (–10 DC), apply to all five senses (+8 DC),
     1-action casting time (+20 DC).
 
 The character instantly slays a single target and at the same moment
 animate the body so that it appears that nothing has happened to the
-creature. The target's companions (if any) do not immediately realize
+creature. The target’s companions (if any) do not immediately realize
 what has transpired. The target receives a Fortitude saving throw to
 survive the attack. If the save fails, the target remains in its exact
 position with no apparent ill effects. In reality, it is now a ghoul
-under the character's control. The target's companions notice nothing
+under the character’s control. The target’s companions notice nothing
 unusual about the state of the target until they interact with it, at
 which time each companion receives a Will saving throw to notice
 discrepancies. The ghoul serves the character indefinitely. The
@@ -513,7 +513,7 @@ created with *demise unseen.*
 -   **To Develop:** 2,871,000 gp; 58 days; 114,840 XP. Seed: *energy*
     (emanate 2d6 cold in 10-ft. radius) (DC 19). Factor: 100 times
     increase in base area (+400 DC). Mitigating factor: burn 10,000 XP
-    (--100 DC).
+    (–100 DC).
 
 The creature or object targeted emanates bitter cold to a radius of
 1,000 feet for 20 hours. The emanated cold deals 2d6 points of damage
@@ -524,7 +524,7 @@ wind. The snow and wind produce a blizzard effect within the area.
 
 *XP Cost:* 10,000 XP.
 
-## Dragon Knight [(Ritual)]{.small} {#dragon-knight}
+## Dragon Knight <span class="small">(Ritual)</span>
 
 -   Conjuration (Summoning) \[Fire\]
 -   **Spellcraft DC:** 38
@@ -539,17 +539,17 @@ wind. The snow and wind produce a blizzard effect within the area.
     14). Factors: summon creature other than outsider (+10 DC), summon
     CR 14 creature (+24 DC), 1-action casting time (+20 DC). Mitigating
     factor: two additional casters contributing 8th-level spell slots
-    (--30 DC).
+    (–30 DC).
 
 This spell summons an adult red dragon. It appears where the character
-designates and acts immediately. It attacks the character's opponents to
+designates and acts immediately. It attacks the character’s opponents to
 the best of its abilities (on the first round, it prefers to breathe
 fire on an enemy, if possible). The character can direct the dragon not
 to attack, to attack particular enemies, or to perform other actions.
 This is a ritual spell requiring two other spellcasters, each of which
 must contribute an unused 8th-level spell slot to the casting.
 
-## Dragon Strike [(Ritual)]{.small} {#dragon-strike}
+## Dragon Strike <span class="small">(Ritual)</span>
 
 -   Conjuration (Summoning) \[Fire\]
 -   **Spellcraft DC:** 50
@@ -564,11 +564,11 @@ must contribute an unused 8th-level spell slot to the casting.
     14). Factors: summon creature other than outsider (+10 DC), summon
     CR 14 creature (+24 DC), summon ten creatures (x10 DC), 1-action
     casting time (+20 DC). Mitigating factors: eleven additional casters
-    contributing 9th-level spell slots (--187 DC), burn 2,000 XP per
-    caster (--240 DC), 3d6 backlash (‑3 DC).
+    contributing 9th-level spell slots (–187 DC), burn 2,000 XP per
+    caster (–240 DC), 3d6 backlash (‑3 DC).
 
 This spell summons ten adult red dragons. They appear where the
-character designates and act immediately. They attack the character's
+character designates and act immediately. They attack the character’s
 opponents to the best of their abilities (on the first round, they all
 prefer to simultaneously breathe fire on an enemy, if possible). The
 character can direct the dragons not to attack, to attack particular
@@ -593,10 +593,10 @@ enemies, or to perform other actions.
 
 The character and any creatures he or she touches are drawn into the
 region of dreams. The character can take more than one creature along
-(subject to the character's weight limit), but all must be touching each
+(subject to the character’s weight limit), but all must be touching each
 other. The character physically enters the land of dreams, leaving
 nothing behind. For every minute the character moves through the dream
-landscape, he or she can "wake" to find him or her self five miles
+landscape, he or she can “wake” to find him or her self five miles
 displaced in the waking world. The character does not know precisely
 where he or she will come out in the waking world, nor the conditions of
 the waking world through which the character travels. The character
@@ -630,11 +630,11 @@ region of dreams receive a Will save, negating the effect if successful.
     Factors: increase mass by 1,000% (+40 DC), spread mass into
     paper-thin disk (ad hoc +2 DC), keep disk in place for 8 hours (ad
     hoc +10 DC). Mitigating factors: increase casting time by 9 minutes
-    (--18 DC), burn 4,000 XP (--40 DC).
+    (–18 DC), burn 4,000 XP (–40 DC).
 
 With this spell, the character can create a limited eclipse, as though a
 heavenly body moves between the sun and the earth. The landscape within
-a five-mile radius of the character's location experiences the dimming
+a five-mile radius of the character’s location experiences the dimming
 of the sun as a disk the character creates passes in front of it,
 culminating in a complete blackout and accompanying coronal ring. The
 eclipse follows the character across the landscape for up to 8 hours, or
@@ -657,9 +657,9 @@ lasts.
 -   **Spell Resistance:** No
 -   **To Develop:** 711,000 gp; 15 days; 28,440 XP. Seed: *conjure* (to
     make base substance) (DC 21), *transform* (DC 21), *transport* (to
-    move part of caster's soul into duplicate) (DC 27). Factors:
+    move part of caster’s soul into duplicate) (DC 27). Factors:
     nonliving substance to humanoid (+10 DC), transform into specific
-    individual (+25 DC). Mitigating factor: burn 2,500 XP (--25 DC).
+    individual (+25 DC). Mitigating factor: burn 2,500 XP (–25 DC).
 
 Upon casting *eidolon,* the character creates a duplicate version of him
 or her self as the character was when he or she was a 21st-level
@@ -673,25 +673,25 @@ account). Treat the duplicate as the character with a number of negative
 levels conferred that would lower him or her to the character level of
 the eidolon. The eidolon is considered fresh and rested when created. It
 may cast any spell the character has access to, including an epic spell.
-Use the eidolon's Spellcraft modifier as the basis for the number of
+Use the eidolon’s Spellcraft modifier as the basis for the number of
 epic spells it can cast in a day, and its effective character level as a
 basis for its skills, feats, and other abilities. The eidolon is
-effectively lower level than the character and probably can't cast all
+effectively lower level than the character and probably can’t cast all
 the spells he or she knows. A powerful enough eidolon might conceivably
 cast the *eidolon* spell itself. The eidolon appears in whatever mundane
 clothing the character desires when initially conjured, but it has no
-other possessions. It shares part of the character's soul, so it is the
+other possessions. It shares part of the character’s soul, so it is the
 character for all intents and purposes. The character and his or her
 *eidolon* communicate with each other normally. Usually, the eidolon
 does not begrudge its brief existence, because it is still part of the
 character. If the eidolon is killed prior to the expiration of the
-spell's duration, the character immediately regains the lost levels.
+spell’s duration, the character immediately regains the lost levels.
 Normally, the eidolon does not last long enough to threaten the
 character with permanent level drain.
 
 *XP Cost:* 2,500 XP.
 
-## Enslave [(Ritual)]{.small} {#enslave}
+## Enslave <span class="small">(Ritual)</span>
 
 -   Enchantment (Compulsion) \[Mind-Affecting\]
 -   **Spellcraft DC:** 80
@@ -705,20 +705,20 @@ character with permanent level drain.
 -   **To Develop:** 720,000 gp; 15 days; 28,800 XP. Seed: compel (DC
     19). Factors: stricter compulsion of any creature (ad hoc +11 DC),
     1-action casting time (+20 DC), permanent (x5 DC). Mitigating
-    factors: 2d6 backlash (--2 DC), four additional casters contributing
-    one 9th-level spell slot (--68 DC), burn 2,000 XP per caster (--100
+    factors: 2d6 backlash (–2 DC), four additional casters contributing
+    one 9th-level spell slot (–68 DC), burn 2,000 XP per caster (–100
     DC).
 
 The character makes a permanent thrall of any living creature. The
-character establishes a telepathic link with the subject's mind. If the
+character establishes a telepathic link with the subject’s mind. If the
 creature has a language, the character can generally force the subject
 to perform as he or she desires, within the limits of its abilities. If
 the creature has no language, the character can communicate only basic
 commands. The character knows what the subject is experiencing, but does
 not receive direct sensory input from it. A subject forced to take an
-action against its nature receives a saving throw with a penalty of --10
+action against its nature receives a saving throw with a penalty of –10
 to resist taking that particular action, but if it succeeds, it still
-remains the character's thrall despite its minor mutiny. Once a subject
+remains the character’s thrall despite its minor mutiny. Once a subject
 makes a successful saving throw to resist a specific order, it makes all
 future saving throws to resist taking that specific action without a
 penalty. *Protection from evil* or a similar spell can prevent the
@@ -748,9 +748,9 @@ character does this by readying an action, electing to wait to complete
 his or her action until the opponent tries to cast a spell (the
 character may still move his or her speed, because readying a
 counterspell is a standard action). If the target tries to cast a spell,
-make a dispel check: Roll d20+40 against a DC of 11 + the foe's caster
-level. If the check is successful, the character's spell negates the
-foe's spell.
+make a dispel check: Roll d20+40 against a DC of 11 + the foe’s caster
+level. If the check is successful, the character’s spell negates the
+foe’s spell.
 
 ## Epic Mage Armor
 
@@ -770,7 +770,7 @@ An invisible but tangible field of force surrounds the subject of *epic
 mage armor,* providing a +20 armor bonus to Armor Class. Unlike mundane
 armor, *epic mage armor* entails no armor check penalty, arcane spell
 failure chance, or speed reduction. Because *epic mage armor* is made of
-force, incorporeal creatures can't bypass it the way they do normal
+force, incorporeal creatures can’t bypass it the way they do normal
 armor.
 
 ## Epic Repulsion
@@ -786,7 +786,7 @@ armor.
 -   **Spell Resistance:** Yes
 -   **To Develop:** 468,000 gp; 10 days; 18,720 XP. Seed: *ward* (DC
     14). Factor: permanent 5 DC). Mitigating factor: increase casting
-    time by 9 minutes (--18 DC).
+    time by 9 minutes (–18 DC).
 
 The character can create a permanent ward against a specific creature
 type. Any creature of the specified type cannot attack or touch the
@@ -809,10 +809,10 @@ this protection and touch the warded creature.
 -   **To Develop:** 630,000 gp; 13 days; 25,200 XP. Seed: reflect (DC
     27). Factors: reflect up to 9th-level spells (+160 DC), change range
     to touch (+2 DC), permanent (x5 DC). Mitigating factors: increase
-    casting time by 10 minutes (--20 DC), increase casting time by 41
-    days (--82 DC), 20d6 backlash (--20 DC), six additional casters
-    contributing one 8th-level spell slot (--90 DC), burn 9,500 XP per
-    caster (--665 DC).
+    casting time by 10 minutes (–20 DC), increase casting time by 41
+    days (–82 DC), 20d6 backlash (–20 DC), six additional casters
+    contributing one 8th-level spell slot (–90 DC), burn 9,500 XP per
+    caster (–665 DC).
 
 The character can create a permanent ward against all spells of 1st
 through 9th level that target the subject. These spells are reflected
@@ -838,8 +838,8 @@ spell.
     paralysis (ad hoc +6 DC), petrification (ad hoc +6 DC), *sleep* (+0
     DC), *slow* (+4 DC), stunning (ad hoc +6 DC), *temporal stasis* (+16
     DC), and *web* (+4 DC); permanent 5 DC). Mitigating factors: ten
-    additional casters contributing 9th-level spell slots (--170 DC),
-    burn 10,000 XP (--100 DC).
+    additional casters contributing 9th-level spell slots (–170 DC),
+    burn 10,000 XP (–100 DC).
 
 The subject becomes permanently immune to the following specific spells,
 effects, and spell-like abilities: *entangle,* *hold,*
@@ -863,7 +863,7 @@ slot to the casting.
 -   **Spell Resistance:** Yes (harmless)
 -   **To Develop:** 405,000 gp; 9 days; 16,200 XP. Seed: *fortify* (DC
     27). Factor: +10 additional SR (+40 DC). Mitigating factor: two
-    additional casters contributing 6th-level spell slots (--22 DC).
+    additional casters contributing 6th-level spell slots (–22 DC).
 
 The character grants the subject touched spell resistance 35 until the
 duration expires. The spell resistance granted does not stack, but
@@ -885,10 +885,10 @@ requiring two other spellcasters, each of whom must contribute an unused
 -   **Spell Resistance:** Yes
 -   **To Develop:** 531,000 gp; 11 days; 21,240 XP. Seed: *destroy* (DC
     29). Factors: increase damage to 35d6 (+30 DC), 1-action casting
-    time (+20 DC).Mitigating factor: burn 2,000 XP (--20 DC).
+    time (+20 DC).Mitigating factor: burn 2,000 XP (–20 DC).
 
 The character deals 35d6 points of damage to a single target within
-range and line of sight. If the target is reduced to --10 hit points or
+range and line of sight. If the target is reduced to –10 hit points or
 less (or a construct, object, or undead is reduced to 0 hit points), it
 is utterly destroyed as if disintegrated. Only a trace of fine dust
 remains. *XP Cost:* 2,000 XP.
@@ -907,7 +907,7 @@ remains. *XP Cost:* 2,000 XP.
 -   **To Develop:** 810,000 gp; 17 days; 32,400 XP. Seed: *energy*
     (deals 10d6 each of acid, fire, electricity, sonic) (DC 76).
     Factors: double base area (+6 DC), 1-action casting time (+20 DC).
-    Mitigating factors: 10d6 backlash (--10 DC), burn 200 XP (--2 DC).
+    Mitigating factors: 10d6 backlash (–10 DC), burn 200 XP (–2 DC).
 
 A *hellball* deals 10d6 points of acid damage, 10d6 points of fire
 damage, 10d6 points of electricity damage, and 10d6 points of sonic
@@ -944,14 +944,14 @@ character can absorb up to 150 points of damage in this fashion;
 however, if the stored damage is not discharged prior to reaching the
 150-point limit, the spell automatically discharges, dealing the 150
 points of damage to the character. The character keeps track of the
-number of points of damage he or she has absorbed (the character doesn't
+number of points of damage he or she has absorbed (the character doesn’t
 have to keep track of the type of damage). At any time during the
-spell's duration, the character can make a touch attack against another
+spell’s duration, the character can make a touch attack against another
 creature or object. If successful, the character deals the target some
-or all (character's choice) of the points of damage he or she has
+or all (character’s choice) of the points of damage he or she has
 stored. The damage delivered is considered bludgeoning damage. A
 character can absorb and discharge damage any number of times during the
-spell's duration, so long as the character doesn't absorb more than 150
+spell’s duration, so long as the character doesn’t absorb more than 150
 points at a time. When the spell expires, any stored damage the
 character has not redirected is discharged into the character.
 
@@ -968,11 +968,11 @@ character has not redirected is discharged into the character.
 -   **Spell Resistance:** Yes
 -   **To Develop:** 387,000 gp; 8 days; 15,480 XP. Seed: *destroy* (DC
     29). Factors: quickened (+28 DC), no verbal or somatic components
-    (+4 DC). Mitigating factors: limited circumstance (ad hoc --8 DC),
-    10d6 backlash (--10 DC).
+    (+4 DC). Mitigating factors: limited circumstance (ad hoc –8 DC),
+    10d6 backlash (–10 DC).
 
 The character deals 20d6 points of damage to any creature grappling him
-or her. The damage dealt is of no particular type or energy---it is a
+or her. The damage dealt is of no particular type or energy—it is a
 purely destructive impulse. If grappled by a magical force the force is
 automatically destroyed.
 
@@ -994,24 +994,24 @@ automatically destroyed.
     x2 DC).
 
 The character develops a spell that he or she can cast; thereafter, the
-spell can effectively "cast itself." When the character casts the spell,
+spell can effectively “cast itself.” When the character casts the spell,
 a stroke of energy deals 10d6 points of electricity damage to each
-creature within the spell's area. *Living lightning* follows all the
+creature within the spell’s area. *Living lightning* follows all the
 standard rules for epic spell casting when the character casts it.
 *Living lightning* is sentient and generally friendly toward the
-character. It has the character's mental ability scores, but it has no
-physical ability scores. It senses the world through the character's
+character. It has the character’s mental ability scores, but it has no
+physical ability scores. It senses the world through the character’s
 senses and communicates with him or her by thought. As a self-triggering
-spell, it isn't truly alive but is a fragment of the character's
+spell, it isn’t truly alive but is a fragment of the character’s
 personality. It cares little for the world around it, but at the
-character's urging (and sometimes at its own discretion) it casts itself
+character’s urging (and sometimes at its own discretion) it casts itself
 at his or her foes. Casters who prepare spells before casting must
 prepare *living lightning* normally in order for it to cast itself. When
-the spell casts itself, it acts on the character's initiative but does
+the spell casts itself, it acts on the character’s initiative but does
 not count against his or her own actions in the round. The character
 cannot simultaneously cast *living lightning* while it is casting its
 own effect, even if it has been prepared more than once. *Living
-lightning* uses up one of the character's epic spell slots for the day
+lightning* uses up one of the character’s epic spell slots for the day
 whenever it casts itself. When the character has used up all his or her
 epic spell slots for the day (or has cast all his or her prepared
 *living lightning* spells, if a caster who must prepare spells), *living
@@ -1031,29 +1031,29 @@ rested to regain his or her epic spell slots for the next day.
 -   **Spell Resistance:** No
 -   **To Develop:** 450,000 gp; 9 days; 18,000 XP. Seed: *summon* (DC
     14). Factors: summon CR 31 creature (+58 DC), allow creature to
-    possess body and act at its own discretion (ad hoc --20 DC),
-    1-action casting time (+20 DC). Mitigating factors: 12d6 backlash
-    (--12 DC), burn 1,000 XP (--10 DC).
+    possess body and act at its own discretion (ad hoc –20 DC), 1-action
+    casting time (+20 DC). Mitigating factors: 12d6 backlash (–12 DC),
+    burn 1,000 XP (–10 DC).
 
 The character is possessed by a dream larva. For 20 rounds, the dream
-larva's body physically replaces the character's, though the dream larva
-has the character's equipment. The dream larva is free to call on all
-its own powers and abilities, or use the character's equipment. The
-character's consciousness and physical form are suppressed for the
+larva’s body physically replaces the character’s, though the dream larva
+has the character’s equipment. The dream larva is free to call on all
+its own powers and abilities, or use the character’s equipment. The
+character’s consciousness and physical form are suppressed for the
 duration of the possession. The character has no way to dismiss the
 spell, communicate, or otherwise maintain awareness once possession has
 commenced. The dream larva, temporarily freed from its imprisonment in
 some distant nightmare, will attempt to slay and incapacitate any
 creature it can see or find, whether it is a friend or foe of the
 caster. Casting *lord of nightmares* entails some risk for the caster,
-since it's unknown what a dream larva might do over the course of 20
+since it’s unknown what a dream larva might do over the course of 20
 rounds. The larva will dispatch all enemies it can find before turning
 to its own concerns. Sometimes a dream larva will attempt to place
 itself in a dangerous or precarious situation prior to the end of the
 spell, leaving the caster to extricate him or herself. If the dream
-larva is slain during the duration of the spell, the character's
+larva is slain during the duration of the spell, the character’s
 consciousness is instantly restored to aware-ness within his or her own
-body. The character's condition remains what it was when he or she
+body. The character’s condition remains what it was when he or she
 completed casting *lord of nightmares,*regardless of what damage the
 dream larva received. However, magic item charges used, potions
 consumed, and other physical resources used up by the dream larva are
@@ -1084,7 +1084,7 @@ alignment, base attack bonus, base save bonuses, extraordinary
 abilities, spells, and spell-like abilities, but not supernatural
 abilities. They assume the physical characteristics of frogs, including
 natural size and Strength, Dexterity, and Constitution scores. (Use the
-statistics for the toad.) All the creatures' equipment drops to the
+statistics for the toad.) All the creatures’ equipment drops to the
 ground upon transformation.
 
 ## Momento Mori
@@ -1100,11 +1100,11 @@ ground upon transformation.
 -   **Spell Resistance:** Yes
 -   **To Develop:** 774,000 gp; 16 days; 30,960 XP. Seed: *slay* (DC
     25). Factor: increase to 160 HD (+8 DC), quickened (+28 DC), no
-    verbal or somatic components (+4 DC), +10 to DC of subject's save
+    verbal or somatic components (+4 DC), +10 to DC of subject’s save
     (+20 DC).
 
 As a free action that counts as a quickened spell, the character wills
-the target dead without a word or gesture. The character's thought
+the target dead without a word or gesture. The character’s thought
 snuffs out the life force of a living creature of 160 or fewer HD,
 killing it instantly. The subject is entitled to a Fortitude saving
 throw (DC 30 + relevant ability modifier) to have a chance of surviving
@@ -1124,13 +1124,13 @@ points of damage.
 -   **Spell Resistance:** No
 -   **To Develop:** 315,000 gp; 7 days; 12,600 XP. Seed: *animate dead*
     (DC 23). Factors: 1-action casting time (+20 DC). Mitigating
-    factors: burn 400 XP (--4 DC), expensive material component (ad hoc
-    --4 DC).
+    factors: burn 400 XP (–4 DC), expensive material component (ad hoc
+    –4 DC).
 
 When the character sprinkles the dust of ground mummies in conjunction
 with casting *mummy dust,*two Large 18-HD mummies (see below) spring up
 from the dust in an area adjacent to the character. The mummies follow
-the character's every command according to their abilities, until they
+the character’s every command according to their abilities, until they
 are destroyed or the character loses control of them by attempting to
 control more Hit Dice of undead than he or she has caster levels.
 
@@ -1142,18 +1142,18 @@ Mummy, Advanced: CR 8; Large undead; HD 18d12+3; hp 120; Init -1; Spd 20
 ft.; AC 20, touch 8, flat-footed 20; Base Atk +9; Grp +24; Atk +20 melee
 (1d8+16 plus mummy rot); Full Atk +20 melee (1d8+16 plus mummy rot);
 Space/Reach 10 ft./10 ft.; SA Despair, mummy rot; SQ Damage reduction
-5/--, darkvision 60 ft., undead traits, vulnerability to fire; AL LE; SV
-Fort +8, Ref +7, Will +13; Str 32, Dex 8, Con \--, Int 6, Wis 14, Cha
-15. *Skills and Feats:* Hide -5, Listen +9, Move Silently +10, Spot +9;
+5/–, darkvision 60 ft., undead traits, vulnerability to fire; AL LE; SV
+Fort +8, Ref +7, Will +13; Str 32, Dex 8, Con --, Int 6, Wis 14, Cha 15.
+*Skills and Feats:* Hide -5, Listen +9, Move Silently +10, Spot +9;
 Alertness, Blind-Fight, Great Fortitude, Lightning Reflexes, Power
 Attack, Toughness, Weapon Focus (slam).
 
 Despair (Su): At the sight of a mummy, the viewer must succeed at a Will
 save (DC 21), or be paralyzed with fear for 1d4 rounds. Whether or not
 the save is successful, that creature cannot be affected again by that
-mummy's despair ability for one day. Mummy Rot (Su): Supernatural
-disease---slam, Fortitude save (DC 21), incubation period 1 minute;
-damage 1d6 Con and 1d6 Cha. The save DC is Charisma-based. Unlike normal
+mummy’s despair ability for one day. Mummy Rot (Su): Supernatural
+disease—slam, Fortitude save (DC 21), incubation period 1 minute; damage
+1d6 Con and 1d6 Cha. The save DC is Charisma-based. Unlike normal
 diseases, mummy rot continues until the victim reaches Constitution 0
 (and dies) or is cured as described below. Mummy rot is a powerful
 curse, not a natural disease. A character attempting to cast any
@@ -1183,7 +1183,7 @@ dust that blow away into nothing at the first wind.
     preview endpoint of teleportation) (DC 17), *transport* (DC 27).
     Factors: unwilling target (+4 DC), increase range from touch (+4
     DC), 1-action casting time (+20 DC). Mitigating factor: burn 1,000
-    XP (--10 DC).
+    XP (–10 DC).
 
 *Nailed to the sky* actually places the target so far from the surface
 of the world and at such a speed that it keeps missing the surface as it
@@ -1217,12 +1217,11 @@ round. The target immediately begins to suffocate.
     (+20 DC), +6 to natural AC (+12 DC), add three more natural attacks
     (ad hoc +6 DC), add black cloud spell-like ability (+33 DC), add SR
     19 (+15 DC), permanent (x5 DC). Mitigating factors: 50d6 backlash
-    (--50 DC), increase casting time by 10 minutes (--20 DC), increase
-    casting time by 100 days (--200 DC), burn 10,000 XP (--100 DC),
-    eleven additional casters contributing 9th-level spell slots (--187
-    DC), ten additional casters contributing 8th-level spell slots
-    (--150 DC), ten additional casters contributing 1st-level spell
-    slots (--10 DC).
+    (–50 DC), increase casting time by 10 minutes (–20 DC), increase
+    casting time by 100 days (–200 DC), burn 10,000 XP (–100 DC), eleven
+    additional casters contributing 9th-level spell slots (–187 DC), ten
+    additional casters contributing 8th-level spell slots (–150 DC), ten
+    additional casters contributing 1st-level spell slots (–10 DC).
 
 This spell creates a new creature: an achaierai. When first created, the
 achaierai is Medium, but it grows to Large size in 1d4 days. A created
@@ -1266,9 +1265,9 @@ the spell ends.
     19). Factors: additional target type (plants) (+10 DC). change
     target to area (+10 DC), change 20-ft. radius to 1,000-ft. radius
     (+200 DC), disease effects (as per contagion spell) (ad hoc +21 DC).
-    Mitigating factors: casting time increased by 9 minutes (--18 DC),
-    two additional casters contributing epic spell slots (--38 DC), burn
-    10,000 XP (--100 DC).
+    Mitigating factors: casting time increased by 9 minutes (–18 DC),
+    two additional casters contributing epic spell slots (–38 DC), burn
+    10,000 XP (–100 DC).
 
 When *pestilence* is successfully cast, a wave of illness radites
 outward from the site of the ritual, instantly infecting every living
@@ -1329,11 +1328,11 @@ stationary and persists even if the caster leaves.
     21). Factors: change area to 10-ft. radius, 30-ft. high cylinder (+2
     DC), change radius to 100 ft. (+40 DC), change height to 1,000 feet
     (+133 DC), permanent (x5 DC). Mitigating factors: increase casting
-    time by 10 minutes (--20 DC), increase casting time by 65 days
-    (--130 DC), nineteen additional casters contributing epic spell
-    slots (--361 DC), one additional caster contributing one 6th-level
-    spell slot (--11 DC), burn 2,000 XP per epic caster (--400 DC),
-    spell only works on liquid (ad hoc --20 DC).
+    time by 10 minutes (–20 DC), increase casting time by 65 days (–130
+    DC), nineteen additional casters contributing epic spell slots (–361
+    DC), one additional caster contributing one 6th-level spell slot
+    (–11 DC), burn 2,000 XP per epic caster (–400 DC), spell only works
+    on liquid (ad hoc –20 DC).
 
 The character can literally raise a new island from out of the sea,
 bringing to the surface a sandy or rocky but otherwise barren protrusion
@@ -1357,10 +1356,10 @@ works if the ocean is less than 1,000 feet deep where the spell is cast.
 -   **Spell Resistance:** Yes
 -   **To Develop:** 243,000 gp; 5 days; 9,720 XP. Seed: *destroy* (DC
     29). Factor: reduce casting time by 9 rounds (+18 DC). Mitigating
-    factor: burn 2,000 XP (--20 DC).
+    factor: burn 2,000 XP (–20 DC).
 
 The character deals 20d6 points of damage to a single target within
-range and line of sight. If the target is reduced to --10 hit points or
+range and line of sight. If the target is reduced to –10 hit points or
 less (or a construct, object, or undead is reduced to 0 hit points), it
 is utterly destroyed as if disintegrated. Only a trace of fine dust
 remains.
@@ -1383,7 +1382,7 @@ remains.
     1 round (ad hoc +4 DC), activates when you would otherwise take 50
     or more points of damage (+25 DC).
 
-*Safe time* can move the character (or the target) out of harm's way by
+*Safe time* can move the character (or the target) out of harm’s way by
 shunting him or her into a static time stream. Once cast, the spell
 remains quiescent and does not activate until the trigger conditions
 have been met. Each day it remains untriggered, it uses up an epic spell
@@ -1391,10 +1390,10 @@ slot, even if you cast it on another creature. Once triggered, the spell
 is expended normally. When the character would otherwise be subject to
 any instantaneous effect that would deal him or her 50 or more points of
 damage, he or she is instead transported to a static time stream where
-time ceases to flow. The character's condition becomes fixed---no force
-or effect can harm him or her until 1 round of real time has passed.
-Thus, the character avoids the damage he or she would otherwise receive,
-but the character also misses out on one round of activity. To the
+time ceases to flow. The character’s condition becomes fixed—no force or
+effect can harm him or her until 1 round of real time has passed. Thus,
+the character avoids the damage he or she would otherwise receive, but
+the character also misses out on one round of activity. To the
 character, no time passes at all, but to onlookers who are part of real
 time, the character stands frozen and fixed in space for 1 full round.
 
@@ -1413,7 +1412,7 @@ time, the character stands frozen and fixed in space for 1 full round.
     23), *reveal* (DC 19), *compel* (DC 19). Factors: apply to all five
     senses (+8 DC), total compulsory control (+10 DC), stricter
     compulsion of any creature (ad hoc +11 DC). Mitigating factor:
-    increase casting time by 9 minutes (--18 DC).
+    increase casting time by 9 minutes (–18 DC).
 
 When a character casts this spell, he or she is temporarily able to take
 control of another sentient creature with whom the character is familiar
@@ -1421,7 +1420,7 @@ control of another sentient creature with whom the character is familiar
 receives a Will save, and if successful, prevents the character from
 making the telepathic connection. The target is aware of the attempted
 takeover as a strange, momentary tingling. If the Will save fails, the
-character is able to control the subject's body as if it were his or her
+character is able to control the subject’s body as if it were his or her
 own, hearing, seeing, feeling, smelling, and tasting everything the
 target senses. Once the character dismisses the spell or its duration
 ends, the target resumes control of its body, fully aware of all events
@@ -1444,7 +1443,7 @@ control undead or incorporeal creatures with *soul dominion.*
 -   **To Develop:** 495,000 gp; 10 days; 19,800 XP. Seeds: *contact* (DC
     23), *reveal* (DC 19), *conceal* (DC 17). Factors: apply to all five
     senses (+8 DC), conceal detection (ad hoc +6 DC). Mitigating factor:
-    increase casting time by 9 minutes (--18 DC).
+    increase casting time by 9 minutes (–18 DC).
 
 When a character casts this spell, he or she is temporarily able to tap
 the consciousness of another sentient creature with whom the character
@@ -1457,8 +1456,8 @@ intrusion. Once the subject is tapped, the character is able to hear,
 see, feel, smell, and taste everything the subject senses. The character
 cannot control the subject, however. The character can only see what the
 subject chooses to look at, and the character tastes something only if
-the subject eats or drinks it during the spell's duration. During this
-time, the character's own body remains in a trance-like state. If the
+the subject eats or drinks it during the spell’s duration. During this
+time, the character’s own body remains in a trance-like state. If the
 subject takes damage, the character senses the injuries, although his or
 her own body does not actually suffer any ill effects. If the subject is
 knocked unconscious or killed, the spell immediately ends.
@@ -1485,7 +1484,7 @@ another spell or spell slot, moving to lower-level spells once all the
 higher-level spells are gone. In the case of prepared spells, the
 subject decides which spells to abandon at each level. If the subject
 has more than one standard action allowed in the round, he or she may
-spend those actions as he or she desires. The subject doesn't realize
+spend those actions as he or she desires. The subject doesn’t realize
 the spells or spell slots are gone until he or she tries to cast a spell
 and finds it unavailable. Abandoning a spell slot or losing a spell is
 standard action, but it does not draw an attack of opportunity. It is a
@@ -1508,7 +1507,7 @@ purely mental exercise not obvious to observers.
 
 The character can summon a behemoth to attack his or her enemies. It
 appears where the character designates and acts immediately, on the
-character's turn. It attacks the character's opponents to the best of
+character’s turn. It attacks the character’s opponents to the best of
 its ability. If the character can communicate with the creature, he or
 she can direct it not to attack, to attack particular enemies, or to
 perform other actions. Summoned creatures act normally on the last round
@@ -1527,7 +1526,7 @@ of the spell and disappear at the end of their turn.
 -   **Spell Resistance:** No
 -   **To Develop:** 531,000 gp; 11 days; 21,240 XP. Seed: *dispel* (DC
     19). Factors: additional +30 to dispel check (+30 DC), 1-action
-    casting time (+20 DC). Mitigating factor: 10d6 backlash (--10 DC).
+    casting time (+20 DC). Mitigating factor: 10d6 backlash (–10 DC).
 
 As *greater dispel magic*, except that the maximum bonus on the dispel
 check is +40, and the character takes 10d6 points of backlash damage.
@@ -1549,31 +1548,31 @@ check is +40, and the character takes 10d6 points of backlash damage.
 
 The character snatches him or her self from 1 round in the future,
 depositing this future self in an adjacent space as a free action that
-counts as a quickened spell. The character's future self is technically
+counts as a quickened spell. The character’s future self is technically
 only a possible future self (the time stream is a maelstrom of multiple
 probabilities), but snatching that future self from 1 round in the
 future collapses probability, and the possible future becomes the
 definite future. The character and his or her future self are both free
 to act normally this round (the character has already used up the limit
-of one quickened spell per round, but his or her duplicate hasn't). The
+of one quickened spell per round, but his or her duplicate hasn’t). The
 future self has all the resources the character has at the moment he or
 she finishes casting *time duplicate.*Because the future self was
 previously only a possibility, his or her resources are not depleted as
 a result of whatever might occur this round (even if the character dies
-this round). Likewise, he or she doesn't have any special knowledge of
+this round). Likewise, he or she doesn’t have any special knowledge of
 what might occur during this round. Because the future self is still
 part of the time stream, the round it spends with the character is a
-round it misses in its own future. Because the chracter's future
+round it misses in its own future. Because the chracter’s future
 duplicate is also the character, the character misses the next round as
-well. He or she simply isn't there. Tampering with the time stream is a
+well. He or she simply isn’t there. Tampering with the time stream is a
 tricky business. Here is a round-by-round summary.
 
 *Round One:* The character casts *time duplicate,*the future self from
 round two arrives, and both act normally.
 
-*Round Two:* The future self---the character---gets snatched back in
-time to help the past self. During this round, there are no versions of
-the character present.
+*Round Two:* The future self—the character—gets snatched back in time to
+help the past self. During this round, there are no versions of the
+character present.
 
 *Round Three:* The character rejoins the time stream. The character
 arrives in the same location and condition that the future self ended
@@ -1599,10 +1598,10 @@ a version of him or her from farther in the future.
 -   **Spell Resistance:** Yes
 -   **To Develop:** 3,771,000 gp; 76 days; 150,840 XP. Seed: *destroy*
     (DC 29). Factor: increase damage to 305d6 (+570 DC), 1-action
-    casting time (+20 DC). Mitigating factor: 200d6 backlash (--200 DC).
+    casting time (+20 DC). Mitigating factor: 200d6 backlash (–200 DC).
 
 The target of this spell is subject to 305d6 points of damage (or half
-of that if a Fortitude save succeeds). If the target is reduced to --10
+of that if a Fortitude save succeeds). If the target is reduced to –10
 hit points or less (or a construct, object, or undead is reduced to 0
 hit points), it is utterly destroyed as if disintegrated, leaving behind
 only a trace of fine dust. The caster is likewise dealt 200d6 points of
@@ -1651,11 +1650,10 @@ vanishes.
     increase radius to 1,000 ft. (+196 DC), increase range to 1,500 ft.
     (+8 DC), deal 10d6 damage during growth (ad hoc +19 DC), increase
     damage to 40d6 (+60 DC), permanent (x5 DC). Mitigating factors:
-    increase casting time by 9 minutes (--18 DC), eleven additional
-    casters contributing 6th-level spell slots (--121 DC), three
-    additional casters contributing 4th-level spell slots (--21 DC),
-    burn 10,000 XP per 6th-level spell contributor plus caster (--1,200
-    DC).
+    increase casting time by 9 minutes (–18 DC), eleven additional
+    casters contributing 6th-level spell slots (–121 DC), three
+    additional casters contributing 4th-level spell slots (–21 DC), burn
+    10,000 XP per 6th-level spell contributor plus caster (–1,200 DC).
 
 This spell creates a tsunami of grass, shrubs, and trees that overgrows
 the area like a tidal wave. The plant growth creeps and curls across
@@ -1683,11 +1681,11 @@ are added to that total. The sum equals the final Spellcraft DC for the
 epic spell.
 
 The final Spellcraft DC is the most significant gauge of the epic
-spell's power. A spellcaster attempts to cast an epic spell by making a
-Spellcraft check against the epic spell's Spellcraft DC. Thus, a
+spell’s power. A spellcaster attempts to cast an epic spell by making a
+Spellcraft check against the epic spell’s Spellcraft DC. Thus, a
 spellcaster knows immediately, based on his or her own Spellcraft bonus,
 what epic spells are within his or her capability to cast, which are
-risky, and which are beyond him or her. Epic casters don't commit time
+risky, and which are beyond him or her. Epic casters don’t commit time
 and money to develop epic spells until they are powerful enough to cast
 them.
 
@@ -1701,23 +1699,23 @@ independently by a character who spends the necessary time, money, and
 experience points. Alternatively, a character can use those spells as a
 starting point when creating customized versions of the spells.
 
-  -------------- -------------------- ----------- --------------------
-  Seed           Base Spellcraft DC   Seed        Base Spellcraft DC
-  Afflict        14                   Energy      19
-  Animate        25                   Foresee     17
-  Animate dead   23                   Fortify     17
-  Armor          14                   Heal\*      25
-  Banish         27                   Life\*      27
-  Compel         19                   Reflect     27
-  Conceal        17                   Reveal      19
-  Conjure        21                   Slay        25
-  Contact        23                   Summon      14
-  Delude         14                   Transform   21
-  Destroy        29                   Transport   27
-  Dispel         19                   Ward        14
-  -------------- -------------------- ----------- --------------------
+|              |                    |           |                    |
+|--------------|--------------------|-----------|--------------------|
+| Seed         | Base Spellcraft DC | Seed      | Base Spellcraft DC |
+| Afflict      | 14                 | Energy    | 19                 |
+| Animate      | 25                 | Foresee   | 17                 |
+| Animate dead | 23                 | Fortify   | 17                 |
+| Armor        | 14                 | Heal\*    | 25                 |
+| Banish       | 27                 | Life\*    | 27                 |
+| Compel       | 19                 | Reflect   | 27                 |
+| Conceal      | 17                 | Reveal    | 19                 |
+| Conjure      | 21                 | Slay      | 25                 |
+| Contact      | 23                 | Summon    | 14                 |
+| Delude       | 14                 | Transform | 21                 |
+| Destroy      | 29                 | Transport | 27                 |
+| Dispel       | 19                 | Ward      | 14                 |
 
-  : Table: Epic Seeds
+Table: Epic Seeds
 
 \*Spellcasters without at least 24 ranks in Knowledge (religion) or
 Knowledge (nature) may not use *heal* or *life* spell seeds.
@@ -1735,7 +1733,7 @@ its resource price in experience points.
 
 **Adding Seed DCs:** When two or more epic seeds are combined in an epic
 spell, their base Spellcraft DCs are added together. Both contribute
-toward the spell's final Spellcraft DC.
+toward the spell’s final Spellcraft DC.
 
 **Determining School:** When combining two or more seeds to develop an
 epic spell, the school of the finished spell is decided by the caster
@@ -1755,11 +1753,11 @@ range of 12,000 feet, another seed might have a range of 400 feet, and a
 third seed might not have a range at all. Likewise, some seeds have
 targets, while others have an effect or an area. To determine which seed
 takes precedence in the finished epic spell, the character must decide
-which seed is the base seed. The seed most important to the spell's
+which seed is the base seed. The seed most important to the spell’s
 overall purpose is the base seed, and it determines the casting time,
 range, target, and so on. The other seeds apply only their specific
 effects to the finished spell. It is occasionally difficult to determine
-a base seed by examining the spell's effects. If no one seed is most
+a base seed by examining the spell’s effects. If no one seed is most
 important, simply pick one seed for the purposes of making this
 determination.
 
@@ -1771,7 +1769,7 @@ by the caster, the epic spell is dismissible.
 **Saving Throws:** Even if more than one seed has an associated saving
 throw, the final spell will have only a single saving throw. If two or
 more seeds have the same kind of saving throw (Fortitude, Reflex, or
-Will), then obviously that will be used for the spell's saving throw. If
+Will), then obviously that will be used for the spell’s saving throw. If
 the seeds have different kinds of saving throws, simply choose the
 saving throw that seems most appropriate for the final spell.
 
@@ -1793,7 +1791,7 @@ There are three kinds of factors:
 
 3\. Those that reduce the Spellcraft DC rather than increasing it. These
 are referred to as mitigating factors. To calculate the final Spellcraft
-DC of an epic spell correctly, it's important to determine the
+DC of an epic spell correctly, it’s important to determine the
 mitigating factors last, after all the factors that increase the DC have
 been accounted for.
 
@@ -1801,62 +1799,62 @@ been accounted for.
 spell requires some guesswork and rule stretching. As with making and
 pricing magic items, a sort of balancing act is required. Often the
 description of a seed will need to be stretched for a particular spell.
-If necessary, assess an "ad hoc" Spellcraft DC adjustment for any effect
+If necessary, assess an “ad hoc” Spellcraft DC adjustment for any effect
 that cannot be extrapolated from the seeds and factors presented
-here---the example spells use ad hoc factors frequently. In all cases,
-the GM determines the actual Spellcraft DC of the new spell
+here—the example spells use ad hoc factors frequently. In all cases, the
+GM determines the actual Spellcraft DC of the new spell
 
-**Approval:** This is the final step, and it's critically important. The
+**Approval:** This is the final step, and it’s critically important. The
 epic spell development work and reasoning must be shown to the GM and
-receive his or her approval. If the GM doesn't approve, then the epic
+receive his or her approval. If the GM doesn’t approve, then the epic
 spell cannot be developed. However, the GM should explain why the epic
-spell wasn't approved and possibly offer suggestions on how to create an
+spell wasn’t approved and possibly offer suggestions on how to create an
 epic spell that will be acceptable.
 
-  --------------------------------------------------------------------------------------------------------- ------------------------
-                                                                                                            Spellcraft DC Modifier
-  Casting Time                                                                                              
-  Reduce casting time by 1 round (minimum 1 round)                                                          +2
-  1-action casting time                                                                                     +20
-  Quickened spell (limit one quickened action/round)                                                        +28
-  Contingent on specific trigger^1^                                                                         +25
-  Components No verbal component                                                                            +2
-  No somatic component                                                                                      +2
-  *Duration*^2^                                                                                             
-  Increase duration by 100%                                                                                 +2
-  Permanent duration (apply this factor after all other epic spell factors but before mitigating factors)   x5
-  Dismissible by caster (if not already)                                                                    +2
-  Range Increase range by 100%                                                                              +2
-  *Target*^3^                                                                                               
-  Add extra target within 300 ft.                                                                           +10
-  Change from target to area (pick area option below)                                                       +10
-  Change from personal to area (pick area option below)                                                     +15
-  Change from target to touch or ray (300-ft. range)                                                        +4
-  Change from touch or ranged touch attack to target                                                        +4
-  *Area*^4^                                                                                                 
-  Change area to bolt (5 ft. x300 ft. or 10 ft. x150 ft.)                                                   +2
-  Change area to cylinder (10-ft. radius, 30 ft. high)                                                      +2
-  Change area to 40-ft. cone                                                                                +2
-  Change area to four 10-ft. cubes                                                                          +2
-  Change area to 20-ft. radius                                                                              +2
-  Change area to target                                                                                     +4
-  Change area to touch or ray (close range)                                                                 +4
-  Increase area by 100%                                                                                     +4
-  Saving Throw                                                                                              
-  Increase spell's saving throw DC by +1                                                                    +2
-  Spell Resistance                                                                                          
-  Gain +1 bonus on caster level check to overcome target's spell resistance                                 +2
-  Gain +1 on caster level check to beat foe's dispel effect                                                 +2
-  Other                                                                                                     
-  Recorded onto stone tablet^5^                                                                             x2
-  Increase damage die by one step (d20 maximum)                                                             +10
-  --------------------------------------------------------------------------------------------------------- ------------------------
+|                                                                                                         |                        |
+|---------------------------------------------------------------------------------------------------------|------------------------|
+|                                                                                                         | Spellcraft DC Modifier |
+| Casting Time                                                                                            |                        |
+| Reduce casting time by 1 round (minimum 1 round)                                                        | +2                     |
+| 1-action casting time                                                                                   | +20                    |
+| Quickened spell (limit one quickened action/round)                                                      | +28                    |
+| Contingent on specific trigger<sup>1</sup>                                                              | +25                    |
+| Components No verbal component                                                                          | +2                     |
+| No somatic component                                                                                    | +2                     |
+| *Duration*<sup>2</sup>                                                                                  |                        |
+| Increase duration by 100%                                                                               | +2                     |
+| Permanent duration (apply this factor after all other epic spell factors but before mitigating factors) | x5                     |
+| Dismissible by caster (if not already)                                                                  | +2                     |
+| Range Increase range by 100%                                                                            | +2                     |
+| *Target*<sup>3</sup>                                                                                    |                        |
+| Add extra target within 300 ft.                                                                         | +10                    |
+| Change from target to area (pick area option below)                                                     | +10                    |
+| Change from personal to area (pick area option below)                                                   | +15                    |
+| Change from target to touch or ray (300-ft. range)                                                      | +4                     |
+| Change from touch or ranged touch attack to target                                                      | +4                     |
+| *Area*<sup>4</sup>                                                                                      |                        |
+| Change area to bolt (5 ft. x300 ft. or 10 ft. x150 ft.)                                                 | +2                     |
+| Change area to cylinder (10-ft. radius, 30 ft. high)                                                    | +2                     |
+| Change area to 40-ft. cone                                                                              | +2                     |
+| Change area to four 10-ft. cubes                                                                        | +2                     |
+| Change area to 20-ft. radius                                                                            | +2                     |
+| Change area to target                                                                                   | +4                     |
+| Change area to touch or ray (close range)                                                               | +4                     |
+| Increase area by 100%                                                                                   | +4                     |
+| Saving Throw                                                                                            |                        |
+| Increase spell’s saving throw DC by +1                                                                  | +2                     |
+| Spell Resistance                                                                                        |                        |
+| Gain +1 bonus on caster level check to overcome target’s spell resistance                               | +2                     |
+| Gain +1 on caster level check to beat foe’s dispel effect                                               | +2                     |
+| Other                                                                                                   |                        |
+| Recorded onto stone tablet<sup>5</sup>                                                                  | x2                     |
+| Increase damage die by one step (d20 maximum)                                                           | +10                    |
 
-  : Table: Epic Spell Factors
+Table: Epic Spell Factors
 
 Unless stated otherwise, the same factor can be applied more than once.
 
-1 Each contingent spell in use counts as a slot used from the caster's
+1 Each contingent spell in use counts as a slot used from the caster’s
 daily epic spell slots.
 
 2 Seeds that already have an instantaneous or permanent duration cannot
@@ -1882,18 +1880,18 @@ development. Once an inscribed epic spell is learned by another epic
 spellcaster in this fashion, the tablet upon which it is inscribed is
 destroyed and cannot be mended.
 
-  ------------------------------------------------------------ -----------------------------------------------
-                                                               Spellcraft DC Modifier
-  Backlash 1d6 points of damage (max d6 = caster's HD x2)^1^   --1
-  Burn 100 XP during casting (max 20,000 XP)                   --1
-  Increase casting time by 1 minute (max 10 minutes)^2^        --2
-  Increase casting time by 1 day (max 100 days)^2^             --2
-  Change from target, touch, or area to personal               --2
-  Additional participants (ritual)                             see Table: Additional Participants in Rituals
-  Decrease damage die by one step (d4 minimum)                 --5
-  ------------------------------------------------------------ -----------------------------------------------
+|                                                                     |                                               |
+|---------------------------------------------------------------------|-----------------------------------------------|
+|                                                                     | Spellcraft DC Modifier                        |
+| Backlash 1d6 points of damage (max d6 = caster’s HD x2)<sup>1</sup> | –1                                            |
+| Burn 100 XP during casting (max 20,000 XP)                          | –1                                            |
+| Increase casting time by 1 minute (max 10 minutes)<sup>2</sup>      | –2                                            |
+| Increase casting time by 1 day (max 100 days)<sup>2</sup>           | –2                                            |
+| Change from target, touch, or area to personal                      | –2                                            |
+| Additional participants (ritual)                                    | see Table: Additional Participants in Rituals |
+| Decrease damage die by one step (d4 minimum)                        | –5                                            |
 
-  : Table: Epic Spell Mitigating Factors
+Table: Epic Spell Mitigating Factors
 
 Note: Mitigating factors are always applied after all epic spell factors
 (see above) are accounted for in the development of an epic spell.
@@ -1901,24 +1899,24 @@ Note: Mitigating factors are always applied after all epic spell factors
 1 The caster cannot somehow avoid or make him or her self immune to
 backlash damage. For spells with durations longer than instantaneous,
 the backlash damage is per round. If backlash damage kills a caster, no
-spell or method exists that will return life to the caster's body
-without costing the caster a level---not even *wish, true resurrection,
+spell or method exists that will return life to the caster’s body
+without costing the caster a level—not even *wish, true resurrection,
 miracle,* or epic spells that return life to the deceased. Spells that
 normally penalize the recipient one level when they return him or her to
 life penalize a caster killed by backlash two levels.
 
 2 When increasing the casting time of a spell in order to reduce the
-Spellcraft DC, a character must first "use up" the maximum of 10 minutes
-(for a total DC modifier of --20). After that, a character can continue
-to add days to the casting time, with a further modifier of --2 per day,
+Spellcraft DC, a character must first “use up” the maximum of 10 minutes
+(for a total DC modifier of –20). After that, a character can continue
+to add days to the casting time, with a further modifier of –2 per day,
 up to the maximum of 100 days.
 
 **Additional Participants:** Epic spells can be developed that
 specifically require additional participants. These spells are called
 rituals. An epic spell developed as a ritual requires a specific number
 of additional participants, who each must use up one spell slot of a
-specified level for the day. During an epic spell's development, the
-spell's creator determines the number of additional participants and the
+specified level for the day. During an epic spell’s development, the
+spell’s creator determines the number of additional participants and the
 level of the spell slots to be contributed. If the exact number of
 spellcasters does not partake in the casting, or if the casters do not
 each contribute the proper spell slot, the epic spell automatically
@@ -1926,7 +1924,7 @@ fails. To participate, each participant readies an action to contribute
 his or her raw spell energy when the primary caster begins the epic
 spell. Additional participants in a ritual spell reduce the Spellcraft
 DC, as shown on Table: Additional Participants in Rituals. Each
-additional participant may only contribute one spell slot. It doesn't
+additional participant may only contribute one spell slot. It doesn’t
 matter whether the additional participants are arcane or divine
 spellcasters; only the level of the spell slot contributed matters. A
 contributed spell slot is treated as if normally cast. A wizard may
@@ -1945,16 +1943,16 @@ have been provided by that additional participant cannot be applied to
 the final Spellcraft DC of the epic spell. Thus the ritual epic spell
 will be harder for the primary spellcaster to cast.
 
-  ------------------------------ ------------------------- ------------------------------ -------------------------
-  Spell Slot Level Contributed   Spellcraft DC Reduction   Spell Slot Level Contributed   Spellcraft DC Reduction
-  1st                            --1                       6th                            --11
-  2nd                            --3                       7th                            --13
-  3rd                            --5                       8th                            --15
-  4th                            --7                       9th                            --17
-  5th                            --9                       Epic slot                      --19
-  ------------------------------ ------------------------- ------------------------------ -------------------------
+|                              |                         |                              |                         |
+|------------------------------|-------------------------|------------------------------|-------------------------|
+| Spell Slot Level Contributed | Spellcraft DC Reduction | Spell Slot Level Contributed | Spellcraft DC Reduction |
+| 1st                          | –1                      | 6th                          | –11                     |
+| 2nd                          | –3                      | 7th                          | –13                     |
+| 3rd                          | –5                      | 8th                          | –15                     |
+| 4th                          | –7                      | 9th                          | –17                     |
+| 5th                          | –9                      | Epic slot                    | –19                     |
 
-  : Table: Additional Participants in Rituals
+Table: Additional Participants in Rituals
 
 ## Seed Descriptions
 
@@ -1963,7 +1961,7 @@ Each seed description hereafter follows the same format used for 0- to
 DC of the Spellcraft check required to cast an epic spell with this
 seed.
 
-### Seed:Afflict {#seed-afflict}
+### Seed:Afflict
 
 -   Enchantment (Compulsion) \[Fear, Mind-Affecting\]
 -   **Spellcraft DC:** 14
@@ -1975,27 +1973,27 @@ seed.
 -   **Saving Throw:** Will negates
 -   **Spell Resistance:** Yes
 
-Afflicts the target with a --2 morale penalty on attack rolls, checks,
-and saving throws. For each additional --1 penalty assessed on either
-the target's attack rolls, checks, or saving throws, increase the
-Spellcraft DC by +2. A character may also develop a spell with this seed
-that afflicts the target with a --1 penalty on caster level checks, a
---1 penalty to an ability score, a --1 penalty to spell resistance, or a
---1 penalty to some other aspect of the target. For each additional --1
+Afflicts the target with a –2 morale penalty on attack rolls, checks,
+and saving throws. For each additional –1 penalty assessed on either the
+target’s attack rolls, checks, or saving throws, increase the Spellcraft
+DC by +2. A character may also develop a spell with this seed that
+afflicts the target with a –1 penalty on caster level checks, a –1
+penalty to an ability score, a –1 penalty to spell resistance, or a –1
+penalty to some other aspect of the target. For each additional –1
 penalty assessed in one of the above categories, increase the
-Spell-craft DC by +4. This seed can afflict a character's ability scores
+Spell-craft DC by +4. This seed can afflict a character’s ability scores
 to the point where they reach 0, except for Constitution where 1 is the
 minimum. If a factor is applied to increase the duration of this seed,
 ability score penalties instead become temporary ability damage. If a
 factor is applied to make the duration permanent, any ability score
 penalties become permanent ability drain. Finally, by increasing the
-Spellcraft DC by +2, one of the target's senses can be afflicted: sight,
+Spellcraft DC by +2, one of the target’s senses can be afflicted: sight,
 smell, hearing, taste, touch, or a special sense the target possesses.
-If the target fails its saving throw, the sense selected doesn't
-function for the spell's duration, with all attendant penalties that
+If the target fails its saving throw, the sense selected doesn’t
+function for the spell’s duration, with all attendant penalties that
 apply for losing the specified sense.
 
-### Seed:Animate {#seed-animate}
+### Seed:Animate
 
 -   Transmutation
 -   **Spellcraft DC:** 25
@@ -2021,7 +2019,7 @@ Die granted to an animated object of a given size, increase the
 Spellcraft DC by +2. To animate attended objects (objects carried or
 worn by another creature), increase the Spellcraft DC by +10.
 
-### Seed:Animate Dead {#seed-animate-dead}
+### Seed:Animate Dead
 
 -   Necromancy \[Evil\]
 -   **Spellcraft DC:** 23
@@ -2037,11 +2035,11 @@ The caster can turn the bones or bodies of dead creatures into undead
 that follow his or her spoken commands. The undead can follow the
 caster, or they can remain in an area and attack any creature (or a
 specific type of creature) entering the place. The undead remain
-animated until they are destroyed. (A destroyed undead can't be animated
+animated until they are destroyed. (A destroyed undead can’t be animated
 again.) Intelligent undead can follow more sophisticated commands. The
 *animate dead* seed allows a character to create 20 HD of undead. For
 each additional 1 HD of undead created, increase the Spellcraft DC by
-+1. The undead created remain under the caster's control indefinitely. A
++1. The undead created remain under the caster’s control indefinitely. A
 caster can naturally control 1 HD per caster level of undead creatures
 he or she has personally created, regardless of the method used. If the
 caster exceeds this number, newly created creatures fall under his or
@@ -2061,15 +2059,15 @@ Spellcraft DC of the epic spell, according to the table below. The GM
 must set the Spellcraft DC for undead not included on the table, using
 similar undead as a basis for comparison.
 
-  ---------- ------------------------ --------- ------------------------
-  Undead     Spellcraft DC Modifier   Undead    Spellcraft DC Modifier
-  Skeleton   --12                     Wraith    --2
-  Zombie     --12                     Mummy     +0
-  Ghoul      --10                     Spectre   +2
-  Shadow     --8                      Morhg     +4
-  Ghast      --6                      Vampire   +6
-  Wight      --4                      Ghost     +8
-  ---------- ------------------------ --------- ------------------------
+|          |                        |         |                        |
+|----------|------------------------|---------|------------------------|
+| Undead   | Spellcraft DC Modifier | Undead  | Spellcraft DC Modifier |
+| Skeleton | –12                    | Wraith  | –2                     |
+| Zombie   | –12                    | Mummy   | +0                     |
+| Ghoul    | –10                    | Spectre | +2                     |
+| Shadow   | –8                     | Morhg   | +4                     |
+| Ghast    | –6                     | Vampire | +6                     |
+| Wight    | –4                     | Ghost   | +8                     |
 
 ### Seed: Armor
 
@@ -2088,7 +2086,7 @@ Armor Class. The bonus is either an armor bonus or a natural armor
 bonus, whichever the caster selects. Unlike mundane armor, the *armor*
 seed provides an intangible protection that entails no armor check
 penalty, arcane spell failure chance, or speed reduction. Incorporeal
-creatures can't bypass the *armor* seed the way they can ignore normal
+creatures can’t bypass the *armor* seed the way they can ignore normal
 armor. For each additional point of Armor Class bonus, increase the
 Spellcraft DC by +2. The caster can also grant a creature a +1 bonus to
 Armor Class using a different bonus type, such as deflection, divine, or
@@ -2108,7 +2106,7 @@ these types, increase the Spellcraft DC by +10.
 -   **Saving Throw:** Will negates
 -   **Spell Resistance:** Yes
 
-This seed forces extraplanar creatures out of the caster's home plane.
+This seed forces extraplanar creatures out of the caster’s home plane.
 The caster can banish up to 14 HD of extraplanar creatures. For each
 additional 2 HD of extraplanar creatures banished, increase the
 Spellcraft DC by +1. To specify a type or sub-type of creature other
@@ -2233,12 +2231,12 @@ to communicate at a distance.
 
 At the base Spellcraft DC of 20, a caster can also use the *contact*
 seed to imbue an object (or creature) with a message he or she prepares
-that appears as written text for the spell's duration or is spoken aloud
+that appears as written text for the spell’s duration or is spoken aloud
 in a language the caster knows. The spoken message can be of any length,
 but the length of written text is limited to what can be contained (as
 text of a readable size) on the surface of the target. The message is
 delivered when specific conditions are fulfilled according to the
-caster's desire when the spell is cast.
+caster’s desire when the spell is cast.
 
 ### Seed: Delude
 
@@ -2260,7 +2258,7 @@ concentrating (the image is otherwise stationary). The image disappears
 when struck by an opponent unless the caster causes the illusion to
 react appropriately. For an illusion that includes audible, olfactory,
 tactile, taste, and thermal aspects, increase the Spellcraft DC by +2
-per extra aspect. Even realistic tactile and thermal illusions can't
+per extra aspect. Even realistic tactile and thermal illusions can’t
 deal damage, however. For each additional image to be created, increase
 the Spellcraft DC by +1. For an illusion that follows a script
 determined by the caster, increase the Spellcraft DC by +9. The figment
@@ -2286,17 +2284,17 @@ development using this or other seeds.
 
 This seed deals 20d6 points of damage to the target. The damage is of no
 particular type or energy. For each additional 1d6 points of damage
-dealt, increase the Spellcraft DC by +2. If the target is reduced to
---10 hit points or less (or a construct, object, or undead is reduced to
-0 hit points), it is utterly destroyed as if disintegrated, leaving
-behind only a trace of fine dust. Up to a 10-foot cube of nonliving
-matter is affected, so a spell using the *destroy* seed destroys only
-part of any very large object or structure targeted. The *destroy* seed
-affects even magical matter, energy fields, and force effects that are
-normally only affected by the *disintegrate* spell. Such effects are
-automatically destroyed. Epic spells using the *ward* seed may also be
-destroyed, though the caster must succeed at an opposed caster level
-check against the other spellcaster to bring down a *ward* spell.
+dealt, increase the Spellcraft DC by +2. If the target is reduced to –10
+hit points or less (or a construct, object, or undead is reduced to 0
+hit points), it is utterly destroyed as if disintegrated, leaving behind
+only a trace of fine dust. Up to a 10-foot cube of nonliving matter is
+affected, so a spell using the *destroy* seed destroys only part of any
+very large object or structure targeted. The *destroy* seed affects even
+magical matter, energy fields, and force effects that are normally only
+affected by the *disintegrate* spell. Such effects are automatically
+destroyed. Epic spells using the *ward* seed may also be destroyed,
+though the caster must succeed at an opposed caster level check against
+the other spellcaster to bring down a *ward* spell.
 
 ### Seed: Dispel
 
@@ -2321,15 +2319,15 @@ spell-like effects just as it affects spells. One creature, object, or
 spell is the target of the *dispel* seed. The caster makes a dispel
 check against the spell or against each ongoing spell currently in
 effect on the object or creature. A dispel check is 1d20 + 10 against a
-DC of 11 + the target spell's caster level. For each additional +1 on
+DC of 11 + the target spell’s caster level. For each additional +1 on
 the dispel check, increase the Spellcraft DC by +1. If targeting an
 object or creature that is the effect of an ongoing spell, make a dispel
 check to end the spell that affects the object or creature. If the
-object targeted is a magic item, make a dispel check against the item's
-caster level. If succeessful, all the item's magical properties are
+object targeted is a magic item, make a dispel check against the item’s
+caster level. If succeessful, all the item’s magical properties are
 suppressed for 1d4 rounds, after which the item recovers on its own. A
 suppressed item becomes nonmagical for the duration of the effect. An
-interdimensional interface is temporarily closed. A magic item's
+interdimensional interface is temporarily closed. A magic item’s
 physical properties are unchanged. Any creature, object, or spell is
 potentially subject to the *dispel* seed, even the spells of gods and
 the abilities of artifacts. A character automatically succeeds on the
@@ -2355,10 +2353,10 @@ acid, cold, electricity, fire, or sonic. The caster can cast the energy
 forth as a bolt, imbue an object with the energy, or create a
 freestanding manifestation of the energy. If the spell developed using
 the *energy* seed releases a bolt, that bolt instantaneously deals 10d6
-points of damage of the appropriate energy type, and all in the bolt's
+points of damage of the appropriate energy type, and all in the bolt’s
 area must make a Reflex save for half damage. For each additional 1d6
 points of damage dealt, increase the Spellcraft DC by +2. The bolt
-begins at the caster's fingertips. To imbue another creature with the
+begins at the caster’s fingertips. To imbue another creature with the
 ability to use an energy bolt as a spell-like ability at its option or
 when a particular condition is met, increase the Spellcraft DC by +25.
 The caster can also cause a creature or object to emanate the specific
@@ -2384,11 +2382,11 @@ fire, creating specific weather effects for a period of 20 hours. Using
 the *energy* seed this way has a base Spellcraft DC of 25. The area
 extends to a two-mile-radius centered on the caster. Once the spell is
 cast, the weather takes 10 minutes to manifest. Ordinarily, a caster
-can't directly target a creature or object, though indirect effects are
+can’t directly target a creature or object, though indirect effects are
 possible. This seed can create cold snaps, heat waves, thunderstorms,
-fogs, blizzards---even a tornado that moves randomly in the affected
-area. Creating targeted damaging effects requires an additional use of
-the *energy* seed.
+fogs, blizzards—even a tornado that moves randomly in the affected area.
+Creating targeted damaging effects requires an additional use of the
+*energy* seed.
 
 ### Seed: Foresee
 
@@ -2409,8 +2407,8 @@ Spellcraft DC by x2. For better results, the caster can pose up to ten
 specific questions (one per round while he or she concentrates) to
 unknown powers of other planes, but the base Spellcraft DC for such an
 attempt is 23. The answers return in a language the caster understands,
-but use only one-word replies: "yes," "no," "maybe," "never,"
-"irrelevant," or some other one-word answer. Unlike 0- to 9th-level
+but use only one-word replies: “yes,” “no,” “maybe,” “never,”
+“irrelevant,” or some other one-word answer. Unlike 0- to 9th-level
 spells of similar type, all questions answered are 90% likely to be
 answered truthfully. However, a specific spell using the *foresee* seed
 can only be cast once every five weeks. The *foresee* seed is also
@@ -2418,7 +2416,7 @@ useful for epic spells requiring specific information before
 functioning, such as spells using the *reveal* and *transport* seeds.
 The *foresee* seed can also be used to gain one basic piece of
 information about a living target: level, class, alignment, or some
-special ability (or one of an object's magical abilities, if any). For
+special ability (or one of an object’s magical abilities, if any). For
 each additional piece of information revealed, increase the Spellcraft
 DC by +2.
 
@@ -2462,11 +2460,10 @@ If a spell with the *fortify* seed grants an inanimate object an ability
 score it would not normally possess (such as Intelligence), the spell
 must also incorporate the *life* seed.
 
-Granting spell resistance to a creature that doesn't already have it is
+Granting spell resistance to a creature that doesn’t already have it is
 a special case; the base Spellcraft DC of 27 grants spell resistance 25,
 and each additional point of spell resistance increases the Spellcraft
-DC by +4 (each --1 to spell resistance reduces the Spellcraft DC by
---2).
+DC by +4 (each –1 to spell resistance reduces the Spellcraft DC by –2).
 
 The *fortify* seed can also grant damage reduction 1/magic. For each
 additional point of damage reduction, increase the Spellcraft DC by +2.
@@ -2475,9 +2472,9 @@ DC by +15.
 
 A special use of the *fortify* seed grants the target a permanent +1
 year to its current age category. For each additional +1 year added to
-the creature's current age category, increase the Spellcraft DC by +2.
-Incremental adjustments to a creature's maximum age do not stack; they
-overlap. When a spell increases a creature's current age category, all
+the creature’s current age category, increase the Spellcraft DC by +2.
+Incremental adjustments to a creature’s maximum age do not stack; they
+overlap. When a spell increases a creature’s current age category, all
 higher age categories are also adjusted accordingly.
 
 ### Seed: Heal
@@ -2497,10 +2494,10 @@ creature to wipe away disease and injury. Such a spell completely cures
 all diseases, blindness, deafness, hit point damage, and temporary
 ability damage. To restore permanently drained ability score points,
 increase the Spellcraft DC by +6. The *heal* seed neutralizes poisons in
-the subject's system so that no additional damage or effects are
+the subject’s system so that no additional damage or effects are
 suffered. It offsets feeblemindedness and cures mental disorders caused
 by spells or injury to the brain. It dispels all magical effects
-penalizing the character's abilities, including effects caused by
+penalizing the character’s abilities, including effects caused by
 spells, even epic spells developed with the *afflict* seed. Only a
 single application of the spell is needed to simultaneously achieve all
 these effects. This seed does not restore levels or Constitution points
@@ -2541,9 +2538,9 @@ saving throw, or the negative levels are converted to actual level loss.
 
 A spell developed with the *life* seed will restore life and complete
 vigor to any deceased creature. The condition of the remains is not a
-factor. So long as some small portion of the creature's body still
+factor. So long as some small portion of the creature’s body still
 exists, it can be returned to life, but the portion receiving the spell
-must have been part of the creature's body at the time of death. (The
+must have been part of the creature’s body at the time of death. (The
 remains of a creature hit by a *disintegrate* spell count as a small
 portion of its body.) The creature can have been dead for no longer than
 two hundred years. For each additional ten years, increase the
@@ -2557,7 +2554,7 @@ or Knowledge (religion) can cast a spell developed with a special
 version of the life seed that gives actual life to normally inanimate
 objects. The caster can give inanimate plants and animals a soul,
 personality, and humanlike sentience. To succeed, the caster must make a
-Will save (DC 10 + the target's Hit Dice, or the Hit Dice a plant will
+Will save (DC 10 + the target’s Hit Dice, or the Hit Dice a plant will
 have once it comes to life).
 
 The newly living object, intelligent animal, or sentient plant is
@@ -2565,7 +2562,7 @@ friendly toward the caster. An object or plant has characteristics as if
 it were an animated object, except that its Intelligence, Wisdom, and
 Charisma scores are all 3d6. Animated objects and plants gain the
 ability to move their limbs, projections, roots, carved legs and arms,
-or other appendages, and have senses similar to a human's. A newly
+or other appendages, and have senses similar to a human’s. A newly
 intelligent animal gets 3d6 Intelligence, +1d3 Charisma, and +2 HD.
 Objects, animals, and plants speak one language that the caster knows,
 plus one additional language that he or she knows per point of
@@ -2621,7 +2618,7 @@ the *reflect* seed is expended.
 The caster of this seed can see some distant location or hear the sounds
 at some distant location almost as if he or she was there. To both hear
 and see, increase the Spellcraft DC by +2. Distance is not a factor, but
-the locale must be known---a place familiar to the caster or an obvious
+the locale must be known—a place familiar to the caster or an obvious
 one. The spell creates an invisible sensor that can be dispelled. Lead
 sheeting or magical protection blocks the spell, and the caster senses
 that the spell is so blocked. If the caster prefers to create a mobile
@@ -2692,7 +2689,7 @@ or the negative levels are converted to actual level loss.
 
 This seed can summon an outsider. It appears where the caster designates
 and acts immediately, on his or her turn, if its spell resistance is
-overcome and it fails a Will saving throw. It attacks the caster's
+overcome and it fails a Will saving throw. It attacks the caster’s
 opponents to the best of its ability. If the caster can communicate with
 the outsider, he or she can direct it not to attack, to attack
 particular enemies, or to perform other actions. The spell conjures an
@@ -2707,7 +2704,7 @@ If the caster increases the Spellcraft DC by +10, he or she can summon a
 creature of CR 2 or less from another monster type or subtype. The
 summoned creature is assumed to have been plucked from some other plane
 (or somewhere on the same plane). The summoned creature attacks the
-caster's opponents to the best of its ability; or, if the caster can
+caster’s opponents to the best of its ability; or, if the caster can
 communicate with it, it will perform other actions. However, the
 summoning ends if the creature is asked to perform a task inimical to
 its nature. For each +1 CR of the summoned creature, increase the
@@ -2715,9 +2712,9 @@ Spellcraft DC by +2.
 
 Finally, by increasing the Spellcraft DC by +60, the caster can summon a
 unique individual he or she specifies from anywhere in the multiverse.
-The caster must know the target's name and some facts about its life,
+The caster must know the target’s name and some facts about its life,
 defeat any magical protection against discovery or other protection
-possessed by the target, and overcome the target's spell resistance, and
+possessed by the target, and overcome the target’s spell resistance, and
 it must fail a Will saving throw. The target is under no special
 compulsion to serve the caster.
 
@@ -2735,7 +2732,7 @@ compulsion to serve the caster.
 
 Spells using the *transform* seed change the subject into another form
 of creature or object. The new form can range in size from Diminutive to
-one size larger than the subject's normal form. For each additional
+one size larger than the subject’s normal form. For each additional
 increment of size change, increase the Spellcraft DC by +6. If the
 caster wants to transform a nonmagical, inanimate object into a creature
 of his or her type or transform a creature into a nonmagical, inanimate
@@ -2754,12 +2751,12 @@ Spellcraft DC by +10.
 The *transform* seed can also change its target into someone specific.
 To transform an object or creature into the specific likeness of another
 individual (including memories and mental abilities), increase the
-Spellcraft DC by +25. If the transformed creature doesn't have the level
+Spellcraft DC by +25. If the transformed creature doesn’t have the level
 or Hit Dice of its new likeness, it can only use the abilities of the
 creature at its own level or Hit Dice. If slain or destroyed, the
 transformed creature or object reverts to its original form. The
-subject's equipment, if any, remains untransformed or melds into the new
-form's body, at the caster's option. The transformed creature or object
+subject’s equipment, if any, remains untransformed or melds into the new
+form’s body, at the caster’s option. The transformed creature or object
 acquires the physical and natural abilities of the creature or object it
 has been changed into while retaining its own memories and mental
 ability scores. Mental abilities include personality, Intelligence,
@@ -2773,7 +2770,7 @@ include armor, natural weapons, and similar gross physical qualities
 possibly hardness. Creatures transformed into inanimate objects do not
 gain the benefit of their untransformed physical abilities, and may well
 be blind, deaf, dumb, and unfeeling. Objects transformed into creatures
-gain that creature's average physical ability scores, but are considered
+gain that creature’s average physical ability scores, but are considered
 to have mental ability scores of 0 (the *fortify* seed can add points to
 each mental ability, if desired). For each normal extraordinary ability
 or supernatural ability granted to the transformed creature, increase
@@ -2817,9 +2814,9 @@ that temporarily transports him or her into a different time stream
 (leaving the caster in the same physical location); this increases the
 Spellcraft DC by +8. If the caster moves him or herself, or the subject,
 into a slower time stream for 5 rounds, time ceases to flow for the
-subject, and its condition becomes fixed---no force or effect can harm
-it until the duration expires. If the caster moves him or her self into
-a faster time stream, the caster speeds up so greatly that all other
+subject, and its condition becomes fixed—no force or effect can harm it
+until the duration expires. If the caster moves him or her self into a
+faster time stream, the caster speeds up so greatly that all other
 creatures seem frozen, though they are actually still moving at their
 normal speeds. The caster is free to act for 5 rounds of apparent time.
 Fire, cold, poison gas, and similar effects can still harm the caster.
@@ -2831,7 +2828,7 @@ spells used to transport a subject into a faster time stream cannot be
 made permanent, nor can the duration of 5 rounds be extended. More
 simply, the seed can *haste* or *slow* a subject for 20 rounds by
 transporting it to the appropriate time stream. This decreases the
-Spellcraft DC by --4.
+Spellcraft DC by –4.
 
 ### Seed: Ward
 
@@ -2864,7 +2861,7 @@ the caster selects of the five energy types: acid, cold, electricity,
 fire, or sonic. Each round, the spell absorbs the first 5 points of
 damage the creature would otherwise take from the specified energy type,
 regardless of whether the source of damage is natural or magical. The
-spell protects the recipient's equipment as well. For each additional
+spell protects the recipient’s equipment as well. For each additional
 point of protection, increase the Spellcraft DC by +1.
 
 A ward against a specific type of creature prevents bodily contact from
@@ -2921,37 +2918,37 @@ characters use no power points to manifest epic powers. Instead, they
 freely manifest their known epic powers a number of times per day equal
 to their Knowledge (psionics) skill divided by 10 (round down).
 
-  ------------------ ------------------ ---------------- ------------------
-                     Base Psicraft DC                    Base Psicraft DC
-  Psychometabolism                      Telepathy        
-  Fortify            17                 Compel           19
-  Slay               25                 Contact          23
-  Transform          21                 Delude           14
-  Heal               50                 Psychokinesis    
-  Psychoportation                       Dispel           19
-  Banish             27                 Energy           19
-  Summon             14                 Reflect          27
-  Transport          27                 Destroy          29
-  Clairsentience                        Ward             14
-  Afflict            14                 Metacreativity   
-  Foresee            17                 Armor            14
-  Reveal             19                 Conjure          21
-  Conceal            17                 Animate dead     23
-                                        Animate          25
-                                        Life             55
-  ------------------ ------------------ ---------------- ------------------
+|                  |                  |                |                  |
+|------------------|------------------|----------------|------------------|
+|                  | Base Psicraft DC |                | Base Psicraft DC |
+| Psychometabolism |                  | Telepathy      |                  |
+| Fortify          | 17               | Compel         | 19               |
+| Slay             | 25               | Contact        | 23               |
+| Transform        | 21               | Delude         | 14               |
+| Heal             | 50               | Psychokinesis  |                  |
+| Psychoportation  |                  | Dispel         | 19               |
+| Banish           | 27               | Energy         | 19               |
+| Summon           | 14               | Reflect        | 27               |
+| Transport        | 27               | Destroy        | 29               |
+| Clairsentience   |                  | Ward           | 14               |
+| Afflict          | 14               | Metacreativity |                  |
+| Foresee          | 17               | Armor          | 14               |
+| Reveal           | 19               | Conjure        | 21               |
+| Conceal          | 17               | Animate dead   | 23               |
+|                  |                  | Animate        | 25               |
+|                  |                  | Life           | 55               |
 
-  : Table: Psionic Seeds
+Table: Psionic Seeds
 
-  ------------------------------------------------------------------------------------------- ----------------------
-                                                                                              Psicraft DC Modifier
-  Discipline                                                                                  --5
-  Seed within primary discipline                                                              
-  Display                                                                                     
-  Hide visual display (epic psionic seeds substitute one Vi display for V and S components)   +4
-  ------------------------------------------------------------------------------------------- ----------------------
+|                                                                                           |                      |
+|-------------------------------------------------------------------------------------------|----------------------|
+|                                                                                           | Psicraft DC Modifier |
+| Discipline                                                                                | –5                   |
+| Seed within primary discipline                                                            |                      |
+| Display                                                                                   |                      |
+| Hide visual display (epic psionic seeds substitute one Vi display for V and S components) | +4                   |
 
-  : Table: Psionic Factors
+Table: Psionic Factors
 
 ## Non-Epic Spell
 

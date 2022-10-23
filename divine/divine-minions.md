@@ -5,9 +5,9 @@ the terms of the Open Game License v1.0a.
 
 All types of beings may serve deities. In general, a deity only accepts
 minions who have accomplished some great deed in service to the deity.
-Such minions usually have the same alignment as the deity. No minion's
-alignment is opposed to the patron deity's alignment on either the
-law--chaos axis or the good--evil axis.
+Such minions usually have the same alignment as the deity. No minion’s
+alignment is opposed to the patron deity’s alignment on either the
+law–chaos axis or the good–evil axis.
 
 ## Table of Contents
 
@@ -19,9 +19,9 @@ law--chaos axis or the good--evil axis.
 ## Proxies
 
 A divine proxy speaks and acts on behalf of the divine being. When the
-demand for a deity's presence is too high, the deity may use proxies.
+demand for a deity’s presence is too high, the deity may use proxies.
 
-Proxies are divine minions invested with a small portion of the deity's
+Proxies are divine minions invested with a small portion of the deity’s
 power. A deity may invest 1 rank of its power (reducing its divine rank
 accordingly) in a single servant for as long as the deity chooses. The
 minion must be physically present for the deity to perform the
@@ -37,7 +37,7 @@ of the proxy.
 ## Petitioners
 
 Some spirits demonstrate their devotion to their deity by traveling to
-the deity's home plane. Those that survive the journey across the planes
+the deity’s home plane. Those that survive the journey across the planes
 become servants of their deity. While a few may remain disembodied
 spirits, most become petitioners through the divine will of their patron
 deity.
@@ -63,10 +63,10 @@ petitioners.
 
 ## Creating a Petitioner
 
-"Petitioner" is a template that may be added to any creature as
+“Petitioner” is a template that may be added to any creature as
 determined by the nature of the campaign (referred to hereafter as the
-base creature). The creature's type changes to outsider, and the
-creature uses all the base creature's statistics and special abilities
+base creature). The creature’s type changes to outsider, and the
+creature uses all the base creature’s statistics and special abilities
 except as noted here.
 
 **Hit Dice:** Change to 2d8. Retain bonus hit points.
@@ -91,7 +91,7 @@ two of the following effects: acid, cold, electricity, fire, poison,
 petrifaction, or polymorphing. These immunities are applied similarly to
 all petitioners of a particular plane or deity.
 
-*Resistances:*Depending on the nature of the petitioner's plane, the
+*Resistances:*Depending on the nature of the petitioner’s plane, the
 petitioner gains resistance 20 against two of the following effects:
 acid, cold, electricity, or fire.
 

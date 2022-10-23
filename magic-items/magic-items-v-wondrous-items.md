@@ -10,7 +10,7 @@ the terms of the Open Game License v1.0a.
 
 ## Wondrous Items
 
-This is a catch-all category for anything that doesn't fall into the
+This is a catch-all category for anything that doesn’t fall into the
 other groups. Anyone can use a wondrous item (unless specified otherwise
 in the description).
 
@@ -20,330 +20,330 @@ in the description).
 from item to item.
 
 **Special Qualities:** Roll d%. An 01 result indicates the wondrous item
-is intelligent, 02--31 indicates that something (a design, inscription,
-or the like) provides a clue to its function, and 32--100 indicates no
+is intelligent, 02–31 indicates that something (a design, inscription,
+or the like) provides a clue to its function, and 32–100 indicates no
 special qualities. Intelligent items have extra abilities and sometimes
 extraordinary powers and special purposes.
 
 Wondrous items with charges can never be intelligent.
 
-  ----- --------------------------------------------- --------------
-  d%    Item                                          Market Price
-  01    Feather token, anchor                         50 gp
-  02    Universal solvent                             50 gp
-  03    Elixir of love                                150 gp
-  04    Unguent of timelessness                       150 gp
-  05    Feather token, fan                            200 gp
-  06    Dust of tracelessness                         250 gp
-  07    Elixir of hiding                              250 gp
-  08    Elixir of sneaking                            250 gp
-  09    Elixir of swimming                            250 gp
-  10    Elixir of vision                              250 gp
-  11    Silversheen                                   250 gp
-  12    Feather token, bird                           300 gp
-  13    Feather token, tree                           400 gp
-  14    Feather token, swan boat                      450 gp
-  15    Elixir of truth                               500 gp
-  16    Feather token, whip                           500 gp
-  17    Dust of dryness                               850 gp
-  18    Bag of tricks, gray                           900 gp
-  19    Hand of the mage                              900 gp
-  20    Bracers of armor +1                           1,000 gp
-  21    Cloak of resistance +1                        1,000 gp
-  22    Pearl of power, 1st-level spell               1,000 gp
-  23    Phylactery of faithfulness                    1,000 gp
-  24    Salve of slipperiness                         1,000 gp
-  25    Elixir of fire breath                         1,100 gp
-  26    Pipes of the sewers                           1,150 gp
-  27    Dust of illusion                              1,200 gp
-  28    Goggles of minute seeing                      1,250 gp
-  29    Brooch of shielding                           1,500 gp
-  30    Necklace of fireballs type I                  1,650 gp
-  31    Dust of appearance                            1,800 gp
-  32    Hat of disguise                               1,800 gp
-  33    Pipes of sounding                             1,800 gp
-  34    Efficient quiver                              1,800 gp
-  35    Amulet of natural armor +1                    2,000 gp
-  36    Handy haversack                               2,000 gp
-  37    Horn of fog                                   2,000 gp
-  38    Elemental gem                                 2,250 gp
-  39    Robe of bones                                 2,400 gp
-  40    Sovereign glue                                2,400 gp
-  41    Bag of holding type I                         2,500 gp
-  42    Boots of elvenkind                            2,500 gp
-  43    Boots of the winterlands                      2,500 gp
-  44    Candle of truth                               2,500 gp
-  45    Cloak of elvenkind                            2,500 gp
-  46    Eyes of the eagle                             2,500 gp
-  47    Scarab, golembane                             2,500 gp
-  48    Necklace of fireballs type II                 2,700 gp
-  49    Stone of alarm                                2,700 gp
-  50    Bag of tricks, rust                           3,000 gp
-  51    Bead of force                                 3,000 gp
-  52    Chime of opening                              3,000 gp
-  53    Horseshoes of speed                           3,000 gp
-  54    Rope of climbing                              3,000 gp
-  55    Dust of disappearance                         3,500 gp
-  56    Lens of detection                             3,500 gp
-  57    Vestment, druid's                             3,750 gp
-  58    Figurine of wondrous power, silver raven      3,800 gp
-  59    Amulet of health +2                           4,000 gp
-  60    Bracers of armor +2                           4,000 gp
-  61    Cloak of Charisma +2                          4,000 gp
-  62    Cloak of resistance +2                        4,000 gp
-  63    Gauntlets of ogre power                       4,000 gp
-  64    Gloves of arrow snaring                       4,000 gp
-  65    Gloves of Dexterity +2                        4,000 gp
-  66    Headband of intellect +2                      4,000 gp
-  67    Ioun stone, clear spindle                     4,000 gp
-  68    Restorative ointment                          4,000 gp
-  69    Marvelous pigments                            4,000 gp
-  70    Pearl of power, 2nd-level spell               4,000 gp
-  71    Periapt of Wisdom +2                          4,000 gp
-  72    Stone salve                                   4,000 gp
-  73    Necklace of fireballs type III                4,350 gp
-  74    Circlet of persuasion                         4,500 gp
-  75    Slippers of spider climbing                   4,800 gp
-  76    Incense of meditation                         4,900 gp
-  77    Bag of holding type II                        5,000 gp
-  78    Bracers of archery, lesser                    5,000 gp
-  79    Ioun stone, dusty rose prism                  5,000 gp
-  80    Helm of comprehend languages and read magic   5,200 gp
-  81    Vest of escape                                5,200 gp
-  82    Eversmoking bottle                            5,400 gp
-  83    Sustaining spoon                              5,400 gp
-  84    Necklace of fireballs type IV                 5,400 gp
-  85    Boots of striding and springing               5,500 gp
-  86    Wind fan                                      5,500 gp
-  87    Amulet of mighty fists +1                     6,000 gp
-  88    Horseshoes of a zephyr                        6,000 gp
-  89    Pipes of haunting                             6,000 gp
-  90    Necklace of fireballs type V                  6,150 gp
-  91    Gloves of swimming and climbing               6,250 gp
-  92    Bag of tricks, tan                            6,300 gp
-  93    Circlet of blasting, minor                    6,480 gp
-  94    Horn of goodness/evil                         6,500 gp
-  95    Robe of useful items                          7,000 gp
-  96    Boat, folding                                 7,200 gp
-  97    Cloak of the manta ray                        7,200 gp
-  98    Bottle of air                                 7,250 gp
-  99    Bag of holding type III                       7,400 gp
-  100   Periapt of health                             7,400 gp
-  ----- --------------------------------------------- --------------
+|     |                                             |              |
+|-----|---------------------------------------------|--------------|
+| d%  | Item                                        | Market Price |
+| 01  | Feather token, anchor                       | 50 gp        |
+| 02  | Universal solvent                           | 50 gp        |
+| 03  | Elixir of love                              | 150 gp       |
+| 04  | Unguent of timelessness                     | 150 gp       |
+| 05  | Feather token, fan                          | 200 gp       |
+| 06  | Dust of tracelessness                       | 250 gp       |
+| 07  | Elixir of hiding                            | 250 gp       |
+| 08  | Elixir of sneaking                          | 250 gp       |
+| 09  | Elixir of swimming                          | 250 gp       |
+| 10  | Elixir of vision                            | 250 gp       |
+| 11  | Silversheen                                 | 250 gp       |
+| 12  | Feather token, bird                         | 300 gp       |
+| 13  | Feather token, tree                         | 400 gp       |
+| 14  | Feather token, swan boat                    | 450 gp       |
+| 15  | Elixir of truth                             | 500 gp       |
+| 16  | Feather token, whip                         | 500 gp       |
+| 17  | Dust of dryness                             | 850 gp       |
+| 18  | Bag of tricks, gray                         | 900 gp       |
+| 19  | Hand of the mage                            | 900 gp       |
+| 20  | Bracers of armor +1                         | 1,000 gp     |
+| 21  | Cloak of resistance +1                      | 1,000 gp     |
+| 22  | Pearl of power, 1st-level spell             | 1,000 gp     |
+| 23  | Phylactery of faithfulness                  | 1,000 gp     |
+| 24  | Salve of slipperiness                       | 1,000 gp     |
+| 25  | Elixir of fire breath                       | 1,100 gp     |
+| 26  | Pipes of the sewers                         | 1,150 gp     |
+| 27  | Dust of illusion                            | 1,200 gp     |
+| 28  | Goggles of minute seeing                    | 1,250 gp     |
+| 29  | Brooch of shielding                         | 1,500 gp     |
+| 30  | Necklace of fireballs type I                | 1,650 gp     |
+| 31  | Dust of appearance                          | 1,800 gp     |
+| 32  | Hat of disguise                             | 1,800 gp     |
+| 33  | Pipes of sounding                           | 1,800 gp     |
+| 34  | Efficient quiver                            | 1,800 gp     |
+| 35  | Amulet of natural armor +1                  | 2,000 gp     |
+| 36  | Handy haversack                             | 2,000 gp     |
+| 37  | Horn of fog                                 | 2,000 gp     |
+| 38  | Elemental gem                               | 2,250 gp     |
+| 39  | Robe of bones                               | 2,400 gp     |
+| 40  | Sovereign glue                              | 2,400 gp     |
+| 41  | Bag of holding type I                       | 2,500 gp     |
+| 42  | Boots of elvenkind                          | 2,500 gp     |
+| 43  | Boots of the winterlands                    | 2,500 gp     |
+| 44  | Candle of truth                             | 2,500 gp     |
+| 45  | Cloak of elvenkind                          | 2,500 gp     |
+| 46  | Eyes of the eagle                           | 2,500 gp     |
+| 47  | Scarab, golembane                           | 2,500 gp     |
+| 48  | Necklace of fireballs type II               | 2,700 gp     |
+| 49  | Stone of alarm                              | 2,700 gp     |
+| 50  | Bag of tricks, rust                         | 3,000 gp     |
+| 51  | Bead of force                               | 3,000 gp     |
+| 52  | Chime of opening                            | 3,000 gp     |
+| 53  | Horseshoes of speed                         | 3,000 gp     |
+| 54  | Rope of climbing                            | 3,000 gp     |
+| 55  | Dust of disappearance                       | 3,500 gp     |
+| 56  | Lens of detection                           | 3,500 gp     |
+| 57  | Vestment, druid’s                           | 3,750 gp     |
+| 58  | Figurine of wondrous power, silver raven    | 3,800 gp     |
+| 59  | Amulet of health +2                         | 4,000 gp     |
+| 60  | Bracers of armor +2                         | 4,000 gp     |
+| 61  | Cloak of Charisma +2                        | 4,000 gp     |
+| 62  | Cloak of resistance +2                      | 4,000 gp     |
+| 63  | Gauntlets of ogre power                     | 4,000 gp     |
+| 64  | Gloves of arrow snaring                     | 4,000 gp     |
+| 65  | Gloves of Dexterity +2                      | 4,000 gp     |
+| 66  | Headband of intellect +2                    | 4,000 gp     |
+| 67  | Ioun stone, clear spindle                   | 4,000 gp     |
+| 68  | Restorative ointment                        | 4,000 gp     |
+| 69  | Marvelous pigments                          | 4,000 gp     |
+| 70  | Pearl of power, 2nd-level spell             | 4,000 gp     |
+| 71  | Periapt of Wisdom +2                        | 4,000 gp     |
+| 72  | Stone salve                                 | 4,000 gp     |
+| 73  | Necklace of fireballs type III              | 4,350 gp     |
+| 74  | Circlet of persuasion                       | 4,500 gp     |
+| 75  | Slippers of spider climbing                 | 4,800 gp     |
+| 76  | Incense of meditation                       | 4,900 gp     |
+| 77  | Bag of holding type II                      | 5,000 gp     |
+| 78  | Bracers of archery, lesser                  | 5,000 gp     |
+| 79  | Ioun stone, dusty rose prism                | 5,000 gp     |
+| 80  | Helm of comprehend languages and read magic | 5,200 gp     |
+| 81  | Vest of escape                              | 5,200 gp     |
+| 82  | Eversmoking bottle                          | 5,400 gp     |
+| 83  | Sustaining spoon                            | 5,400 gp     |
+| 84  | Necklace of fireballs type IV               | 5,400 gp     |
+| 85  | Boots of striding and springing             | 5,500 gp     |
+| 86  | Wind fan                                    | 5,500 gp     |
+| 87  | Amulet of mighty fists +1                   | 6,000 gp     |
+| 88  | Horseshoes of a zephyr                      | 6,000 gp     |
+| 89  | Pipes of haunting                           | 6,000 gp     |
+| 90  | Necklace of fireballs type V                | 6,150 gp     |
+| 91  | Gloves of swimming and climbing             | 6,250 gp     |
+| 92  | Bag of tricks, tan                          | 6,300 gp     |
+| 93  | Circlet of blasting, minor                  | 6,480 gp     |
+| 94  | Horn of goodness/evil                       | 6,500 gp     |
+| 95  | Robe of useful items                        | 7,000 gp     |
+| 96  | Boat, folding                               | 7,200 gp     |
+| 97  | Cloak of the manta ray                      | 7,200 gp     |
+| 98  | Bottle of air                               | 7,250 gp     |
+| 99  | Bag of holding type III                     | 7,400 gp     |
+| 100 | Periapt of health                           | 7,400 gp     |
 
-  : Table: Minor Wondrous Items
+Table: Minor Wondrous Items
 
-  ----- --------------------------------------------- --------------
-  d%    Item                                          Market Price
-  01    Boots of levitation                           7,500 gp
-  02    Harp of charming                              7,500 gp
-  03    Amulet of natural armor +2                    8,000 gp
-  04    Golem manual, flesh                           8,000 gp
-  05    Hand of glory                                 8,000 gp
-  06    Ioun stone, deep red sphere                   8,000 gp
-  07    Ioun stone, incandescent blue sphere          8,000 gp
-  08    Ioun stone, pale blue rhomboid                8,000 gp
-  09    Ioun stone, pink and green sphere             8,000 gp
-  10    Ioun stone, pink rhomboid                     8,000 gp
-  11    Ioun stone, scarlet and blue sphere           8,000 gp
-  12    Deck of illusions                             8,100 gp
-  13    Necklace of fireballs type VI                 8,100 gp
-  14    Candle of invocation                          8,400 gp
-  15    Bracers of armor +3                           9,000 gp
-  16    Cloak of resistance +3                        9,000 gp
-  17    Decanter of endless water                     9,000 gp
-  18    Necklace of adaptation                        9,000 gp
-  19    Pearl of power, 3rd-level spell               9,000 gp
-  20    Talisman of the sphere                        9,000 gp
-  21    Figurine of wondrous power, serpentine owl    9,100 gp
-  22    Necklace of fireballs type VII                9,150 gp
-  23    Strand of prayer beads, lesser                9,600 gp
-  24    Bag of holding type IV                        10,000 gp
-  25    Figurine of wondrous power, bronze griffon    10,000 gp
-  26    Figurine of wondrous power, ebony fly         10,000 gp
-  27    Glove of storing                              10,000 gp
-  28    Ioun stone, dark blue rhomboid                10,000 gp
-  29    Stone horse, courser                          10,000 gp
-  30    Cape of the mountebank                        10,080 gp
-  31    Phylactery of undead turning                  11,000 gp
-  32    Gauntlet of rust                              11,500 gp
-  33    Boots of speed                                12,000 gp
-  34    Goggles of night                              12,000 gp
-  35    Golem manual, clay                            12,000 gp
-  36    Medallion of thoughts                         12,000 gp
-  37    Pipes of pain                                 12,000 gp
-  38    Blessed book                                  12,500 gp
-  39    Belt, monk's                                  13,000 gp
-  40    Gem of brightness                             13,000 gp
-  41    Lyre of building                              13,000 gp
-  42    Cloak of arachnida                            14,000 gp
-  43    Stone horse, destrier                         14,800 gp
-  44    Belt of dwarvenkind                           14,900 gp
-  45    Periapt of wound closure                      15,000 gp
-  46    Horn of the tritons                           15,100 gp
-  47    Pearl of the sirines                          15,300 gp
-  48    Figurine of wondrous power, onyx dog          15,500 gp
-  49    Amulet of health +4                           16,000 gp
-  50    Belt of giant Strength +4                     16,000 gp
-  51    Boots, winged                                 16,000 gp
-  52    Bracers of armor +4                           16,000 gp
-  53    Cloak of Charisma +4                          16,000 gp
-  54    Cloak of resistance +4                        16,000 gp
-  55    Gloves of Dexterity +4                        16,000 gp
-  56    Headband of intellect +4                      16,000 gp
-  57    Pearl of power, 4th-level spell               16,000 gp
-  58    Periapt of Wisdom +4                          16,000 gp
-  59    Scabbard of keen edges                        16,000 gp
-  60    Figurine of wondrous power, golden lions      16,500 gp
-  61    Chime of interruption                         16,800 gp
-  62    Broom of flying                               17,000 gp
-  63    Figurine of wondrous power, marble elephant   17,000 gp
-  64    Amulet of natural armor +3                    18,000 gp
-  65    Ioun stone, iridescent spindle                18,000 gp
-  66    Bracelet of friends                           19,000 gp
-  67    *Carpet of flying,* 5 ft. by 5 ft.            20,000 gp
-  68    Horn of blasting                              20,000 gp
-  69    Ioun stone, pale lavender ellipsoid           20,000 gp
-  70    Ioun stone, pearly white spindle              20,000 gp
-  71    Portable hole                                 20,000 gp
-  72    Stone of good luck (luckstone)                20,000 gp
-  73    Figurine of wondrous power, ivory goats       21,000 gp
-  74    Rope of entanglement                          21,000 gp
-  75    Golem manual, stone                           22,000 gp
-  76    Mask of the skull                             22,000 gp
-  77    Mattock of the titans                         23,348 gp
-  78    Circlet of blasting, major                    23,760 gp
-  79    Amulet of mighty fists +2                     24,000 gp
-  80    Cloak of displacement, minor                  24,000 gp
-  81    Helm of underwater action                     24,000 gp
-  82    Bracers of archery, greater                   25,000 gp
-  83    Bracers of armor +5                           25,000 gp
-  84    Cloak of resistance +5                        25,000 gp
-  85    Eyes of doom                                  25,000 gp
-  86    Pearl of power, 5th-level spell               25,000 gp
-  87    Maul of the titans                            25,305 gp
-  88    Strand of prayer beads                        25,800 gp
-  89    Cloak of the bat                              26,000 gp
-  90    Iron bands of binding                         26,000 gp
-  91    Cube of frost resistance                      27,000 gp
-  92    Helm of telepathy                             27,000 gp
-  93    Periapt of proof against poison               27,000 gp
-  94    Robe of scintillating colors                  27,000 gp
-  95    Manual of bodily health +1                    27,500 gp
-  96    Manual of gainful exercise +1                 27,500 gp
-  97    Manual of quickness in action +1              27,500 gp
-  98    Tome of clear thought +1                      27,500 gp
-  99    Tome of leadership and influence +1           27,500 gp
-  100   Tome of understanding +1                      27,500 gp
-  ----- --------------------------------------------- --------------
+|     |                                             |              |
+|-----|---------------------------------------------|--------------|
+| d%  | Item                                        | Market Price |
+| 01  | Boots of levitation                         | 7,500 gp     |
+| 02  | Harp of charming                            | 7,500 gp     |
+| 03  | Amulet of natural armor +2                  | 8,000 gp     |
+| 04  | Golem manual, flesh                         | 8,000 gp     |
+| 05  | Hand of glory                               | 8,000 gp     |
+| 06  | Ioun stone, deep red sphere                 | 8,000 gp     |
+| 07  | Ioun stone, incandescent blue sphere        | 8,000 gp     |
+| 08  | Ioun stone, pale blue rhomboid              | 8,000 gp     |
+| 09  | Ioun stone, pink and green sphere           | 8,000 gp     |
+| 10  | Ioun stone, pink rhomboid                   | 8,000 gp     |
+| 11  | Ioun stone, scarlet and blue sphere         | 8,000 gp     |
+| 12  | Deck of illusions                           | 8,100 gp     |
+| 13  | Necklace of fireballs type VI               | 8,100 gp     |
+| 14  | Candle of invocation                        | 8,400 gp     |
+| 15  | Bracers of armor +3                         | 9,000 gp     |
+| 16  | Cloak of resistance +3                      | 9,000 gp     |
+| 17  | Decanter of endless water                   | 9,000 gp     |
+| 18  | Necklace of adaptation                      | 9,000 gp     |
+| 19  | Pearl of power, 3rd-level spell             | 9,000 gp     |
+| 20  | Talisman of the sphere                      | 9,000 gp     |
+| 21  | Figurine of wondrous power, serpentine owl  | 9,100 gp     |
+| 22  | Necklace of fireballs type VII              | 9,150 gp     |
+| 23  | Strand of prayer beads, lesser              | 9,600 gp     |
+| 24  | Bag of holding type IV                      | 10,000 gp    |
+| 25  | Figurine of wondrous power, bronze griffon  | 10,000 gp    |
+| 26  | Figurine of wondrous power, ebony fly       | 10,000 gp    |
+| 27  | Glove of storing                            | 10,000 gp    |
+| 28  | Ioun stone, dark blue rhomboid              | 10,000 gp    |
+| 29  | Stone horse, courser                        | 10,000 gp    |
+| 30  | Cape of the mountebank                      | 10,080 gp    |
+| 31  | Phylactery of undead turning                | 11,000 gp    |
+| 32  | Gauntlet of rust                            | 11,500 gp    |
+| 33  | Boots of speed                              | 12,000 gp    |
+| 34  | Goggles of night                            | 12,000 gp    |
+| 35  | Golem manual, clay                          | 12,000 gp    |
+| 36  | Medallion of thoughts                       | 12,000 gp    |
+| 37  | Pipes of pain                               | 12,000 gp    |
+| 38  | Blessed book                                | 12,500 gp    |
+| 39  | Belt, monk’s                                | 13,000 gp    |
+| 40  | Gem of brightness                           | 13,000 gp    |
+| 41  | Lyre of building                            | 13,000 gp    |
+| 42  | Cloak of arachnida                          | 14,000 gp    |
+| 43  | Stone horse, destrier                       | 14,800 gp    |
+| 44  | Belt of dwarvenkind                         | 14,900 gp    |
+| 45  | Periapt of wound closure                    | 15,000 gp    |
+| 46  | Horn of the tritons                         | 15,100 gp    |
+| 47  | Pearl of the sirines                        | 15,300 gp    |
+| 48  | Figurine of wondrous power, onyx dog        | 15,500 gp    |
+| 49  | Amulet of health +4                         | 16,000 gp    |
+| 50  | Belt of giant Strength +4                   | 16,000 gp    |
+| 51  | Boots, winged                               | 16,000 gp    |
+| 52  | Bracers of armor +4                         | 16,000 gp    |
+| 53  | Cloak of Charisma +4                        | 16,000 gp    |
+| 54  | Cloak of resistance +4                      | 16,000 gp    |
+| 55  | Gloves of Dexterity +4                      | 16,000 gp    |
+| 56  | Headband of intellect +4                    | 16,000 gp    |
+| 57  | Pearl of power, 4th-level spell             | 16,000 gp    |
+| 58  | Periapt of Wisdom +4                        | 16,000 gp    |
+| 59  | Scabbard of keen edges                      | 16,000 gp    |
+| 60  | Figurine of wondrous power, golden lions    | 16,500 gp    |
+| 61  | Chime of interruption                       | 16,800 gp    |
+| 62  | Broom of flying                             | 17,000 gp    |
+| 63  | Figurine of wondrous power, marble elephant | 17,000 gp    |
+| 64  | Amulet of natural armor +3                  | 18,000 gp    |
+| 65  | Ioun stone, iridescent spindle              | 18,000 gp    |
+| 66  | Bracelet of friends                         | 19,000 gp    |
+| 67  | *Carpet of flying,* 5 ft. by 5 ft.          | 20,000 gp    |
+| 68  | Horn of blasting                            | 20,000 gp    |
+| 69  | Ioun stone, pale lavender ellipsoid         | 20,000 gp    |
+| 70  | Ioun stone, pearly white spindle            | 20,000 gp    |
+| 71  | Portable hole                               | 20,000 gp    |
+| 72  | Stone of good luck (luckstone)              | 20,000 gp    |
+| 73  | Figurine of wondrous power, ivory goats     | 21,000 gp    |
+| 74  | Rope of entanglement                        | 21,000 gp    |
+| 75  | Golem manual, stone                         | 22,000 gp    |
+| 76  | Mask of the skull                           | 22,000 gp    |
+| 77  | Mattock of the titans                       | 23,348 gp    |
+| 78  | Circlet of blasting, major                  | 23,760 gp    |
+| 79  | Amulet of mighty fists +2                   | 24,000 gp    |
+| 80  | Cloak of displacement, minor                | 24,000 gp    |
+| 81  | Helm of underwater action                   | 24,000 gp    |
+| 82  | Bracers of archery, greater                 | 25,000 gp    |
+| 83  | Bracers of armor +5                         | 25,000 gp    |
+| 84  | Cloak of resistance +5                      | 25,000 gp    |
+| 85  | Eyes of doom                                | 25,000 gp    |
+| 86  | Pearl of power, 5th-level spell             | 25,000 gp    |
+| 87  | Maul of the titans                          | 25,305 gp    |
+| 88  | Strand of prayer beads                      | 25,800 gp    |
+| 89  | Cloak of the bat                            | 26,000 gp    |
+| 90  | Iron bands of binding                       | 26,000 gp    |
+| 91  | Cube of frost resistance                    | 27,000 gp    |
+| 92  | Helm of telepathy                           | 27,000 gp    |
+| 93  | Periapt of proof against poison             | 27,000 gp    |
+| 94  | Robe of scintillating colors                | 27,000 gp    |
+| 95  | Manual of bodily health +1                  | 27,500 gp    |
+| 96  | Manual of gainful exercise +1               | 27,500 gp    |
+| 97  | Manual of quickness in action +1            | 27,500 gp    |
+| 98  | Tome of clear thought +1                    | 27,500 gp    |
+| 99  | Tome of leadership and influence +1         | 27,500 gp    |
+| 100 | Tome of understanding +1                    | 27,500 gp    |
 
-  : Table: Medium Wondrous Items
+Table: Medium Wondrous Items
 
-  ----- ------------------------------------------------ --------------
-  d%    Item                                             Market Price
-  01    Dimensional shackles                             28,000 gp
-  02    Figurine of wondrous power, obsidian steed       28,500 gp
-  03    Drums of panic                                   30,000 gp
-  04    Ioun stone, orange                               30,000 gp
-  05    Ioun stone, pale green prism                     30,000 gp
-  06    Lantern of revealing                             30,000 gp
-  07    Robe of blending                                 30,000 gp
-  08    Amulet of natural armor +4                       32,000 gp
-  09    Amulet of proof against detection and location   35,000 gp
-  10    *Carpet of flying,* 5 ft. by 10 ft.              35,000 gp
-  11    Golem manual, iron                               35,000 gp
-  12    Amulet of health +6                              36,000 gp
-  13    Belt of giant Strength +6                        36,000 gp
-  14    Bracers of armor +6                              36,000 gp
-  15    Cloak of Charisma +6                             36,000 gp
-  16    Gloves of Dexterity +6                           36,000 gp
-  17    Headband of intellect +6                         36,000 gp
-  18    Ioun stone, vibrant purple prism                 36,000 gp
-  19    Pearl of power, 6th-level spell                  36,000 gp
-  20    Periapt of Wisdom +6                             36,000 gp
-  21    Scarab of protection                             38,000 gp
-  22    Ioun stone, lavender and green ellipsoid         40,000 gp
-  23    Ring gates                                       40,000 gp
-  24    Crystal ball                                     42,000 gp
-  25    Golem manual, greater stone                      44,000 gp
-  26    Orb of storms                                    48,000 gp
-  27    Boots of teleportation                           49,000 gp
-  28    Bracers of armor +7                              49,000 gp
-  29    Pearl of power, 7th-level spell                  49,000 gp
-  30    Amulet of natural armor +5                       50,000 gp
-  31    Cloak of displacement, major                     50,000 gp
-  32    Crystal ball with see invisibility               50,000 gp
-  33    Horn of Valhalla                                 50,000 gp
-  34    Crystal ball with detect thoughts                51,000 gp
-  35    *Carpet of flying,* 6 ft. by 9 ft.               53,000 gp
-  36    Amulet of mighty fists +3                        54,000 gp
-  37    Wings of flying                                  54,000 gp
-  38    Cloak of etherealness                            55,000 gp
-  39    Instant fortress                                 55,000 gp
-  40    Manual of bodily health +2                       55,000 gp
-  41    Manual of gainful exercise +2                    55,000 gp
-  42    Manual of quickness in action +2                 55,000 gp
-  43    Tome of clear thought +2                         55,000 gp
-  44    Tome of leadership and influence +2              55,000 gp
-  45    Tome of understanding +2                         55,000 gp
-  46    Eyes of charming                                 56,000 gp
-  47    Robe of stars                                    58,000 gp
-  48    *Carpet of flying,* 10 ft. by 10 ft.             60,000 gp
-  49    Darkskull                                        60,000 gp
-  50    Cube of force                                    62,000 gp
-  51    Bracers of armor +8                              64,000 gp
-  52    Pearl of power, 8th-level spell                  64,000 gp
-  53    Crystal ball with telepathy                      70,000 gp
-  54    Horn of blasting, greater                        70,000 gp
-  55    Pearl of power, two spells                       70,000 gp
-  56    Helm of teleportation                            73,500 gp
-  57    Gem of seeing                                    75,000 gp
-  58    Robe of the archmagi                             75,000 gp
-  59    Mantle of faith                                  76,000 gp
-  60    Crystal ball with true seeing                    80,000 gp
-  61    Pearl of power, 9th-level spell                  81,000 gp
-  62    Well of many worlds                              82,000 gp
-  63    Manual of bodily health +3                       82,500 gp
-  64    Manual of gainful exercise +3                    82,500 gp
-  65    Manual of quickness in action +3                 82,500 gp
-  66    Tome of clear thought +3                         82,500 gp
-  67    Tome of leadership and influence +3              82,500 gp
-  68    Tome of understanding +3                         82,500 gp
-  69    Apparatus of the crab                            90,000 gp
-  70    Mantle of spell resistance                       90,000 gp
-  71    Mirror of opposition                             92,000 gp
-  72    Strand of prayer beads, greater                  95,800 gp
-  73    Amulet of mighty fists +4                        96,000 gp
-  74    Eyes of petrification                            98,000 gp
-  75    Bowl of commanding water elementals              100,000 gp
-  76    Brazier of commanding fire elementals            100,000 gp
-  77    Censer of controlling air elementals             100,000 gp
-  78    Stone of controlling earth elementals            100,000 gp
-  79    Manual of bodily health +4                       110,000 gp
-  80    Manual of gainful exercise +4                    110,000 gp
-  81    Manual of quickness in action +4                 110,000 gp
-  82    Tome of clear thought +4                         110,000 gp
-  83    Tome of leadership and influence +4              110,000 gp
-  84    Tome of understanding +4                         110,000 gp
-  85    Amulet of the planes                             120,000 gp
-  86    Robe of eyes                                     120,000 gp
-  87    Helm of brilliance                               125,000 gp
-  88    Manual of bodily health +5                       137,500 gp
-  89    Manual of gainful exercise +5                    137,500 gp
-  90    Manual of quickness in action +5                 137,500 gp
-  91    Tome of clear thought +5                         137,500 gp
-  92    Tome of leadership and influence +5              137,500 gp
-  93    Tome of understanding +5                         137,500 gp
-  94    Efreeti bottle                                   145,000 gp
-  95    Amulet of mighty fists +5                        150,000 gp
-  96    Chaos diamond                                    160,000 gp
-  97    Cubic gate                                       164,000 gp
-  98    Iron flask                                       170,000 gp
-  99    Mirror of mental prowess                         175,000 gp
-  100   Mirror of life trapping                          200,000 gp
-  ----- ------------------------------------------------ --------------
+|     |                                                |              |
+|-----|------------------------------------------------|--------------|
+| d%  | Item                                           | Market Price |
+| 01  | Dimensional shackles                           | 28,000 gp    |
+| 02  | Figurine of wondrous power, obsidian steed     | 28,500 gp    |
+| 03  | Drums of panic                                 | 30,000 gp    |
+| 04  | Ioun stone, orange                             | 30,000 gp    |
+| 05  | Ioun stone, pale green prism                   | 30,000 gp    |
+| 06  | Lantern of revealing                           | 30,000 gp    |
+| 07  | Robe of blending                               | 30,000 gp    |
+| 08  | Amulet of natural armor +4                     | 32,000 gp    |
+| 09  | Amulet of proof against detection and location | 35,000 gp    |
+| 10  | *Carpet of flying,* 5 ft. by 10 ft.            | 35,000 gp    |
+| 11  | Golem manual, iron                             | 35,000 gp    |
+| 12  | Amulet of health +6                            | 36,000 gp    |
+| 13  | Belt of giant Strength +6                      | 36,000 gp    |
+| 14  | Bracers of armor +6                            | 36,000 gp    |
+| 15  | Cloak of Charisma +6                           | 36,000 gp    |
+| 16  | Gloves of Dexterity +6                         | 36,000 gp    |
+| 17  | Headband of intellect +6                       | 36,000 gp    |
+| 18  | Ioun stone, vibrant purple prism               | 36,000 gp    |
+| 19  | Pearl of power, 6th-level spell                | 36,000 gp    |
+| 20  | Periapt of Wisdom +6                           | 36,000 gp    |
+| 21  | Scarab of protection                           | 38,000 gp    |
+| 22  | Ioun stone, lavender and green ellipsoid       | 40,000 gp    |
+| 23  | Ring gates                                     | 40,000 gp    |
+| 24  | Crystal ball                                   | 42,000 gp    |
+| 25  | Golem manual, greater stone                    | 44,000 gp    |
+| 26  | Orb of storms                                  | 48,000 gp    |
+| 27  | Boots of teleportation                         | 49,000 gp    |
+| 28  | Bracers of armor +7                            | 49,000 gp    |
+| 29  | Pearl of power, 7th-level spell                | 49,000 gp    |
+| 30  | Amulet of natural armor +5                     | 50,000 gp    |
+| 31  | Cloak of displacement, major                   | 50,000 gp    |
+| 32  | Crystal ball with see invisibility             | 50,000 gp    |
+| 33  | Horn of Valhalla                               | 50,000 gp    |
+| 34  | Crystal ball with detect thoughts              | 51,000 gp    |
+| 35  | *Carpet of flying,* 6 ft. by 9 ft.             | 53,000 gp    |
+| 36  | Amulet of mighty fists +3                      | 54,000 gp    |
+| 37  | Wings of flying                                | 54,000 gp    |
+| 38  | Cloak of etherealness                          | 55,000 gp    |
+| 39  | Instant fortress                               | 55,000 gp    |
+| 40  | Manual of bodily health +2                     | 55,000 gp    |
+| 41  | Manual of gainful exercise +2                  | 55,000 gp    |
+| 42  | Manual of quickness in action +2               | 55,000 gp    |
+| 43  | Tome of clear thought +2                       | 55,000 gp    |
+| 44  | Tome of leadership and influence +2            | 55,000 gp    |
+| 45  | Tome of understanding +2                       | 55,000 gp    |
+| 46  | Eyes of charming                               | 56,000 gp    |
+| 47  | Robe of stars                                  | 58,000 gp    |
+| 48  | *Carpet of flying,* 10 ft. by 10 ft.           | 60,000 gp    |
+| 49  | Darkskull                                      | 60,000 gp    |
+| 50  | Cube of force                                  | 62,000 gp    |
+| 51  | Bracers of armor +8                            | 64,000 gp    |
+| 52  | Pearl of power, 8th-level spell                | 64,000 gp    |
+| 53  | Crystal ball with telepathy                    | 70,000 gp    |
+| 54  | Horn of blasting, greater                      | 70,000 gp    |
+| 55  | Pearl of power, two spells                     | 70,000 gp    |
+| 56  | Helm of teleportation                          | 73,500 gp    |
+| 57  | Gem of seeing                                  | 75,000 gp    |
+| 58  | Robe of the archmagi                           | 75,000 gp    |
+| 59  | Mantle of faith                                | 76,000 gp    |
+| 60  | Crystal ball with true seeing                  | 80,000 gp    |
+| 61  | Pearl of power, 9th-level spell                | 81,000 gp    |
+| 62  | Well of many worlds                            | 82,000 gp    |
+| 63  | Manual of bodily health +3                     | 82,500 gp    |
+| 64  | Manual of gainful exercise +3                  | 82,500 gp    |
+| 65  | Manual of quickness in action +3               | 82,500 gp    |
+| 66  | Tome of clear thought +3                       | 82,500 gp    |
+| 67  | Tome of leadership and influence +3            | 82,500 gp    |
+| 68  | Tome of understanding +3                       | 82,500 gp    |
+| 69  | Apparatus of the crab                          | 90,000 gp    |
+| 70  | Mantle of spell resistance                     | 90,000 gp    |
+| 71  | Mirror of opposition                           | 92,000 gp    |
+| 72  | Strand of prayer beads, greater                | 95,800 gp    |
+| 73  | Amulet of mighty fists +4                      | 96,000 gp    |
+| 74  | Eyes of petrification                          | 98,000 gp    |
+| 75  | Bowl of commanding water elementals            | 100,000 gp   |
+| 76  | Brazier of commanding fire elementals          | 100,000 gp   |
+| 77  | Censer of controlling air elementals           | 100,000 gp   |
+| 78  | Stone of controlling earth elementals          | 100,000 gp   |
+| 79  | Manual of bodily health +4                     | 110,000 gp   |
+| 80  | Manual of gainful exercise +4                  | 110,000 gp   |
+| 81  | Manual of quickness in action +4               | 110,000 gp   |
+| 82  | Tome of clear thought +4                       | 110,000 gp   |
+| 83  | Tome of leadership and influence +4            | 110,000 gp   |
+| 84  | Tome of understanding +4                       | 110,000 gp   |
+| 85  | Amulet of the planes                           | 120,000 gp   |
+| 86  | Robe of eyes                                   | 120,000 gp   |
+| 87  | Helm of brilliance                             | 125,000 gp   |
+| 88  | Manual of bodily health +5                     | 137,500 gp   |
+| 89  | Manual of gainful exercise +5                  | 137,500 gp   |
+| 90  | Manual of quickness in action +5               | 137,500 gp   |
+| 91  | Tome of clear thought +5                       | 137,500 gp   |
+| 92  | Tome of leadership and influence +5            | 137,500 gp   |
+| 93  | Tome of understanding +5                       | 137,500 gp   |
+| 94  | Efreeti bottle                                 | 145,000 gp   |
+| 95  | Amulet of mighty fists +5                      | 150,000 gp   |
+| 96  | Chaos diamond                                  | 160,000 gp   |
+| 97  | Cubic gate                                     | 164,000 gp   |
+| 98  | Iron flask                                     | 170,000 gp   |
+| 99  | Mirror of mental prowess                       | 175,000 gp   |
+| 100 | Mirror of life trapping                        | 200,000 gp   |
 
-  : Table: Major Wondrous Items
+Table: Major Wondrous Items
 
 ## Wondrous Item Descriptions
 
@@ -353,7 +353,7 @@ Standard wondrous items are described below.
 usually bears the image of a lion or other powerful animal. The amulet
 grants the wearer an enhancement bonus to Constitution of +2, +4, or +6.
 
-Moderate transmutation; CL 8th; Craft Wondrous Item, *bear's endurance;*
+Moderate transmutation; CL 8th; Craft Wondrous Item, *bear’s endurance;*
 Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 **Amulet of Mighty Fists:** This amulet grants an enhancement bonus of
@@ -361,17 +361,17 @@ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 weapons.
 
 Faint evocation; CL 5th; Craft Wondrous Item, *greater magic fang*,
-creator's caster level must be at least three times the amulet's bonus;
+creator’s caster level must be at least three times the amulet’s bonus;
 Price 6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4),
 150,000 gp (+5).
 
 **Amulet of Natural Armor:** This amulet, usually crafted from bone or
-beast scales, toughens the wearer's body and flesh, giving him an
+beast scales, toughens the wearer’s body and flesh, giving him an
 enhancement bonus to his natural armor bonus of from +1 to +5, depending
 on the kind of amulet.
 
-Faint transmutation; CL 5th; Craft Wondrous Item, *barkskin,* creator's
-caster level must be at least three times the amulet's bonus; Price
+Faint transmutation; CL 5th; Craft Wondrous Item, *barkskin,* creator’s
+caster level must be at least three times the amulet’s bonus; Price
 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), or 50,000
 gp (+5).
 
@@ -382,8 +382,8 @@ dark, moving swirl of color. The amulet allows its wearer to utilize
 must make a DC 15 Intelligence check in order to get the amulet to take
 her to the plane (and the specific location on that plane) that she
 wants. If she fails, the amulet transports her and all those traveling
-with her to a random location on that plane (01--60 on d%) or to a
-random plane (61--100).
+with her to a random location on that plane (01–60 on d%) or to a random
+plane (61–100).
 
 Strong conjuration; CL 15th; Craft Wondrous Item, *plane shift;* Price
 120,000 gp.
@@ -402,22 +402,22 @@ Moderate abjuration; CL 8th; Craft Wondrous Item, *nondetection;* Price
 barrel, but it has a secret catch (Search DC 20 to locate) that opens a
 hatch in one end. Anyone who crawls inside finds ten (unlabeled) levers:
 The device has the following characteristics: hp 200; hardness 15; Spd
-20 ft., swim 20 ft.; AC 20 (--1 size, +11 natural); Atk +12 melee (2d8,
-2 pincers).
+20 ft., swim 20 ft.; AC 20 (–1 size, +11 natural); Atk +12 melee (2d8, 2
+pincers).
 
-  -------------- --------------------------------------------------------
-  Lever (1d10)   Lever Function
-  1              Extend/retract legs and tail
-  2              Uncover/cover forward porthole
-  3              Uncover/cover side portholes
-  4              Extend/retract pincers and feelers
-  5              Snap pincers
-  6              Move forward/backward
-  7              Turn left/right
-  8              Open "eyes" with *continual flame* inside/close "eyes"
-  9              Rise/sink in water
-  10             Open/close hatch
-  -------------- --------------------------------------------------------
+|              |                                                        |
+|--------------|--------------------------------------------------------|
+| Lever (1d10) | Lever Function                                         |
+| 1            | Extend/retract legs and tail                           |
+| 2            | Uncover/cover forward porthole                         |
+| 3            | Uncover/cover side portholes                           |
+| 4            | Extend/retract pincers and feelers                     |
+| 5            | Snap pincers                                           |
+| 6            | Move forward/backward                                  |
+| 7            | Turn left/right                                        |
+| 8            | Open “eyes” with *continual flame* inside/close “eyes” |
+| 9            | Rise/sink in water                                     |
+| 10           | Open/close hatch                                       |
 
 Operating a lever is a full-round action, and no lever may be operated
 more than once per round. However, since two Medium characters can fit
@@ -436,16 +436,16 @@ Knowledge (architecture and engineering) skill; Price 90,000 gp;*Weight*
 by 4 feet in size. The *bag of holding* opens into a nondimensional
 space: Its inside is larger than its outside dimensions. Regardless of
 what is put into the bag, it weighs a fixed amount. This weight, and the
-limits in weight and volume of the bag's contents, depend on the bag's
+limits in weight and volume of the bag’s contents, depend on the bag’s
 type, as shown on the table below.
 
-  ---------- ------------ ----------------------- ----------------------- --------------
-  Bag        Bag Weight   Contents Weight Limit   Contents Volume Limit   Market Price
-  Type I     15 lb.       250 lb.                 30 cu. ft.              2,500 gp
-  Type II    25 lb.       500 lb.                 70 cu. ft.              5,000 gp
-  Type III   35 lb.       1,000 lb.               150 cu. ft.             7,400 gp
-  Type IV    60 lb.       1,500 lb.               250 cu. ft.             10,000 gp
-  ---------- ------------ ----------------------- ----------------------- --------------
+|          |            |                       |                       |              |
+|----------|------------|-----------------------|-----------------------|--------------|
+| Bag      | Bag Weight | Contents Weight Limit | Contents Volume Limit | Market Price |
+| Type I   | 15 lb.     | 250 lb.               | 30 cu. ft.            | 2,500 gp     |
+| Type II  | 25 lb.     | 500 lb.               | 70 cu. ft.            | 5,000 gp     |
+| Type III | 35 lb.     | 1,000 lb.             | 150 cu. ft.           | 7,400 gp     |
+| Type IV  | 60 lb.     | 1,500 lb.             | 250 cu. ft.           | 10,000 gp    |
 
 If the bag is overloaded, or if sharp objects pierce it (from inside or
 outside), the bag ruptures and is ruined. All contents are lost forever.
@@ -453,7 +453,7 @@ If a *bag of holding* is turned inside out, its contents spill out,
 unharmed, but the bag must be put right before it can be used again. If
 living creatures are placed within the bag, they can survive for up to
 10 minutes, after which time they suffocate. Retrieving a specific item
-from a *bag of holding* is a move action---unless the bag contains more
+from a *bag of holding* is a move action—unless the bag contains more
 than an ordinary backpack would hold, in which case retrieving a
 specific item is a full-round action.
 
@@ -483,26 +483,40 @@ Animals produced are always random, and only one may exist at a time. Up
 to ten animals can be drawn from the bag each week.
 
 Faint or moderate conjuration; CL 3rd (gray), 5th (rust), 9th (tan);
-Craft Wondrous Item, *summon nature's ally II* (gray), *summon nature's
-ally III* (rust), or *summon nature's ally* V (tan); Price 900 gp
+Craft Wondrous Item, *summon nature’s ally II* (gray), *summon nature’s
+ally III* (rust), or *summon nature’s ally* V (tan); Price 900 gp
 (gray); 3,000 gp (rust); 6,300 gp (tan).
 
-  -------------------------------------------------------------------------------------------------------------------------------- -------- -------------------------------------------------------------------------------------------------------------------------------- ------------ ------------------------------------------------------------------------------------------------------------------------------- ----------------
-                                                             []{style="                                                                                                                                []{style="                                                                                                                                   []{style="                                                            
-                                                                  display: block;                                                                                                                           display: block;                                                                                                                               display: block;                                                 
-                                                                position: absolute;                                                                                                                       position: absolute;                                                                                                                           position: absolute;                                               
-                                                                     right: 0;                                                                                                                                 right: 0;                                                                                                                                     right: 0;                                                    
-                                                                     top: 50%;                                                                                                                                 top: 50%;                                                                                                                                     top: 50%;                                                    
-                                                                     left: 0px;                                                                                                                                left: 0px;                                                                                                                                   left: 0px;                                                    
-                                                        border-top: 1px solid currentColor;                                                                                                       border-top: 1px solid currentColor;                                                                                                           border-top: 1px solid currentColor;                                       
-                 "}[Gray ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                          "}[Rust ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                              "}[Tan ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}  
-                                                                 d%                                                                 Animal                                                                 d%                                                                   Animal                                                                  d%                                                                     Animal
-                                                               01--30                                                                Bat                                                                 01--30                                                               Wolverine                                                               01--30                                                                 Brown bear
-                                                               31--60                                                                Rat                                                                 31--60                                                                  Wolf                                                                 31--60                                                                    Lion
-                                                               61--75                                                                Cat                                                                 61--85                                                                  Boar                                                                 61--80                                                               Heavy warhorse
-                                                               76--90                                                               Weasel                                                              86--100                                                               Black bear                                                              81--90                                                                   Tiger
-                                                              91--100                                                               Badger                                                                                                                                                                                                            91--100                                                                Rhinoceros
-  -------------------------------------------------------------------------------------------------------------------------------- -------- -------------------------------------------------------------------------------------------------------------------------------- ------------ ------------------------------------------------------------------------------------------------------------------------------- ----------------
+|                                                                                                                                                 |        |                                                                                                                                                 |            |                                                                                                                                                |                |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
+|                                                                  <span style="                                                                  
+                                                                          display: block;                                                         
+                                                                        position: absolute;                                                       
+                                                                             right: 0;                                                            
+                                                                             top: 50%;                                                            
+                                                                            left: 0px;                                                            
+                                                                border-top: 1px solid currentColor;                                               
+               "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Gray </span>  |        |                                                                  <span style="                                                                  
+                                                                                                                                                                                                                                     display: block;                                                         
+                                                                                                                                                                                                                                   position: absolute;                                                       
+                                                                                                                                                                                                                                        right: 0;                                                            
+                                                                                                                                                                                                                                        top: 50%;                                                            
+                                                                                                                                                                                                                                       left: 0px;                                                            
+                                                                                                                                                                                                                           border-top: 1px solid currentColor;                                               
+                                                                                                                                                                          "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Rust </span>  |            |                                                                  <span style="                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                   display: block;                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                 position: absolute;                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                      right: 0;                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                      top: 50%;                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                      left: 0px;                                                           
+                                                                                                                                                                                                                                                                                                                                                                                         border-top: 1px solid currentColor;                                               
+                                                                                                                                                                                                                                                                                                                                         "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Tan </span>  |                |
+|                                                                       d%                                                                        | Animal |                                                                       d%                                                                        |   Animal   |                                                                       d%                                                                       |     Animal     |
+|                                                                      01–30                                                                      |  Bat   |                                                                      01–30                                                                      | Wolverine  |                                                                     01–30                                                                      |   Brown bear   |
+|                                                                      31–60                                                                      |  Rat   |                                                                      31–60                                                                      |    Wolf    |                                                                     31–60                                                                      |      Lion      |
+|                                                                      61–75                                                                      |  Cat   |                                                                      61–85                                                                      |    Boar    |                                                                     61–80                                                                      | Heavy warhorse |
+|                                                                      76–90                                                                      | Weasel |                                                                     86–100                                                                      | Black bear |                                                                     81–90                                                                      |     Tiger      |
+|                                                                     91–100                                                                      | Badger |                                                                                                                                                 |            |                                                                     91–100                                                                     |   Rhinoceros   |
 
 **Bead of Force:** This small black sphere appears to be a lusterless
 pearl. You can throw it up to 60 feet with no range penalties. Upon
@@ -513,7 +527,7 @@ It functions like a *resilient sphere* spell (Reflex DC 16 negates) with
 a radius of 10 feet and a duration of 10 minutes. A globe of shimmering
 force encloses a creature, provided the latter is small enough to fit
 within the diameter of the sphere. The sphere contains its subject for
-the spell's duration. The sphere is not subject to damage of any sort
+the spell’s duration. The sphere is not subject to damage of any sort
 except from a *rod of cancellation,* a *rod of negation, disintegrate,*
 or a targeted *dispel magic* spell. These effects destroy the sphere
 without harm to the subject. Nothing can pass through the sphere, inside
@@ -526,13 +540,13 @@ The explosion completely consumes the bead, making this a one-use item.
 Moderate evocation; CL 10th; Craft Wondrous Item, *resilient sphere;*
 Price 3,000 gp.
 
-**Belt, Monk's:** This simple rope belt, when wrapped around a
-character's waist, confers great ability in unarmed combat. The wearer's
+**Belt, Monk’s:** This simple rope belt, when wrapped around a
+character’s waist, confers great ability in unarmed combat. The wearer’s
 AC and unarmed damage is treated as a monk of five levels higher. If
 donned by a character with the Stunning Fist feat, the belt lets her
 make one additional stunning attack per day. If the character is not a
 monk, she gains the AC and unarmed damage of a 5th-level monk. This AC
-bonus functions just like the monk's AC bonus.
+bonus functions just like the monk’s AC bonus.
 
 Moderate transmutation; CL 10th; Craft Wondrous Item, *righteous might*
 or *transformation;* Price 13,000 gp; Weight 1 lb.
@@ -540,7 +554,7 @@ or *transformation;* Price 13,000 gp; Weight 1 lb.
 **Belt of Dwarvenkind:** This belt gives the wearer a +4 competence
 bonus on Charisma checks and Charisma-based skill checks as they relate
 to dealing with dwarves, a +2 competence bonus on similar checks when
-dealing with gnomes and halflings, and a --2 competence penalty on
+dealing with gnomes and halflings, and a –2 competence penalty on
 similar checks when dealing with anyone else. The wearer can understand,
 speak, and read Dwarven. If the wearer is not a dwarf, he gains 60-foot
 darkvision, dwarven stonecunning, a +2 enhancement bonus to
@@ -551,10 +565,10 @@ Moderate divination; CL 12th; Craft Wondrous Item, *tongues*, creator
 must be a dwarf; Price 14,900 gp;Weight 1 lb.
 
 **Belt of Giant Strength:** This wide belt is made of thick leather and
-studded with iron. The belt adds to the wearer's Strength score in the
+studded with iron. The belt adds to the wearer’s Strength score in the
 form of an enhancement bonus of +4 or +6.
 
-Moderate transmutation; CL 10th; Craft Wondrous Item, *bull's strength;*
+Moderate transmutation; CL 10th; Craft Wondrous Item, *bull’s strength;*
 Price 16,000 gp (+4), 36,000 gp (+6);Weight 1 lb.
 
 **Blessed Book:** This well-made tome is always of small size, typically
@@ -570,13 +584,13 @@ it.
 Moderate transmutation; CL 7th; Craft Wondrous Item, *secret page;*
 Price 12,500 gp;Weight 1 lb.
 
-**Boat, Folding:** A folding boat looks like a small wooden box---about
-12 inches long, 6 inches wide, and 6 inches deep. It can be used to
-store items like any other box. If a command word is given, however, the
-box unfolds itself to form a boat 10 feet long, 4 feet wide, and 2 feet
-in depth. A second command word causes it to unfold to a ship 24 feet
-long, 8 feet wide, and 6 feet deep. Any objects formerly stored in the
-box now rest inside the boat or ship.
+**Boat, Folding:** A folding boat looks like a small wooden box—about 12
+inches long, 6 inches wide, and 6 inches deep. It can be used to store
+items like any other box. If a command word is given, however, the box
+unfolds itself to form a boat 10 feet long, 4 feet wide, and 2 feet in
+depth. A second command word causes it to unfold to a ship 24 feet long,
+8 feet wide, and 6 feet deep. Any objects formerly stored in the box now
+rest inside the boat or ship.
 
 In its smaller form, the boat has one pair of oars, an anchor, a mast,
 and a lateen sail. In its larger form, the boat has a deck, single
@@ -612,7 +626,7 @@ need not be consecutive rounds.
 Moderate transmutation; CL 10th; Craft Wondrous Item, *haste;* Price
 12,000 gp;Weight 1 lb.
 
-**Boots of Striding and Springing:** These boots increase the wearer's
+**Boots of Striding and Springing:** These boots increase the wearer’s
 base land speed by 10 feet. In addition to this striding ability
 (considered an enhancement bonus), these boots allow the wearer to make
 great leaps. She can jump with a +5 competence bonus on Jump checks.
@@ -635,7 +649,7 @@ sharply slanted ones) without falling or slipping. Finally, *boots of
 the winterlands* warm the wearer, as if he were affected by an *endure
 elements* spell.
 
-Faint abjuration and transmutation; CL 5th; Craft Wondrous Item, *cat's
+Faint abjuration and transmutation; CL 5th; Craft Wondrous Item, *cat’s
 grace, endure elements, pass without trace;* Price 2,500 gp; Weight 1
 lb.
 
@@ -713,7 +727,7 @@ granting him an armor bonus of +1 to +8, just as though he were wearing
 armor. Both bracers must be worn for the magic to be effective.
 
 Moderate conjuration; CL 7th; Craft Wondrous Item, *mage armor*,
-creator's caster level must be at least two times that of the bonus
+creator’s caster level must be at least two times that of the bonus
 placed in the bracers; Price 1,000 gp (+1), 4,000 gp (+2), 9,000 gp
 (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6), 49,000 gp (+7),
 64,000 gp (+8);Weight 1 lb.
@@ -755,12 +769,12 @@ permanency;* Price 17,000 gp;Weight 3 lb.
 
 **Candle of Invocation:** Each of these special tapers is dedicated to
 one of the nine alignments. Simply burning the candle generates a
-favorable aura for the individual so doing if the candle's alignment
+favorable aura for the individual so doing if the candle’s alignment
 matches that of the character. Characters of the same alignment as the
 burning candle add a +2 morale bonus on attack rolls, saving throws, and
 skill checks while within 30 feet of the flame.
 
-A cleric whose alignment matches the candle's operates as if two levels
+A cleric whose alignment matches the candle’s operates as if two levels
 higher for purposes of determining spells per day if he burns the candle
 during or just prior to his spell preparation time. He can even cast
 spells normally unavailable to him, as if he were of that higher level,
@@ -771,7 +785,7 @@ In addition, burning a candle also allows the owner to cast a *gate*
 spell, the respondent being of the same alignment as the candle, but the
 taper is immediately consumed in the process. It is possible to
 extinguish the candle simply by blowing it out, so users often place it
-in a lantern to protect it from drafts and the like. Doing this doesn't
+in a lantern to protect it from drafts and the like. Doing this doesn’t
 interfere with its magical properties.
 
 Strong conjuration; CL 17th; Craft Wondrous Item, *gate,* creator must
@@ -798,16 +812,16 @@ Price 10,080 gp;Weight 1 lb.
 affected by an *overland flight* spell of unlimited duration. The size,
 carrying capacity, and speed of the different *carpets of flying* are
 shown on the table below. Beautifully and intricately made, each carpet
-has its own command word to activate it---if the device is within voice
+has its own command word to activate it—if the device is within voice
 range, the command word activates it, whether the speaker is on the rug
 or not. The carpet is then controlled by spoken directions.
 
-  ------------------ ---------- -------- -------- --------------
-  Size               Capacity   Speed    Weight   Market Price
-  5 ft. by 5 ft.     200 lb.    40 ft.   8 lb.    20,000 gp
-  5 ft. by 10 ft.    400 lb.    40 ft.   15 lb.   35,000 gp
-  10 ft. by 10 ft.   800 lb.    40 ft.   10 lb.   60,000 gp
-  ------------------ ---------- -------- -------- --------------
+|                  |          |        |        |              |
+|------------------|----------|--------|--------|--------------|
+| Size             | Capacity | Speed  | Weight | Market Price |
+| 5 ft. by 5 ft.   | 200 lb.  | 40 ft. | 8 lb.  | 20,000 gp    |
+| 5 ft. by 10 ft.  | 400 lb.  | 40 ft. | 15 lb. | 35,000 gp    |
+| 10 ft. by 10 ft. | 800 lb.  | 40 ft. | 10 lb. | 60,000 gp    |
 
 A *carpet of flying* can carry up to double its capacity, but doing so
 reduces its speed to 30 feet. It has average maneuverability, but a
@@ -844,7 +858,7 @@ individually and the character does not
 
 A nonchaotic character who possesses a *chaos diamond* gains one
 negative level. Although this level never results in actual level loss,
-it remains as long as the diamond is in the character's possession and
+it remains as long as the diamond is in the character’s possession and
 cannot be overcome in any way (including *restoration* spells).
 
 Strong varied; CL 19th; Craft Wondrous Item, *cloak of chaos, magic
@@ -856,7 +870,7 @@ minutes, and its resonant tone lasts for 3 full minutes.
 
 While the chime is resonating, no spell requiring a verbal component can
 be cast within a 30-foot radius of it unless the caster can make a
-Concentration check (DC 15 + the spell's level).
+Concentration check (DC 15 + the spell’s level).
 
 Moderate evocation; CL 7th; Craft Wondrous Item, *shout;* Price 16,800
 gp;Weight 1 lb.
@@ -895,15 +909,15 @@ Strong evocation; CL 17th; Craft Wondrous Item, Maximize Spell, *searing
 light;* Price 23,760 gp.
 
 **Circlet of Persuasion:** This silver headband grants a +3 competence
-bonus on the wearer's Charisma-based checks.
+bonus on the wearer’s Charisma-based checks.
 
-Faint transmutation; CL 5th; Craft Wondrous Item, *eagle's splendor;*
+Faint transmutation; CL 5th; Craft Wondrous Item, *eagle’s splendor;*
 Price 4,500 gp.
 
 **Cloak of Arachnida:** This black garment, embroidered with a weblike
 pattern in silk, gives the wearer the ability to climb as if a *spider
 climb* spell had been placed upon her. In addition, the cloak grants her
-immunity to entrapment by *web* spells or webs of any sort---she can
+immunity to entrapment by *web* spells or webs of any sort—she can
 actually move in webs at half her normal speed. Once per day, the wearer
 of this cloak can cast *web*. She also gains a +2 luck bonus on all
 Fortitude saves against poison from spiders.
@@ -929,10 +943,10 @@ Moderate transmutation; CL 7th; Craft Wondrous Item, *fly, polymorph;*
 Price 26,000 gp;Weight 1 lb.
 
 **Cloak of Charisma:** This lightweight and fashionable cloak has a
-highly decorative silver trim. When in a character's possession, it adds
+highly decorative silver trim. When in a character’s possession, it adds
 a +2, +4, or +6 enhancement bonus to her Charisma score.
 
-Moderate transmutation; CL 8th; Craft Wondrous Item, *eagle's splendor;*
+Moderate transmutation; CL 8th; Craft Wondrous Item, *eagle’s splendor;*
 Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6); Weight 2 lb.
 
 **Cloak of Displacement, Minor:** This item appears to be a normal
@@ -991,8 +1005,8 @@ breathing;* Price 7,200 gp;Weight 1 lb.
 form of a +1 to +5 resistance bonus on all saving throws (Fortitude,
 Reflex, and Will).
 
-Faint abjuration; CL 5th; Craft Wondrous Item, *resistance,* creator's
-caster level must be at least three times the cloak's bonus; Price 1,000
+Faint abjuration; CL 5th; Craft Wondrous Item, *resistance,* creator’s
+caster level must be at least three times the cloak’s bonus; Price 1,000
 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp
 (+5);Weight 1 lb.
 
@@ -1004,15 +1018,15 @@ existence, as with the spell *scrying* (Will DC 16 negates).
 Certain *crystal balls* have additional powers that can be used through
 the *crystal ball* on the target viewed.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------
-  Crystal Ball Type                                                                                                                                                                                                              Market Price
-  Crystal ball                                                                                                                                                                                                                   42,000 gp
-  *Crystal ball* with *see invisibility*                                                                                                                                                                                         50,000 gp
-  *Crystal ball* with *detect thoughts (Will DC 13 negates)*                                                                                                                                                                     51,000 gp
-  *Crystal ball* with *telepathy*\*                                                                                                                                                                                              70,000 gp
-  *Crystal ball* with *true seeing*                                                                                                                                                                                              80,000 gp
-  \* The viewer is able to send and receive silent mental messages with the person appearing in the crystal ball. Once per day the character may attempt to implant a *suggestion* (as the spell, Will DC 14 negates) as well.   
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------
+|                                                                                                                                                                                                                              |              |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Crystal Ball Type                                                                                                                                                                                                            | Market Price |
+| Crystal ball                                                                                                                                                                                                                 | 42,000 gp    |
+| *Crystal ball* with *see invisibility*                                                                                                                                                                                       | 50,000 gp    |
+| *Crystal ball* with *detect thoughts (Will DC 13 negates)*                                                                                                                                                                   | 51,000 gp    |
+| *Crystal ball* with *telepathy*\*                                                                                                                                                                                            | 70,000 gp    |
+| *Crystal ball* with *true seeing*                                                                                                                                                                                            | 80,000 gp    |
+| \* The viewer is able to send and receive silent mental messages with the person appearing in the crystal ball. Once per day the character may attempt to implant a *suggestion* (as the spell, Will DC 14 negates) as well. |              |
 
 Moderate divination; CL 10th; Craft Wondrous Item, *scrying* (plus any
 additional spells put into item); Weight 7 lb.
@@ -1026,7 +1040,7 @@ renewed each day. The possessor presses one face of the cube to activate
 a particular type of screen or to deactivate the device. Each effect
 costs a certain number of charges to maintain for every minute (or
 portion of a minute) it is in operation. Also, when an effect is active,
-the possessor's speed is limited to the maximum value given on the
+the possessor’s speed is limited to the maximum value given on the
 table.
 
 When the *cube of force* is active, attacks dealing more than 30 points
@@ -1035,25 +1049,25 @@ they deal. Spells that affect the integrity of the screenalso drain
 extra charges. These spells (given in the list below) cannot be cast
 into or out of the cube:
 
-  ----------- ------------------------ --------------- -----------------------------
-  Cube Face   Charge Cost per Minute   Maximum Speed   Effect
-  1           1                        30 ft.          Keeps out gases, wind, etc.
-  2           2                        20 ft.          Keeps out nonliving matter
-  3           3                        15 ft.          Keeps out living matter
-  4           4                        10 ft.          Keeps out magic
-  5           6                        10 ft.          Keeps out all things
-  6           0                        As normal       Deactivates
-  ----------- ------------------------ --------------- -----------------------------
+|           |                        |               |                             |
+|-----------|------------------------|---------------|-----------------------------|
+| Cube Face | Charge Cost per Minute | Maximum Speed | Effect                      |
+| 1         | 1                      | 30 ft.        | Keeps out gases, wind, etc. |
+| 2         | 2                      | 20 ft.        | Keeps out nonliving matter  |
+| 3         | 3                      | 15 ft.        | Keeps out living matter     |
+| 4         | 4                      | 10 ft.        | Keeps out magic             |
+| 5         | 6                      | 10 ft.        | Keeps out all things        |
+| 6         | 0                      | As normal     | Deactivates                 |
 
-  ------------------ ---------------
-  Attack Form        Extra Charges
-  Horn of blasting   6
-  Wall of fire       2
-  Passwall           3
-  Disintegrate       6
-  Phase door         5
-  Prismatic spray    7
-  ------------------ ---------------
+|                  |               |
+|------------------|---------------|
+| Attack Form      | Extra Charges |
+| Horn of blasting | 6             |
+| Wall of fire     | 2             |
+| Passwall         | 3             |
+| Disintegrate     | 6             |
+| Phase door       | 5             |
+| Prismatic spray  | 7             |
 
 Moderate evocation; CL 10th; Craft Wondrous Item, *wall of force*; Price
 62,000 gp.
@@ -1106,9 +1120,9 @@ ordinary-looking flask and a command word spoken, an amount of fresh or
 salt water pours out. Separate command words determine the type as well
 as the volume and velocity.
 
--   "Stream" pours out 1 gallon per round.
--   "Fountain" produces a 5-foot-long stream at 5 gallons per round.
--   "Geyser" produces a 20-foot-long, 1-foot-wide stream at 30 gallons
+-   “Stream” pours out 1 gallon per round.
+-   “Fountain” produces a 5-foot-long stream at 5 gallons per round.
+-   “Geyser” produces a 20-foot-long, 1-foot-wide stream at 30 gallons
     per round.
 
 The geyser effect causes considerable back pressure, requiring the
@@ -1133,51 +1147,51 @@ summarized on the following table. (Use one of the first two columns to
 simulate the contents of a full deck using either ordinary playing cards
 or tarot cards.)
 
-  ------------------- ------------------------- -----------------------------------------
-  Playing Card        Tarot Card                Creature
-  Ace of hearts       IV\. The Emperor          Red dragon
-  King of hearts      Knight of swords          Male human fighter and four guards
-  Queen of hearts     Queen of staves           Female human wizard
-  Jack of hearts      King of staves            Male human druid
-  Ten of hearts       VII\. The Chariot         Cloud giant
-  Nine of hearts      Page of staves            Ettin
-  Eight of hearts     Ace of cups               Bugbear
-  Two of hearts       Five of staves            Goblin
-  Playing Card        Tarot Card                Creature
-  Ace of diamonds     III\. The Empress         Glabrezu (demon)
-  King of diamonds    Two of cups               Male elf wizard and female apprentice
-  Queen of diamonds   Queen of swords           Half-elf ranger (female)
-  Jack of diamonds    XIV\. Temperance          Harpy
-  Ten of diamonds     Seven of staves           Male half-orc barbarian
-  Nine of diamonds    Four of pentacles         Ogre mage
-  Eight of diamonds   Ace of pentacles          Gnoll
-  Two of diamonds     Six of pentacles          Kobold
-  Playing Card        Tarot Card                Creature
-  Ace of spades       II\. The High Priestess   Lich
-  King of spades      Three of staves           Three male human clerics
-  Queen of spades     Four of cups              Medusa
-  Jack of spades      Knight of pentacles       Male dwarf paladin
-  Ten of spades       Seven of swords           Frost giant
-  Nine of spades      Three of swords           Troll
-  Eight of spades     Ace of swords             Hobgoblin
-  Two of spades       Five of cups              Goblin
-  Playing Card        Tarot Card                Creature
-  Ace of clubs        VIII\. Strength           Iron golem
-  King of clubs       Page of pentacles         Three male halfling rogues
-  Queen of clubs      Ten of cups               Pixies
-  Jack of clubs       Nine of pentacles         Female half-elf bard
-  Ten of clubs        Nine of staves            Hill giant
-  Nine of clubs       King of swords            Ogre
-  Eight of clubs      Ace of staves             Orc
-  Two of clubs        Five of cups              Kobold
-  Playing Card        Tarot Card                Creature
-  Joker               Two of pentacles          Illusion of deck's owner
-  Joker               Two of staves             Illusion of deck's owner (sex reversed)
-  ------------------- ------------------------- -----------------------------------------
+|                   |                         |                                         |
+|-------------------|-------------------------|-----------------------------------------|
+| Playing Card      | Tarot Card              | Creature                                |
+| Ace of hearts     | IV\. The Emperor        | Red dragon                              |
+| King of hearts    | Knight of swords        | Male human fighter and four guards      |
+| Queen of hearts   | Queen of staves         | Female human wizard                     |
+| Jack of hearts    | King of staves          | Male human druid                        |
+| Ten of hearts     | VII\. The Chariot       | Cloud giant                             |
+| Nine of hearts    | Page of staves          | Ettin                                   |
+| Eight of hearts   | Ace of cups             | Bugbear                                 |
+| Two of hearts     | Five of staves          | Goblin                                  |
+| Playing Card      | Tarot Card              | Creature                                |
+| Ace of diamonds   | III\. The Empress       | Glabrezu (demon)                        |
+| King of diamonds  | Two of cups             | Male elf wizard and female apprentice   |
+| Queen of diamonds | Queen of swords         | Half-elf ranger (female)                |
+| Jack of diamonds  | XIV\. Temperance        | Harpy                                   |
+| Ten of diamonds   | Seven of staves         | Male half-orc barbarian                 |
+| Nine of diamonds  | Four of pentacles       | Ogre mage                               |
+| Eight of diamonds | Ace of pentacles        | Gnoll                                   |
+| Two of diamonds   | Six of pentacles        | Kobold                                  |
+| Playing Card      | Tarot Card              | Creature                                |
+| Ace of spades     | II\. The High Priestess | Lich                                    |
+| King of spades    | Three of staves         | Three male human clerics                |
+| Queen of spades   | Four of cups            | Medusa                                  |
+| Jack of spades    | Knight of pentacles     | Male dwarf paladin                      |
+| Ten of spades     | Seven of swords         | Frost giant                             |
+| Nine of spades    | Three of swords         | Troll                                   |
+| Eight of spades   | Ace of swords           | Hobgoblin                               |
+| Two of spades     | Five of cups            | Goblin                                  |
+| Playing Card      | Tarot Card              | Creature                                |
+| Ace of clubs      | VIII\. Strength         | Iron golem                              |
+| King of clubs     | Page of pentacles       | Three male halfling rogues              |
+| Queen of clubs    | Ten of cups             | Pixies                                  |
+| Jack of clubs     | Nine of pentacles       | Female half-elf bard                    |
+| Ten of clubs      | Nine of staves          | Hill giant                              |
+| Nine of clubs     | King of swords          | Ogre                                    |
+| Eight of clubs    | Ace of staves           | Orc                                     |
+| Two of clubs      | Five of cups            | Kobold                                  |
+| Playing Card      | Tarot Card              | Creature                                |
+| Joker             | Two of pentacles        | Illusion of deck’s owner                |
+| Joker             | Two of staves           | Illusion of deck’s owner (sex reversed) |
 
-A randomly generated deck is usually complete (11--100 on d%), but may
-be discovered (01--10) with 1d20 of its cards missing. If cards are
-missing, reduce the price by a corresponding amount.
+A randomly generated deck is usually complete (11–100 on d%), but may be
+discovered (01–10) with 1d20 of its cards missing. If cards are missing,
+reduce the price by a corresponding amount.
 
 Faint illusion; CL 6th; Craft Wondrous Item, *major image;* Price 8,100
 gp;Weight 1/2 lb.
@@ -1207,8 +1221,8 @@ air coats objects within a 10-foot radius, making them visible even if
 they are invisible. It likewise negates the effects of *blur* and
 *displacement.* (In this, it works just like the *faerie fire* spell).
 The dust also reveals figments, *mirror images*, and *projected images*
-for what they are. A creature coated with the dust takes a --30 penalty
-on its Hide checks. The dust's effect lasts for 5 minutes.
+for what they are. A creature coated with the dust takes a –30 penalty
+on its Hide checks. The dust’s effect lasts for 5 minutes.
 
 *Dust of appearance* is typically stored in small silk packets or hollow
 bone tubes.
@@ -1219,14 +1233,14 @@ Faint conjuration; CL 5th; Craft Wondrous Item, *glitterdust;* Price
 **Dust of Disappearance:** This dust looks just like *dust of
 appearance* and is typically stored in the same manner. A creature or
 object touched by it becomes invisible (as *greater invisibility*).
-Normal vision can't see dusted creatures or objects, nor can they be
+Normal vision can’t see dusted creatures or objects, nor can they be
 detected by magical means, including *see invisibility* or *invisibility
 purge*. *Dust of appearance,* however, does reveal people and objects
 made invisible by *dust of disappearance.* Other factors, such as sound
 and smell, also allow possible detection.
 
 The *greater invisibility* bestowed by the dust lasts for 2d6 rounds.The
-invisible creature doesn't know when the duration will end.
+invisible creature doesn’t know when the duration will end.
 
 Moderate illusion; CL 7th; Craft Wondrous Item, *greater invisibility;*
 Price 3,500 gp.
@@ -1284,7 +1298,7 @@ the case contains as many as six objects of the same general size and
 shape as a bow (spears, staffs, or the like). Once the owner has filled
 it, the quiver can produce any item she wishes, as if from a regular
 quiver or scabbard. The *efficientquiver* weighs the same no matter
-what's placed inside it.
+what’s placed inside it.
 
 Moderate conjuration; CL 9th; Craft Wondrous Item, *secret chest;* Price
 1,800 gp;Weight 2 lb.
@@ -1293,14 +1307,13 @@ Moderate conjuration; CL 9th; Craft Wondrous Item, *secret chest;* Price
 with a lead stopper bearing special seals. A thin stream of smoke is
 often seen issuing from it. The bottle can be opened once per day. When
 opened, the efreeti imprisoned within issues from the bottle instantly.
-There is a 10% chance (01--10 on d%) that the efreeti is insane and
+There is a 10% chance (01–10 on d%) that the efreeti is insane and
 attacks immediately upon being released. There is also a 10% chance
-(91--100) that the efreeti of the bottle grants three *wishes*. In
-either case, the efreeti afterward disappears forever. The other 80% of
-the time (11--90), the inhabitant of the bottle loyally serves the
-character for up to 10 minutes per day (or until the efreeti's death),
-doing as she commands. Roll each day the bottle is opened for that day's
-effect.
+(91–100) that the efreeti of the bottle grants three *wishes*. In either
+case, the efreeti afterward disappears forever. The other 80% of the
+time (11–90), the inhabitant of the bottle loyally serves the character
+for up to 10 minutes per day (or until the efreeti’s death), doing as
+she commands. Roll each day the bottle is opened for that day’s effect.
 
 Strong conjuration; CL 14th; Craft Wondrous Item, *summon monster VII;*
 Price 145,000 gp;Weight 1 lb.
@@ -1309,7 +1322,7 @@ Price 145,000 gp;Weight 1 lb.
 specific Elemental Plane (Air, Earth, Fire, or Water).
 
 When the gem is crushed, smashed, or broken (a standard action), a Large
-elemental appears as if summoned by a *summon nature's ally* spell. The
+elemental appears as if summoned by a *summon nature’s ally* spell. The
 elemental is under the control of the creature that broke the gem.
 
 The coloration of the gem varies with the type of elemental it summons.
@@ -1317,7 +1330,7 @@ The coloration of the gem varies with the type of elemental it summons.
 brown, *fire elemental gems* are reddish orange, and *water elemental
 gems* are blue-green.
 
-Moderate conjuration; CL 11th; Craft Wondrous Item, *summon nature's
+Moderate conjuration; CL 11th; Craft Wondrous Item, *summon nature’s
 ally V;* Price 2,250 gp.
 
 **Elixir of Fire Breath:** This strange elixir bestows upon the drinker
@@ -1338,8 +1351,8 @@ gp.
 
 **Elixir of Love:** This sweet-tasting liquid causes the character
 drinking it to become *charmed* with the first creature she sees after
-consuming the draft (as *charm person*---the drinker must be a humanoid
-of Medium or smaller size, Will DC 14 negates). The *charm* effects wear
+consuming the draft (as *charm person*—the drinker must be a humanoid of
+Medium or smaller size, Will DC 14 negates). The *charm* effects wear
 off in 1d3 hours.
 
 Faint transmutation; CL 4th; Craft Wondrous Item, *charm person;* Price
@@ -1364,8 +1377,8 @@ say nothing but the truth for 10 minutes (Will DC 13 negates).
 
 She is compelled to answer any questions put to her in that time, but
 with each question she is free to make a separate DC 13 Will save. If
-one of these secondary saves is successful, she doesn't break free of
-the truth-compelling enchantment but also doesn't have to answer that
+one of these secondary saves is successful, she doesn’t break free of
+the truth-compelling enchantment but also doesn’t have to answer that
 particular question. No more than one question can be asked each round.
 This is a mind-affecting compulsion enchantment.
 
@@ -1394,16 +1407,16 @@ rounds; a strong wind (21+ mph) disperses the smoke in 1 round.
 Faint transmutation; CL 3rd; Craft Wondrous Item, *pyrotechnics;* Price
 5,400 gp;Weight 1 lb.
 
-**Eyes of Charming:** These two crystal lenses fit over the user's eyes.
+**Eyes of Charming:** These two crystal lenses fit over the user’s eyes.
 The wearer is able to use *charm person* (one target per round) merely
-by meeting a target's gaze. Those failing a DC 16 Will save are
+by meeting a target’s gaze. Those failing a DC 16 Will save are
 *charmed* as per the spell. If the wearer has only one lens, the DC of
 the saving throw is reduced to 10.
 
 Moderate enchantment; CL 7th; Craft Wondrous Item, Heighten Spell,
 *charm person;* Price 56,000 gp for a pair.
 
-**Eyes of Doom:** These crystal lenses fit over the user's eyes,
+**Eyes of Doom:** These crystal lenses fit over the user’s eyes,
 enabling him to cast *doom* upon those around him (one target per round)
 as a gaze attack, except that the wearer must take a standard action,
 and those merely looking at the wearer are not affected. Those failing a
@@ -1482,7 +1495,7 @@ function:
 -   *The Goat of Traveling:* This statuette provides a speedy and
     enduring mount equal to that of a heavy horse in every way except
     appearance. The goat can travel for a maximum of one day each
-    week---continuously or in any combination of periods totaling 24
+    week—continuously or in any combination of periods totaling 24
     hours. At this point, or when the command word is uttered, it
     returns to its statuette form for not less than one day before it
     can again be used.
@@ -1495,7 +1508,7 @@ function:
     12 hours at a time.
 -   *The Goat of Terror:* When called upon with the proper command word,
     this statuette becomes a destrier-like mount, with the statistics of
-    a light warhorse. However, its rider can employ the goat's horns as
+    a light warhorse. However, its rider can employ the goat’s horns as
     weapons (one horn as a *+3 heavy lance,* the other as a *+5
     longsword*). When ridden in an attack against an opponent, the *goat
     of terror* radiates *fear* as the spell in a 30-foot radius (Will DC
@@ -1509,7 +1522,7 @@ Price 21,000 gp.
 being about the size of a human hand. Upon utterance of the command
 word, a *marble elephant* grows to the size and specifications of a true
 elephant. The animal created from the statuette is fully obedient to the
-figurine's owner, serving as a beast of burden, a mount, or a combatant.
+figurine’s owner, serving as a beast of burden, a mount, or a combatant.
 The statuette can be used four times per month for up to 24 hours at a
 time.
 
@@ -1611,7 +1624,7 @@ grant the wearer great strength, adding a +2 enhancement bonus to his
 Strength score. Both gauntlets must be worn for the magic to be
 effective.
 
-Faint transmutation; CL 6th; Craft Wondrous Item, *bull's strength;*
+Faint transmutation; CL 6th; Craft Wondrous Item, *bull’s strength;*
 Price 4,000 gp;Weight 4 lb.
 
 **Gauntlet of Rust:** This single metal gauntlet looks rusted and pitted
@@ -1665,11 +1678,11 @@ magic.
 Faint abjuration; CL 3rd; Craft Wondrous Item, *shield;* Price 4,000 gp.
 
 **Gloves of Dexterity:** These thin leather gloves are very flexible and
-allow for delicate manipulation. They add to the wearer's Dexterity
+allow for delicate manipulation. They add to the wearer’s Dexterity
 score in the form of an enhancement bonus of +2, +4, or +6. Both gloves
 must be worn for the magic to be effective.
 
-Moderate transmutation; CL 8th; Craft Wondrous Item, *cat's grace;*
+Moderate transmutation; CL 8th; Craft Wondrous Item, *cat’s grace;*
 Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 **Glove of Storing:** This device is a simple leather glove. On command,
@@ -1690,8 +1703,8 @@ Faint transmutation; CL 6th; Craft Wondrous Item, *shrink item;* Price
 gloves grant a +5 competence bonus on Swim checks and Climb checks. Both
 gloves must be worn for the magic to be effective.
 
-Faint transmutation; CL 5th; Craft Wondrous Item, *bull's strength,
-cat's grace;* Price 6,250 gp.
+Faint transmutation; CL 5th; Craft Wondrous Item, *bull’s strength,
+cat’s grace;* Price 6,250 gp.
 
 **Goggles of Minute Seeing:** The lenses of this item are made of
 special crystal. When placed over the eyes of the wearer, the lenses
@@ -1714,19 +1727,19 @@ Faint transmutation; CL 3rd; Craft Wondrous Item, *darkvision;* Price
 **Golem Manual:** A *golem manual* contains information, incantations
 and magical power that help a character to craft a golem. The
 instructions therein grant a +5 competence bonus on skill checks made to
-craft the golem's body. Each manual also holds the prerequisite spells
+craft the golem’s body. Each manual also holds the prerequisite spells
 needed for a specific golem, effectively grants the builder use of the
 Craft Construct feat during the construction of the golem, and grants
 the character an increase to her caster level for the purpose of
 crafting a golem. Any golem built using a *golem manual* does not cost
-the creator any XP, since the requisite XP are "contained" in the book
-and "expended" by the book during the creation process.
+the creator any XP, since the requisite XP are “contained” in the book
+and “expended” by the book during the creation process.
 
 The spells included in a *golem manual* require a spell trigger
 activation and can be activated only to assist in the construction of a
 golem. The cost of the book does not include the cost of constructing
-the golem's body. Once the golem is finished, the writing in the manual
-fades and the book is consumed in flames. When the book's ashes are
+the golem’s body. Once the golem is finished, the writing in the manual
+fades and the book is consumed in flames. When the book’s ashes are
 sprinkled upon the golem, it becomes fully animated.
 
 *Clay Golem Manual:* The book contains *animate objects, bless, commune,
@@ -1739,13 +1752,13 @@ Moderate conjuration, divination, enchantment, and transmutation; CL
 objects, commune, prayer, resurrection*; Price 12,000 gp; Cost 2,150
 gp + 1,712 XP; Weight 5 lb.
 
-*Flesh Golem Manual:* The book contains *animate dead, bull's strength,
+*Flesh Golem Manual:* The book contains *animate dead, bull’s strength,
 geas/quest,* and *limited wish*. The reader may treat her caster level
 as one level higher than normal for the purpose of crafting a flesh
 golem. The book supplies 780 XP for the creation of a flesh golem.
 
 Moderate enchantment, necromancy \[evil\], and transmutation; CL 8th;
-Craft Construct, creator must be caster level 8th, *animate dead, bull's
+Craft Construct, creator must be caster level 8th, *animate dead, bull’s
 strength, geas/quest, limited wish*; Price 8,000 gp; Cost 2,050 gp + 944
 XP; Weight 5 lb.
 
@@ -1779,7 +1792,7 @@ must be caster level 16th, *antimagic field, geas/quest, symbol of
 stunning*; Price 44,000 gp; Cost 2,900 gp + 7,872 XP; Weight 5 lb.
 
 **Hand of Glory:** This mummified human hand hangs by a leather cord
-around a character's neck (taking up space as a magic necklace would).
+around a character’s neck (taking up space as a magic necklace would).
 If a magic ring is placed on one of the fingers of the hand, the wearer
 benefits from the ring as if wearing it herself, and it does not count
 against her two-ring limit. The hand can wear only one ring at a time.
@@ -1790,7 +1803,7 @@ Faint varied; CL 5th; Craft Wondrous Item, *animate dead*, *daylight,
 detect invisibility;* Price 8,000 gp;Weight 2 lb.
 
 **Hand of the Mage:** This mummified elf hand hangs by a golden chain
-around a character's neck (taking up space as a magic necklace would).
+around a character’s neck (taking up space as a magic necklace would).
 It allows the wearer to utilize the spell *mage hand* at will.
 
 Faint transmutation; CL 2nd; Craft Wondrous Item, *mage hand;* Price 900
@@ -1836,12 +1849,12 @@ Faint illusion; CL 1st; Craft Wondrous Item, *disguise self;* Price
 
 **Headband of Intellect:** This device is a light cord with a small gem
 set so that it rests upon the forehead of the wearer. The headband adds
-to the wearer's Intelligence score in the form of an enhancement bonus
+to the wearer’s Intelligence score in the form of an enhancement bonus
 of +2, +4, or +6. This enhancement bonus does not earn the wearer extra
 skill points when a new level is attained; use the unenhanced
 Intelligence bonus to determine skill points.
 
-Moderate transmutation; CL 8th; Craft Wondrous Item, *fox's cunning;*
+Moderate transmutation; CL 8th; Craft Wondrous Item, *fox’s cunning;*
 Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 **Helm of Brilliance:** This normal-looking helm takes its true form and
@@ -1850,7 +1863,7 @@ Made of brilliant silver and polished steel, a newly created helm is set
 with large magic gems: ten diamonds, twenty rubies, thirty fire opals,
 and forty opals. When struck by bright light, the helm scintillates and
 sends forth reflective rays in all directions from its crownlike,
-gem-tipped spikes. The jewels' functions are as follows:
+gem-tipped spikes. The jewels’ functions are as follows:
 
 -   Diamond: *Prismatic spray* (save DC 20)
 -   Ruby: *Wall of fire*
@@ -1916,12 +1929,12 @@ Moderate conjuration; CL 9th; Craft Wondrous Item, *teleport;* Price
 
 **Helm of Underwater Action:** The wearer of this helmet can see
 underwater. Drawing the small lenses in compartments on either side into
-position before the wearer's eyes activates the visual properties of the
+position before the wearer’s eyes activates the visual properties of the
 helm, allowing her to see five times farther than water and light
 conditions would allow for normal human vision. (Weeds, obstructions,
 and the like block vision in the usual manner.) If the command word is
 spoken, the *helm of underwater action* creates a globe of air around
-the wearer's head and maintains it until the command word is spoken
+the wearer’s head and maintains it until the command word is spoken
 again, enabling her to breathe freely.
 
 Faint transmutation; CL 5th; Craft Wondrous Item, *water breathing;*
@@ -1933,7 +1946,7 @@ instrument is then played, it deals 5d6 points of sonic damage to
 creatures within a 40-foot cone and causes them to be deafened for 2d6
 rounds (a DC 16 Fortitude save reduces the damage by half and negates
 the deafening). Crystalline objects and creatures take 7d6 points of
-sonic damage, with no save unless they're held, worn, or carried by
+sonic damage, with no save unless they’re held, worn, or carried by
 creatures (Will DC 16 negates).
 
 If a *horn of blasting* is used magically more than once in a given day,
@@ -1969,7 +1982,7 @@ Faint conjuration; CL 3rd; Craft Wondrous Item, *obscuring mist;* Price
 2,000 gp;Weight 1 lb.
 
 **Horn of Goodness/Evil:** This trumpet adapts itself to its owner, so
-it produces either a good or an evil effect depending on the owner's
+it produces either a good or an evil effect depending on the owner’s
 alignment. If the owner is neither good nor evil, the horn has no power
 whatsoever. If he is good, then blowing the horn has the effect of a
 *magic circle against evil*. If he is evil, then blowing the horn has
@@ -1986,10 +1999,10 @@ when blown.
 
 -   Calm rough waters in a 1-mile radius. This effect dispels a summoned
     water elemental if it fails a DC 16 Will save.
--   Attract 5d4 Large sharks (01--30 on d%), 5d6 Medium sharks (31--80),
-    or 1d10 sea lions (81--100) if the character is in a body of water
-    in which such creatures dwell. The creatures are friendly and obey,
-    to the best of their ability, the one who sounded the horn.
+-   Attract 5d4 Large sharks (01–30 on d%), 5d6 Medium sharks (31–80),
+    or 1d10 sea lions (81–100) if the character is in a body of water in
+    which such creatures dwell. The creatures are friendly and obey, to
+    the best of their ability, the one who sounded the horn.
 -   Causes aquatic creatures with Intelligence scores of 1 or 2 within
     500 feet to become panicked as if they had been targeted by a *fear*
     spell (Will DC 16 partial). Those who successfully save are shaken
@@ -2007,18 +2020,18 @@ Each appears to be normal until someone speaks its command word and
 blows the horn. Then the horn summons a number of human barbarians to
 fight for the character who summoned them. Each horn can be blown just
 once every seven days. Roll d% and refer to the table below to see what
-type of horn is found. The horn's type determines what barbarians are
+type of horn is found. The horn’s type determines what barbarians are
 summoned and what prerequisite is needed to use the horn. Any character
-who uses a *horn of Valhalla* but doesn't have the prerequisite is
+who uses a *horn of Valhalla* but doesn’t have the prerequisite is
 attacked by the barbarians she herself summoned.
 
-  --------- -------------- --------------------- --------------------------------------------------------------
-  d%        Type of Horn   Barbarians Summoned   Prerequisite
-  01--40    Silver         2d4+2, 2nd level      None
-  41--75    Brass          2d4+1, 3rd level      Spellcaster level 1st
-  76--90    Bronze         2d4, 4th level        Proficiency with all martial weapons or bardic music ability
-  91--100   Iron           1d4+1, 5th level      Proficiency with all martial weapons or bardic music ability
-  --------- -------------- --------------------- --------------------------------------------------------------
+|        |              |                     |                                                              |
+|--------|--------------|---------------------|--------------------------------------------------------------|
+| d%     | Type of Horn | Barbarians Summoned | Prerequisite                                                 |
+| 01–40  | Silver       | 2d4+2, 2nd level    | None                                                         |
+| 41–75  | Brass        | 2d4+1, 3rd level    | Spellcaster level 1st                                        |
+| 76–90  | Bronze       | 2d4, 4th level      | Proficiency with all martial weapons or bardic music ability |
+| 91–100 | Iron         | 1d4+1, 5th level    | Proficiency with all martial weapons or bardic music ability |
 
 Summoned barbarians are constructs, not actual people (though they seem
 to be); they arrive with the starting equipment for barbarians. They
@@ -2030,8 +2043,8 @@ Strong conjuration; CL 13th; Craft Wondrous Item, *summon monster VI;*
 Price 50,000 gp;Weight 2 lb.
 
 **Horseshoes of Speed:** These iron shoes come in sets of four like
-ordinary horseshoes. When affixed to an animal's hooves, they increase
-the animal's base land speed by 30 feet; this counts as an enhancement
+ordinary horseshoes. When affixed to an animal’s hooves, they increase
+the animal’s base land speed by 30 feet; this counts as an enhancement
 bonus. As with other effects that increase speed, jumping distances
 increase proportionally. All four shoes must be worn by the same animal
 for the magic to be effective.
@@ -2075,23 +2088,23 @@ feet high, with arrow slits on all sides and a crenellated battlement
 atop it. The metal walls extend 10 feet into the ground, rooting it to
 the spot and preventing it from being tipped over. The fortress has a
 small door that opens only at the command of the owner of the
-fortress---even *knock* spells can't open the door.
+fortress—even *knock* spells can’t open the door.
 
 The adamantine walls of *instant fortress* have 100 hit points and
 hardness 20. The fortress cannot be repaired except by a *wish* or a
 *miracle*, which restores 50 points of damage taken.
 
 The fortress springs up in just 1 round, with the door facing the
-device's owner. The door opens and closes instantly at his command.
+device’s owner. The door opens and closes instantly at his command.
 People and creatures nearby (except the owner) must be careful not to be
-caught by the fortress's sudden growth. Anyone so caught takes 10d10
+caught by the fortress’s sudden growth. Anyone so caught takes 10d10
 points of damage (Reflex DC 19 half ).
 
 The fortress is deactivated by speaking a command word (different from
 the one used to activate it). It cannot be deactivated unless it is
 empty.
 
-Strong conjuration; CL 13th; Craft Wondrous Item, *mage's magnificent
+Strong conjuration; CL 13th; Craft Wondrous Item, *mage’s magnificent
 mansion;* Price 55,000 gp.
 
 **Ioun Stones:** These crystalline stones always float in the air and
@@ -2103,27 +2116,27 @@ voluntarily seize and stow a stone (to keep it safe while she is
 sleeping, for example), but she loses the benefits of the stone during
 that time. *Ioun stones* have AC 24, 10 hit points, and hardness 5.
 
-  ----------------------------------------------------------------------------------------------------- ----------- ------------------------------------------------------------------------------ --------------
-  Color                                                                                                 Shape       Effect                                                                         Market Price
-  Clear                                                                                                 Spindle     Sustains creature without food or water                                        4,000 gp
-  Dusty rose                                                                                            Prism       +1 insight bonus to AC                                                         5,000 gp
-  Deep red                                                                                              Sphere      +2 enhancement bonus to Dexterity                                              8,000 gp
-  Incandescent blue                                                                                     Sphere      +2 enhancement bonus to Wisdom                                                 8,000 gp
-  Pale blue                                                                                             Rhomboid    +2 enhancement bonus to Strength                                               8,000 gp
-  Pink                                                                                                  Rhomboid    +2 enhancement bonus to Constitution                                           8,000 gp
-  Pink and green                                                                                        Sphere      +2 enhancement bonus to Charisma                                               8,000 gp
-  Scarlet and blue                                                                                      Sphere      +2 enhancement bonus to Intelligence                                           8,000 gp
-  Dark blue                                                                                             Rhomboid    Alertness (as the feat)                                                        10,000 gp
-  Vibrant purple                                                                                        Prism       Stores three levels of spells, as a *ring of spell storing*                    36,000 gp
-  Iridescent                                                                                            Spindle     Sustains creature without air                                                  18,000 gp
-  Pale lavender                                                                                         Ellipsoid   Absorbs spells of 4th level or lower^1^                                        20,000 gp
-  Pearly white                                                                                          Spindle     Regenerate 1 point of damage per hour                                          20,000 gp
-  Pale green                                                                                            Prism       +1 competence bonus on attack rolls, saves, skill checks, and ability checks   30,000 gp
-  Orange                                                                                                Prism       +1 caster level                                                                30,000 gp
-  Lavender and green                                                                                    Ellipsoid   Absorbs spells of 8th level or lower^2^                                        40,000 gp
-  1 After absorbing twenty spell levels, the stone burns out and turns to dull gray, forever useless.                                                                                              
-  2 After absorbing fifty spell levels, the stone burns out and turns dull gray, forever useless.                                                                                                  
-  ----------------------------------------------------------------------------------------------------- ----------- ------------------------------------------------------------------------------ --------------
+|                                                                                                     |           |                                                                              |              |
+|-----------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------|--------------|
+| Color                                                                                               | Shape     | Effect                                                                       | Market Price |
+| Clear                                                                                               | Spindle   | Sustains creature without food or water                                      | 4,000 gp     |
+| Dusty rose                                                                                          | Prism     | +1 insight bonus to AC                                                       | 5,000 gp     |
+| Deep red                                                                                            | Sphere    | +2 enhancement bonus to Dexterity                                            | 8,000 gp     |
+| Incandescent blue                                                                                   | Sphere    | +2 enhancement bonus to Wisdom                                               | 8,000 gp     |
+| Pale blue                                                                                           | Rhomboid  | +2 enhancement bonus to Strength                                             | 8,000 gp     |
+| Pink                                                                                                | Rhomboid  | +2 enhancement bonus to Constitution                                         | 8,000 gp     |
+| Pink and green                                                                                      | Sphere    | +2 enhancement bonus to Charisma                                             | 8,000 gp     |
+| Scarlet and blue                                                                                    | Sphere    | +2 enhancement bonus to Intelligence                                         | 8,000 gp     |
+| Dark blue                                                                                           | Rhomboid  | Alertness (as the feat)                                                      | 10,000 gp    |
+| Vibrant purple                                                                                      | Prism     | Stores three levels of spells, as a *ring of spell storing*                  | 36,000 gp    |
+| Iridescent                                                                                          | Spindle   | Sustains creature without air                                                | 18,000 gp    |
+| Pale lavender                                                                                       | Ellipsoid | Absorbs spells of 4th level or lower<sup>1</sup>                             | 20,000 gp    |
+| Pearly white                                                                                        | Spindle   | Regenerate 1 point of damage per hour                                        | 20,000 gp    |
+| Pale green                                                                                          | Prism     | +1 competence bonus on attack rolls, saves, skill checks, and ability checks | 30,000 gp    |
+| Orange                                                                                              | Prism     | +1 caster level                                                              | 30,000 gp    |
+| Lavender and green                                                                                  | Ellipsoid | Absorbs spells of 8th level or lower<sup>2</sup>                             | 40,000 gp    |
+| 1 After absorbing twenty spell levels, the stone burns out and turns to dull gray, forever useless. |           |                                                                              |              |
+| 2 After absorbing fifty spell levels, the stone burns out and turns dull gray, forever useless.     |           |                                                                              |              |
 
 Regeneration from the pearly white *ioun stone* works like a *ring of
 regeneration.* (It only cures damage taken while the character is using
@@ -2170,22 +2183,22 @@ Any attempt to force the same creature into the flask a second time
 provides it a +2 bonus on its saving throw and makes it hostile. A newly
 discovered bottle might contain any of the following:
 
-  -------- ----------------------- ----- --------------------------------------------------------------
-  d%       Contents                d%    Contents
-  01--50   Empty                   89    Demon (glabrezu)
-  51--54   Large air elemental     90    Demon (succubus)
-  55--58   Arrowhawk               91    Devil (osyluth)
-  59--62   Large earth elemental   92    Devil (barbazu)
-  63--66   Xorn                    93    Devil (erinyes)
-  67--70   Large fire elemental    94    Devil (cornugon)
-  71--74   Salamander              95    Celestial (avoral)
-  75--78   Large water elemental   96    Celestial (ghaele)
-  79--82   Adult tojanida          97    Formian myrmarch
-  83--84   Chaos Beast             98    Arrowhawk, elder
-  85--86   Formian taskmaster      99    Rakshasa
-  87       Demon (vrock)           100   Demon (balor) or devil (pit fiend)---equal chance for either
-  88       Demon (hezrou)                
-  -------- ----------------------- ----- --------------------------------------------------------------
+|       |                       |     |                                                            |
+|-------|-----------------------|-----|------------------------------------------------------------|
+| d%    | Contents              | d%  | Contents                                                   |
+| 01–50 | Empty                 | 89  | Demon (glabrezu)                                           |
+| 51–54 | Large air elemental   | 90  | Demon (succubus)                                           |
+| 55–58 | Arrowhawk             | 91  | Devil (osyluth)                                            |
+| 59–62 | Large earth elemental | 92  | Devil (barbazu)                                            |
+| 63–66 | Xorn                  | 93  | Devil (erinyes)                                            |
+| 67–70 | Large fire elemental  | 94  | Devil (cornugon)                                           |
+| 71–74 | Salamander            | 95  | Celestial (avoral)                                         |
+| 75–78 | Large water elemental | 96  | Celestial (ghaele)                                         |
+| 79–82 | Adult tojanida        | 97  | Formian myrmarch                                           |
+| 83–84 | Chaos Beast           | 98  | Arrowhawk, elder                                           |
+| 85–86 | Formian taskmaster    | 99  | Rakshasa                                                   |
+| 87    | Demon (vrock)         | 100 | Demon (balor) or devil (pit fiend)—equal chance for either |
+| 88    | Demon (hezrou)        |     |                                                            |
 
 Strong conjuration; CL 20th; Craft Wondrous Item, *trap the soul*; Price
 170,000 gp (empty);Weight 1 lb.
@@ -2287,12 +2300,12 @@ desired object as the artist concentrates on the desired image. One pot
 of *marvelous pigments* is sufficient to create a 1,000-cubic-foot
 object by depicting it two-dimensionally over a 100-square-foot surface.
 
-Only normal, inanimate objects can be created. Creatures can't be
+Only normal, inanimate objects can be created. Creatures can’t be
 created. The pigments must be applied to a surface. It takes 10 minutes
 and a DC 15 Craft (painting) check to depict an object with the
 pigments. *Marvelous pigments* cannot create magic items. Objects of
-value depicted by the pigments ---precious metals, gems, jewelry, ivory,
-and so on--- appear to be valuable but are really made of tin, lead,
+value depicted by the pigments —precious metals, gems, jewelry, ivory,
+and so on— appear to be valuable but are really made of tin, lead,
 paste, brass, bone, and other such inexpensive materials. The user can
 create normal weapons, armor, and any other mundane item (including
 foodstuffs) whose value does not exceed 2,000 gp.
@@ -2304,10 +2317,10 @@ Price 4,000 gp.
 
 **Mask of the Skull:** This ivory mask has been fashioned into the
 likeness of a human skull. Once per day, after it has been worn for at
-least 1 hour, the mask can be loosed to fly from the wearer's face. It
+least 1 hour, the mask can be loosed to fly from the wearer’s face. It
 travels up to 50 feet away from the wearer and attacks a target assigned
 to it. The grinning skull mask makes a touch attack against the target
-based on the wearer's base attack bonus. If the attack succeeds, the
+based on the wearer’s base attack bonus. If the attack succeeds, the
 target must make a DC 20 Fortitude save or be struck dead, as if
 affected by a *finger of death* spell. If the target succeeds on his
 saving throw, he nevertheless takes 3d6+13 points of damage. After
@@ -2331,7 +2344,7 @@ Armor, *move earth;* Price 23,348 gp; Cost 13,348 gp + 800 XP; Weight
 **Maul of the Titans:** This mallet is 8 feet long. If used as a weapon,
 it is the equivalent of a *+3 greatclub* and deals triple damage against
 inanimate objects. However, the wielder must have a Strength of at least
-18 to wield it properly. Otherwise, she takes a --4 penalty on attack
+18 to wield it properly. Otherwise, she takes a –4 penalty on attack
 rolls.
 
 Strong evocation; CL 15th; Craft Wondrous Item, Craft Magic Arms and
@@ -2361,14 +2374,14 @@ as a gaze attack).
 
 When a creature is trapped, it is taken bodily into the mirror. Size is
 not a factor, but constructs and undead are not trapped, nor are
-inanimate objects and other nonliving matter. A victim's equipment
+inanimate objects and other nonliving matter. A victim’s equipment
 (including clothing and anything being carried) remains behind. If the
-mirror's owner knows the right command word, he can call the reflection
+mirror’s owner knows the right command word, he can call the reflection
 of any creature trapped within to its surface and engage his powerless
 prisoner in conversation. Another command word frees the trapped
 creature. Each pair of command words is specific to each prisoner.
 
-If the mirror's capacity is exceeded, one victim (determined randomly)
+If the mirror’s capacity is exceeded, one victim (determined randomly)
 is set free in order to accommodate the latest one. If the mirror is
 broken, all victims currently trapped in it are freed.
 
@@ -2390,7 +2403,7 @@ commands can cause it to perform as follows.
     mirror if they like. An invisible portal remains on the other side
     where she arrives, and she can return through that portal. Once she
     returns, the portal closes. The portal closes on its own after 24
-    hours (trapping the user if she's still in the other place), and the
+    hours (trapping the user if she’s still in the other place), and the
     user can also close it with a command word. Creatures with
     Intelligence of 12 or higher might notice the portal just as they
     might notice a magical sensor from a *scrying* spell. Any creature
@@ -2407,7 +2420,7 @@ thoughts*, *clairaudience/clairvoyance, gate, legend lore*; Price
 feet long and 3 feet wide. It can be hung or placed on a surface and
 then activated by speaking a command word. The same command word
 deactivates the mirror. If a creature sees its reflection in the
-mirror's surface, an exact duplicate of that creature comes into being.
+mirror’s surface, an exact duplicate of that creature comes into being.
 This opposite immediately attacks the original. The duplicate has all
 the possessions and powers of its original (including magic). Upon the
 defeat or destruction of either the duplicate or the original, the
@@ -2429,8 +2442,8 @@ Moderate transmutation; CL 7th; Craft Wondrous Item, *alter self;* Price
 **Necklace of Fireballs:** This device appears to be nothing but beads
 on a string, sometimes with the ends tied together to form a necklace.
 (It does not count as an item worn around the neck for the purpose of
-determining which of a character's worn magic items is effective.) If a
-character holds it, however, all can see the strand as it really is---a
+determining which of a character’s worn magic items is effective.) If a
+character holds it, however, all can see the strand as it really is—a
 golden chain from which hang a number of golden spheres. The spheres are
 detachable by the wearer (and only by the wearer), who can easily hurl
 one of them up to 70 feet. When a sphere arrives at the end of its
@@ -2444,16 +2457,16 @@ Each *necklace of fireballs* contains a combination of spheres of
 various strengths. Some traditional combinations, designated types I
 through VII, are detailed below.
 
-  ---------- ------ ----- ----- ----- ----- ----- ----- ----- ----- --------------
-  Necklace   10d6   9d6   8d6   7d6   6d6   5d6   4d6   3d6   2d6   Market Price
-  Type I     ---    ---   ---   ---   ---   1     ---   2     ---   1,650 gp
-  Type II    ---    ---   ---   ---   1     ---   2     ---   2     2,700 gp
-  Type III   ---    ---   ---   1     ---   2     ---   4     ---   4,350 gp
-  Type IV    ---    ---   1     ---   2     ---   2     ---   4     5,400 gp
-  Type V     ---    1     ---   2     ---   2     ---   2     ---   5,850 gp
-  Type VI    1      ---   2     ---   2     ---   4     ---   ---   8,100 gp
-  Type VII   1      2     ---   2     ---   2     ---   2     ---   8,700 gp
-  ---------- ------ ----- ----- ----- ----- ----- ----- ----- ----- --------------
+|          |      |     |     |     |     |     |     |     |     |              |
+|----------|------|-----|-----|-----|-----|-----|-----|-----|-----|--------------|
+| Necklace | 10d6 | 9d6 | 8d6 | 7d6 | 6d6 | 5d6 | 4d6 | 3d6 | 2d6 | Market Price |
+| Type I   | —    | —   | —   | —   | —   | 1   | —   | 2   | —   | 1,650 gp     |
+| Type II  | —    | —   | —   | —   | 1   | —   | 2   | —   | 2   | 2,700 gp     |
+| Type III | —    | —   | —   | 1   | —   | 2   | —   | 4   | —   | 4,350 gp     |
+| Type IV  | —    | —   | 1   | —   | 2   | —   | 2   | —   | 4   | 5,400 gp     |
+| Type V   | —    | 1   | —   | 2   | —   | 2   | —   | 2   | —   | 5,850 gp     |
+| Type VI  | 1    | —   | 2   | —   | 2   | —   | 4   | —   | —   | 8,100 gp     |
+| Type VII | 1    | 2   | —   | 2   | —   | 2   | —   | 2   | —   | 8,700 gp     |
 
 If the necklace is being worn or carried by a character who fails her
 saving throw against a magical fire attack, the item must make a saving
@@ -2492,7 +2505,7 @@ gp (two spells).
 **Pearl of the Sirines:** This normal-seeming pearl is beautiful and
 worth at least 1,000 gp on that basis alone. If it is clasped firmly in
 hand or held to the breast while the possessor attempts actions related
-to the pearl's powers, she understands and is able to employ the item.
+to the pearl’s powers, she understands and is able to employ the item.
 
 The pearl enables its possessor to breathe in water as if she were in
 clean, fresh air. Her swim speed is 60 feet, and she can cast spells and
@@ -2516,21 +2529,21 @@ Faint conjuration; CL 5th; Craft Wondrous Item, *neutralize poison;*
 Price 27,000 gp.
 
 **Periapt of Wisdom:** Although it appears to be a normal pearl on a
-light chain, a *periapt of wisdom* actually increases the possessor's
+light chain, a *periapt of wisdom* actually increases the possessor’s
 Wisdom score in the form of an enhancement bonus of +2, +4, or +6
 (depending on the individual item).
 
-Moderate transmutation; CL 8th; Craft Wondrous Item, *owl's wisdom;*
+Moderate transmutation; CL 8th; Craft Wondrous Item, *owl’s wisdom;*
 Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 **Periapt of Wound Closure:** This stone is bright red and dangles on a
 gold chain. The wearer of this periapt automatically becomes stable if
-his hit points drop to between --1 and --9 inclusive. The periapt
-doubles the wearer's normal rate of healing or allows normal healing of
-wounds that would not do so normally. Hit point damage that involves
-bleeding is negated for the wearer of the periapt, but he is still
-susceptible to damage from bleeding that causes Constitution loss, such
-as that dealt by a wounding weapon.
+his hit points drop to between –1 and –9 inclusive. The periapt doubles
+the wearer’s normal rate of healing or allows normal healing of wounds
+that would not do so normally. Hit point damage that involves bleeding
+is negated for the wearer of the periapt, but he is still susceptible to
+damage from bleeding that causes Constitution loss, such as that dealt
+by a wounding weapon.
 
 Moderate conjuration; CL 10th; Craft Wondrous Item, *heal;* Price 15,000
 gp.
@@ -2589,7 +2602,7 @@ possessor learns the proper tune, he can attract 1d3 rat swarms if rats
 are within 400 feet. For each 50-foot distance the rats have to travel,
 there is a 1-round delay. The piper must continue playing until the rats
 appear, and when they do so, the piper must make a DC 10 Perform (wind
-instruments) check. Success means that they obey the piper's telepathic
+instruments) check. Success means that they obey the piper’s telepathic
 commands so long as he continues to play. Failure indicates that they
 turn on the piper. If for any reason the piper ceases playing, the rats
 leave immediately. If they are called again within a day, the Perform
@@ -2601,7 +2614,7 @@ check is required each round to maintain it if the other creature is
 actively seeking to reassert its control.
 
 Faint conjuration; CL 2nd; Craft Wondrous Item, *charm animal, summon
-nature's ally I,* wild empathy ability; Price 1,150 gp;Weight 3 lb.
+nature’s ally I,* wild empathy ability; Price 1,150 gp;Weight 3 lb.
 
 **Pipes of Sounding:** When played by a character who has the Perform
 (wind instruments) skill, these pipes create a variety of sounds. The
@@ -2644,10 +2657,10 @@ disease*). Rubbed on a wound, the ointment cures 1d8+5 points of damage
 Faint conjuration; CL 5th;Craft Wondrous Item, *cure light wounds,
 neutralize poison, remove disease;* Price 4,000 gp;Weight 1/2 lb.
 
-**Ring Gates:** These always come in pairs---two iron rings, each about
-18 inches in diameter. The rings must be on the same plane of existence
-and within 100 miles of each other to function. Whatever is put through
-one ring comes out the other, and up to 100 pounds of material can be
+**Ring Gates:** These always come in pairs—two iron rings, each about 18
+inches in diameter. The rings must be on the same plane of existence and
+within 100 miles of each other to function. Whatever is put through one
+ring comes out the other, and up to 100 pounds of material can be
 transferred each day. (Objects only partially pushed through and then
 retracted do not count.) This useful device allows for instantaneous
 transport of items or messages, and even attacks. A character can reach
@@ -2656,15 +2669,15 @@ through if so desired. Alternatively, a character could stick his head
 through to look around. A spellcaster could even cast a spell through a
 *ring gate.* A Small character can make a DC 13 Escape Artist check to
 slip through. Creatures of Tiny, Diminutive, or Fine size can pass
-through easily. Each ring has a "entry side" and an "exit side," both
+through easily. Each ring has a “entry side” and an “exit side,” both
 marked with appropriate symbols.
 
 Strong conjuration; CL 17th; Craft Wondrous Item, *gate;* Price 40,000
 gp;Weight 1 lb. each.
 
 **Robe of the Archmagi:** This normal-appearing garment can be white
-(01--45 on d%, good alignment), gray (46--75, neither good nor evil
-alignment), or black (76--100, evil alignment). Its wearer, if an arcane
+(01–45 on d%, good alignment), gray (46–75, neither good nor evil
+alignment), or black (76–100, evil alignment). Its wearer, if an arcane
 spellcaster, gains the following powers.
 
 -   +5 armor bonus to AC.
@@ -2728,7 +2741,7 @@ The *robe of eyes* sees all forms of invisible or ethereal things within
 
 The wearer of a *robe of eyes* gains a +10 competence bonus on Search
 checks and Spot checks. She retains her Dexterity bonus to AC even when
-flat-footed, and she can't be flanked. However, she is not able to avert
+flat-footed, and she can’t be flanked. However, she is not able to avert
 her eyes or close her eyes when confronted by a creature with a gaze
 attack.
 
@@ -2795,22 +2808,22 @@ In addition, the robe has several other patches. Roll 4d4 for the number
 of other patches and then roll for each patch on the table below to
 determine its nature.
 
-  --------- ----------------------------------------------------------------------------------------------------------------------------
-  d%        Result
-  01--08    Bag of 100 gold pieces
-  09--15    Coffer, silver (6 in. by 6 in. by 1 ft.), 500 gp value
-  16--22    Door, iron (up to 10 ft. wide and 10 ft. high and barred on one side---must be placed upright, attaches and hinges itself)
-  23--30    Gems, 10 (100 gp value each)
-  31--44    Ladder, wooden (24 ft. long)
-  45--51    Mule (with saddle bags)
-  52--59    Pit, open (10 ft. by 10 ft. by 10 ft.)
-  60--68    Potion of cure serious wounds
-  69--75    Rowboat (12 ft. long)
-  76--83    Minor scroll of one randomly determined spell
-  84--90    War dogs, pair (treat as riding dogs)
-  91--96    Window (2 ft. by 4 ft., up to 2 ft. deep)
-  97--100   Portable ram
-  --------- ----------------------------------------------------------------------------------------------------------------------------
+|        |                                                                                                                          |
+|--------|--------------------------------------------------------------------------------------------------------------------------|
+| d%     | Result                                                                                                                   |
+| 01–08  | Bag of 100 gold pieces                                                                                                   |
+| 09–15  | Coffer, silver (6 in. by 6 in. by 1 ft.), 500 gp value                                                                   |
+| 16–22  | Door, iron (up to 10 ft. wide and 10 ft. high and barred on one side—must be placed upright, attaches and hinges itself) |
+| 23–30  | Gems, 10 (100 gp value each)                                                                                             |
+| 31–44  | Ladder, wooden (24 ft. long)                                                                                             |
+| 45–51  | Mule (with saddle bags)                                                                                                  |
+| 52–59  | Pit, open (10 ft. by 10 ft. by 10 ft.)                                                                                   |
+| 60–68  | Potion of cure serious wounds                                                                                            |
+| 69–75  | Rowboat (12 ft. long)                                                                                                    |
+| 76–83  | Minor scroll of one randomly determined spell                                                                            |
+| 84–90  | War dogs, pair (treat as riding dogs)                                                                                    |
+| 91–96  | Window (2 ft. by 4 ft., up to 2 ft. deep)                                                                                |
+| 97–100 | Portable ram                                                                                                             |
 
 Multiple items of the same kind are permissible. Once removed, a patch
 cannot be replaced.
@@ -2876,7 +2889,7 @@ in the shape of a beetle. If it is held for 1 round, an inscription
 appears on its surface letting the holder know that it is a protective
 device.
 
-The scarab's possessor gains spell resistance 20. The scarab can also
+The scarab’s possessor gains spell resistance 20. The scarab can also
 absorb energy-draining attacks, death effects, and negative energy
 effects. Upon absorbing twelve such attacks, the scarab turns to powder
 and is destroyed.
@@ -2911,10 +2924,10 @@ Faint transmutation; CL 5th; Craft Wondrous Item; Price 250 gp.
 
 **Slippers of Spider Climbing:** When worn, a pair of these slippers
 enable movement on vertical surfaces or even upside down along ceilings,
-leaving the wearer's hands free. Her speed is 20 feet. Severely slippery
-surfaces---icy, oiled, or greased surfaces--- make these slippers
-useless. The slippers can be used for 10 minutes per day, split up as
-the wearer chooses.
+leaving the wearer’s hands free. Her speed is 20 feet. Severely slippery
+surfaces—icy, oiled, or greased surfaces— make these slippers useless.
+The slippers can be used for 10 minutes per day, split up as the wearer
+chooses.
 
 Faint transmutation; CL 4th; Craft Wondrous Item, *spider climb;* Price
 4,800 gp;Weight 1/2 lb.
@@ -2926,8 +2939,8 @@ and each time any of the bonding agent is poured from the flask, a new
 application of the *salve of slipperiness* must be put in the flask
 within 1 round to prevent the remaining glue from adhering to the side
 of the container. A flask of *sovereign glue,* when found, holds
-anywhere from 1 to 7 ounces of the stuff (1d8--1, minimum 1), with the
-other ounce of the flask's capacity taken up by the *salve of
+anywhere from 1 to 7 ounces of the stuff (1d8–1, minimum 1), with the
+other ounce of the flask’s capacity taken up by the *salve of
 slipperiness.* One ounce of this adhesive covers 1 square foot of
 surface, bonding virtually any two substances together in a permanent
 union. The glue takes 1 round to set. If the objects are pulled apart (a
@@ -3012,15 +3025,15 @@ owner instantly knows the powers of the prayer beads and how to activate
 them. Each strand includes two or more special beads, each with a
 different magic power.
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Special Bead Type      Special Bead Ability
-  Bead of blessing       Wearer can cast *bless.*
-  Bead of healing        Wearer can cast his choice of *cure serious wounds, remove blindness/deafness,* or *remove disease.*
-  Bead of karma          Wearer casts his spells at +4 caster level. Effect lasts 10 minutes.
-  Bead of smiting        Wearer can cast *chaos hammer, holy smite, order's wrath,* or *unholy blight* (Will DC 17 partial).
-  Bead of summons        Summons a powerful creature of appropriate alignment from the Outer Planes (an angel, devil, etc.) to aid the wearer for one day. (If the wearer uses the *bead of summons* to summon a deity's emissary frivolously, the deity takes that character's items and places a *geas* upon him as punishment in the very least.)
-  Bead of wind walking   Wearer can cast *wind walk.*
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                                                                                                             |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Special Bead Type    | Special Bead Ability                                                                                                                                                                                                                                                                                                        |
+| Bead of blessing     | Wearer can cast *bless.*                                                                                                                                                                                                                                                                                                    |
+| Bead of healing      | Wearer can cast his choice of *cure serious wounds, remove blindness/deafness,* or *remove disease.*                                                                                                                                                                                                                        |
+| Bead of karma        | Wearer casts his spells at +4 caster level. Effect lasts 10 minutes.                                                                                                                                                                                                                                                        |
+| Bead of smiting      | Wearer can cast *chaos hammer, holy smite, order’s wrath,* or *unholy blight* (Will DC 17 partial).                                                                                                                                                                                                                         |
+| Bead of summons      | Summons a powerful creature of appropriate alignment from the Outer Planes (an angel, devil, etc.) to aid the wearer for one day. (If the wearer uses the *bead of summons* to summon a deity’s emissary frivolously, the deity takes that character’s items and places a *geas* upon him as punishment in the very least.) |
+| Bead of wind walking | Wearer can cast *wind walk.*                                                                                                                                                                                                                                                                                                |
 
 A *lesser strand of prayer beads* has a *bead of blessing* and a *bead
 of healing.* A *strand of prayer beads* has a *bead of healing,* a *bead
@@ -3038,17 +3051,17 @@ he carries it somewhere on his person.
 
 The power of a special bead is lost if it is removed from the strand.
 Reduce the price of a strand of prayer beads that is missing one or more
-beads by the following amounts: *bead of blessing* --600 gp, *bead of
-healing* --9,000 gp, *bead of karma* --20,000 gp, *bead of smiting*
---16,800 gp, *bead of summons* --20,000 gp, *bead of wind walking*
---46,800 gp.
+beads by the following amounts: *bead of blessing* –600 gp, *bead of
+healing* –9,000 gp, *bead of karma* –20,000 gp, *bead of smiting*
+–16,800 gp, *bead of summons* –20,000 gp, *bead of wind walking* –46,800
+gp.
 
 Faint, moderate or strong (many schools); CL 1st (*blessing*), 5th
 (*healing*), 7th (*smiting*), 9th (*karma*), 11th (*wind walking*), 17th
 (*summons*); Craft Wondrous Items and one of the following spells per
 bead, as appropriate: *bless* (*blessing*); *cure serious wounds, remove
 blindness/ deafness,* or *remove disease* (*healing*); *righteous might*
-(*karma*); *gate* (*summons*); *chaos hammer, holy smite, order's
+(*karma*); *gate* (*summons*); *chaos hammer, holy smite, order’s
 wrath,* or *unholy blight* (*smiting*), *wind walk* (*wind walking*);
 Price 9,600 gp (lesser), 25,800 gp (standard), 95,800 gp (greater).
 
@@ -3135,7 +3148,7 @@ Artist checks.
 Faint conjuration and transmutation; CL 4th; Craft Wondrous Item,
 *knock, grease;* Price 5,200 gp.
 
-**Vestment, Druid's:** This light garment is worn over normal clothing
+**Vestment, Druid’s:** This light garment is worn over normal clothing
 or armor. Most such vestments are green, embroidered with plant or
 animal motifs. When this item is worn by a character with the wild shape
 ability, the character can use that ability one additional time each
@@ -3146,7 +3159,7 @@ wild shape ability; Price 10,000 gp.
 
 **Well of Many Worlds:** This strange, interdimensional device looks
 just like a *portable hole.* Anything placed within it is immediately
-cast to another world---a parallel world, another planet, or a different
+cast to another world—a parallel world, another planet, or a different
 plane (chosen randomly). If the well is moved, the random factor again
 comes into play. It can be picked up, folded, or rolled, just as a
 *portable hole* can be. Objects from the world the well touches can come

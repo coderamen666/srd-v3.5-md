@@ -24,9 +24,9 @@ are related to monsters.
 -   [Snatch \[General\]](#snatch)
 -   [Wingover \[General\]](#wingover)
 
-## Ability Focus [\[General\]]{.small} {#ability-focus}
+## Ability Focus <span class="small">\[General\]</span>
 
-Choose one of the creature's special attacks.
+Choose one of the creature’s special attacks.
 
 **Prerequisite:** Special attack.
 
@@ -37,7 +37,7 @@ attack on which the creature focuses.
 do not stack. Each time the creature takes the feat it applies to a
 different special attack.
 
-## Awesome Blow [\[General, Fighter\]]{.small} {#awesome-blow}
+## Awesome Blow <span class="small">\[General, Fighter\]</span>
 
 **Prerequisites:** Str 25, Power Attack, Improved Bull Rush, size Large
 or larger.
@@ -46,22 +46,22 @@ or larger.
 from its melee attack roll and deliver an awesome blow. If the creature
 hits a corporeal opponent smaller than itself with an awesome blow, its
 opponent must succeed on a Reflex save (DC = damage dealt) or be knocked
-flying 10 feet in a direction of the attacking creature's choice and
+flying 10 feet in a direction of the attacking creature’s choice and
 fall prone. The attacking creature can only push the opponent in a
-straight line, and the opponent can't move closer to the attacking
+straight line, and the opponent can’t move closer to the attacking
 creature than the square it started in. If an obstacle prevents the
-completion of the opponent's move, the opponent and the obstacle each
+completion of the opponent’s move, the opponent and the obstacle each
 take 1d6 points of damage, and the opponent stops in the space adjacent
 to the obstacle.
 
-## Craft Construct [\[Item Creation\]]{.small} {#craft-construct}
+## Craft Construct <span class="small">\[Item Creation\]</span>
 
 **Prerequisites:** Craft Magic Arms and Armor, Craft Wondrous Item.
 
 **Benefit:** A creature with this feat can create any construct whose
 prerequisites it meets. Enchanting a construct takes one day for each
 1,000 gp in its market price. To enchant a construct, a spellcaster must
-spend 1/25 the item's price in XP and use up raw materials costing half
+spend 1/25 the item’s price in XP and use up raw materials costing half
 of this price (see individual construct monster entries for details).
 
 A creature with this feat can repair constructs that have taken damage.
@@ -70,11 +70,11 @@ expending 50 gp per point of damage repaired.
 
 A newly created construct has average hit points for its Hit Dice.
 
-## Empower Spell-Like Ability [\[General\]]{.small} {#empower-spell-like-ability}
+## Empower Spell-Like Ability <span class="small">\[General\]</span>
 
 **Prerequisite:** Spell-like ability at caster level 6th or higher.
 
-**Benefit:** Choose one of the creature's spell-like abilities, subject
+**Benefit:** Choose one of the creature’s spell-like abilities, subject
 to the restrictions below. The creature can use that ability as an
 empowered spell-like ability three times per day (or less, if the
 ability is normally usable only once or twice per day).
@@ -86,14 +86,14 @@ without random variables are not affected.
 
 The creature can only select a spell-like ability duplicating a spell
 with a level less than or equal to half its caster level (round down)
---2. For a summary, see the table in the description of the Quicken
+–2. For a summary, see the table in the description of the Quicken
 Spell-Like Ability feat.
 
 **Special:** This feat can be taken multiple times. Each time it is
 taken, the creature can apply it to a different one of its spell-like
 abilities.
 
-## Flyby Attack [\[General\]]{.small} {#flyby-attack}
+## Flyby Attack <span class="small">\[General\]</span>
 
 **Prerequisite:** Fly speed.
 
@@ -105,7 +105,7 @@ flyby attack.
 **Normal:** Without this feat, the creature takes a standard action
 either before or after its move.
 
-## Hover [\[General\]]{.small} {#hover}
+## Hover <span class="small">\[General\]</span>
 
 **Prerequisite:** Fly speed.
 
@@ -132,76 +132,76 @@ cloud is limited to 10 feet. Creatures have concealment at 15 to 20 feet
 creature).
 
 Those caught in the cloud must succeed on a Concentration check (DC 10 +
-1/2 creature's HD) to cast a spell.
+1/2 creature’s HD) to cast a spell.
 
 **Normal:** Without this feat, a creature must keep moving while flying
 unless it has perfect maneuverability.
 
-## Improved Natural Armor [\[General\]]{.small} {#improved-natural-armor}
+## Improved Natural Armor <span class="small">\[General\]</span>
 
 **Prerequisites:** Natural armor, Con 13.
 
-**Benefit:** The creature's natural armor bonus increases by 1.
+**Benefit:** The creature’s natural armor bonus increases by 1.
 
 **Special:** A creature can gain this feat multiple times. Each time the
 creature takes the feat its natural armor bonus increases by another
 point.
 
-## Improved Natural Attack [\[General\]]{.small} {#improved-natural-attack}
+## Improved Natural Attack <span class="small">\[General\]</span>
 
 **Prerequisite:** Natural weapon, base attack bonus +4.
 
-**Benefit:** Choose one of the creature's natural attack forms. The
+**Benefit:** Choose one of the creature’s natural attack forms. The
 damage for this natural weapon increases by one step, as if the
-creature's size had increased by one category: 1d2, 1d3, 1d4, 1d6, 1d8,
+creature’s size had increased by one category: 1d2, 1d3, 1d4, 1d6, 1d8,
 2d6, 3d6, 4d6, 6d6, 8d6, 12d6.
 
 A weapon or attack that deals 1d10 points of damage increases as
 follows: 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8.
 
-## Multiattack [\[General\]]{.small} {#multiattack}
+## Multiattack <span class="small">\[General\]</span>
 
 **Prerequisite:** Three or more natural attacks.
 
-**Benefit:** The creature's secondary attacks with natural weapons take
-only a --2 penalty.
+**Benefit:** The creature’s secondary attacks with natural weapons take
+only a –2 penalty.
 
-**Normal:** Without this feat, the creature's secondary attacks with
-natural weapons take a --5 penalty.
+**Normal:** Without this feat, the creature’s secondary attacks with
+natural weapons take a –5 penalty.
 
-## Multiweapon Fighting [\[General\]]{.small} {#multiweapon-fighting}
+## Multiweapon Fighting <span class="small">\[General\]</span>
 
 **Prerequisites:** Dex 13, three or more hands.
 
 **Benefit:** Penalties for fighting with multiple weapons are reduced by
 2 with the primary hand and reduced by 6 with off hands.
 
-**Normal:** A creature without this feat takes a --6 penalty on attacks
-made with its primary hand and a --10 penalty on attacks made with its
+**Normal:** A creature without this feat takes a –6 penalty on attacks
+made with its primary hand and a –10 penalty on attacks made with its
 off hands. (It has one primary hand, and all the others are off hands.)
 See Two-Weapon Fighting.
 
 **Special:** This feat replaces the Two-Weapon Fighting feat for
 creatures with more than two arms.
 
-## Quicken Spell-Like Ability [\[General\]]{.small} {#quicken-spell-like-ability}
+## Quicken Spell-Like Ability <span class="small">\[General\]</span>
 
 **Prerequisite:** Spell-like ability at caster level 10th or higher.
 
-**Benefit:** Choose one of the creature's spell-like abilities, subject
+**Benefit:** Choose one of the creature’s spell-like abilities, subject
 to the restrictions described below. The creature can use that ability
 as a quickened spell-like ability three times per day (or less, if the
 ability is normally usable only once or twice per day).
 
 Using a quickened spell-like ability is a free action that does not
 provoke an attack of opportunity. The creature can perform another
-action---including the use of another spell-like ability---in the same
-round that it uses a quickened spell-like ability. The creature may use
-only one quickened spell-like ability per round.
+action—including the use of another spell-like ability—in the same round
+that it uses a quickened spell-like ability. The creature may use only
+one quickened spell-like ability per round.
 
 The creature can only select a spell-like ability duplicating a spell
 with a level less than or equal to half its caster level (round down)
---4. For a summary, see the table below.
+–4. For a summary, see the table below.
 
 In addition, a spell-like ability that duplicates a spell with a casting
 time greater than 1 full round cannot be quickened.
@@ -213,22 +213,22 @@ action and provokes an attack of opportunity unless noted otherwise.
 taken, the creature can apply it to a different one of its spell-like
 abilities.
 
-  ---------------------------------------- ------------------------- -------------------------
-  Empower and Quicken Spell-Like Ability                             
-  Spell Level                              Caster Level to Empower   Caster Level to Quicken
-  0                                        4th                       8th
-  1st                                      6th                       10th
-  2nd                                      8th                       12th
-  3rd                                      10th                      14th
-  4th                                      12th                      16th
-  5th                                      14th                      18th
-  6th                                      16th                      20th
-  7th                                      18th                      ---
-  8th                                      20th                      ---
-  9th                                      ---                       ---
-  ---------------------------------------- ------------------------- -------------------------
+|                                        |                         |                         |
+|----------------------------------------|-------------------------|-------------------------|
+| Empower and Quicken Spell-Like Ability |                         |                         |
+| Spell Level                            | Caster Level to Empower | Caster Level to Quicken |
+| 0                                      | 4th                     | 8th                     |
+| 1st                                    | 6th                     | 10th                    |
+| 2nd                                    | 8th                     | 12th                    |
+| 3rd                                    | 10th                    | 14th                    |
+| 4th                                    | 12th                    | 16th                    |
+| 5th                                    | 14th                    | 18th                    |
+| 6th                                    | 16th                    | 20th                    |
+| 7th                                    | 18th                    | —                       |
+| 8th                                    | 20th                    | —                       |
+| 9th                                    | —                       | —                       |
 
-## Snatch [\[General\]]{.small} {#snatch}
+## Snatch <span class="small">\[General\]</span>
 
 **Prerequisite:** Size Huge or larger.
 
@@ -236,8 +236,8 @@ abilities.
 with a claw or bite attack, as though it had the improved grab special
 attack. If the creature gets a hold on a creature three or more sizes
 smaller, it squeezes each round for automatic bite or claw damage. A
-snatched opponent held in the creature's mouth is not allowed a Reflex
-save against the creature's breath weapon, if it has one.
+snatched opponent held in the creature’s mouth is not allowed a Reflex
+save against the creature’s breath weapon, if it has one.
 
 The creature can drop a creature it has snatched as a free action or use
 a standard action to fling it aside. A flung creature travels 1d6 x 10
@@ -245,7 +245,7 @@ feet, and takes 1d6 points of damage per 10 feet traveled. If the
 creature flings a snatched opponent while flying, the opponent takes
 this amount or falling damage, whichever is greater.
 
-## Wingover [\[General\]]{.small} {#wingover}
+## Wingover <span class="small">\[General\]</span>
 
 **Prerequisite:** Fly speed.
 

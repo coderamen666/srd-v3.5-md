@@ -39,8 +39,8 @@ the terms of the Open Game License v1.0a.
 -   [Bane](#bane)
 -   [Banishment](#banishment)
 -   [Barkskin](#barkskin)
--   [Bear's Endurance](#bears-endurance)
--   [Bear's Endurance, Mass](#bears-endurance-mass)
+-   [Bear’s Endurance](#bears-endurance)
+-   [Bear’s Endurance, Mass](#bears-endurance-mass)
 -   [Bestow Curse](#bestow-curse)
 -   [Binding](#binding)
 -   [Black Tentacles](#black-tentacles)
@@ -54,8 +54,8 @@ the terms of the Open Game License v1.0a.
 -   [Blink](#blink)
 -   [Blur](#blur)
 -   [Break Enchantment](#break-enchantment)
--   [Bull's Strength](#bulls-strength)
--   [Bull's Strength, Mass](#bulls-strength-mass)
+-   [Bull’s Strength](#bulls-strength)
+-   [Bull’s Strength, Mass](#bulls-strength-mass)
 -   [Burning Hands](#burning-hands)
 
 ## Acid Arrow
@@ -77,7 +77,7 @@ caster levels (to a maximum of 18th), the acid, unless somehow
 neutralized, lasts for another round, dealing another 2d4 points of
 damage in that round.
 
-*Material Component:* Powdered rhubarb leaf and an adder's stomach.
+*Material Component:* Powdered rhubarb leaf and an adder’s stomach.
 
 *Focus:* A dart.
 
@@ -95,7 +95,7 @@ damage in that round.
 
 *Acid fog* creates a billowing mass of misty vapors similar to that
 produced by a *solid fog* spell. In addition to slowing creatures down
-and obscuring sight, this spell's vapors are highly acidic. Each round
+and obscuring sight, this spell’s vapors are highly acidic. Each round
 on your turn, starting when you cast the spell, the fog deals 2d6 points
 of acid damage to each creature and object within it.
 
@@ -150,7 +150,7 @@ level (to a maximum of 1d8+10 temporary hit points at caster level
 The subject can tread on air as if walking on solid ground. Moving
 upward is similar to walking up a hill. The maximum upward or downward
 angle possible is 45 degrees, at a rate equal to one-half the air
-walker's normal speed.
+walker’s normal speed.
 
 A strong wind (21+ mph) can push the subject along or hold it back. At
 the end of its turn each round, the wind blows the air walker 5 feet for
@@ -192,7 +192,7 @@ be mental or audible.
 
 *Mental Alarm:* A mental *alarm* alerts you (and only you) so long as
 you remain within 1 mile of the warded area. You note a single mental
-"ping" that awakens you from normal sleep but does not otherwise disturb
+“ping” that awakens you from normal sleep but does not otherwise disturb
 concentration. A *silence* spell has no effect on a mental *alarm*.
 
 *Audible Alarm:* An audible *alarm* produces the sound of a hand bell,
@@ -228,7 +228,7 @@ choose. A weapon that is aligned can bypass the damage reduction of
 certain creatures. This spell has no effect on a weapon that already has
 an alignment.
 
-You can't cast this spell on a natural weapon, such as an unarmed
+You can’t cast this spell on a natural weapon, such as an unarmed
 strike.
 
 When you make a weapon good, evil, lawful, or chaotic, *align weapon* is
@@ -286,15 +286,15 @@ so forth.
 You do not gain any supernatural special attacks, special qualities, or
 spell-like abilities of the new form. Your creature type and subtype (if
 any) remain the same regardless of your new form. You cannot take the
-form of any creature with a template, even if that template doesn't
+form of any creature with a template, even if that template doesn’t
 change the creature type or subtype.
 
-You can freely designate the new form's minor physical qualities (such
+You can freely designate the new form’s minor physical qualities (such
 as hair color, hair texture, and skin color) within the normal ranges
-for a creature of that kind. The new form's significant physical
+for a creature of that kind. The new form’s significant physical
 qualities (such as height, weight, and gender) are also under your
-control, but they must fall within the norms for the new form's kind.
-You are effectively disguised as an average member of the new form's
+control, but they must fall within the norms for the new form’s kind.
+You are effectively disguised as an average member of the new form’s
 race. If you use this spell to create a disguise, you get a +10 bonus on
 your Disguise check.
 
@@ -303,7 +303,7 @@ held by the new form (if it is capable of wearing or holding the item),
 or melds into the new form and becomes nonfunctional. When you revert to
 your true form, any objects previously melded into the new form reappear
 in the same location on your body they previously occupied and are once
-again functional. Any new items you wore in the assumed form and can't
+again functional. Any new items you wore in the assumed form and can’t
 wear in your normal form fall off and land at your feet; any that you
 could wear in either form or carry in a body part common to both forms
 at the time of reversion are still held in the same way. Any part of the
@@ -355,12 +355,12 @@ gemstone must be worth at least 1,500 gp.
 -   **Spell Resistance:** Yes
 
 A number of animals grow to twice their normal size and eight times
-their normal weight. This alteration changes each animal's size category
+their normal weight. This alteration changes each animal’s size category
 to the next largest, grants it a +8 size bonus to Strength and a +4 size
 bonus to Constitution (and thus an extra 2 hit points per HD), and
-imposes a --2 size penalty to Dexterity. The creature's existing natural
-armor bonus increases by 2. The size change also affects the animal's
-modifier to AC and attack rolls and its base damage. The animal's space
+imposes a –2 size penalty to Dexterity. The creature’s existing natural
+armor bonus increases by 2. The size change also affects the animal’s
+modifier to AC and attack rolls and its base damage. The animal’s space
 and reach change as appropriate to the new size, but its speed does not
 change.
 
@@ -369,14 +369,14 @@ resistance bonus on saving throws. If insufficient room is available for
 the desired growth, the creature attains the maximum possible size and
 may make a Strength check (using its increased Strength) to burst any
 enclosures in the process. If it fails, it is constrained without harm
-by the materials enclosing it--- the spell cannot be used to crush a
+by the materials enclosing it— the spell cannot be used to crush a
 creature by increasing its size.
 
 All equipment worn or carried by an animal is similarly enlarged by the
 spell, though this change has no effect on the magical properties of any
 such equipment.
 
-Any enlarged item that leaves the enlarged creature's possession
+Any enlarged item that leaves the enlarged creature’s possession
 instantly returns to its normal size.
 
 The spell gives no means of command or influence over the enlarged
@@ -405,7 +405,7 @@ Using some type of food desirable to the animal as a lure, you call the
 animal to you. It advances and awaits your bidding. You can mentally
 impress on the animal a certain place well known to you or an obvious
 landmark. The directions must be simple, because the animal depends on
-your knowledge and can't find a destination on its own. You can attach
+your knowledge and can’t find a destination on its own. You can attach
 some small item or note to the messenger. The animal then goes to the
 designated location and waits there until the duration of the spell
 expires, whereupon it resumes its normal activities.
@@ -413,7 +413,7 @@ expires, whereupon it resumes its normal activities.
 During this period of waiting, the messenger allows others to approach
 it and remove any scroll or token it carries. The intended recipient
 gains no special ability to communicate with the animal or read any
-attached message (if it's written in a language he or she doesn't know,
+attached message (if it’s written in a language he or she doesn’t know,
 for example).
 
 *Material Component:* A morsel of food the animal likes.
@@ -438,7 +438,7 @@ form. Recipients remain in the animal form until the spell expires or
 until you dismiss it for all recipients. In addition, an individual
 subject may choose to resume its normal form as a full-round action;
 doing so ends the spell for that subject alone. The maximum HD of an
-assumed form is equal to the subject's HD or your caster level,
+assumed form is equal to the subject’s HD or your caster level,
 whichever is lower, to a maximum of 20 HD at 20th level.
 
 ## Animal Trance
@@ -482,9 +482,9 @@ skeletons or zombies that follow your spoken commands.
 The undead can follow you, or they can remain in an area and attack any
 creature (or just a specific kind of creature) entering the place. They
 remain animated until they are destroyed. (A destroyed skeleton or
-zombie can't be animated again.)
+zombie can’t be animated again.)
 
-Regardless of the type of undead you create with this spell, you can't
+Regardless of the type of undead you create with this spell, you can’t
 create more HD of undead than twice your caster level with a single
 casting of *animate dead*. (The *desecrate* spell doubles this limit)
 
@@ -560,7 +560,7 @@ four, and a Colossal plant as eight. You can change the designated
 target or targets as a move action, as if directing an active spell.
 
 Use the statistics for animated objects, except that plants smaller than
-Large usually don't have hardness.
+Large usually don’t have hardness.
 
 *Animate plants* cannot affect plant creatures, nor does it affect
 nonliving vegetable material.
@@ -588,21 +588,21 @@ You can animate a nonliving ropelike object. The maximum length assumes
 a rope with a 1-inch diameter.
 
 Reduce the maximum length by 50% for every additional inch of thickness,
-and increase it by 50% for each reduction of the rope's diameter by
+and increase it by 50% for each reduction of the rope’s diameter by
 half.
 
-The possible commands are "coil" (form a neat, coiled stack), "coil and
-knot," "loop," "loop and knot," "tie and knot," and the opposites of all
-of the above ("uncoil," and so forth). You can give one command each
+The possible commands are “coil” (form a neat, coiled stack), “coil and
+knot,” “loop,” “loop and knot,” “tie and knot,” and the opposites of all
+of the above (“uncoil,” and so forth). You can give one command each
 round as a move action, as if directing an active spell.
 
-The rope can enwrap only a creature or an object within 1 foot of
-it---it does not snake outward---so it must be thrown near the intended
-target. Doing so requires a successful ranged touch attack roll (range
-increment 10 feet). A typical 1- inch-diameter hempen rope has 2 hit
-points, AC 10, and requires a DC 23 Strength check to burst it. The rope
-does not deal damage, but it can be used as a trip line or to cause a
-single opponent that fails a Reflex saving throw to become entangled. A
+The rope can enwrap only a creature or an object within 1 foot of it—it
+does not snake outward—so it must be thrown near the intended target.
+Doing so requires a successful ranged touch attack roll (range increment
+10 feet). A typical 1- inch-diameter hempen rope has 2 hit points, AC
+10, and requires a DC 23 Strength check to burst it. The rope does not
+deal damage, but it can be used as a trip line or to cause a single
+opponent that fails a Reflex saving throw to become entangled. A
 creature capable of spellcasting that is bound by this spell must make a
 DC 15 Concentration check to cast a spell. An entangled creature can
 slip free with a DC 20 Escape Artist check.
@@ -656,7 +656,7 @@ the functioning of any magic items or spells within its confines.
 
 An *antimagic field* suppresses any spell or magical effect used within,
 brought into, or cast into the area, but does not dispel it. Time spent
-within an *antimagic field* counts against the suppressed spell's
+within an *antimagic field* counts against the suppressed spell’s
 duration.
 
 Summoned creatures of any type and incorporeal undead wink out if they
@@ -665,7 +665,7 @@ field goes away. Time spent winked out counts normally against the
 duration of the conjuration that is maintaining the creature. If you
 cast *antimagic field* in an area occupied by a summoned creature that
 has spell resistance, you must make a caster level check (1d20 + caster
-level) against the creature's spell resistance to make it wink out. (The
+level) against the creature’s spell resistance to make it wink out. (The
 effects of instantaneous conjurationsare not affected by an *antimagic
 field* because the conjuration itself is no longer in effect, only its
 result.)
@@ -677,7 +677,7 @@ has no effect on golems and other constructs that are imbued with magic
 during their creation process and are thereafter self-supporting (unless
 they have been summoned, in which case they are treated like any other
 summoned creatures). Elementals, corporeal undead, and outsiders are
-likewise unaffected unless summoned. These creatures' spell-like or
+likewise unaffected unless summoned. These creatures’ spell-like or
 supernatural abilities, however, may be temporarily nullified by the
 field. *Dispel magic* does not remove the field.
 
@@ -717,7 +717,7 @@ A compulsion forces them to abandon the area or item, shunning it and
 never willingly returning to it while the spell is in effect. A creature
 that makes a successful saving throw can stay in the area or touch the
 item but feels uncomfortable doing so. This distracting discomfort
-reduces the creature's Dexterity score by 4 points.
+reduces the creature’s Dexterity score by 4 points.
 
 *Antipathy* counters and dispels *sympathy*.
 
@@ -764,7 +764,7 @@ you were there.
 
 The eye can travel in any direction as long as the spell lasts. Solid
 barriers block its passage, but it can pass through a hole or space as
-small as 1 inch in diameter. The eye can't enter another plane of
+small as 1 inch in diameter. The eye can’t enter another plane of
 existence, even through a *gate* or similar magical portal.
 
 You must concentrate to use an *arcane eye.* If you do not concentrate,
@@ -842,7 +842,7 @@ magic* spell, but *arcane sight* does not require concentration and
 discerns aura location and power more quickly.
 
 You know the location and power of all magical auras within your sight.
-An aura's power depends on a spell's functioning level or an item's
+An aura’s power depends on a spell’s functioning level or an item’s
 caster level, as noted in the description of the *detect magic* spell.
 If the items or creatures bearing the auras are in line of sight, you
 can make Spellcraft skill checks to determine the school of magic
@@ -867,7 +867,7 @@ This spell functions like *arcane sight,* except that you automatically
 know which spells or magical effects are active upon any individual or
 object you see.
 
-*Greater arcane sight* doesn't let you identify magic items.
+*Greater arcane sight* doesn’t let you identify magic items.
 
 Unlike *arcane sight*, this spell cannot be made permanent with a
 *permanency* spell.
@@ -944,7 +944,7 @@ act unwittingly or under some form of compulsion, *atonement* operates
 normally at no cost to you. However, in the case of a creature atoning
 for deliberate misdeeds and acts of a knowing and willful nature, you
 must intercede with your deity (requiring you to expend 500 XP) in order
-to expunge the subject's burden. Many casters first assign a subject of
+to expunge the subject’s burden. Many casters first assign a subject of
 this sort a quest (see *geas/quest*) or similar penance to determine
 whether the creature is truly contrite before casting the *atonement*
 spell on its behalf.
@@ -1018,11 +1018,11 @@ of four results:
 -   Weal (if the action will probably bring good results).
 -   Woe (for bad results).
 -   Weal and woe (for both).
--   Nothing (for actions that don't have especially good or bad
+-   Nothing (for actions that don’t have especially good or bad
     results).
 
-If the spell fails, you get the "nothing" result. A cleric who gets the
-"nothing" result has no way to tell whether it was the consequence of a
+If the spell fails, you get the “nothing” result. A cleric who gets the
+“nothing” result has no way to tell whether it was the consequence of a
 failed or successful *augury.*
 
 The *augury* can see into the future only about half an hour, so
@@ -1049,7 +1049,7 @@ gp value.
 -   **Spell Resistance:** Yes
 
 You awaken a tree or animal to humanlike sentience. To succeed, you must
-make a Will save (DC 10 + the animal's current HD, or the HD the tree
+make a Will save (DC 10 + the animal’s current HD, or the HD the tree
 will have once awakened).
 
 The *awakened* animal or tree is friendly toward you. You have no
@@ -1061,11 +1061,11 @@ An *awakened* tree has characteristics as if it were an animated object,
 except that it gains the plant type and its Intelligence, Wisdom, and
 Charisma scores are each 3d6. An *awakened* plant gains the ability to
 move its limbs, roots, vines, creepers, and so forth, and it has senses
-similar to a human's.
+similar to a human’s.
 
 An *awakened* animal gets 3d6 Intelligence, +1d3 Charisma, and +2 HD.
 Its type becomes magical beast (augmented animal). An awakened animal
-can't serve as an animal companion, familiar, or special mount.
+can’t serve as an animal companion, familiar, or special mount.
 
 An *awakened* tree or animal can speak one language that you know, plus
 one additional language that you know per point of Intelligence bonus
@@ -1097,7 +1097,7 @@ Intelligence, Wisdom, and Charisma scores of its new form in place of
 its own. It still retains its class and level (or HD), as well as all
 benefits deriving therefrom (such as base attack bonus, base save
 bonuses, and hit points). It retains any class features (other than
-spellcasting) that aren't extraordinary, supernatural, or spell-like
+spellcasting) that aren’t extraordinary, supernatural, or spell-like
 abilities.
 
 Incorporeal or gaseous creatures are immune to being *polymorphed*, and
@@ -1117,7 +1117,7 @@ as a standard action.
 -   **Spell Resistance:** Yes
 
 *Bane* fills your enemies with fear and doubt. Each affected creature
-takes a --1 penalty on attack rolls and a --1 penalty on saving throws
+takes a –1 penalty on attack rolls and a –1 penalty on saving throws
 against fear effects.
 
 *Bane* counters and dispels *bless*.
@@ -1140,10 +1140,10 @@ spell. It enables you to force extraplanar creatures out of your home
 plane. As many as 2 Hit Dice of creatures per caster level can be
 banished.
 
-You can improve the spell's chance of success by presenting at least one
+You can improve the spell’s chance of success by presenting at least one
 object or substance that the target hates, fears, or otherwise opposes.
 For each such object or substance, you gain a +1 bonus on your caster
-level check to overcome the target's spell resistance (if any), the
+level check to overcome the target’s spell resistance (if any), the
 saving throw DC increases by 2.
 
 Certain rare items might work twice as well as a normal item for the
@@ -1165,17 +1165,17 @@ see above).
 -   **Saving Throw:** None
 -   **Spell Resistance:** Yes (harmless)
 
-*Barkskin* toughens a creature's skin. The effect grants a +2
-enhancement bonus to the creature's existing natural armor bonus. This
+*Barkskin* toughens a creature’s skin. The effect grants a +2
+enhancement bonus to the creature’s existing natural armor bonus. This
 enhancement bonus increases by 1 for every three caster levels above
 3rd, to a maximum of +5 at caster level 12th.
 
-The enhancement bonus provided by *barkskin* stacks with the target's
+The enhancement bonus provided by *barkskin* stacks with the target’s
 natural armor bonus, but not with other enhancement bonuses to natural
 armor. A creature without natural armor has an effective natural armor
 bonus of +0.
 
-## Bear's Endurance
+## Bear’s Endurance
 
 -   Transmutation
 -   **Level:** Clr 2, Drd 2, Rgr 2, Sor/Wiz 2
@@ -1193,10 +1193,10 @@ the usual benefits to hit points, Fortitude saves, Constitution checks,
 and so forth.
 
 Hit points gained by a temporary increase in Constitution score are not
-temporary hit points. They go away when the subject's Constitution drops
+temporary hit points. They go away when the subject’s Constitution drops
 back to normal. They are not lost first as temporary hit points are.
 
-## Bear's Endurance, Mass
+## Bear’s Endurance, Mass
 
 -   Transmutation
 -   **Level:** Clr 6, Drd 6, Sor/Wiz 6
@@ -1204,7 +1204,7 @@ back to normal. They are not lost first as temporary hit points are.
 -   **Targets:** One creature/level, no two of which can be more than 30
     ft. apart
 
-*Mass bear 's endurance* works like *bear 's endurance*, except that it
+*Mass bear ’s endurance* works like *bear ’s endurance*, except that it
 affects multiple creatures.
 
 ## Bestow Curse
@@ -1222,9 +1222,8 @@ affects multiple creatures.
 You place a curse on the subject. Choose one of the following three
 effects.
 
--   --6 decrease to an ability score (minimum 1).
--   --4 penalty on attack rolls, saves, ability checks, and skill
-    checks.
+-   –6 decrease to an ability score (minimum 1).
+-   –4 penalty on attack rolls, saves, ability checks, and skill checks.
 -   Each turn, the target has a 50% chance to act normally; otherwise,
     it takes no action.
 
@@ -1258,10 +1257,10 @@ assistant who casts *suggestion*, your caster level for this casting of
 *binding* increases by 1. For each assistant who casts *dominate animal,
 dominate person,* or *dominate monster,* your caster level for this
 casting of *binding* increases by a number equal to one-third of that
-assistant's level, provided that the spell's target is appropriate for a
-*binding* spell. Since the assistants' spells are cast simply to improve
+assistant’s level, provided that the spell’s target is appropriate for a
+*binding* spell. Since the assistants’ spells are cast simply to improve
 your caster level for the purpose of the *binding* spell, saving throws
-and spell resistance against the assistants' spells are irrelevant. Your
+and spell resistance against the assistants’ spells are irrelevant. Your
 caster level determines whether the target gets an initial Will saving
 throw and how long the *binding* lasts. All *binding* spells are
 dismissible.
@@ -1270,17 +1269,17 @@ Regardless of the version of *binding* you cast, you can specify
 triggering conditions that end the spell and release the creature
 whenever they occur. These triggers can be as simple or elaborate as you
 desire, but the condition must be reasonable and have a likelihood of
-coming to pass. The conditions can be based on a creature's name,
+coming to pass. The conditions can be based on a creature’s name,
 identity, or alignment but otherwise must be based on observable actions
 or qualities. Intangibles such as level, class, Hit Dice, or hit points
-don't qualify. Once the spell is cast, its triggering conditions cannot
+don’t qualify. Once the spell is cast, its triggering conditions cannot
 be changed. Setting a release condition increases the save DC (assuming
 a saving throw is allowed) by 2.
 
 If you are casting any of the first three versions of *binding* (those
 with limited durations), you may cast additional *binding* spells to
 prolong the effect, since the durations overlap. If you do so, the
-target gets a saving throw at the end of the first spell's duration,
+target gets a saving throw at the end of the first spell’s duration,
 even if your caster level was high enough to disallow an initial saving
 throw. If the creature succeeds on this save, all the *binding* spells
 it has received are broken.
@@ -1298,7 +1297,7 @@ received the spell.
 long as one year per caster level. The subject does not need to eat or
 drink while *slumbering*, nor does it age. This form of *binding* is
 more difficult to cast than *chaining*, making it slightly easier to
-resist. Reduce the spell's save DC by 1.
+resist. Reduce the spell’s save DC by 1.
 
 *Bound Slumber:* This combination of *chaining* and *slumber* lasts for
 as long as one month per caster level. Reduce the save DC by 2.
@@ -1320,8 +1319,8 @@ even less and held within some gem, jar, or similar object. The
 *binding* is permanent. The subject does not need to breathe, eat, or
 drink while *contained*, nor does it age. Reduce the save DC by 4.
 
-You can't dispel a *binding* spell with *dispel magic* or a similar
-effect, though an *antimagic field* or *Mage's disjunction* affects it
+You can’t dispel a *binding* spell with *dispel magic* or a similar
+effect, though an *antimagic field* or *Mage’s disjunction* affects it
 normally. A bound extraplanar creature cannot be sent back to its home
 plane due to *dismissal, banishment,* or a similar effect.
 
@@ -1352,9 +1351,9 @@ the subject to be captured.
 
 This spell conjures a field of rubbery black tentacles, each 10 feet
 long. These waving members seem to spring forth from the earth, floor,
-or whatever surface is underfoot---including water. They grasp and
-entwine around creatures that enter the area, holding them fast and
-crushing them with great strength.
+or whatever surface is underfoot—including water. They grasp and entwine
+around creatures that enter the area, holding them fast and crushing
+them with great strength.
 
 Every creature within the area of the spell must make a grapple check,
 opposed by the grapple check of the tentacles. Treat the tentacles
@@ -1369,7 +1368,7 @@ tentacles continue to crush the opponent until the spell ends or the
 opponent escapes.
 
 Any creature that enters the area of the spell is immediately attacked
-by the tentacles. Even creatures who aren't grappling with the tentacles
+by the tentacles. Even creatures who aren’t grappling with the tentacles
 may move through the area at only half normal speed.
 
 *Material Component:* A piece of tentacle from a giant octopus or a
@@ -1418,13 +1417,13 @@ saves) against attacks made through it.
 Any nonevil creature within the area of a *blasphemy* spell suffers the
 following ill effects.
 
-  ------------------------- ------------------------------------
-  HD                        Effect
-  Equal to caster level     Dazed
-  Up to caster level --1    Weakened, dazed
-  Up to caster level --5    Paralyzed, weakened, dazed
-  Up to caster level --10   Killed, paralyzed, weakened, dazed
-  ------------------------- ------------------------------------
+|                        |                                    |
+|------------------------|------------------------------------|
+| HD                     | Effect                             |
+| Equal to caster level  | Dazed                              |
+| Up to caster level –1  | Weakened, dazed                    |
+| Up to caster level –5  | Paralyzed, weakened, dazed         |
+| Up to caster level –10 | Killed, paralyzed, weakened, dazed |
 
 The effects are cumulative and concurrent.
 
@@ -1433,7 +1432,7 @@ No saving throw is allowed against these effects.
 *Dazed:* The creature can take no actions for 1 round, though it defends
 itself normally.
 
-*Weakened:* The creature's Strength score decreases by 2d6 points for
+*Weakened:* The creature’s Strength score decreases by 2d6 points for
 2d4 rounds.
 
 *Paralyzed:* The creature is paralyzed and helpless for 1d10 minutes.
@@ -1445,7 +1444,7 @@ nonevil extraplanar creatures within the area are instantly banished
 back to their home planes. Creatures so banished cannot return for at
 least 24 hours. This effect takes place regardless of whether the
 creatures hear the *blasphemy.* The banishment effect allows a Will save
-(at a --4 penalty) to negate.
+(at a –4 penalty) to negate.
 
 Creatures whose Hit Dice exceed your caster level are unaffected by
 *blasphemy.*
@@ -1500,12 +1499,12 @@ energy, turning it into holy water.
 This transmutation makes a weapon strike true against evil foes. The
 weapon is treated as having a +1 enhancement bonus for the purpose of
 bypassing the damage reduction of evil creatures or striking evil
-incorporeal creatures (though the spell doesn't grant an actual
+incorporeal creatures (though the spell doesn’t grant an actual
 enhancement bonus). The weapon also becomes good, which means it can
 bypass the damage reduction of certain creatures. (This effect overrides
 and suppresses any other alignment the weapon might have.) Individual
 arrows or bolts can be transmuted, but affected projectile weapons (such
-as bows) don't confer the benefit to the projectiles they shoot.
+as bows) don’t confer the benefit to the projectiles they shoot.
 
 In addition, all critical hit rolls against evil foes are automatically
 successful, so every threat is a critical hit. This last effect does not
@@ -1525,12 +1524,12 @@ critical hits, such as a keen weapon or a vorpal sword.
 
 This spell withers a single plant of any size. An affected plant
 creature takes 1d6 points of damage per level (maximum 15d6) and may
-attempt a Fortitude saving throw for half damage. A plant that isn't a
-creature doesn't receive a save and immediately withers and dies.
+attempt a Fortitude saving throw for half damage. A plant that isn’t a
+creature doesn’t receive a save and immediately withers and dies.
 
 This spell has no effect on the soil or surrounding plant life.
 
-## Blindness/Deafness {#blindness-deafness}
+## Blindness/Deafness
 
 -   Necromancy
 -   **Level:** Brd 2, Clr 3, Sor/Wiz 2
@@ -1555,14 +1554,14 @@ deafened, as you choose.
 -   **Target:** You
 -   **Duration:** 1 round/level (D)
 
-You "blink" back and forth between the Material Plane and the Ethereal
-Plane. You look as though you're winking in and out of reality very
+You “blink” back and forth between the Material Plane and the Ethereal
+Plane. You look as though you’re winking in and out of reality very
 quickly and at random.
 
 *Blinking* has several effects, as follows.
 
 Physical attacks against you have a 50% miss chance, and the Blind-Fight
-feat doesn't help opponents, since you're ethereal and not merely
+feat doesn’t help opponents, since you’re ethereal and not merely
 invisible. If the attack is capable of striking ethereal creatures, the
 miss chance is only 20% (for concealment).
 
@@ -1573,7 +1572,7 @@ creatures, there is no miss chance.) Likewise, your own attacks have a
 to strike.
 
 Any individually targeted spell has a 50% chance to fail against you
-while you're *blinking* unless your attacker can target invisible,
+while you’re *blinking* unless your attacker can target invisible,
 ethereal creatures. Your own spells have a 20% chance to activate just
 as you go ethereal, in which case they typically do not affect the
 Material Plane.
@@ -1608,7 +1607,7 @@ are limited to 60 feet.
 
 Force effects and abjurations affect you normally. Their effects extend
 onto the Ethereal Plane from the Material Plane, but not vice versa. An
-ethereal creature can't attack material creatures, and spells you cast
+ethereal creature can’t attack material creatures, and spells you cast
 while ethereal affect only other ethereal things. Certain material
 creatures or objects have attacks or effects that work on the Ethereal
 Plane. Treat other ethereal creatures and objects as material.
@@ -1625,13 +1624,13 @@ Plane. Treat other ethereal creatures and objects as material.
 -   **Saving Throw:** Will negates (harmless)
 -   **Spell Resistance:** Yes (harmless)
 
-The subject's outline appears blurred, shifting and wavering. This
+The subject’s outline appears blurred, shifting and wavering. This
 distortion grants the subject concealment (20% miss chance).
 
 A *see invisibility* spell does not counteract the *blur* effect, but a
 *true seeing* spell does.
 
-Opponents that cannot see the subject ignore the spell's effect (though
+Opponents that cannot see the subject ignore the spell’s effect (though
 fighting an unseen opponent carries penalties of its own).
 
 ## Break Enchantment
@@ -1659,9 +1658,9 @@ enchantment* works only if that spell is 5th level or lower.
 
 If the effect comes from some permanent magic item *break enchantment*
 does not remove the curse from the item, but it does frees the victim
-from the item's effects.
+from the item’s effects.
 
-## Bull's Strength
+## Bull’s Strength
 
 -   Transmutation
 -   **Level:** Clr 2, Drd 2, Pal 2, Sor/Wiz 2, Strength 2
@@ -1680,7 +1679,7 @@ rolls, and other uses of the Strength modifier.
 *Arcane Material Component:* A few hairs, or a pinch of dung, from a
 bull.
 
-## Bull's Strength, Mass
+## Bull’s Strength, Mass
 
 -   Transmutation
 -   **Level:** Clr 6, Drd 6, Sor/Wiz 6
@@ -1688,7 +1687,7 @@ bull.
 -   **Targets:** One creature/level, no two of which can be more than 30
     ft. apart
 
-This spell functions like *bull's strength*, except that it affects
+This spell functions like *bull’s strength*, except that it affects
 multiple creatures.
 
 ## Burning Hands

@@ -4,9 +4,9 @@ the terms of the Open Game License v1.0a.
 # EQUIPMENT
 
 Assume a character owns at least one outfit of normal clothes. Pick any
-one of the following clothing outfits: artisan's outfit, entertainer's
-outfit, explorer's outfit, monk's outfit, peasant's outfit, scholar's
-outfit, or traveler's outfit.
+one of the following clothing outfits: artisan’s outfit, entertainer’s
+outfit, explorer’s outfit, monk’s outfit, peasant’s outfit, scholar’s
+outfit, or traveler’s outfit.
 
 ## Table of Contents
 
@@ -46,47 +46,47 @@ pieces (pp), which are each worth 10 gp.
 
 The standard coin weighs about a third of an ounce (fifty to the pound).
 
-  ----------------------- ------------------------------------------------------------------------------------------------------------------------------------------ ------ ------- ---------
-                                                                                          []{style="                                                                                
-                                                                                               display: block;                                                                      
-                                                                                             position: absolute;                                                                    
-                                                                                                  right: 0;                                                                         
-                                                                                                  top: 50%;                                                                         
-                                                                                                  left: 0px;                                                                        
-                                                                                     border-top: 1px solid currentColor;                                                            
-                                         "}[Exchange Value ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                 
-                                                                                              CP                                                                       SP     GP       PP
-  Copper piece (cp) =                                                                         1                                                                       1/10   1/100   1/1,000
-  Silver piece (sp) =                                                                         10                                                                       1     1/10     1/100
-  Gold piece (gp) =                                                                          100                                                                       10      1      1/10
-  Platinum piece (pp) =                                                                     1,000                                                                     100     10        1
-  ----------------------- ------------------------------------------------------------------------------------------------------------------------------------------ ------ ------- ---------
+|                       |                                                                                                                                                           |      |       |         |
+|-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:-----:|:-------:|
+|                       |                                                                       <span style="                                                                       
+                                                                                                       display: block;                                                              
+                                                                                                     position: absolute;                                                            
+                                                                                                          right: 0;                                                                 
+                                                                                                          top: 50%;                                                                 
+                                                                                                         left: 0px;                                                                 
+                                                                                             border-top: 1px solid currentColor;                                                    
+                                       "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Exchange Value </span>  |      |       |         |
+|                       |                                                                            CP                                                                             |  SP  |  GP   |   PP    |
+| Copper piece (cp) =   |                                                                             1                                                                             | 1/10 | 1/100 | 1/1,000 |
+| Silver piece (sp) =   |                                                                            10                                                                             |  1   | 1/10  |  1/100  |
+| Gold piece (gp) =     |                                                                            100                                                                            |  10  |   1   |  1/10   |
+| Platinum piece (pp) = |                                                                           1,000                                                                           | 100  |  10   |    1    |
 
-  : Table: Coins
+Table: Coins
 
 ### Wealth Other Than Coins
 
 Merchants commonly exchange trade goods without using currency. As a
 means of comparison, some trade goods are detailed below.
 
-  -------- ---------------------------------------------
-  Cost     Item
-  1 cp     One pound of wheat
-  2 cp     One pound of flour, or one chicken
-  1 sp     One pound of iron
-  5 sp     One pound of tobacco or copper
-  1 gp     One pound of cinnamon, or one goat
-  2 gp     One pound of ginger or pepper, or one sheep
-  3 gp     One pig
-  4 gp     One square yard of linen
-  5 gp     One pound of salt or silver
-  10 gp    One square yard of silk, or one cow
-  15 gp    One pound of saffron or cloves, or one ox
-  50 gp    One pound of gold
-  500 gp   One pound of platinum
-  -------- ---------------------------------------------
+|        |                                             |
+|--------|---------------------------------------------|
+| Cost   | Item                                        |
+| 1 cp   | One pound of wheat                          |
+| 2 cp   | One pound of flour, or one chicken          |
+| 1 sp   | One pound of iron                           |
+| 5 sp   | One pound of tobacco or copper              |
+| 1 gp   | One pound of cinnamon, or one goat          |
+| 2 gp   | One pound of ginger or pepper, or one sheep |
+| 3 gp   | One pig                                     |
+| 4 gp   | One square yard of linen                    |
+| 5 gp   | One pound of salt or silver                 |
+| 10 gp  | One square yard of silk, or one cow         |
+| 15 gp  | One pound of saffron or cloves, or one ox   |
+| 50 gp  | One pound of gold                           |
+| 500 gp | One pound of platinum                       |
 
-  : Table: Trade Goods
+Table: Trade Goods
 
 ### Selling Loot
 
@@ -103,7 +103,7 @@ it were cash itself.
 Weapons are grouped into several interlocking sets of categories.
 
 These categories pertain to what training is needed to become proficient
-in a weapon's use (simple, martial, or exotic), the weapon's usefulness
+in a weapon’s use (simple, martial, or exotic), the weapon’s usefulness
 either in close combat (melee) or at a distance (ranged, which includes
 both thrown and projectile weapons), its relative encumbrance (light,
 one-handed, or two-handed), and its size (Small, Medium, or Large).
@@ -114,7 +114,7 @@ fighters, paladins, and rangers are proficient with all simple and all
 martial weapons. Characters of other classes are proficient with an
 assortment of mainly simple weapons and possibly also some martial or
 even exotic weapons. A character who uses a weapon with which he or she
-is not proficient takes a --4 penalty on attack rolls.
+is not proficient takes a –4 penalty on attack rolls.
 
 **Melee and Ranged Weapons:** Melee weapons are used for making melee
 attacks, though some of them can be thrown as well. Ranged weapons are
@@ -122,8 +122,8 @@ thrown weapons or projectile weapons that are not effective in melee.
 
 *Reach Weapons:* Glaives, guisarmes, lances, longspears, ranseurs,
 spiked chains, and whips are reach weapons. A reach weapon is a melee
-weapon that allows its wielder to strike at targets that aren't adjacent
-to him or her. Most reach double the wielder's natural reach, meaning
+weapon that allows its wielder to strike at targets that aren’t adjacent
+to him or her. Most reach double the wielder’s natural reach, meaning
 that a typical Small or Medium wielder of such a weapon can attack a
 creature 10 feet away, but not a creature in an adjacent square. A
 typical Large character wielding a reach weapon of the appropriate size
@@ -139,16 +139,16 @@ character were wielding a one-handed weapon and a light weapon.
 
 The character can also choose to use a double weapon two handed,
 attacking with only one end of it. A creature wielding a double weapon
-in one hand can't use it as a double weapon---only one end of the weapon
+in one hand can’t use it as a double weapon—only one end of the weapon
 can be used in any given round.
 
 *Thrown Weapons:* Daggers, clubs, shortspears, spears, darts, javelins,
 throwing axes, light hammers, tridents, shuriken, and nets are thrown
 weapons. The wielder applies his or her Strength modifier to damage
 dealt by thrown weapons (except for splash weapons). It is possible to
-throw a weapon that isn't designed to be thrown (that is, a melee weapon
-that doesn't have a numeric entry in the Range Increment column on
-Table: Weapons), but a character who does so takes a --4 penalty on the
+throw a weapon that isn’t designed to be thrown (that is, a melee weapon
+that doesn’t have a numeric entry in the Range Increment column on
+Table: Weapons), but a character who does so takes a –4 penalty on the
 attack roll. Throwing a light or one-handed weapon is a standard action,
 while throwing a two-handed weapon is a full-round action. Regardless of
 the type of weapon, such an attack scores a threat only on a natural
@@ -160,7 +160,7 @@ shortbows, composite shortbows, longbows, composite longbows, hand
 crossbows, and repeating crossbows are projectile weapons. Most
 projectile weapons require two hands to use (see specific weapon
 descriptions). A character gets no Strength bonus on damage rolls with a
-projectile weapon unless it's a specially built composite shortbow,
+projectile weapon unless it’s a specially built composite shortbow,
 specially built composite longbow, or sling. If the character has a
 penalty for low Strength, apply it to damage rolls when he or she uses a
 bow or a sling.
@@ -180,60 +180,60 @@ after they are thrown.
 **Light, One-Handed, and Two-Handed Melee Weapons:** This designation is
 a measure of how much effort it takes to wield a weapon in combat. It
 indicates whether a melee weapon, when wielded by a character of the
-weapon's size category, is considered a light weapon, a one-handed
+weapon’s size category, is considered a light weapon, a one-handed
 weapon, or a two-handed weapon.
 
-*Light:* A light weapon is easier to use in one's off hand than a
+*Light:* A light weapon is easier to use in one’s off hand than a
 one-handed weapon is, and it can be used while grappling. A light weapon
-is used in one hand. Add the wielder's Strength bonus (if any) to damage
-rolls for melee attacks with a light weapon if it's used in the primary
-hand, or one-half the wielder's Strength bonus if it's used in the off
+is used in one hand. Add the wielder’s Strength bonus (if any) to damage
+rolls for melee attacks with a light weapon if it’s used in the primary
+hand, or one-half the wielder’s Strength bonus if it’s used in the off
 hand. Using two hands to wield a light weapon gives no advantage on
 damage; the Strength bonus applies as though the weapon were held in the
-wielder's primary hand only.
+wielder’s primary hand only.
 
 An unarmed strike is always considered a light weapon.
 
 *One-Handed:* A one-handed weapon can be used in either the primary hand
-or the off hand. Add the wielder's Strength bonus to damage rolls for
-melee attacks with a one-handed weapon if it's used in the primary hand,
-or 1/2 his or her Strength bonus if it's used in the off hand. If a
+or the off hand. Add the wielder’s Strength bonus to damage rolls for
+melee attacks with a one-handed weapon if it’s used in the primary hand,
+or 1/2 his or her Strength bonus if it’s used in the off hand. If a
 one-handed weapon is wielded with two hands during melee combat, add
-1-1/2 times the character's Strength bonus to damage rolls.
+1-1/2 times the character’s Strength bonus to damage rolls.
 
 *Two-Handed:* Two hands are required to use a two-handed melee weapon
-effectively. Apply 1-1/2 times the character's Strength bonus to damage
+effectively. Apply 1-1/2 times the character’s Strength bonus to damage
 rolls for melee attacks with such a weapon.
 
 **Weapon Size:** Every weapon has a size category. This designation
 indicates the size of the creature for which the weapon was designed.
 
-A weapon's size category isn't the same as its size as an object.
-Instead, a weapon's size category is keyed to the size of the intended
+A weapon’s size category isn’t the same as its size as an object.
+Instead, a weapon’s size category is keyed to the size of the intended
 wielder. In general, a light weapon is an object two size categories
 smaller than the wielder, a one-handed weapon is an object one size
 category smaller than the wielder, and a two-handed weapon is an object
 of the same size category as the wielder.
 
-*Inappropriately Sized Weapons:* A creature can't make optimum use of a
-weapon that isn't properly sized for it. A cumulative --2 penalty
-applies on attack rolls for each size category of difference between the
-size of its intended wielder and the size of its actual wielder. If the
-creature isn't proficient with the weapon a --4 nonproficiency penalty
-also applies.
+*Inappropriately Sized Weapons:* A creature can’t make optimum use of a
+weapon that isn’t properly sized for it. A cumulative –2 penalty applies
+on attack rolls for each size category of difference between the size of
+its intended wielder and the size of its actual wielder. If the creature
+isn’t proficient with the weapon a –4 nonproficiency penalty also
+applies.
 
 The measure of how much effort it takes to use a weapon (whether the
 weapon is designated as a light, one-handed, or two-handed weapon for a
 particular wielder) is altered by one step for each size category of
-difference between the wielder's size and the size of the creature for
-which the weapon was designed. If a weapon's designation would be
+difference between the wielder’s size and the size of the creature for
+which the weapon was designed. If a weapon’s designation would be
 changed to something other than light, one-handed, or two-handed by this
-alteration, the creature can't wield the weapon at all.
+alteration, the creature can’t wield the weapon at all.
 
 **Improvised Weapons:** Sometimes objects not crafted to be weapons
 nonetheless see use in combat. Because such objects are not designed for
 this use, any creature that uses one in combat is considered to be
-nonproficient with it and takes a --4 penalty on attack rolls made with
+nonproficient with it and takes a –4 penalty on attack rolls made with
 that object. To determine the size category and appropriate damage for
 an improvised weapon, compare its relative size and damage potential to
 the weapon list to find a reasonable match. An improvised weapon scores
@@ -245,7 +245,7 @@ hit. An improvised thrown weapon has a range increment of 10 feet.
 Here is the format for weapon entries (given as column headings on
 Table: Weapons, below).
 
-**Cost:** This value is the weapon's cost in gold pieces (gp) or silver
+**Cost:** This value is the weapon’s cost in gold pieces (gp) or silver
 pieces (sp). The cost includes miscellaneous gear that goes with the
 weapon.
 
@@ -253,28 +253,28 @@ This cost is the same for a Small or Medium version of the weapon. A
 Large version costs twice the listed price.
 
 **Damage:** The Damage columns give the damage dealt by the weapon on a
-successful hit. The column labeled "Dmg (S)" is for Small weapons. The
-column labeled "Dmg (M)" is for Medium weapons. If two damage ranges are
+successful hit. The column labeled “Dmg (S)” is for Small weapons. The
+column labeled “Dmg (M)” is for Medium weapons. If two damage ranges are
 given then the weapon is a double weapon. Use the second damage figure
-given for the double weapon's extra attack. Table: Tiny and Large Weapon
+given for the double weapon’s extra attack. Table: Tiny and Large Weapon
 Damage gives weapon damage values for weapons of those sizes.
 
-  ---------------------- -------------------- ---------------------
-  Medium Weapon Damage   Tiny Weapon Damage   Large Weapon Damage
-  1d2                    ---                  1d3
-  1d3                    1                    1d4
-  1d4                    1d2                  1d6
-  1d6                    1d3                  1d8
-  1d8                    1d4                  2d6
-  1d10                   1d6                  2d8
-  1d12                   1d8                  3d6
-  2d4                    1d4                  2d6
-  2d6                    1d8                  3d6
-  2d8                    1d10                 3d8
-  2d10                   2d6                  4d8
-  ---------------------- -------------------- ---------------------
+|                      |                    |                     |
+|----------------------|--------------------|---------------------|
+| Medium Weapon Damage | Tiny Weapon Damage | Large Weapon Damage |
+| 1d2                  | —                  | 1d3                 |
+| 1d3                  | 1                  | 1d4                 |
+| 1d4                  | 1d2                | 1d6                 |
+| 1d6                  | 1d3                | 1d8                 |
+| 1d8                  | 1d4                | 2d6                 |
+| 1d10                 | 1d6                | 2d8                 |
+| 1d12                 | 1d8                | 3d6                 |
+| 2d4                  | 1d4                | 2d6                 |
+| 2d6                  | 1d8                | 3d6                 |
+| 2d8                  | 1d10               | 3d8                 |
+| 2d10                 | 2d6                | 4d8                 |
 
-  : Table: Tiny and Large Weapon Damage
+Table: Tiny and Large Weapon Damage
 
 **Critical:** The entry in this column notes how the weapon is used with
 the rules for critical hits. When your character scores a critical hit,
@@ -282,7 +282,7 @@ roll the damage two, three, or four times, as indicated by its critical
 multiplier (using all applicable modifiers on each roll), and add all
 the results together.
 
-*Exception:* Extra damage over and above a weapon's normal damage is not
+*Exception:* Extra damage over and above a weapon’s normal damage is not
 multiplied when you score a critical hit.
 
 *x2:* The weapon deals double damage on a critical hit.
@@ -294,17 +294,17 @@ critical hit. The other head deals quadruple damage on a critical hit.
 
 *x4:* The weapon deals quadruple damage on a critical hit.
 
-*19--20/x2:* The weapon scores a threat on a natural roll of 19 or 20
+*19–20/x2:* The weapon scores a threat on a natural roll of 19 or 20
 (instead of just 20) and deals double damage on a critical hit. (The
-weapon has a threat range of 19--20.)
+weapon has a threat range of 19–20.)
 
-*18--20/x2:* The weapon scores a threat on a natural roll of 18, 19, or
+*18–20/x2:* The weapon scores a threat on a natural roll of 18, 19, or
 20 (instead of just 20) and deals double damage on a critical hit. (The
-weapon has a threat range of 18--20.)
+weapon has a threat range of 18–20.)
 
 **Range Increment:** Any attack at less than this distance is not
 penalized for range. However, each full range increment imposes a
-cumulative --2 penalty on the attack roll. A thrown weapon has a maximum
+cumulative –2 penalty on the attack roll. A thrown weapon has a maximum
 range of five range increments. A projectile weapon can shoot out to ten
 range increments.
 
@@ -330,1195 +330,1143 @@ descriptions for details.
 
 ### Weapon Descriptions
 
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| S     | Cost  | Dmg   | Dmg   | Cri   |       | Range | Weig  | Ty    |
-| imple |       | (S)   | (M)   | tical |       | Incr  | ht^1^ | pe^2^ |
-| We    |       |       |       |       |       | ement |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Un    |       |       |       |       |       |       |       |       |
-| armed |       |       |       |       |       |       |       |       |
-| At    |       |       |       |       |       |       |       |       |
-| tacks |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 2 gp  | 1d2   | 1d3   | x2    |       | ---   | 1 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Gau   |       |       |       |       |       |       |       |       |
-| ntlet |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | ---   | 1     | 1     | x2    |       | ---   | ---   | B     |
-|  {sty |       | d2^3^ | d3^3^ |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Un    |       |       |       |       |       |       |       |       |
-| armed |       |       |       |       |       |       |       |       |
-| s     |       |       |       |       |       |       |       |       |
-| trike |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Light |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 2 gp  | 1d3   | 1d4   | 19--  |       | 10    | 1 lb. | Pie   |
-|  {sty |       |       |       | 20/x2 |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       | or    |
-| argin |       |       |       |       |       |       |       | sla   |
-| -left |       |       |       |       |       |       |       | shing |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| D     |       |       |       |       |       |       |       |       |
-| agger |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 2 gp  | 1d3   | 1d4   | x3    |       | ---   | 1 lb. | Pie   |
-|  {sty |       |       |       |       |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Da    |       |       |       |       |       |       |       |       |
-| gger, |       |       |       |       |       |       |       |       |
-| pun   |       |       |       |       |       |       |       |       |
-| ching |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 5 gp  | 1d3   | 1d4   | x2    |       | ---   | 1 lb. | Pie   |
-|  {sty |       |       |       |       |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Gaun  |       |       |       |       |       |       |       |       |
-| tlet, |       |       |       |       |       |       |       |       |
-| s     |       |       |       |       |       |       |       |       |
-| piked |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 5 gp  | 1d4   | 1d6   | x2    |       | ---   | 4 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Mace, |       |       |       |       |       |       |       |       |
-| light |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 6 gp  | 1d4   | 1d6   | x2    |       | ---   | 2 lb. | Sla   |
-|  {sty |       |       |       |       |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| ickle |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| One-H |       |       |       |       |       |       |       |       |
-| anded |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | ---   | 1d4   | 1d6   | x2    |       | 10    | 3 lb. | B     |
-|  {sty |       |       |       |       |       | ft.   |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Club  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 12 gp | 1d6   | 1d8   | x2    |       | ---   | 8 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Mace, |       |       |       |       |       |       |       |       |
-| heavy |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 8 gp  | 1d6   | 1d8   | x2    |       | ---   | 6 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       | and   |
-| -left |       |       |       |       |       |       |       | pie   |
-| : 0.3 |       |       |       |       |       |       |       | rcing |
-| 6em"} |       |       |       |       |       |       |       |       |
-| M     |       |       |       |       |       |       |       |       |
-| ornin |       |       |       |       |       |       |       |       |
-| gstar |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | 1d4   | 1d6   | x2    |       | 20    | 3 lb. | Pie   |
-|  {sty |       |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Short |       |       |       |       |       |       |       |       |
-| spear |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Two-H |       |       |       |       |       |       |       |       |
-| anded |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 5 gp  | 1d6   | 1d8   | x3    |       | ---   | 9 lb. | Pie   |
-|  {sty |       |       |       |       |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Lo    |       |       |       |       |       |       |       |       |
-| ngspe |       |       |       |       |       |       |       |       |
-| ar^4^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | ---   | 1d    | 1d    | x2    |       | ---   | 4 lb. | B     |
-|  {sty |       | 4/1d4 | 6/1d6 |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Quart |       |       |       |       |       |       |       |       |
-| ersta |       |       |       |       |       |       |       |       |
-| ff^5^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 2 gp  | 1d6   | 1d8   | x3    |       | 20    | 6 lb. | Pie   |
-|  {sty |       |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Spear |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| R     |       |       |       |       |       |       |       |       |
-| anged |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 50 gp | 1d8   | 1d10  | 19--  |       | 120   | 8 lb. | Pie   |
-|  {sty |       |       |       | 20/x2 |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Cros  |       |       |       |       |       |       |       |       |
-| sbow, |       |       |       |       |       |       |       |       |
-| heavy |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   | ---   |       | ---   | 1 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| B     |       |       |       |       |       |       |       |       |
-| olts, |       |       |       |       |       |       |       |       |
-| cro   |       |       |       |       |       |       |       |       |
-| ssbow |       |       |       |       |       |       |       |       |
-| (10)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 35 gp | 1d6   | 1d8   | 19--  |       | 80    | 4 lb. | Pie   |
-|  {sty |       |       |       | 20/x2 |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Cros  |       |       |       |       |       |       |       |       |
-| sbow, |       |       |       |       |       |       |       |       |
-| light |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   | ---   |       | ---   | 1 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| B     |       |       |       |       |       |       |       |       |
-| olts, |       |       |       |       |       |       |       |       |
-| cro   |       |       |       |       |       |       |       |       |
-| ssbow |       |       |       |       |       |       |       |       |
-| (10)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 5 sp  | 1d3   | 1d4   | x2    |       | 20    | 1/2   | Pie   |
-|  {sty |       |       |       |       |       | ft.   | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Dart  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | 1d4   | 1d6   | x2    |       | 30    | 2 lb. | Pie   |
-|  {sty |       |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Ja    |       |       |       |       |       |       |       |       |
-| velin |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | ---   | 1d3   | 1d4   | x2    |       | 50    | 0 lb. | B     |
-|  {sty |       |       |       |       |       | ft.   |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sling |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 sp  | ---   | ---   | ---   |       | ---   | 5 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Bul   |       |       |       |       |       |       |       |       |
-| lets, |       |       |       |       |       |       |       |       |
-| sling |       |       |       |       |       |       |       |       |
-| (10)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Ma    | Cost  | Dmg   | Dmg   | Cri   |       | Range | We    | Ty    |
-| rtial |       | (S)   | (M)   | tical |       | Incr  | ight1 | pe^2^ |
-| We    |       |       |       |       |       | ement |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Light |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 8 gp  | 1d4   | 1d6   | x2    |       | 10    | 2 lb. | Sla   |
-|  {sty |       |       |       |       |       | ft.   |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Axe,  |       |       |       |       |       |       |       |       |
-| thr   |       |       |       |       |       |       |       |       |
-| owing |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | 1d3   | 1d4   | x2    |       | 20    | 2 lb. | B     |
-|  {sty |       |       |       |       |       | ft.   |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Ha    |       |       |       |       |       |       |       |       |
-| mmer, |       |       |       |       |       |       |       |       |
-| light |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 6 gp  | 1d4   | 1d6   | x3    |       | ---   | 3 lb. | Sla   |
-|  {sty |       |       |       |       |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Ha    |       |       |       |       |       |       |       |       |
-| ndaxe |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 8 gp  | 1d3   | 1d4   | 18--  |       | ---   | 2 lb. | Sla   |
-|  {sty |       |       |       | 20/x2 |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Kukri |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 4 gp  | 1d3   | 1d4   | x4    |       | ---   | 3 lb. | Pie   |
-|  {sty |       |       |       |       |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Pick, |       |       |       |       |       |       |       |       |
-| light |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | 1     | 1     | x2    |       | ---   | 2 lb. | B     |
-|  {sty |       | d4^3^ | d6^3^ |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sap   |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | sp    | 1d2   | 1d3   | x2    |       | ---   | sp    | B     |
-|  {sty | ecial |       |       |       |       |       | ecial | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sh    |       |       |       |       |       |       |       |       |
-| ield, |       |       |       |       |       |       |       |       |
-| light |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | sp    | 1d4   | 1d6   | x2    |       | ---   | sp    | Pie   |
-|  {sty | ecial |       |       |       |       |       | ecial | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| piked |       |       |       |       |       |       |       |       |
-| armor |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | sp    | 1d3   | 1d4   | x2    |       | ---   | sp    | Pie   |
-|  {sty | ecial |       |       |       |       |       | ecial | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| piked |       |       |       |       |       |       |       |       |
-| sh    |       |       |       |       |       |       |       |       |
-| ield, |       |       |       |       |       |       |       |       |
-| light |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 10 gp | 1d4   | 1d6   | 19--  |       | ---   | 2 lb. | Pie   |
-|  {sty |       |       |       | 20/x2 |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| word, |       |       |       |       |       |       |       |       |
-| short |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| One-H |       |       |       |       |       |       |       |       |
-| anded |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 10 gp | 1d6   | 1d8   | x3    |       | ---   | 6 lb. | Sla   |
-|  {sty |       |       |       |       |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Batt  |       |       |       |       |       |       |       |       |
-| leaxe |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 8 gp  | 1d6   | 1d8   | x2    |       | ---   | 5 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Flail |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 15 gp | 1d6   | 1d8   | 19--  |       | ---   | 4 lb. | Sla   |
-|  {sty |       |       |       | 20/x2 |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Long  |       |       |       |       |       |       |       |       |
-| sword |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 8 gp  | 1d4   | 1d6   | x4    |       | ---   | 6 lb. | Pie   |
-|  {sty |       |       |       |       |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Pick, |       |       |       |       |       |       |       |       |
-| heavy |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 20 gp | 1d4   | 1d6   | 18--  |       | ---   | 2 lb. | Pie   |
-|  {sty |       |       |       | 20/x2 |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| R     |       |       |       |       |       |       |       |       |
-| apier |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 15 gp | 1d4   | 1d6   | 18--  |       | ---   | 4 lb. | Sla   |
-|  {sty |       |       |       | 20/x2 |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sci   |       |       |       |       |       |       |       |       |
-| mitar |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | sp    | 1d3   | 1d4   | x2    |       | ---   | sp    | B     |
-|  {sty | ecial |       |       |       |       |       | ecial | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sh    |       |       |       |       |       |       |       |       |
-| ield, |       |       |       |       |       |       |       |       |
-| heavy |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | sp    | 1d4   | 1d6   | x2    |       | ---   | sp    | Pie   |
-|  {sty | ecial |       |       |       |       |       | ecial | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| piked |       |       |       |       |       |       |       |       |
-| sh    |       |       |       |       |       |       |       |       |
-| ield, |       |       |       |       |       |       |       |       |
-| heavy |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 15 gp | 1d6   | 1d8   | x2    |       | 10    | 4 lb. | Pie   |
-|  {sty |       |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Tr    |       |       |       |       |       |       |       |       |
-| ident |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 12 gp | 1d6   | 1d8   | x3    |       | ---   | 5 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Warh  |       |       |       |       |       |       |       |       |
-| ammer |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Two-H |       |       |       |       |       |       |       |       |
-| anded |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 75 gp | 1d6   | 2d4   | 18--  |       | ---   | 8 lb. | Sla   |
-|  {sty |       |       |       | 20/x2 |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Fal   |       |       |       |       |       |       |       |       |
-| chion |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 8 gp  | 1d8   | 1d10  | x3    |       | ---   | 10    | Sla   |
-|  {sty |       |       |       |       |       |       | lb.   | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Glai  |       |       |       |       |       |       |       |       |
-| ve^4^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 20 gp | 1d10  | 1d12  | x3    |       | ---   | 12    | Sla   |
-|  {sty |       |       |       |       |       |       | lb.   | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Gre   |       |       |       |       |       |       |       |       |
-| ataxe |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 5 gp  | 1d8   | 1d10  | x2    |       | ---   | 8 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Grea  |       |       |       |       |       |       |       |       |
-| tclub |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 15 gp | 1d8   | 1d10  | 19--  |       | ---   | 10    | B     |
-|  {sty |       |       |       | 20/x2 |       |       | lb.   | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| F     |       |       |       |       |       |       |       |       |
-| lail, |       |       |       |       |       |       |       |       |
-| heavy |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 50 gp | 1d10  | 2d6   | 19--  |       | ---   | 8 lb. | Sla   |
-|  {sty |       |       |       | 20/x2 |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Great |       |       |       |       |       |       |       |       |
-| sword |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 9 gp  | 1d6   | 2d4   | x3    |       | ---   | 12    | Sla   |
-|  {sty |       |       |       |       |       |       | lb.   | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| G     |       |       |       |       |       |       |       |       |
-| uisar |       |       |       |       |       |       |       |       |
-| me^4^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 10 gp | 1d8   | 1d10  | x3    |       | ---   | 12    | Pie   |
-|  {sty |       |       |       |       |       |       | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       | or    |
-| argin |       |       |       |       |       |       |       | sla   |
-| -left |       |       |       |       |       |       |       | shing |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Ha    |       |       |       |       |       |       |       |       |
-| lberd |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 10 gp | 1d6   | 1d8   | x3    |       | ---   | 10    | Pie   |
-|  {sty |       |       |       |       |       |       | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Lan   |       |       |       |       |       |       |       |       |
-| ce^4^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 10 gp | 1d6   | 2d4   | x3    |       | ---   | 12    | Pie   |
-|  {sty |       |       |       |       |       |       | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Ranse |       |       |       |       |       |       |       |       |
-| ur^4^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 18 gp | 1d6   | 2d4   | x4    |       | ---   | 10    | Pie   |
-|  {sty |       |       |       |       |       |       | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       | or    |
-| argin |       |       |       |       |       |       |       | sla   |
-| -left |       |       |       |       |       |       |       | shing |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| cythe |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| R     |       |       |       |       |       |       |       |       |
-| anged |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 75 gp | 1d6   | 1d8   |       | x3    | 100   | 3 lb. | Pie   |
-|  {sty |       |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Lo    |       |       |       |       |       |       |       |       |
-| ngbow |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   |       | ---   | ---   | 3 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| A     |       |       |       |       |       |       |       |       |
-| rrows |       |       |       |       |       |       |       |       |
-| (20)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 100   | 1d6   | 1d8   |       | x3    | 110   | 3 lb. | Pie   |
-|  {sty | gp    |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Lon   |       |       |       |       |       |       |       |       |
-| gbow, |       |       |       |       |       |       |       |       |
-| comp  |       |       |       |       |       |       |       |       |
-| osite |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   |       | ---   | ---   | 3 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| A     |       |       |       |       |       |       |       |       |
-| rrows |       |       |       |       |       |       |       |       |
-| (20)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 30 gp | 1d4   | 1d6   |       | x3    | 60    | 2 lb. | Pie   |
-|  {sty |       |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sho   |       |       |       |       |       |       |       |       |
-| rtbow |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   |       | ---   | ---   | 3 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| A     |       |       |       |       |       |       |       |       |
-| rrows |       |       |       |       |       |       |       |       |
-| (20)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 75 gp | 1d4   | 1d6   |       | x3    | 70    | 2 lb. | Pie   |
-|  {sty |       |       |       |       |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Shor  |       |       |       |       |       |       |       |       |
-| tbow, |       |       |       |       |       |       |       |       |
-| comp  |       |       |       |       |       |       |       |       |
-| osite |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   |       | ---   | ---   | 3 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| A     |       |       |       |       |       |       |       |       |
-| rrows |       |       |       |       |       |       |       |       |
-| (20)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| E     | Cost  | Dmg   | Dmg   |       | Cri   | Range | Weig  | Ty    |
-| xotic |       | (S)   | (M)   |       | tical | Incr  | ht^1^ | pe^2^ |
-| We    |       |       |       |       |       | ement |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Light |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 2 gp  | 1d4   | 1d6   | x2    |       | ---   | 2 lb. | Sla   |
-|  {sty |       |       |       |       |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Kama  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 2 gp  | 1d4   | 1d6   | x2    |       | ---   | 2 lb. | B     |
-|  {sty |       |       |       |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Nun   |       |       |       |       |       |       |       |       |
-| chaku |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | 1d3   | 1d4   | x2    |       | 10    | 1 lb. | B     |
-|  {sty |       |       |       |       |       | ft.   |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sai   |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 3 gp  | 1d4   | 1d6   | x2    |       | ---   | 1 lb. | Pie   |
-|  {sty |       |       |       |       |       |       |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Sia   |       |       |       |       |       |       |       |       |
-| ngham |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| One-H |       |       |       |       |       |       |       |       |
-| anded |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 35 gp | 1d8   | 1d10  | 19--  |       | ---   | 6 lb. | Sla   |
-|  {sty |       |       |       | 20/x2 |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| word, |       |       |       |       |       |       |       |       |
-| ba    |       |       |       |       |       |       |       |       |
-| stard |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 30 gp | 1d8   | 1d10  | x3    |       | ---   | 8 lb. | Sla   |
-|  {sty |       |       |       |       |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Wa    |       |       |       |       |       |       |       |       |
-| raxe, |       |       |       |       |       |       |       |       |
-| dw    |       |       |       |       |       |       |       |       |
-| arven |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | 1     | 1     | x2    |       |       | 2 lb. | Sla   |
-|  {sty |       | d2^3^ | d3^3^ |       |       |       |       | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Wh    |       |       |       |       |       |       |       |       |
-| ip^4^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| Two-H |       |       |       |       |       |       |       |       |
-| anded |       |       |       |       |       |       |       |       |
-| Melee |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 60 gp | 1d    | 1d    | x3    |       | ---   | 15    | Sla   |
-|  {sty |       | 6/1d6 | 8/1d8 |       |       |       | lb.   | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Axe,  |       |       |       |       |       |       |       |       |
-| orc   |       |       |       |       |       |       |       |       |
-| doub  |       |       |       |       |       |       |       |       |
-| le^5^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 25 gp | 1d6   | 2d4   | x2    |       | ---   | 10    | Pie   |
-|  {sty |       |       |       |       |       |       | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| C     |       |       |       |       |       |       |       |       |
-| hain, |       |       |       |       |       |       |       |       |
-| spik  |       |       |       |       |       |       |       |       |
-| ed^4^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 90 gp | 1d    | 1d    | x2    |       | ---   | 10    | B     |
-|  {sty |       | 6/1d6 | 8/1d8 |       |       |       | lb.   | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| F     |       |       |       |       |       |       |       |       |
-| lail, |       |       |       |       |       |       |       |       |
-| di    |       |       |       |       |       |       |       |       |
-| re^5^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 20 gp | 1d    | 1d    | x3/x4 |       | ---   | 6 lb. | B     |
-|  {sty |       | 6/1d4 | 8/1d6 |       |       |       |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       | and   |
-| -left |       |       |       |       |       |       |       | pie   |
-| : 0.3 |       |       |       |       |       |       |       | rcing |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Ha    |       |       |       |       |       |       |       |       |
-| mmer, |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-|       |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| gnome |       |       |       |       |       |       |       |       |
-| hook  |       |       |       |       |       |       |       |       |
-| ed^5^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 100   | 1d    | 1d    | 19--  |       | ---   | 10    | Sla   |
-|  {sty | gp    | 6/1d6 | 8/1d8 | 20/x2 |       |       | lb.   | shing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| S     |       |       |       |       |       |       |       |       |
-| word, |       |       |       |       |       |       |       |       |
-| two   |       |       |       |       |       |       |       |       |
-| -blad |       |       |       |       |       |       |       |       |
-| ed^5^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 50 gp | 1d    | 1d    | x3    |       | ---   | 12    | Sla   |
-|  {sty |       | 6/1d4 | 8/1d6 |       |       |       | lb.   | shing |
-| le="m |       |       |       |       |       |       |       | or    |
-| argin |       |       |       |       |       |       |       | pie   |
-| -left |       |       |       |       |       |       |       | rcing |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Urg   |       |       |       |       |       |       |       |       |
-| rosh, |       |       |       |       |       |       |       |       |
-| dwarv |       |       |       |       |       |       |       |       |
-| en^5^ |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| R     |       |       |       |       |       |       |       |       |
-| anged |       |       |       |       |       |       |       |       |
-| We    |       |       |       |       |       |       |       |       |
-| apons |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 5 gp  | 1     | 1     | x2    |       | 10    | 2 lb. | B     |
-|  {sty |       | d3^3^ | d4^3^ |       |       | ft.   |       | ludge |
-| le="m |       |       |       |       |       |       |       | oning |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Bolas |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 100   | 1d3   | 1d4   | 19--  |       | 30    | 2 lb. | Pie   |
-|  {sty | gp    |       |       | 20/x2 |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Cros  |       |       |       |       |       |       |       |       |
-| sbow, |       |       |       |       |       |       |       |       |
-| hand  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   | ---   |       | ---   | 1 lb. | ---   |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Bolts |       |       |       |       |       |       |       |       |
-| (10)  |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 400   | 1d8   | 1d10  | 19--  |       | 120   | 12    | Pie   |
-|  {sty | gp    |       |       | 20/x2 |       | ft.   | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Cros  |       |       |       |       |       |       |       |       |
-| sbow, |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-|       |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| repe  |       |       |       |       |       |       |       |       |
-| ating |       |       |       |       |       |       |       |       |
-| heavy |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   | ---   |       | 1 lb. | ---   |       |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Bolts |       |       |       |       |       |       |       |       |
-| (5)   |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 250   | 1d6   | 1d8   | 19--  |       | 80    | 6 lb. | Pie   |
-|  {sty | gp    |       |       | 20/x2 |       | ft.   |       | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Cros  |       |       |       |       |       |       |       |       |
-| sbow, |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-|       |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| repe  |       |       |       |       |       |       |       |       |
-| ating |       |       |       |       |       |       |       |       |
-| light |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | ---   | ---   | ---   |       | 1 lb. | ---   |       |
-|  {sty |       |       |       |       |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 1.2 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Bolts |       |       |       |       |       |       |       |       |
-| (5)   |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 20 gp | ---   | ---   | 10    |       | 6 lb. | ---   |       |
-|  {sty |       |       |       | ft.   |       |       |       |       |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Net   |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| :::   | 1 gp  | 1     | 1d2   | x2    |       | 10    | 1/2   | Pie   |
-|  {sty |       |       |       |       |       | ft.   | lb.   | rcing |
-| le="m |       |       |       |       |       |       |       |       |
-| argin |       |       |       |       |       |       |       |       |
-| -left |       |       |       |       |       |       |       |       |
-| : 0.3 |       |       |       |       |       |       |       |       |
-| 6em"} |       |       |       |       |       |       |       |       |
-| Shu   |       |       |       |       |       |       |       |       |
-| riken |       |       |       |       |       |       |       |       |
-| (5)   |       |       |       |       |       |       |       |       |
-| :::   |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| 1     |       |       |       |       |       |       |       |       |
-| W     |       |       |       |       |       |       |       |       |
-| eight |       |       |       |       |       |       |       |       |
-| fi    |       |       |       |       |       |       |       |       |
-| gures |       |       |       |       |       |       |       |       |
-| are   |       |       |       |       |       |       |       |       |
-| for   |       |       |       |       |       |       |       |       |
-| M     |       |       |       |       |       |       |       |       |
-| edium |       |       |       |       |       |       |       |       |
-| wea   |       |       |       |       |       |       |       |       |
-| pons. |       |       |       |       |       |       |       |       |
-| A     |       |       |       |       |       |       |       |       |
-| Small |       |       |       |       |       |       |       |       |
-| w     |       |       |       |       |       |       |       |       |
-| eapon |       |       |       |       |       |       |       |       |
-| w     |       |       |       |       |       |       |       |       |
-| eighs |       |       |       |       |       |       |       |       |
-| half  |       |       |       |       |       |       |       |       |
-| as    |       |       |       |       |       |       |       |       |
-| much, |       |       |       |       |       |       |       |       |
-| and a |       |       |       |       |       |       |       |       |
-| Large |       |       |       |       |       |       |       |       |
-| w     |       |       |       |       |       |       |       |       |
-| eapon |       |       |       |       |       |       |       |       |
-| w     |       |       |       |       |       |       |       |       |
-| eighs |       |       |       |       |       |       |       |       |
-| twice |       |       |       |       |       |       |       |       |
-| as    |       |       |       |       |       |       |       |       |
-| much. |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| 2     |       |       |       |       |       |       |       |       |
-| When  |       |       |       |       |       |       |       |       |
-| two   |       |       |       |       |       |       |       |       |
-| types |       |       |       |       |       |       |       |       |
-| are   |       |       |       |       |       |       |       |       |
-| g     |       |       |       |       |       |       |       |       |
-| iven, |       |       |       |       |       |       |       |       |
-| the   |       |       |       |       |       |       |       |       |
-| w     |       |       |       |       |       |       |       |       |
-| eapon |       |       |       |       |       |       |       |       |
-| is    |       |       |       |       |       |       |       |       |
-| both  |       |       |       |       |       |       |       |       |
-| types |       |       |       |       |       |       |       |       |
-| if    |       |       |       |       |       |       |       |       |
-| the   |       |       |       |       |       |       |       |       |
-| entry |       |       |       |       |       |       |       |       |
-| spec  |       |       |       |       |       |       |       |       |
-| ifies |       |       |       |       |       |       |       |       |
-| "     |       |       |       |       |       |       |       |       |
-| and," |       |       |       |       |       |       |       |       |
-| or    |       |       |       |       |       |       |       |       |
-| e     |       |       |       |       |       |       |       |       |
-| ither |       |       |       |       |       |       |       |       |
-| type  |       |       |       |       |       |       |       |       |
-| (pla  |       |       |       |       |       |       |       |       |
-| yer's |       |       |       |       |       |       |       |       |
-| c     |       |       |       |       |       |       |       |       |
-| hoice |       |       |       |       |       |       |       |       |
-| at    |       |       |       |       |       |       |       |       |
-| time  |       |       |       |       |       |       |       |       |
-| of    |       |       |       |       |       |       |       |       |
-| at    |       |       |       |       |       |       |       |       |
-| tack) |       |       |       |       |       |       |       |       |
-| if    |       |       |       |       |       |       |       |       |
-| the   |       |       |       |       |       |       |       |       |
-| entry |       |       |       |       |       |       |       |       |
-| spec  |       |       |       |       |       |       |       |       |
-| ifies |       |       |       |       |       |       |       |       |
-| "or." |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| 3 The |       |       |       |       |       |       |       |       |
-| w     |       |       |       |       |       |       |       |       |
-| eapon |       |       |       |       |       |       |       |       |
-| deals |       |       |       |       |       |       |       |       |
-| nonl  |       |       |       |       |       |       |       |       |
-| ethal |       |       |       |       |       |       |       |       |
-| d     |       |       |       |       |       |       |       |       |
-| amage |       |       |       |       |       |       |       |       |
-| r     |       |       |       |       |       |       |       |       |
-| ather |       |       |       |       |       |       |       |       |
-| than  |       |       |       |       |       |       |       |       |
-| l     |       |       |       |       |       |       |       |       |
-| ethal |       |       |       |       |       |       |       |       |
-| da    |       |       |       |       |       |       |       |       |
-| mage. |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| 4     |       |       |       |       |       |       |       |       |
-| Reach |       |       |       |       |       |       |       |       |
-| we    |       |       |       |       |       |       |       |       |
-| apon. |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| 5     |       |       |       |       |       |       |       |       |
-| D     |       |       |       |       |       |       |       |       |
-| ouble |       |       |       |       |       |       |       |       |
-| we    |       |       |       |       |       |       |       |       |
-| apon. |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
+<table class="full-width-table" data-debug="no-full-column">
+<caption>Table: Weapons</caption>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Simple Weapons</th>
+<th>Cost</th>
+<th>Dmg (S)</th>
+<th>Dmg (M)</th>
+<th colspan="2">Critical</th>
+<th>Range Increment</th>
+<th>Weight<sup>1</sup></th>
+<th>Type<sup>2</sup></th>
+</tr>
 
-: Table: Weapons
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Unarmed Attacks</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Gauntlet
+</div></th>
+<th>2 gp</th>
+<th>1d2</th>
+<th>1d3</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>1 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Unarmed strike
+</div></th>
+<th>—</th>
+<th>1d2<sup>3</sup></th>
+<th>1d3<sup>3</sup></th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>—</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th colspan="8" style="font-style: italic">Light Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Dagger
+</div></th>
+<th>2 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">19–20/x2</th>
+<th>10 ft.</th>
+<th>1 lb.</th>
+<td>Piercing or slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Dagger, punching
+</div></th>
+<th>2 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>1 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Gauntlet, spiked
+</div></th>
+<th>5 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>1 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Mace, light
+</div></th>
+<th>5 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>4 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Sickle
+</div></th>
+<th>6 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>2 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th colspan="8" style="font-style: italic">One-Handed Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Club
+</div></th>
+<th>—</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>10 ft.</th>
+<th>3 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Mace, heavy
+</div></th>
+<th>12 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>8 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Morningstar
+</div></th>
+<th>8 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>6 lb.</th>
+<td>Bludgeoning and piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Shortspear
+</div></th>
+<th>1 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>20 ft.</th>
+<th>3 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Two-Handed Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Longspear<sup>4</sup>
+</div></th>
+<th>5 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>9 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Quarterstaff<sup>5</sup>
+</div></th>
+<th>—</th>
+<th>1d4/1d4</th>
+<th>1d6/1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>4 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Spear
+</div></th>
+<th>2 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x3</th>
+<th>20 ft.</th>
+<th>6 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Ranged Weapons</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Crossbow, heavy
+</div></th>
+<th>50 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">19–20/x2</th>
+<th>120 ft.</th>
+<th>8 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 1.26em">
+Bolts, crossbow (10)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>1 lb.</th>
+<td>—</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Crossbow, light
+</div></th>
+<th>35 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">19–20/x2</th>
+<th>80 ft.</th>
+<th>4 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 1.26em">
+Bolts, crossbow (10)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>1 lb.</th>
+<td>—</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Dart
+</div></th>
+<th>5 sp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x2</th>
+<th>20 ft.</th>
+<th>1/2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Javelin
+</div></th>
+<th>1 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>30 ft.</th>
+<th>2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Sling
+</div></th>
+<th>—</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x2</th>
+<th>50 ft.</th>
+<th>0 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 1.26em">
+Bullets, sling (10)
+</div></th>
+<th>1 sp</th>
+<th>—</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>5 lb.</th>
+<td>—</td>
+</tr>
+<tr class="even">
+<th>Martial Weapons</th>
+<th>Cost</th>
+<th>Dmg (S)</th>
+<th>Dmg (M)</th>
+<th colspan="2">Critical</th>
+<th>Range Increment</th>
+<th>Weight1</th>
+<td>Type<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Light Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Axe, throwing
+</div></th>
+<th>8 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>10 ft.</th>
+<th>2 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Hammer, light
+</div></th>
+<th>1 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x2</th>
+<th>20 ft.</th>
+<th>2 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Handaxe
+</div></th>
+<th>6 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>3 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Kukri
+</div></th>
+<th>8 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">18–20/x2</th>
+<th>—</th>
+<th>2 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Pick, light
+</div></th>
+<th>4 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x4</th>
+<th>—</th>
+<th>3 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Sap
+</div></th>
+<th>1 gp</th>
+<th>1d4<sup>3</sup></th>
+<th>1d6<sup>3</sup></th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>2 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Shield, light
+</div></th>
+<th>special</th>
+<th>1d2</th>
+<th>1d3</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>special</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Spiked armor
+</div></th>
+<th>special</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>special</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Spiked shield, light
+</div></th>
+<th>special</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>special</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Sword, short
+</div></th>
+<th>10 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">19–20/x2</th>
+<th>—</th>
+<th>2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th colspan="8" style="font-style: italic">One-Handed Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Battleaxe
+</div></th>
+<th>10 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>6 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Flail
+</div></th>
+<th>8 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>5 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Longsword
+</div></th>
+<th>15 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">19–20/x2</th>
+<th>—</th>
+<th>4 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Pick, heavy
+</div></th>
+<th>8 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x4</th>
+<th>—</th>
+<th>6 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Rapier
+</div></th>
+<th>20 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">18–20/x2</th>
+<th>—</th>
+<th>2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Scimitar
+</div></th>
+<th>15 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">18–20/x2</th>
+<th>—</th>
+<th>4 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Shield, heavy
+</div></th>
+<th>special</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>special</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Spiked shield, heavy
+</div></th>
+<th>special</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>special</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Trident
+</div></th>
+<th>15 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x2</th>
+<th>10 ft.</th>
+<th>4 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Warhammer
+</div></th>
+<th>12 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>5 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Two-Handed Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Falchion
+</div></th>
+<th>75 gp</th>
+<th>1d6</th>
+<th>2d4</th>
+<th colspan="2">18–20/x2</th>
+<th>—</th>
+<th>8 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Glaive<sup>4</sup>
+</div></th>
+<th>8 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>10 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Greataxe
+</div></th>
+<th>20 gp</th>
+<th>1d10</th>
+<th>1d12</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>12 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Greatclub
+</div></th>
+<th>5 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>8 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Flail, heavy
+</div></th>
+<th>15 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">19–20/x2</th>
+<th>—</th>
+<th>10 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Greatsword
+</div></th>
+<th>50 gp</th>
+<th>1d10</th>
+<th>2d6</th>
+<th colspan="2">19–20/x2</th>
+<th>—</th>
+<th>8 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Guisarme<sup>4</sup>
+</div></th>
+<th>9 gp</th>
+<th>1d6</th>
+<th>2d4</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>12 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Halberd
+</div></th>
+<th>10 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>12 lb.</th>
+<td>Piercing or slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Lance<sup>4</sup>
+</div></th>
+<th>10 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>10 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Ranseur<sup>4</sup>
+</div></th>
+<th>10 gp</th>
+<th>1d6</th>
+<th>2d4</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>12 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Scythe
+</div></th>
+<th>18 gp</th>
+<th>1d6</th>
+<th>2d4</th>
+<th colspan="2">x4</th>
+<th>—</th>
+<th>10 lb.</th>
+<td>Piercing or slashing</td>
+</tr>
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Ranged Weapons</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Longbow
+</div></th>
+<th>75 gp</th>
+<th>1d6</th>
+<th colspan="2">1d8</th>
+<th>x3</th>
+<th>100 ft.</th>
+<th>3 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 1.26em">
+Arrows (20)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>—</th>
+<th>3 lb.</th>
+<td>—</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Longbow, composite
+</div></th>
+<th>100 gp</th>
+<th>1d6</th>
+<th colspan="2">1d8</th>
+<th>x3</th>
+<th>110 ft.</th>
+<th>3 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 1.26em">
+Arrows (20)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>—</th>
+<th>3 lb.</th>
+<td>—</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Shortbow
+</div></th>
+<th>30 gp</th>
+<th>1d4</th>
+<th colspan="2">1d6</th>
+<th>x3</th>
+<th>60 ft.</th>
+<th>2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 1.26em">
+Arrows (20)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>—</th>
+<th>3 lb.</th>
+<td>—</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Shortbow, composite
+</div></th>
+<th>75 gp</th>
+<th>1d4</th>
+<th colspan="2">1d6</th>
+<th>x3</th>
+<th>70 ft.</th>
+<th>2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 1.26em">
+Arrows (20)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>—</th>
+<th>3 lb.</th>
+<td>—</td>
+</tr>
+<tr class="even">
+<th>Exotic Weapons</th>
+<th>Cost</th>
+<th>Dmg (S)</th>
+<th colspan="2">Dmg (M)</th>
+<th>Critical</th>
+<th>Range Increment</th>
+<th>Weight<sup>1</sup></th>
+<td>Type<sup>2</sup></td>
+</tr>
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Light Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Kama
+</div></th>
+<th>2 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>2 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Nunchaku
+</div></th>
+<th>2 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>2 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Sai
+</div></th>
+<th>1 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">x2</th>
+<th>10 ft.</th>
+<th>1 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Siangham
+</div></th>
+<th>3 gp</th>
+<th>1d4</th>
+<th>1d6</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>1 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th colspan="8" style="font-style: italic">One-Handed Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Sword, bastard
+</div></th>
+<th>35 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">19–20/x2</th>
+<th>—</th>
+<th>6 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Waraxe, dwarven
+</div></th>
+<th>30 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>8 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Whip<sup>4</sup>
+</div></th>
+<th>1 gp</th>
+<th>1d2<sup>3</sup></th>
+<th>1d3<sup>3</sup></th>
+<th colspan="2">x2</th>
+<th></th>
+<th>2 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th colspan="8" style="font-style: italic">Two-Handed Melee Weapons</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Axe, orc double<sup>5</sup>
+</div></th>
+<th>60 gp</th>
+<th>1d6/1d6</th>
+<th>1d8/1d8</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>15 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Chain, spiked<sup>4</sup>
+</div></th>
+<th>25 gp</th>
+<th>1d6</th>
+<th>2d4</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>10 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Flail, dire<sup>5</sup>
+</div></th>
+<th>90 gp</th>
+<th>1d6/1d6</th>
+<th>1d8/1d8</th>
+<th colspan="2">x2</th>
+<th>—</th>
+<th>10 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Hammer,
+</div>
+<div style="margin-left: 0.36em">
+gnome hooked<sup>5</sup>
+</div></th>
+<th>20 gp</th>
+<th>1d6/1d4</th>
+<th>1d8/1d6</th>
+<th colspan="2">x3/x4</th>
+<th>—</th>
+<th>6 lb.</th>
+<td>Bludgeoning and piercing</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Sword, two-bladed<sup>5</sup>
+</div></th>
+<th>100 gp</th>
+<th>1d6/1d6</th>
+<th>1d8/1d8</th>
+<th colspan="2">19–20/x2</th>
+<th>—</th>
+<th>10 lb.</th>
+<td>Slashing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Urgrosh, dwarven<sup>5</sup>
+</div></th>
+<th>50 gp</th>
+<th>1d6/1d4</th>
+<th>1d8/1d6</th>
+<th colspan="2">x3</th>
+<th>—</th>
+<th>12 lb.</th>
+<td>Slashing or piercing</td>
+</tr>
+<tr class="odd">
+<th colspan="8" style="font-style: italic">Ranged Weapons</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Bolas
+</div></th>
+<th>5 gp</th>
+<th>1d3<sup>3</sup></th>
+<th>1d4<sup>3</sup></th>
+<th colspan="2">x2</th>
+<th>10 ft.</th>
+<th>2 lb.</th>
+<td>Bludgeoning</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Crossbow, hand
+</div></th>
+<th>100 gp</th>
+<th>1d3</th>
+<th>1d4</th>
+<th colspan="2">19–20/x2</th>
+<th>30 ft.</th>
+<th>2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 1.26em">
+Bolts (10)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>—</th>
+<th>1 lb.</th>
+<td>—</td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Crossbow,
+</div>
+<div style="margin-left: 0.36em">
+repeating heavy
+</div></th>
+<th>400 gp</th>
+<th>1d8</th>
+<th>1d10</th>
+<th colspan="2">19–20/x2</th>
+<th>120 ft.</th>
+<th>12 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 1.26em">
+Bolts (5)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>1 lb.</th>
+<th>—</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Crossbow,
+</div>
+<div style="margin-left: 0.36em">
+repeating light
+</div></th>
+<th>250 gp</th>
+<th>1d6</th>
+<th>1d8</th>
+<th colspan="2">19–20/x2</th>
+<th>80 ft.</th>
+<th>6 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 1.26em">
+Bolts (5)
+</div></th>
+<th>1 gp</th>
+<th>—</th>
+<th>—</th>
+<th colspan="2">—</th>
+<th>1 lb.</th>
+<th>—</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.36em">
+Net
+</div></th>
+<th>20 gp</th>
+<th>—</th>
+<th>—</th>
+<th colspan="2">10 ft.</th>
+<th>6 lb.</th>
+<th>—</th>
+<td></td>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.36em">
+Shuriken (5)
+</div></th>
+<th>1 gp</th>
+<th>1</th>
+<th>1d2</th>
+<th colspan="2">x2</th>
+<th>10 ft.</th>
+<th>1/2 lb.</th>
+<td>Piercing</td>
+</tr>
+<tr class="odd">
+<th colspan="8">1 Weight figures are for Medium weapons. A Small weapon
+weighs half as much, and a Large weapon weighs twice as much.</th>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="8">2 When two types are given, the weapon is both types if
+the entry specifies “and,” or either type (player’s choice at time of
+attack) if the entry specifies “or.”</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th colspan="8">3 The weapon deals nonlethal damage rather than lethal
+damage.</th>
+<td></td>
+</tr>
+<tr class="even">
+<th colspan="8">4 Reach weapon.</th>
+<td></td>
+</tr>
+<tr class="odd">
+<th colspan="8">5 Double weapon.</th>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Table: Weapons
 
 Weapons found on Table: Weapons that have special options for the
-wielder ("you") are described below. Splash weapons are described under
+wielder (“you”) are described below. Splash weapons are described under
 Special Substances and Items.
 
 **Arrows:** An arrow used as a melee weapon is treated as a light
-improvised weapon (--4 penalty on attack rolls) and deals damage as a
+improvised weapon (–4 penalty on attack rolls) and deals damage as a
 dagger of its size (critical multiplier x2). Arrows come in a leather
 quiver that holds 20 arrows. An arrow that hits its target is destroyed;
 one that misses has a 50% chance of being destroyed or lost.
@@ -1528,16 +1476,15 @@ with it as if fighting with two weapons, but if you do, you incur all
 the normal attack penalties associated with fighting with two weapons,
 just as if you were using a one-handed weapon and a light weapon.
 
-A creature wielding an orc double axe in one hand can't use it as a
-double weapon---only one end of the weapon can be used in any given
-round.
+A creature wielding an orc double axe in one hand can’t use it as a
+double weapon—only one end of the weapon can be used in any given round.
 
 **Bolas:** You can use this weapon to make a ranged trip attack against
-an opponent. You can't be tripped during your own trip attempt when
+an opponent. You can’t be tripped during your own trip attempt when
 using a set of bolas.
 
 **Bolts:** A crossbow bolt used as a melee weapon is treated as a light
-improvised weapon (--4 penalty on attack rolls) and deals damage as a
+improvised weapon (–4 penalty on attack rolls) and deals damage as a
 dagger of its size (crit x2). Bolts come in a wooden case that holds 10
 bolts (or 5, for a repeating crossbow). A bolt that hits its target is
 destroyed; one that misses has a 50% chance of being destroyed or lost.
@@ -1559,7 +1506,7 @@ if such an attempt fails).
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier
 instead of your Strength modifier to attack rolls with a spiked chain
-sized for you, even though it isn't a light weapon for you.
+sized for you, even though it isn’t a light weapon for you.
 
 **Crossbow, Hand:** You can draw a hand crossbow back by hand. Loading a
 hand crossbow is a move action that provokes attacks of opportunity.
@@ -1573,7 +1520,7 @@ winch. Loading a heavy crossbow is a full-round action that provokes
 attacks of opportunity.
 
 Normally, operating a heavy crossbow requires two hands. However, you
-can shoot, but not load, a heavy crossbow with one hand at a --4 penalty
+can shoot, but not load, a heavy crossbow with one hand at a –4 penalty
 on attack rolls. You can shoot a heavy crossbow with each hand, but you
 take a penalty on attack rolls as if attacking with two one-handed
 weapons. This penalty is cumulative with the penalty for one-handed
@@ -1584,7 +1531,7 @@ Loading a light crossbow is a move action that provokes attacks of
 opportunity.
 
 Normally, operating a light crossbow requires two hands. However, you
-can shoot, but not load, a light crossbow with one hand at a --2 penalty
+can shoot, but not load, a light crossbow with one hand at a –2 penalty
 on attack rolls. You can shoot a light crossbow with each hand, but you
 take a penalty on attack rolls as if attacking with two light weapons.
 This penalty is cumulative with the penalty for one-handed firing.
@@ -1607,8 +1554,8 @@ a dagger on your body (see the Sleight of Hand skill).
 as if fighting with two weapons, but if you do, you incur all the normal
 attack penalties associated with fighting with two weapons, just as if
 you were using a one-handed weapon and a light weapon. A creature
-wielding a dire flail in one hand can't use it as a double weapon---
-only one end of the weapon can be used in any given round.
+wielding a dire flail in one hand can’t use it as a double weapon— only
+one end of the weapon can be used in any given round.
 
 When using a dire flail, you get a +2 bonus on opposed attack rolls made
 to disarm an enemy (including the opposed attack roll to avoid being
@@ -1638,10 +1585,10 @@ gauntlet. An attack with a spiked gauntlet is considered an armed
 attack.
 
 **Glaive:** A glaive has reach. You can strike opponents 10 feet away
-with it, but you can't use it against an adjacent foe.
+with it, but you can’t use it against an adjacent foe.
 
 **Guisarme:** A guisarme has reach. You can strike opponents 10 feet
-away with it, but you can't use it against an adjacent foe.
+away with it, but you can’t use it against an adjacent foe.
 
 You can also use it to make trip attacks. If you are tripped during your
 own trip attempt, you can drop the guisarme to avoid being tripped.
@@ -1657,12 +1604,12 @@ your own trip attempt, you can drop the halberd to avoid being tripped.
 can fight with it as if fighting with two weapons, but if you do, you
 incur all the normal attack penalties associated with fighting with two
 weapons, just as if you were using a one-handed weapon and a light
-weapon. The hammer's blunt head is a bludgeoning weapon that deals 1d6
+weapon. The hammer’s blunt head is a bludgeoning weapon that deals 1d6
 points of damage (crit x3). Its hook is a piercing weapon that deals 1d4
 points of damage (crit x4). You can use either head as the primary
 weapon. The other head is the offhand weapon. A creature wielding a
-gnome hooked hammer in one hand can't use it as a double weapon---only
-one end of the weapon can be used in any given round.
+gnome hooked hammer in one hand can’t use it as a double weapon—only one
+end of the weapon can be used in any given round.
 
 You can use a gnome hooked hammer to make trip attacks. If you are
 tripped during your own trip attempt, you can drop the gnome hooked
@@ -1671,8 +1618,8 @@ hammer to avoid being tripped.
 Gnomes treat gnome hooked hammers as martial weapons.
 
 **Javelin:** Since it is not designed for melee, you are treated as
-nonproficient with it and take a --4 penalty on attack rolls if you use
-a javelin as a melee weapon.
+nonproficient with it and take a –4 penalty on attack rolls if you use a
+javelin as a melee weapon.
 
 **Kama:** The kama is a special monk weapon. This designation gives a
 monk wielding a kama special options.
@@ -1682,7 +1629,7 @@ own trip attempt, you can drop the kama to avoid being tripped.
 
 **Lance:** A lance deals double damage when used from the back of a
 charging mount. It has reach, so you can strike opponents 10 feet away
-with it, but you can't use it against an adjacent foe.
+with it, but you can’t use it against an adjacent foe.
 
 While mounted, you can wield a lance with one hand.
 
@@ -1698,7 +1645,7 @@ regardless of its size. You can use a composite longbow while mounted.
 All composite bows are made with a particular strength rating (that is,
 each requires a minimum Strength modifier to use with proficiency). If
 your Strength bonus is less than the strength rating of the composite
-bow, you can't effectively use it, so you take a --2 penalty on attacks
+bow, you can’t effectively use it, so you take a –2 penalty on attacks
 with it. The default composite longbow requires a Strength modifier of
 +0 or higher to use with proficiency. A composite longbow can be made
 with a high strength rating to take advantage of an above-average
@@ -1710,14 +1657,14 @@ For purposes of weapon proficiency and similar feats, a composite
 longbow is treated as if it were a longbow.
 
 **Longspear:** A longspear has reach. You can strike opponents 10 feet
-away with it, but you can't use it against an adjacent foe. If you use a
+away with it, but you can’t use it against an adjacent foe. If you use a
 ready action to set a longspear against a charge, you deal double damage
 on a successful hit against a charging character.
 
 **Net:** A net is used to entangle enemies. When you throw a net, you
-make a ranged touch attack against your target. A net's maximum range is
+make a ranged touch attack against your target. A net’s maximum range is
 10 feet. If you hit, the target is entangled. An entangled creature
-takes a --2 penalty on attack rolls and a --4 penalty on Dexterity, can
+takes a –2 penalty on attack rolls and a –4 penalty on Dexterity, can
 move at only half speed, and cannot charge or run. If you control the
 trailing rope by succeeding on an opposed Strength check while holding
 it, the entangled creature can move only within the limits that the rope
@@ -1732,7 +1679,7 @@ A net is useful only against creatures within one size category of you.
 
 A net must be folded to be thrown effectively. The first time you throw
 your net in a fight, you make a normal ranged touch attack roll. After
-the net is unfolded, you take a --4 penalty on attack rolls with it. It
+the net is unfolded, you take a –4 penalty on attack rolls with it. It
 takes 2 rounds for a proficient user to fold a net and twice that long
 for a nonproficient one to do so.
 
@@ -1745,14 +1692,14 @@ get a +2 bonus on opposed attack rolls made to disarm an enemy
 it as if fighting with two weapons, but if you do, you incur all the
 normal attack penalties associated with fighting with two weapons, just
 as if you were using a one-handed weapon and a light weapon. A creature
-wielding a quarterstaff in one hand can't use it as a double
-weapon---only one end of the weapon can be used in any given round.
+wielding a quarterstaff in one hand can’t use it as a double weapon—only
+one end of the weapon can be used in any given round.
 
 The quarterstaff is a special monk weapon. This designation gives a monk
 wielding a quarterstaff special options.
 
 **Ranseur:** A ranseur has reach. You can strike opponents 10 feet away
-with it, but you can't use it against an adjacent foe.
+with it, but you can’t use it against an adjacent foe.
 
 With a ranseur, you get a +2 bonus on opposed attack rolls made to
 disarm an opponent (including the roll to avoid being disarmed if such
@@ -1760,7 +1707,7 @@ an attempt fails).
 
 **Rapier:** You can use the Weapon Finesse feat to apply your Dexterity
 modifier instead of your Strength modifier to attack rolls with a rapier
-sized for you, even though it isn't a light weapon for you. You can't
+sized for you, even though it isn’t a light weapon for you. You can’t
 wield a rapier in two hands in order to apply 1-1/2 times your Strength
 bonus to damage.
 
@@ -1790,7 +1737,7 @@ regardless of its size. You can use a composite shortbow while mounted.
 All composite bows are made with a particular strength rating (that is,
 each requires a minimum Strength modifier to use with proficiency). If
 your Strength bonus is lower than the strength rating of the composite
-bow, you can't effectively use it, so you take a --2 penalty on attacks
+bow, you can’t effectively use it, so you take a –2 penalty on attacks
 with it. The default composite shortbow requires a Strength modifier of
 +0 or higher to use with proficiency. A composite shortbow can be made
 with a high strength rating to take advantage of an above-average
@@ -1805,7 +1752,7 @@ shortbow is treated as if it were a shortbow.
 also be thrown.
 
 **Shuriken:** A shuriken is a special monk weapon. This designation
-gives a monk wielding shuriken special options. A shuriken can't be used
+gives a monk wielding shuriken special options. A shuriken can’t be used
 as a melee weapon.
 
 Although they are thrown weapons, shuriken are treated as ammunition for
@@ -1827,7 +1774,7 @@ hands and provokes attacks of opportunity.
 You can hurl ordinary stones with a sling, but stones are not as dense
 or as round as bullets. Thus, such an attack deals damage as if the
 weapon were designed for a creature one size category smaller than you
-and you take a --1 penalty on attack rolls.
+and you take a –1 penalty on attack rolls.
 
 **Spear:** A spear can be thrown. If you use a ready action to set a
 spear against a charge, you deal double damage on a successful hit
@@ -1859,8 +1806,8 @@ use a bastard sword two-handed as a martial weapon.
 fight with it as if fighting with two weapons, but if you do, you incur
 all the normal attack penalties associated with fighting with two
 weapons, just as if you were using a one-handed weapon and a light
-weapon. A creature wielding a two-bladed sword in one hand can't use it
-as a double weapon---only one end of the weapon can be used in any given
+weapon. A creature wielding a two-bladed sword in one hand can’t use it
+as a double weapon—only one end of the weapon can be used in any given
 round.
 
 **Trident:** This weapon can be thrown. If you use a ready action to set
@@ -1871,12 +1818,12 @@ against a charging character.
 fight with it as if fighting with two weapons, but if you do, you incur
 all the normal attack penalties associated with fighting with two
 weapons, just as if you were using a one-handed weapon and a light
-weapon. The urgrosh's axe head is a slashing weapon that deals 1d8
+weapon. The urgrosh’s axe head is a slashing weapon that deals 1d8
 points of damage. Its spear head is a piercing weapon that deals 1d6
 points of damage. You can use either head as the primary weapon. The
 other is the off-hand weapon. A creature wielding a dwarven urgrosh in
-one hand can't use it as a double weapon---only one end of the weapon
-can be used in any given round.
+one hand can’t use it as a double weapon—only one end of the weapon can
+be used in any given round.
 
 If you use a ready action to set an urgrosh against a charge, you deal
 double damage if you score a hit against a charging character. If you
@@ -1894,7 +1841,7 @@ dwarven waraxe as a martial weapon even when using it in one hand.
 **Whip:** A whip deals nonlethal damage. It deals no damage to any
 creature with an armor bonus of +1 or higher or a natural armor bonus of
 +3 or higher. The whip is treated as a melee weapon with 15-foot reach,
-though you don't threaten the area into which you can make an attack. In
+though you don’t threaten the area into which you can make an attack. In
 addition, unlike most other weapons with reach, you can use it against
 foes anywhere within your reach (including adjacent foes).
 
@@ -1910,14 +1857,14 @@ the attack fails).
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier
 instead of your Strength modifier to attack rolls with a whip sized for
-you, even though it isn't a light weapon for you.
+you, even though it isn’t a light weapon for you.
 
 ### Masterwork Weapons
 
 A masterwork weapon is a finely crafted version of a normal weapon.
 Wielding it provides a +1 enhancement bonus on attack rolls.
 
-You can't add the masterwork quality to a weapon after it is created; it
+You can’t add the masterwork quality to a weapon after it is created; it
 must be crafted as a masterwork weapon (see the Craft skill). The
 masterwork quality adds 300 gp to the cost of a normal weapon (or 6 gp
 to the cost of a single unit of ammunition). Adding the masterwork
@@ -1928,11 +1875,11 @@ enhancement bonus of masterwork ammunition does not stack with any
 enhancement bonus of the projectile weapon firing it.
 
 All magic weapons are automatically considered to be of masterwork
-quality. The enhancement bonus granted by the masterwork quality doesn't
-stack with the enhancement bonus provided by the weapon's magic.
+quality. The enhancement bonus granted by the masterwork quality doesn’t
+stack with the enhancement bonus provided by the weapon’s magic.
 
 Even though some types of armor and shields can be used as weapons, you
-can't create a masterwork version of such an item that confers an
+can’t create a masterwork version of such an item that confers an
 enhancement bonus on attack rolls. Instead, masterwork armor and shields
 have lessened armor check penalties.
 
@@ -1955,51 +1902,51 @@ creatures.
 
 **Armor/Shield Bonus:** Each armor grants an armor bonus to AC, while
 shields grant a shield bonus to AC. The armor bonus from a suit of armor
-doesn't stack with other effects or items that grant an armor bonus.
-Similarly, the shield bonus from a shield doesn't stack with other
+doesn’t stack with other effects or items that grant an armor bonus.
+Similarly, the shield bonus from a shield doesn’t stack with other
 effects that grant a shield bonus.
 
 **Maximum Dex Bonus:** This number is the maximum Dexterity bonus to AC
 that this type of armor allows. Heavier armors limit mobility, reducing
-the wearer's ability to dodge blows. This restriction doesn't affect any
+the wearer’s ability to dodge blows. This restriction doesn’t affect any
 other Dexterity-related abilities.
 
-Even if a character's Dexterity bonus to AC drops to 0 because of armor,
+Even if a character’s Dexterity bonus to AC drops to 0 because of armor,
 this situation does not count as losing a Dexterity bonus to AC.
 
-Your character's encumbrance (the amount of gear he or she carries) may
+Your character’s encumbrance (the amount of gear he or she carries) may
 also restrict the maximum Dexterity bonus that can be applied to his or
 her Armor Class.
 
-*Shields:* Shields do not affect a character's maximum Dexterity bonus.
+*Shields:* Shields do not affect a character’s maximum Dexterity bonus.
 
 **Armor Check Penalty:** Any armor heavier than leather hurts a
-character's ability to use some skills. An armor check penalty number is
+character’s ability to use some skills. An armor check penalty number is
 the penalty that applies to Balance, Climb, Escape Artist, Hide, Jump,
 Move Silently, Sleight of Hand, and Tumble checks by a character wearing
 a certain kind of armor. Double the normal armor check penalty is
-applied to Swim checks. A character's encumbrance (the amount of gear
+applied to Swim checks. A character’s encumbrance (the amount of gear
 carried, including armor) may also apply an armor check penalty.
 
 *Shields:* If a character is wearing armor and using a shield, both
 armor check penalties apply.
 
 *Nonproficient with Armor Worn:* A character who wears armor and/or uses
-a shield with which he or she is not proficient takes the armor's
-(and/or shield's) armor check penalty on attack rolls and on all
+a shield with which he or she is not proficient takes the armor’s
+(and/or shield’s) armor check penalty on attack rolls and on all
 Strength-based and Dexterity-based ability and skill checks. The penalty
 for nonproficiency with armor stacks with the penalty for nonproficiency
 with shields.
 
 *Sleeping in Armor:* A character who sleeps in medium or heavy armor is
-automatically fatigued the next day. He or she takes a --2 penalty on
-Strength and Dexterity and can't charge or run. Sleeping in light armor
+automatically fatigued the next day. He or she takes a –2 penalty on
+Strength and Dexterity and can’t charge or run. Sleeping in light armor
 does not cause fatigue.
 
 **Arcane Spell Failure:** Armor interferes with the gestures that a
 spellcaster must make to cast an arcane spell that has a somatic
 component. Arcane spellcasters face the possibility of arcane spell
-failure if they're wearing armor. Bards can wear light armor without
+failure if they’re wearing armor. Bards can wear light armor without
 incurring any arcane spell failure chance for their bard spells.
 
 *Casting an Arcane Spell in Armor:* A character who casts an arcane
@@ -2013,137 +1960,376 @@ chance of arcane spell failure.
 two numbers together to get a single arcane spell failure chance.
 
 **Speed:** Medium or heavy armor slows the wearer down. The number on
-Table: Armor and Shields is the character's speed while wearing the
+Table: Armor and Shields is the character’s speed while wearing the
 armor. Humans, elves, half-elves, and half-orcs have an unencumbered
 speed of 30 feet.
 
 They use the first column. Dwarves, gnomes, and halflings have an
 unencumbered speed of 20 feet. They use the second column. Remember,
-however, that a dwarf 's land speed remains 20 feet even in medium or
+however, that a dwarf ’s land speed remains 20 feet even in medium or
 heavy armor or when carrying a medium or heavy load.
 
-*Shields:* Shields do not affect a character's speed.
+*Shields:* Shields do not affect a character’s speed.
 
 **Weight:** This column gives the weight of the armor sized for a Medium
 wearer. Armor fitted for Small characters weighs half as much, and armor
 for Large characters weighs twice as much.
 
-  -------------- ------- --------------- ---------- --------- --------- ---------------------------------------------------------------------------------------------------------- -------- -----------
-                                                                                                                        []{style="                                                          
-                                                                                                                             display: block;                                                
-                                                                                                                           position: absolute;                                              
-                                                                                                                                right: 0;                                                   
-                                                                                                                                top: 50%;                                                   
-                                                                                                                                left: 0px;                                                  
-                                                                                                                   border-top: 1px solid currentColor;                                      
-                                                                                                                                "}[Speed                                                    
-                                                                         ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}           
+<table class="full-width-table">
+<caption>Table: Armor and Shields</caption>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;" colspan="2"
+style="position: relative"><span style="
+                display: block;
+                position: absolute;
+                right: 0;
+                top: 50%;
+                left: 0px;
+                border-top: 1px solid currentColor;
+              "></span><span
+style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Speed
+</span></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>Armor</th>
+<th>Cost</th>
+<th>Armor/Shield<br />
+Bonus</th>
+<th>Maximum<br />
+Dex Bonus</th>
+<th>Armor<br />
+Check Penalty</th>
+<th>Arcane Spell<br />
+Failure Chance</th>
+<th style="text-align: center;">(30 ft.)</th>
+<th style="text-align: center;">(20 ft.)</th>
+<th>Weight<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Light armor</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>Padded</th>
+<th>5 gp</th>
+<th>+1</th>
+<th>+8</th>
+<th>0</th>
+<th>5%</th>
+<th style="text-align: center;">30 ft.</th>
+<th style="text-align: center;">20 ft.</th>
+<th>10 lb.</th>
+</tr>
+<tr class="odd">
+<th>Leather</th>
+<th>10 gp</th>
+<th>+2</th>
+<th>+6</th>
+<th>0</th>
+<th>10%</th>
+<th style="text-align: center;">30 ft.</th>
+<th style="text-align: center;">20 ft.</th>
+<th>15 lb.</th>
+</tr>
+<tr class="even">
+<th>Studded leather</th>
+<th>25 gp</th>
+<th>+3</th>
+<th>+5</th>
+<th>–1</th>
+<th>15%</th>
+<th style="text-align: center;">30 ft.</th>
+<th style="text-align: center;">20 ft.</th>
+<th>20 lb.</th>
+</tr>
+<tr class="odd">
+<th>Chain shirt</th>
+<th>100 gp</th>
+<th>+4</th>
+<th>+4</th>
+<th>–2</th>
+<th>20%</th>
+<th style="text-align: center;">30 ft.</th>
+<th style="text-align: center;">20 ft.</th>
+<th>25 lb.</th>
+</tr>
+<tr class="even">
+<th>Medium armor</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Hide</th>
+<th>15 gp</th>
+<th>+3</th>
+<th>+4</th>
+<th>–3</th>
+<th>20%</th>
+<th style="text-align: center;">20 ft.</th>
+<th style="text-align: center;">15 ft.</th>
+<th>25 lb.</th>
+</tr>
+<tr class="even">
+<th>Scale mail</th>
+<th>50 gp</th>
+<th>+4</th>
+<th>+3</th>
+<th>–4</th>
+<th>25%</th>
+<th style="text-align: center;">20 ft.</th>
+<th style="text-align: center;">15 ft.</th>
+<th>30 lb.</th>
+</tr>
+<tr class="odd">
+<th>Chainmail</th>
+<th>150 gp</th>
+<th>+5</th>
+<th>+2</th>
+<th>–5</th>
+<th>30%</th>
+<th style="text-align: center;">20 ft.</th>
+<th style="text-align: center;">15 ft.</th>
+<th>40 lb.</th>
+</tr>
+<tr class="even">
+<th>Breastplate</th>
+<th>200 gp</th>
+<th>+5</th>
+<th>+3</th>
+<th>–4</th>
+<th>25%</th>
+<th style="text-align: center;">20 ft.</th>
+<th style="text-align: center;">15 ft.</th>
+<th>30 lb.</th>
+</tr>
+<tr class="odd">
+<th>Heavy armor</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>Splint mail</th>
+<th>200 gp</th>
+<th>+6</th>
+<th>+0</th>
+<th>–7</th>
+<th>40%</th>
+<th style="text-align: center;">20 ft.<sup>2</sup></th>
+<th style="text-align: center;">15 ft.<sup>2</sup></th>
+<th>45 lb.</th>
+</tr>
+<tr class="odd">
+<th>Banded mail</th>
+<th>250 gp</th>
+<th>+6</th>
+<th>+1</th>
+<th>–6</th>
+<th>35%</th>
+<th style="text-align: center;">20 ft.<sup>2</sup></th>
+<th style="text-align: center;">15 ft.<sup>2</sup></th>
+<th>35 lb.</th>
+</tr>
+<tr class="even">
+<th>Half-plate</th>
+<th>600 gp</th>
+<th>+7</th>
+<th>+0</th>
+<th>–7</th>
+<th>40%</th>
+<th style="text-align: center;">20 ft.<sup>2</sup></th>
+<th style="text-align: center;">15 ft.<sup>2</sup></th>
+<th>50 lb.</th>
+</tr>
+<tr class="odd">
+<th>Full plate</th>
+<th>1,500 gp</th>
+<th>+8</th>
+<th>+1</th>
+<th>–6</th>
+<th>35%</th>
+<th style="text-align: center;">20 ft.<sup>2</sup></th>
+<th style="text-align: center;">15 ft.<sup>2</sup></th>
+<th>50 lb.</th>
+</tr>
+<tr class="even">
+<th>Shields</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Buckler</th>
+<th>15 gp</th>
+<th>+1</th>
+<th>—</th>
+<th>–1</th>
+<th>5%</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>5 lb.</th>
+</tr>
+<tr class="even">
+<th>Shield, light wooden</th>
+<th>3 gp</th>
+<th>+1</th>
+<th>—</th>
+<th>–1</th>
+<th>5%</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>5 lb.</th>
+</tr>
+<tr class="odd">
+<th>Shield, light steel</th>
+<th>9 gp</th>
+<th>+1</th>
+<th>—</th>
+<th>–1</th>
+<th>5%</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>6 lb.</th>
+</tr>
+<tr class="even">
+<th>Shield, heavy wooden</th>
+<th>7 gp</th>
+<th>+2</th>
+<th>—</th>
+<th>–2</th>
+<th>15%</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>10 lb.</th>
+</tr>
+<tr class="odd">
+<th>Shield, heavy steel</th>
+<th>20 gp</th>
+<th>+2</th>
+<th>—</th>
+<th>–2</th>
+<th>15%</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>15 lb.</th>
+</tr>
+<tr class="even">
+<th>Shield, tower</th>
+<th>30 gp</th>
+<th>+4<sup>3</sup></th>
+<th>+2</th>
+<th>–10</th>
+<th>50%</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>45 lb.</th>
+</tr>
+<tr class="odd">
+<th>Extras</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;"></th>
+<th style="text-align: center;"></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>Armor spikes</th>
+<th>+50 gp</th>
+<th>—</th>
+<th>—</th>
+<th>—</th>
+<th>—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>+10 lb.</th>
+</tr>
+<tr class="odd">
+<th>Gauntlet, locked</th>
+<th>8 gp</th>
+<th>—</th>
+<th>—</th>
+<th>Special</th>
+<th>4</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>+5 lb.</th>
+</tr>
+<tr class="even">
+<th>Shield spikes</th>
+<th>+10 gp</th>
+<th>—</th>
+<th>—</th>
+<th>—</th>
+<th>—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th>+5 lb.</th>
+</tr>
+<tr class="odd">
+<th colspan="9">1 Weight figures are for armor sized to fit Medium
+characters. Armor fitted for Small characters weighs half as much, and
+armor fitted for Large characters weighs twice as much.</th>
+</tr>
+<tr class="even">
+<th colspan="9">2 When running in heavy armor, you move only triple your
+speed, not quadruple.</th>
+</tr>
+<tr class="odd">
+<th colspan="9">3 A tower shield can instead grant you cover. See the
+description.</th>
+</tr>
+<tr class="even">
+<th colspan="9">4 Hand not free to cast spells.</th>
+</tr>
+</tbody>
+</table>
 
-  Armor          Cost    Armor/Shield\   Maximum\   Armor\    Arcane                                                     (30 ft.)                                                  (20 ft.) Weight^1^
-                         Bonus           Dex Bonus  Check     Spell\                                                                                                                        
-                                                    Penalty   Failure                                                                                                                       
-                                                              Chance                                                                                                                        
-
-  Light armor                                                                                                                                                                               
-
-  Padded         5 gp    +1              +8         0         5%                                                          30 ft.                                                    20 ft.  10 lb.
-
-  Leather        10 gp   +2              +6         0         10%                                                         30 ft.                                                    20 ft.  15 lb.
-
-  Studded        25 gp   +3              +5         --1       15%                                                         30 ft.                                                    20 ft.  20 lb.
-  leather                                                                                                                                                                                   
-
-  Chain shirt    100 gp  +4              +4         --2       20%                                                         30 ft.                                                    20 ft.  25 lb.
-
-  Medium armor                                                                                                                                                                              
-
-  Hide           15 gp   +3              +4         --3       20%                                                         20 ft.                                                    15 ft.  25 lb.
-
-  Scale mail     50 gp   +4              +3         --4       25%                                                         20 ft.                                                    15 ft.  30 lb.
-
-  Chainmail      150 gp  +5              +2         --5       30%                                                         20 ft.                                                    15 ft.  40 lb.
-
-  Breastplate    200 gp  +5              +3         --4       25%                                                         20 ft.                                                    15 ft.  30 lb.
-
-  Heavy armor                                                                                                                                                                               
-
-  Splint mail    200 gp  +6              +0         --7       40%                                                       20 ft.^2^                                                     15    45 lb.
-                                                                                                                                                                                    ft.^2^  
-
-  Banded mail    250 gp  +6              +1         --6       35%                                                       20 ft.^2^                                                     15    35 lb.
-                                                                                                                                                                                    ft.^2^  
-
-  Half-plate     600 gp  +7              +0         --7       40%                                                       20 ft.^2^                                                     15    50 lb.
-                                                                                                                                                                                    ft.^2^  
-
-  Full plate     1,500   +8              +1         --6       35%                                                       20 ft.^2^                                                     15    50 lb.
-                 gp                                                                                                                                                                 ft.^2^  
-
-  Shields                                                                                                                                                                                   
-
-  Buckler        15 gp   +1              ---        --1       5%                                                           ---                                                       ---    5 lb.
-
-  Shield, light  3 gp    +1              ---        --1       5%                                                           ---                                                       ---    5 lb.
-  wooden                                                                                                                                                                                    
-
-  Shield, light  9 gp    +1              ---        --1       5%                                                           ---                                                       ---    6 lb.
-  steel                                                                                                                                                                                     
-
-  Shield, heavy  7 gp    +2              ---        --2       15%                                                          ---                                                       ---    10 lb.
-  wooden                                                                                                                                                                                    
-
-  Shield, heavy  20 gp   +2              ---        --2       15%                                                          ---                                                       ---    15 lb.
-  steel                                                                                                                                                                                     
-
-  Shield, tower  30 gp   +4^3^           +2         --10      50%                                                          ---                                                       ---    45 lb.
-
-  Extras                                                                                                                                                                                    
-
-  Armor spikes   +50 gp  ---             ---        ---       ---                                                          ---                                                       ---    +10 lb.
-
-  Gauntlet,      8 gp    ---             ---        Special   4                                                            ---                                                       ---    +5 lb.
-  locked                                                                                                                                                                                    
-
-  Shield spikes  +10 gp  ---             ---        ---       ---                                                          ---                                                       ---    +5 lb.
-
-  1 Weight                                                                                                                                                                                  
-  figures are                                                                                                                                                                               
-  for armor                                                                                                                                                                                 
-  sized to fit                                                                                                                                                                              
-  Medium                                                                                                                                                                                    
-  characters.                                                                                                                                                                               
-  Armor fitted                                                                                                                                                                              
-  for Small                                                                                                                                                                                 
-  characters                                                                                                                                                                                
-  weighs half as                                                                                                                                                                            
-  much, and                                                                                                                                                                                 
-  armor fitted                                                                                                                                                                              
-  for Large                                                                                                                                                                                 
-  characters                                                                                                                                                                                
-  weighs twice                                                                                                                                                                              
-  as much.                                                                                                                                                                                  
-
-  2 When running                                                                                                                                                                            
-  in heavy                                                                                                                                                                                  
-  armor, you                                                                                                                                                                                
-  move only                                                                                                                                                                                 
-  triple your                                                                                                                                                                               
-  speed, not                                                                                                                                                                                
-  quadruple.                                                                                                                                                                                
-
-  3 A tower                                                                                                                                                                                 
-  shield can                                                                                                                                                                                
-  instead grant                                                                                                                                                                             
-  you cover. See                                                                                                                                                                            
-  the                                                                                                                                                                                       
-  description.                                                                                                                                                                              
-
-  4 Hand not                                                                                                                                                                                
-  free to cast                                                                                                                                                                              
-  spells.                                                                                                                                                                                   
-  -------------- ------- --------------- ---------- --------- --------- ---------------------------------------------------------------------------------------------------------- -------- -----------
-
-  : Table: Armor and Shields
+Table: Armor and Shields
 
 ### Armor Descriptions
 
@@ -2153,13 +2339,13 @@ Table: Armor and Shields are described below.
 **Armor Spikes:** You can have spikes added to your armor, which allow
 you to deal extra piercing damage (see Table: Weapons) on a successful
 grapple attack. The spikes count as a martial weapon. If you are not
-proficient with them, you take a --4 penalty on grapple checks when you
+proficient with them, you take a –4 penalty on grapple checks when you
 try to use them. You can also make a regular melee attack (or off-hand
 attack) with the spikes, and they count as a light weapon in this case.
-(You can't also make an attack with armor spikes if you have already
+(You can’t also make an attack with armor spikes if you have already
 made an attack with another off-hand weapon, and vice versa.)
 
-An enhancement bonus to a suit of armor does not improve the spikes'
+An enhancement bonus to a suit of armor does not improve the spikes’
 effectiveness, but the spikes can be made into magic weapons in their
 own right.
 
@@ -2171,13 +2357,13 @@ own right.
 You can use a bow or crossbow without penalty while carrying it. You can
 also use your shield arm to wield a weapon (whether you are using an
 off-hand weapon or using your off hand to help wield a two-handed
-weapon), but you take a --1 penalty on attack rolls while doing so. This
+weapon), but you take a –1 penalty on attack rolls while doing so. This
 penalty stacks with those that may apply for fighting with your off hand
 and for fighting with two weapons. In any case, if you use a weapon in
-your off hand, you don't get the buckler's AC bonus for the rest of the
+your off hand, you don’t get the buckler’s AC bonus for the rest of the
 round.
 
-You can't bash someone with a buckler.
+You can’t bash someone with a buckler.
 
 **Chain Shirt:** A chain shirt comes with a steel cap.
 
@@ -2197,11 +2383,11 @@ gauntlet or attaching a weapon to a locked gauntlet is a full-round
 action that provokes attacks of opportunity.
 
 The price given is for a single locked gauntlet. The weight given
-applies only if you're wearing a breastplate, light armor, or no armor.
+applies only if you’re wearing a breastplate, light armor, or no armor.
 Otherwise, the locked gauntlet replaces a gauntlet you already have as
 part of the armor.
 
-While the gauntlet is locked, you can't use the hand wearing it for
+While the gauntlet is locked, you can’t use the hand wearing it for
 casting spells or employing skills. (You can still cast spells with
 somatic components, provided that your other hand is free.)
 
@@ -2213,7 +2399,7 @@ rather than nonlethal damage with an unarmed strike.
 **Scale Mail:** The suit includes gauntlets.
 
 **Shield, Heavy, Wooden or Steel:** You strap a shield to your forearm
-and grip it with your hand. A heavy shield is so heavy that you can't
+and grip it with your hand. A heavy shield is so heavy that you can’t
 use your shield hand for anything else.
 
 *Wooden or Steel:* Wooden and steel shields offer the same basic
@@ -2230,7 +2416,7 @@ shield bash made with it, but the shield can be made into a magic weapon
 in its own right.
 
 **Shield, Light, Wooden or Steel:** You strap a shield to your forearm
-and grip it with your hand. A light shield's weight lets you carry other
+and grip it with your hand. A light shield’s weight lets you carry other
 items in that hand, although you cannot use weapons with it.
 
 *Wooden or Steel:* Wooden and steel shields offer the same basic
@@ -2254,13 +2440,13 @@ against targeted spells; a spellcaster can cast a spell on you by
 targeting the shield you are holding. You cannot bash with a tower
 shield, nor can you use your shield hand for anything else.
 
-When employing a tower shield in combat, you take a --2 penalty on
-attack rolls because of the shield's encumbrance.
+When employing a tower shield in combat, you take a –2 penalty on attack
+rolls because of the shield’s encumbrance.
 
 **Shield Spikes:** When added to your shield, these spikes turn it into
 a martial piercing weapon that increases the damage dealt by a shield
 bash as if the shield were designed for a creature one size category
-larger than you. You can't put spikes on a buckler or a tower shield.
+larger than you. You can’t put spikes on a buckler or a tower shield.
 Otherwise, attacking with a spiked shield is like making a shield bash
 attack (see above).
 
@@ -2286,7 +2472,7 @@ a weapon.
 All magic armors and shields are automatically considered to be of
 masterwork quality.
 
-You can't add the masterwork quality to armor or a shield after it is
+You can’t add the masterwork quality to armor or a shield after it is
 created; it must be crafted as a masterwork item.
 
 ### Armor for Unusual Creatures
@@ -2297,18 +2483,18 @@ from those given on Table: Armor and Shields. Refer to the appropriate
 line on the table below and apply the multipliers to cost and weight for
 the armor type in question.
 
-  ---------------------------- ---------- -------- ------------- --------
-                               Humanoid            Nonhumanoid   
-  Size                         Cost       Weight   Cost          Weight
-  Tiny or smaller^1^           x1/2       x1/10    x1            x1/10
-  Small                        x1         x1/2     x2            x1/2
-  Medium                       x1         x1       x2            x1
-  Large                        x2         x2       x4            x2
-  Huge                         x4         x5       x8            x5
-  Gargantuan                   x8         x8       x16           x8
-  Colossal                     x16        x12      x32           x12
-  1 Divide armor bonus by 2.                                     
-  ---------------------------- ---------- -------- ------------- --------
+|                             |          |        |             |        |
+|-----------------------------|----------|--------|-------------|--------|
+|                             | Humanoid |        | Nonhumanoid |        |
+| Size                        | Cost     | Weight | Cost        | Weight |
+| Tiny or smaller<sup>1</sup> | x1/2     | x1/10  | x1          | x1/10  |
+| Small                       | x1       | x1/2   | x2          | x1/2   |
+| Medium                      | x1       | x1     | x2          | x1     |
+| Large                       | x2       | x2     | x4          | x2     |
+| Huge                        | x4       | x5     | x8          | x5     |
+| Gargantuan                  | x8       | x8     | x16         | x8     |
+| Colossal                    | x16      | x12    | x32         | x12    |
+| 1 Divide armor bonus by 2.  |          |        |             |        |
 
 ### Getting Into and Out of Armor
 
@@ -2327,546 +2513,1065 @@ armor are each 1 point worse than normal.
 Loosing a shield (removing it from the arm and dropping it) is only a
 move action.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- -------------- ------------------
-  Armor Type                                                                                                                                                                                                 Don             Don Hastily    Remove
-  Shield (any)                                                                                                                                                                                               1 move action   n/a            1 move action
-  Padded, leather, hide, studded leather, or chain shirt                                                                                                                                                     1 minute        5 rounds       1 minute^1^
-  Breastplate, scale mail, chainmail, banded mail, or splint mail                                                                                                                                            4 minutes^1^    1 minute       1 minute^1^
-  Half-plate or full plate                                                                                                                                                                                   4 minutes^2^    4 minutes^1^   1d4+1 minutes^1^
-  1 If the character has some help, cut this time in half. A single character doing nothing else can help one or two adjacent characters. Two characters can't help each other don armor at the same time.                                  
-  2 The wearer must have help to don this armor. Without help, it can be donned only hastily.                                                                                                                                               
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------- -------------- ------------------
+|                                                                                                                                                                                                          |                       |                       |                           |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------|---------------------------|
+| Armor Type                                                                                                                                                                                               | Don                   | Don Hastily           | Remove                    |
+| Shield (any)                                                                                                                                                                                             | 1 move action         | n/a                   | 1 move action             |
+| Padded, leather, hide, studded leather, or chain shirt                                                                                                                                                   | 1 minute              | 5 rounds              | 1 minute<sup>1</sup>      |
+| Breastplate, scale mail, chainmail, banded mail, or splint mail                                                                                                                                          | 4 minutes<sup>1</sup> | 1 minute              | 1 minute<sup>1</sup>      |
+| Half-plate or full plate                                                                                                                                                                                 | 4 minutes<sup>2</sup> | 4 minutes<sup>1</sup> | 1d4+1 minutes<sup>1</sup> |
+| 1 If the character has some help, cut this time in half. A single character doing nothing else can help one or two adjacent characters. Two characters can’t help each other don armor at the same time. |                       |                       |                           |
+| 2 The wearer must have help to don this armor. Without help, it can be donned only hastily.                                                                                                              |                       |                       |                           |
 
-  : Table: Donning Armor
+Table: Donning Armor
 
 ## Goods and Services
 
-+-----------------------+-----------------------+-----------------------+
-| Adventuring Gear      |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Item                  | Cost                  | Weight                |
-+-----------------------+-----------------------+-----------------------+
-| Backpack (empty)      | 2 gp                  | 2 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Barrel (empty)        | 2 gp                  | 30 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Basket (empty)        | 4 sp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Bedroll               | 1 sp                  | 5 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Bell                  | 1 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Blanket, winter       | 5 sp                  | 3 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Block and tackle      | 5 gp                  | 5 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Bottle, wine, glass   | 2 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Bucket (empty)        | 5 sp                  | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Caltrops              | 1 gp                  | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Candle                | 1 cp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Canvas (sq. yd.)      | 1 sp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Case, map or scroll   | 1 gp                  | 1/2 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Chain (10 ft.)        | 30 gp                 | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Chalk, 1 piece        | 1 cp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Chest (empty)         | 2 gp                  | 25 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Crowbar               | 2 gp                  | 5 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Firewood (per day)    | 1 cp                  | 20 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Fishhook              | 1 sp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Fishing net, 25 sq.   | 4 gp                  | 5 lb.                 |
-| ft.                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Flask (empty)         | 3 cp                  | 1-1/2 lb.             |
-+-----------------------+-----------------------+-----------------------+
-| Flint and steel       | 1 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Grappling hook        | 1 gp                  | 4 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Hammer                | 5 sp                  | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Ink (1 oz. vial)      | 8 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Inkpen                | 1 sp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Jug, clay             | 3 cp                  | 9 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Ladder, 10-foot       | 5 cp                  | 20 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Lamp, common          | 1 sp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Lantern, bullseye     | 12 gp                 | 3 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Lantern, hooded       | 7 gp                  | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Lock                  |                       | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 20 gp                 | 1 lb.                 |
-| "margin-left: 0.9em"} |                       |                       |
-| Very simple           |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 40 gp                 | 1 lb.                 |
-| "margin-left: 0.9em"} |                       |                       |
-| Average               |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 80 gp                 | 1 lb.                 |
-| "margin-left: 0.9em"} |                       |                       |
-| Good                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 150 gp                | 1 lb.                 |
-| "margin-left: 0.9em"} |                       |                       |
-| Amazing               |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Manacles              | 15 gp                 | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Manacles, masterwork  | 50 gp                 | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Mirror, small steel   | 10 gp                 | 1/2 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Mug/Tankard, clay     | 2 cp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Oil (1-pint flask)    | 1 sp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Paper (sheet)         | 4 sp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Parchment (sheet)     | 2 sp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Pick, miner's         | 3 gp                  | 10 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Pitcher, clay         | 2 cp                  | 5 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Piton                 | 1 sp                  | 1/2 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Pole, 10-foot         | 2 sp                  | 8 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Pot, iron             | 5 sp                  | 10 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Pouch, belt (empty)   | 1 gp                  | 1/2 lb.^1^            |
-+-----------------------+-----------------------+-----------------------+
-| Ram, portable         | 10 gp                 | 20 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Rations, trail (per   | 5 sp                  | 1 lb.^1^              |
-| day)                  |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Rope, hempen (50 ft.) | 1 gp                  | 10 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Rope, silk (50 ft.)   | 10 gp                 | 5 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Sack (empty)          | 1 sp                  | 1/2 lb.^1^            |
-+-----------------------+-----------------------+-----------------------+
-| Sealing wax           | 1 gp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Sewing needle         | 5 sp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Signal whistle        | 8 sp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Signet ring           | 5 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Sledge                | 1 gp                  | 10 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Soap (per lb.)        | 5 sp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Spade or shovel       | 2 gp                  | 8 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Spyglass              | 1,000 gp              | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Tent                  | 10 gp                 | 20 lb.^1^             |
-+-----------------------+-----------------------+-----------------------+
-| Torch                 | 1 cp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Vial, ink or potion   | 1 gp                  | 1/10 lb.              |
-+-----------------------+-----------------------+-----------------------+
-| Waterskin             | 1 gp                  | 4 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Whetstone             | 2 cp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Special Substances    |                       |                       |
-| and Items             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Item                  | Cost                  | Weight                |
-+-----------------------+-----------------------+-----------------------+
-| Acid (flask)          | 10 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Alchemist's fire      | 20 gp                 | 1 lb.                 |
-| (flask)               |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Antitoxin (vial)      | 50 gp                 | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Everburning torch     | 110 gp                | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Holy water (flask)    | 25 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Smokestick            | 20 gp                 | 1/2 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Sunrod                | 2 gp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Tanglefoot bag        | 50 gp                 | 4 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Thunderstone          | 30 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Tindertwig            | 1 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Tools and Skill Kits  |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Item                  | Cost                  | Weight                |
-+-----------------------+-----------------------+-----------------------+
-| Alchemist's lab       | 500 gp                | 40 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Artisan's tools       | 5 gp                  | 5 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Artisan's tools,      | 55 gp                 | 5 lb.                 |
-| masterwork            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Climber's kit         | 80 gp                 | 5 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Disguise kit          | 50 gp                 | 8 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Healer's kit          | 50 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Holly and mistletoe   | ---                   | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Holy symbol, wooden   | 1 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Holy symbol, silver   | 25 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Hourglass             | 25 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Magnifying glass      | 100 gp                | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Musical instrument,   | 5 gp                  | 3 lb.^1^              |
-| common                |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Musical instrument,   | 100 gp                | 3 lb.^1^              |
-| masterwork            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Scale, merchant's     | 2 gp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Spell component pouch | 5 gp                  | 2 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Spellbook, wizard's   | 15 gp                 | 3 lb.                 |
-| (blank)               |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Thieves' tools        | 30 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Thieves' tools,       | 100 gp                | 2 lb.                 |
-| masterwork            |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Tool, masterwork      | 50 gp                 | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Water clock           | 1,000 gp              | 200 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Clothing              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Item                  | Cost                  | Weight                |
-+-----------------------+-----------------------+-----------------------+
-| Artisan's outfit      | 1 gp                  | 4 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Cleric's vestments    | 5 gp                  | 6 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Cold weather outfit   | 8 gp                  | 7 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Courtier's outfit     | 30 gp                 | 6 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Entertainer's outfit  | 3 gp                  | 4 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Explorer's outfit     | 10 gp                 | 8 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Monk's outfit         | 5 gp                  | 2 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Noble's outfit        | 75 gp                 | 10 lb.^1^             |
-+-----------------------+-----------------------+-----------------------+
-| Peasant's outfit      | 1 sp                  | 2 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Royal outfit          | 200 gp                | 15 lb.^1^             |
-+-----------------------+-----------------------+-----------------------+
-| Scholar's outfit      | 5 gp                  | 6 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Traveler's outfit     | 1 gp                  | 5 lb.^1^              |
-+-----------------------+-----------------------+-----------------------+
-| Food, Drink, and      |                       |                       |
-| Lodging               |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Item                  | Cost                  | Weight                |
-+-----------------------+-----------------------+-----------------------+
-| Ale                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 2 sp                  | 8 lb.                 |
-| "margin-left: 0.9em"} |                       |                       |
-| Gallon                |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 4 cp                  | 1 lb.                 |
-| "margin-left: 0.9em"} |                       |                       |
-| Mug                   |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Banquet (per person)  | 10 gp                 | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Bread, per loaf       | 2 cp                  | 1/2 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Cheese, hunk of       | 1 sp                  | 1/2 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Inn stay (per day)    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 2 gp                  | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Good                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 5 sp                  | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Common                |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 2 sp                  | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Poor                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Meals (per day)       |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 5 sp                  | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Good                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 3 sp                  | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Common                |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 1 sp                  | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Poor                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Meat, chunk of        | 3 sp                  | 1/2 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Wine                  |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 2 sp                  | 6 lb.                 |
-| "margin-left: 0.9em"} |                       |                       |
-| Common (pitcher)      |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 10 gp                 | 1-1/2 lb.             |
-| "margin-left: 0.9em"} |                       |                       |
-| Fine (bottle)         |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Mounts and Related    |                       |                       |
-| Gear                  |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Item                  | Cost                  | Weight                |
-+-----------------------+-----------------------+-----------------------+
-| Barding               |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | x2                    | x1                    |
-| "margin-left: 0.9em"} |                       |                       |
-| Medium creature       |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | x4                    | x2                    |
-| "margin-left: 0.9em"} |                       |                       |
-| Large creature        |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Bit and bridle        | 2 gp                  | 1 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Dog, guard            | 25 gp                 | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Dog, riding           | 150 gp                | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Donkey or mule        | 8 gp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Feed (per day)        | 5 cp                  | 10 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Horse                 |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 200 gp                | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Horse, heavy          |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 75 gp                 | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Horse, light          |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 30 gp                 | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Pony                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 400 gp                | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Warhorse, heavy       |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 150 gp                | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Warhorse, light       |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 100 gp                | ---                   |
-| "margin-left: 0.9em"} |                       |                       |
-| Warpony               |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Saddle                |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 20 gp                 | 30 lb.                |
-| "margin-left: 0.9em"} |                       |                       |
-| Military              |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 5 gp                  | 15 lb.                |
-| "margin-left: 0.9em"} |                       |                       |
-| Pack                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 10 gp                 | 25 lb.                |
-| "margin-left: 0.9em"} |                       |                       |
-| Riding                |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Saddle, Exotic        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 60 gp                 | 40 lb.                |
-| "margin-left: 0.9em"} |                       |                       |
-| Military              |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 15 gp                 | 20 lb.                |
-| "margin-left: 0.9em"} |                       |                       |
-| Pack                  |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | 30 gp                 | 30 lb.                |
-| "margin-left: 0.9em"} |                       |                       |
-| Riding                |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Saddlebags            | 4 gp                  | 8 lb.                 |
-+-----------------------+-----------------------+-----------------------+
-| Stabling (per day)    | 5 sp                  | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Transport             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Item                  | Cost                  | Weight                |
-+-----------------------+-----------------------+-----------------------+
-| Carriage              | 100 gp                | 600 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Cart                  | 15 gp                 | 200 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Galley                | 30,000 gp             | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Keelboat              | 3,000 gp              | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Longship              | 10,000 gp             | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Rowboat               | 50 gp                 | 100 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Oar                   | 2 gp                  | 10 lb.                |
-+-----------------------+-----------------------+-----------------------+
-| Sailing ship          | 10,000 gp             | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Sled                  | 20 gp                 | 300 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Wagon                 | 35 gp                 | 400 lb.               |
-+-----------------------+-----------------------+-----------------------+
-| Warship               | 25,000 gp             | ---                   |
-+-----------------------+-----------------------+-----------------------+
-| Spellcasting and      |                       |                       |
-| Services              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Service               | Cost                  |                       |
-+-----------------------+-----------------------+-----------------------+
-| Coach cab             | 3 cp per mile         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Hireling, trained     | 3 sp per day          |                       |
-+-----------------------+-----------------------+-----------------------+
-| Hireling, untrained   | 1 sp per day          |                       |
-+-----------------------+-----------------------+-----------------------+
-| Messenger             | 2 cp per mile         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Road or gate toll     | 1 cp                  |                       |
-+-----------------------+-----------------------+-----------------------+
-| Ship's passage        | 1 sp per mile         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 0-level        | Caster level x 5      |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 1st-level      | Caster level x 10     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 2nd-level      | Caster level x 20     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 3rd-level      | Caster level x 30     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 4th-level      | Caster level x 40     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 5th-level      | Caster level x 50     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 6th-level      | Caster level x 60     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 7th-level      | Caster level x 70     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 8th-level      | Caster level x 80     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell, 9th-level      | Caster level x 90     |                       |
-|                       | gp^2^                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| --- No weight, or no  |                       |                       |
-| weight worth noting.  |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 1 These items weigh   |                       |                       |
-| one-quarter this      |                       |                       |
-| amount when made for  |                       |                       |
-| Small characters.     |                       |                       |
-| Containers for Small  |                       |                       |
-| characters also carry |                       |                       |
-| one-quarter the       |                       |                       |
-| normal amount.        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 2 See spell           |                       |                       |
-| description for       |                       |                       |
-| additional costs. If  |                       |                       |
-| the additional costs  |                       |                       |
-| put the spell's total |                       |                       |
-| cost above 3,000 gp,  |                       |                       |
-| that spell is not     |                       |                       |
-| generally available.  |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+<table class="full-width-table" data-debug="no-caption">
+<caption>Table: Goods and Services</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th>Adventuring Gear</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr class="odd">
+<th>Backpack (empty)</th>
+<th>2 gp</th>
+<th>2 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Barrel (empty)</th>
+<th>2 gp</th>
+<th>30 lb.</th>
+</tr>
+<tr class="odd">
+<th>Basket (empty)</th>
+<th>4 sp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Bedroll</th>
+<th>1 sp</th>
+<th>5 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Bell</th>
+<th>1 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Blanket, winter</th>
+<th>5 sp</th>
+<th>3 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Block and tackle</th>
+<th>5 gp</th>
+<th>5 lb.</th>
+</tr>
+<tr class="even">
+<th>Bottle, wine, glass</th>
+<th>2 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Bucket (empty)</th>
+<th>5 sp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="even">
+<th>Caltrops</th>
+<th>1 gp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Candle</th>
+<th>1 cp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Canvas (sq. yd.)</th>
+<th>1 sp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Case, map or scroll</th>
+<th>1 gp</th>
+<th>1/2 lb.</th>
+</tr>
+<tr class="even">
+<th>Chain (10 ft.)</th>
+<th>30 gp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Chalk, 1 piece</th>
+<th>1 cp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Chest (empty)</th>
+<th>2 gp</th>
+<th>25 lb.</th>
+</tr>
+<tr class="odd">
+<th>Crowbar</th>
+<th>2 gp</th>
+<th>5 lb.</th>
+</tr>
+<tr class="even">
+<th>Firewood (per day)</th>
+<th>1 cp</th>
+<th>20 lb.</th>
+</tr>
+<tr class="odd">
+<th>Fishhook</th>
+<th>1 sp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Fishing net, 25 sq. ft.</th>
+<th>4 gp</th>
+<th>5 lb.</th>
+</tr>
+<tr class="odd">
+<th>Flask (empty)</th>
+<th>3 cp</th>
+<th>1-1/2 lb.</th>
+</tr>
+<tr class="even">
+<th>Flint and steel</th>
+<th>1 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Grappling hook</th>
+<th>1 gp</th>
+<th>4 lb.</th>
+</tr>
+<tr class="even">
+<th>Hammer</th>
+<th>5 sp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Ink (1 oz. vial)</th>
+<th>8 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Inkpen</th>
+<th>1 sp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Jug, clay</th>
+<th>3 cp</th>
+<th>9 lb.</th>
+</tr>
+<tr class="even">
+<th>Ladder, 10-foot</th>
+<th>5 cp</th>
+<th>20 lb.</th>
+</tr>
+<tr class="odd">
+<th>Lamp, common</th>
+<th>1 sp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Lantern, bullseye</th>
+<th>12 gp</th>
+<th>3 lb.</th>
+</tr>
+<tr class="odd">
+<th>Lantern, hooded</th>
+<th>7 gp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="even">
+<th>Lock</th>
+<th></th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Very simple
+</div></th>
+<th>20 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Average
+</div></th>
+<th>40 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Good
+</div></th>
+<th>80 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Amazing
+</div></th>
+<th>150 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Manacles</th>
+<th>15 gp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="even">
+<th>Manacles, masterwork</th>
+<th>50 gp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Mirror, small steel</th>
+<th>10 gp</th>
+<th>1/2 lb.</th>
+</tr>
+<tr class="even">
+<th>Mug/Tankard, clay</th>
+<th>2 cp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Oil (1-pint flask)</th>
+<th>1 sp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Paper (sheet)</th>
+<th>4 sp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Parchment (sheet)</th>
+<th>2 sp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Pick, miner’s</th>
+<th>3 gp</th>
+<th>10 lb.</th>
+</tr>
+<tr class="odd">
+<th>Pitcher, clay</th>
+<th>2 cp</th>
+<th>5 lb.</th>
+</tr>
+<tr class="even">
+<th>Piton</th>
+<th>1 sp</th>
+<th>1/2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Pole, 10-foot</th>
+<th>2 sp</th>
+<th>8 lb.</th>
+</tr>
+<tr class="even">
+<th>Pot, iron</th>
+<th>5 sp</th>
+<th>10 lb.</th>
+</tr>
+<tr class="odd">
+<th>Pouch, belt (empty)</th>
+<th>1 gp</th>
+<th>1/2 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Ram, portable</th>
+<th>10 gp</th>
+<th>20 lb.</th>
+</tr>
+<tr class="odd">
+<th>Rations, trail (per day)</th>
+<th>5 sp</th>
+<th>1 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Rope, hempen (50 ft.)</th>
+<th>1 gp</th>
+<th>10 lb.</th>
+</tr>
+<tr class="odd">
+<th>Rope, silk (50 ft.)</th>
+<th>10 gp</th>
+<th>5 lb.</th>
+</tr>
+<tr class="even">
+<th>Sack (empty)</th>
+<th>1 sp</th>
+<th>1/2 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Sealing wax</th>
+<th>1 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Sewing needle</th>
+<th>5 sp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Signal whistle</th>
+<th>8 sp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Signet ring</th>
+<th>5 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Sledge</th>
+<th>1 gp</th>
+<th>10 lb.</th>
+</tr>
+<tr class="even">
+<th>Soap (per lb.)</th>
+<th>5 sp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Spade or shovel</th>
+<th>2 gp</th>
+<th>8 lb.</th>
+</tr>
+<tr class="even">
+<th>Spyglass</th>
+<th>1,000 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Tent</th>
+<th>10 gp</th>
+<th>20 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Torch</th>
+<th>1 cp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Vial, ink or potion</th>
+<th>1 gp</th>
+<th>1/10 lb.</th>
+</tr>
+<tr class="even">
+<th>Waterskin</th>
+<th>1 gp</th>
+<th>4 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Whetstone</th>
+<th>2 cp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Special Substances and Items</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr class="even">
+<th>Acid (flask)</th>
+<th>10 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Alchemist’s fire (flask)</th>
+<th>20 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Antitoxin (vial)</th>
+<th>50 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Everburning torch</th>
+<th>110 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Holy water (flask)</th>
+<th>25 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Smokestick</th>
+<th>20 gp</th>
+<th>1/2 lb.</th>
+</tr>
+<tr class="even">
+<th>Sunrod</th>
+<th>2 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Tanglefoot bag</th>
+<th>50 gp</th>
+<th>4 lb.</th>
+</tr>
+<tr class="even">
+<th>Thunderstone</th>
+<th>30 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Tindertwig</th>
+<th>1 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Tools and Skill Kits</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr class="even">
+<th>Alchemist’s lab</th>
+<th>500 gp</th>
+<th>40 lb.</th>
+</tr>
+<tr class="odd">
+<th>Artisan’s tools</th>
+<th>5 gp</th>
+<th>5 lb.</th>
+</tr>
+<tr class="even">
+<th>Artisan’s tools, masterwork</th>
+<th>55 gp</th>
+<th>5 lb.</th>
+</tr>
+<tr class="odd">
+<th>Climber’s kit</th>
+<th>80 gp</th>
+<th>5 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Disguise kit</th>
+<th>50 gp</th>
+<th>8 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Healer’s kit</th>
+<th>50 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Holly and mistletoe</th>
+<th>—</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Holy symbol, wooden</th>
+<th>1 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Holy symbol, silver</th>
+<th>25 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Hourglass</th>
+<th>25 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Magnifying glass</th>
+<th>100 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Musical instrument, common</th>
+<th>5 gp</th>
+<th>3 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Musical instrument, masterwork</th>
+<th>100 gp</th>
+<th>3 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Scale, merchant’s</th>
+<th>2 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Spell component pouch</th>
+<th>5 gp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Spellbook, wizard’s (blank)</th>
+<th>15 gp</th>
+<th>3 lb.</th>
+</tr>
+<tr class="even">
+<th>Thieves’ tools</th>
+<th>30 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Thieves’ tools, masterwork</th>
+<th>100 gp</th>
+<th>2 lb.</th>
+</tr>
+<tr class="even">
+<th>Tool, masterwork</th>
+<th>50 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Water clock</th>
+<th>1,000 gp</th>
+<th>200 lb.</th>
+</tr>
+<tr class="even">
+<th>Clothing</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr class="even">
+<th>Artisan’s outfit</th>
+<th>1 gp</th>
+<th>4 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Cleric’s vestments</th>
+<th>5 gp</th>
+<th>6 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Cold weather outfit</th>
+<th>8 gp</th>
+<th>7 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Courtier’s outfit</th>
+<th>30 gp</th>
+<th>6 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Entertainer’s outfit</th>
+<th>3 gp</th>
+<th>4 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Explorer’s outfit</th>
+<th>10 gp</th>
+<th>8 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Monk’s outfit</th>
+<th>5 gp</th>
+<th>2 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Noble’s outfit</th>
+<th>75 gp</th>
+<th>10 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Peasant’s outfit</th>
+<th>1 sp</th>
+<th>2 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Royal outfit</th>
+<th>200 gp</th>
+<th>15 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Scholar’s outfit</th>
+<th>5 gp</th>
+<th>6 lb.<sup>1</sup></th>
+</tr>
+<tr class="odd">
+<th>Traveler’s outfit</th>
+<th>1 gp</th>
+<th>5 lb.<sup>1</sup></th>
+</tr>
+<tr class="even">
+<th>Food, Drink, and Lodging</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr class="even">
+<th>Ale</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Gallon
+</div></th>
+<th>2 sp</th>
+<th>8 lb.</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Mug
+</div></th>
+<th>4 cp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="odd">
+<th>Banquet (per person)</th>
+<th>10 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Bread, per loaf</th>
+<th>2 cp</th>
+<th>1/2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Cheese, hunk of</th>
+<th>1 sp</th>
+<th>1/2 lb.</th>
+</tr>
+<tr class="even">
+<th>Inn stay (per day)</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Good
+</div></th>
+<th>2 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Common
+</div></th>
+<th>5 sp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Poor
+</div></th>
+<th>2 sp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Meals (per day)</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Good
+</div></th>
+<th>5 sp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Common
+</div></th>
+<th>3 sp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Poor
+</div></th>
+<th>1 sp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Meat, chunk of</th>
+<th>3 sp</th>
+<th>1/2 lb.</th>
+</tr>
+<tr class="odd">
+<th>Wine</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Common (pitcher)
+</div></th>
+<th>2 sp</th>
+<th>6 lb.</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Fine (bottle)
+</div></th>
+<th>10 gp</th>
+<th>1-1/2 lb.</th>
+</tr>
+<tr class="even">
+<th>Mounts and Related Gear</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr class="even">
+<th>Barding</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Medium creature
+</div></th>
+<th>x2</th>
+<th>x1</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Large creature
+</div></th>
+<th>x4</th>
+<th>x2</th>
+</tr>
+<tr class="odd">
+<th>Bit and bridle</th>
+<th>2 gp</th>
+<th>1 lb.</th>
+</tr>
+<tr class="even">
+<th>Dog, guard</th>
+<th>25 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Dog, riding</th>
+<th>150 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Donkey or mule</th>
+<th>8 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Feed (per day)</th>
+<th>5 cp</th>
+<th>10 lb.</th>
+</tr>
+<tr class="even">
+<th>Horse</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Horse, heavy
+</div></th>
+<th>200 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Horse, light
+</div></th>
+<th>75 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Pony
+</div></th>
+<th>30 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Warhorse, heavy
+</div></th>
+<th>400 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Warhorse, light
+</div></th>
+<th>150 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Warpony
+</div></th>
+<th>100 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Saddle</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Military
+</div></th>
+<th>20 gp</th>
+<th>30 lb.</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Pack
+</div></th>
+<th>5 gp</th>
+<th>15 lb.</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Riding
+</div></th>
+<th>10 gp</th>
+<th>25 lb.</th>
+</tr>
+<tr class="odd">
+<th>Saddle, Exotic</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Military
+</div></th>
+<th>60 gp</th>
+<th>40 lb.</th>
+</tr>
+<tr class="odd">
+<th><div style="margin-left: 0.9em">
+Pack
+</div></th>
+<th>15 gp</th>
+<th>20 lb.</th>
+</tr>
+<tr class="even">
+<th><div style="margin-left: 0.9em">
+Riding
+</div></th>
+<th>30 gp</th>
+<th>30 lb.</th>
+</tr>
+<tr class="odd">
+<th>Saddlebags</th>
+<th>4 gp</th>
+<th>8 lb.</th>
+</tr>
+<tr class="even">
+<th>Stabling (per day)</th>
+<th>5 sp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Transport</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>Item</th>
+<th>Cost</th>
+<th>Weight</th>
+</tr>
+<tr class="odd">
+<th>Carriage</th>
+<th>100 gp</th>
+<th>600 lb.</th>
+</tr>
+<tr class="even">
+<th>Cart</th>
+<th>15 gp</th>
+<th>200 lb.</th>
+</tr>
+<tr class="odd">
+<th>Galley</th>
+<th>30,000 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Keelboat</th>
+<th>3,000 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Longship</th>
+<th>10,000 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Rowboat</th>
+<th>50 gp</th>
+<th>100 lb.</th>
+</tr>
+<tr class="odd">
+<th>Oar</th>
+<th>2 gp</th>
+<th>10 lb.</th>
+</tr>
+<tr class="even">
+<th>Sailing ship</th>
+<th>10,000 gp</th>
+<th>—</th>
+</tr>
+<tr class="odd">
+<th>Sled</th>
+<th>20 gp</th>
+<th>300 lb.</th>
+</tr>
+<tr class="even">
+<th>Wagon</th>
+<th>35 gp</th>
+<th>400 lb.</th>
+</tr>
+<tr class="odd">
+<th>Warship</th>
+<th>25,000 gp</th>
+<th>—</th>
+</tr>
+<tr class="even">
+<th>Spellcasting and Services</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>Service</th>
+<th colspan="2">Cost</th>
+</tr>
+<tr class="even">
+<th>Coach cab</th>
+<th colspan="2">3 cp per mile</th>
+</tr>
+<tr class="odd">
+<th>Hireling, trained</th>
+<th colspan="2">3 sp per day</th>
+</tr>
+<tr class="even">
+<th>Hireling, untrained</th>
+<th colspan="2">1 sp per day</th>
+</tr>
+<tr class="odd">
+<th>Messenger</th>
+<th colspan="2">2 cp per mile</th>
+</tr>
+<tr class="even">
+<th>Road or gate toll</th>
+<th colspan="2">1 cp</th>
+</tr>
+<tr class="odd">
+<th>Ship’s passage</th>
+<th colspan="2">1 sp per mile</th>
+</tr>
+<tr class="even">
+<th>Spell, 0-level</th>
+<th colspan="2">Caster level x 5 gp<sup>2</sup></th>
+</tr>
+<tr class="odd">
+<th>Spell, 1st-level</th>
+<th colspan="2">Caster level x 10 gp<sup>2</sup></th>
+</tr>
+<tr class="even">
+<th>Spell, 2nd-level</th>
+<th colspan="2">Caster level x 20 gp<sup>2</sup></th>
+</tr>
+<tr class="odd">
+<th>Spell, 3rd-level</th>
+<th colspan="2">Caster level x 30 gp<sup>2</sup></th>
+</tr>
+<tr class="even">
+<th>Spell, 4th-level</th>
+<th colspan="2">Caster level x 40 gp<sup>2</sup></th>
+</tr>
+<tr class="odd">
+<th>Spell, 5th-level</th>
+<th colspan="2">Caster level x 50 gp<sup>2</sup></th>
+</tr>
+<tr class="even">
+<th>Spell, 6th-level</th>
+<th colspan="2">Caster level x 60 gp<sup>2</sup></th>
+</tr>
+<tr class="odd">
+<th>Spell, 7th-level</th>
+<th colspan="2">Caster level x 70 gp<sup>2</sup></th>
+</tr>
+<tr class="even">
+<th>Spell, 8th-level</th>
+<th colspan="2">Caster level x 80 gp<sup>2</sup></th>
+</tr>
+<tr class="odd">
+<th>Spell, 9th-level</th>
+<th colspan="2">Caster level x 90 gp<sup>2</sup></th>
+</tr>
+<tr class="even">
+<th colspan="3">— No weight, or no weight worth noting.</th>
+</tr>
+<tr class="odd">
+<th colspan="3">1 These items weigh one-quarter this amount when made
+for Small characters. Containers for Small characters also carry
+one-quarter the normal amount.</th>
+</tr>
+<tr class="even">
+<th colspan="3">2 See spell description for additional costs. If the
+additional costs put the spell’s total cost above 3,000 gp, that spell
+is not generally available.</th>
+</tr>
+</tbody>
+</table>
 
-: Table: Goods and Services
+Table: Goods and Services
 
 ### Adventuring Gear
 
 few of the pieces of adventuring gear found on Table: Goods and Services
 are described below, along with any special benefits they confer on the
-user ("you").
+user (“you”).
 
 **Caltrops:** A caltrop is a four-pronged iron spike crafted so that one
 prong faces up no matter how the caltrop comes to rest. You scatter
@@ -2877,11 +3582,11 @@ covers an area 5 feet square.
 Each time a creature moves into an area covered by caltrops (or spends a
 round fighting while standing in such an area), it might step on one.
 The caltrops make an attack roll (base attack bonus +0) against the
-creature. For this attack, the creature's shield, armor, and deflection
+creature. For this attack, the creature’s shield, armor, and deflection
 bonuses do not count. If the creature is wearing shoes or other
 footwear, it gets a +2 armor bonus to AC. If the caltrops succeed on the
 attack, the creature has stepped on one. The caltrop deals 1 point of
-damage, and the creature's speed is reduced by one-half because its foot
+damage, and the creature’s speed is reduced by one-half because its foot
 is wounded. This movement penalty lasts for 24 hours, or until the
 creature is successfully treated with a DC 15 Heal check, or until it
 receives at least 1 point of magical curing. A charging or running
@@ -2933,7 +3638,7 @@ for 6 hours on a pint of oil. You can carry a hooded lantern in one
 hand.
 
 **Lock:** The DC to open a lock with the Open Lock skill depends on the
-lock's quality: simple (DC 20), average (DC 25), good (DC 30), or
+lock’s quality: simple (DC 20), average (DC 25), good (DC 30), or
 superior (DC 40).
 
 **Manacles and Manacles, Masterwork:** Manacles can bind a Medium
@@ -2953,7 +3658,7 @@ Colossal, Tiny, Diminutive, and Fine creatures can be held only by
 specially made manacles.
 
 **Oil:** A pint of oil burns for 6 hours in a lantern. You can use a
-flask of oil as a splash weapon. Use the rules for alchemist's fire,
+flask of oil as a splash weapon. Use the rules for alchemist’s fire,
 except that it takes a full round action to prepare a flask with a fuse.
 Once it is thrown, there is a 50% chance of the flask igniting
 successfully.
@@ -2997,7 +3702,7 @@ direct hit deals 1d6 points of acid damage. Every creature within 5 feet
 of the point where the acid hits takes 1 point of acid damage from the
 splash.
 
-**Alchemist's Fire:** You can throw a flask of alchemist's fire as a
+**Alchemist’s Fire:** You can throw a flask of alchemist’s fire as a
 splash weapon. Treat this attack as a ranged touch attack with a range
 increment of 10 feet.
 
@@ -3052,8 +3757,8 @@ gold tip is burned out and worthless.
 ranged touch attack with a range increment of 10 feet), the bag comes
 apart and the goo bursts out, entangling the target and then becoming
 tough and resilient upon exposure to air. An entangled creature takes a
---2 penalty on attack rolls and a --4 penalty to Dexterity and must make
-a DC 15 Reflex save or be glued to the floor, unable to move. Even on a
+–2 penalty on attack rolls and a –4 penalty to Dexterity and must make a
+DC 15 Reflex save or be glued to the floor, unable to move. Even on a
 successful save, it can move only at half speed. Huge or larger
 creatures are unaffected by a tanglefoot bag. A flying creature is not
 stuck to the floor, but it must make a DC 15 Reflex save or be unable to
@@ -3078,11 +3783,11 @@ range increment of 20 feet. When it strikes a hard surface (or is struck
 hard), it creates a deafening bang that is treated as a sonic attack.
 Each creature within a 10-foot-radius spread must make a DC 15 Fortitude
 save or be deafened for 1 hour. A deafened creature, in addition to the
-obvious effects, takes a --4 penalty on initiative and has a 20% chance
+obvious effects, takes a –4 penalty on initiative and has a 20% chance
 to miscast and lose any spell with a verbal component that it tries to
 cast.
 
-Since you don't need to hit a specific target, you can simply aim at a
+Since you don’t need to hit a specific target, you can simply aim at a
 particular 5-foot square. Treat the target square as AC 5.
 
 **Tindertwig:** The alchemical substance on the end of this small,
@@ -3094,31 +3799,31 @@ lighting any other fire with one is at least a standard action.
 
 ### Tools and Skill Kits
 
-**Alchemist's Lab:** An alchemist's lab always has the perfect tool for
+**Alchemist’s Lab:** An alchemist’s lab always has the perfect tool for
 making alchemical items, so it provides a +2 circumstance bonus on Craft
 (alchemy) checks. It has no bearing on the costs related to the Craft
 (alchemy) skill. Without this lab, a character with the Craft (alchemy)
 skill is assumed to have enough tools to use the skill but not enough to
 get the +2 bonus that the lab provides.
 
-**Artisan's Tools:** These special tools include the items needed to
-pursue any craft. Without them, you have to use improvised tools (--2
+**Artisan’s Tools:** These special tools include the items needed to
+pursue any craft. Without them, you have to use improvised tools (–2
 penalty on Craft checks), if you can do the job at all.
 
-**Artisan's Tools, Masterwork:** These tools serve the same purpose as
-artisan's tools (above), but masterwork artisan's tools are the perfect
+**Artisan’s Tools, Masterwork:** These tools serve the same purpose as
+artisan’s tools (above), but masterwork artisan’s tools are the perfect
 tools for the job, so you get a +2 circumstance bonus on Craft checks
 made with them.
 
-**Climber's Kit:** This is the perfect tool for climbing and gives you a
+**Climber’s Kit:** This is the perfect tool for climbing and gives you a
 +2 circumstance bonus on Climb checks.
 
 **Disguise Kit:** The kit is the perfect tool for disguise and provides
 a +2 circumstance bonus on Disguise checks. A disguise kit is exhausted
 after ten uses.
 
-**Healer's Kit:** It is the perfect tool for healing and provides a +2
-circumstance bonus on Heal checks. A healer's kit is exhausted after ten
+**Healer’s Kit:** It is the perfect tool for healing and provides a +2
+circumstance bonus on Heal checks. A healer’s kit is exhausted after ten
 uses.
 
 **Holy Symbol, Silver or Wooden:** A holy symbol focuses positive
@@ -3141,25 +3846,25 @@ involving any item that is small or highly detailed.
 **Musical Instrument, Common or Masterwork:** A masterwork instrument
 grants a +2 circumstance bonus on Perform checks involving its use.
 
-**Scale, Merchant's:** A scale grants a +2 circumstance bonus on
+**Scale, Merchant’s:** A scale grants a +2 circumstance bonus on
 Appraise checks involving items that are valued by weight, including
 anything made of precious metals.
 
 **Spell Component Pouch:** A spellcaster with a spell component pouch is
 assumed to have all the material components and focuses needed for
 spellcasting, except for those components that have a specific cost,
-divine focuses, and focuses that wouldn't fit in a pouch.
+divine focuses, and focuses that wouldn’t fit in a pouch.
 
-**Spellbook, Wizard's (Blank):** A spellbook has 100 pages of parchment,
+**Spellbook, Wizard’s (Blank):** A spellbook has 100 pages of parchment,
 and each spell takes up one page per spell level (one page each for
 0-level spells).
 
-**Thieves' Tools:** This kit contains the tools you need to use the
+**Thieves’ Tools:** This kit contains the tools you need to use the
 Disable Device and Open Lock skills. Without these tools, you must
-improvise tools, and you take a --2 circumstance penalty on Disable
+improvise tools, and you take a –2 circumstance penalty on Disable
 Device and Open Locks checks.
 
-**Thieves' Tools, Masterwork:** This kit contains extra tools and tools
+**Thieves’ Tools, Masterwork:** This kit contains extra tools and tools
 of better make, which grant a +2 circumstance bonus on Disable Device
 and Open Lock checks.
 
@@ -3175,11 +3880,11 @@ regulated flow of droplets of water.
 
 ### Clothing
 
-**Artisan's Outfit:** This outfit includes a shirt with buttons, a skirt
+**Artisan’s Outfit:** This outfit includes a shirt with buttons, a skirt
 or pants with a drawstring, shoes, and perhaps a cap or hat. It may also
 include a belt or a leather or cloth apron for carrying tools.
 
-**Cleric's Vestments:** These ecclesiastical clothes are for performing
+**Cleric’s Vestments:** These ecclesiastical clothes are for performing
 priestly functions, not for adventuring.
 
 **Cold Weather Outfit:** A cold weather outfit includes a wool coat,
@@ -3188,20 +3893,20 @@ linen shirt, wool cap, heavy cloak, thick pants or skirt, and
 boots. This outfit grants a +5 circumstance bonus on Fortitude saving
 throws against exposure to cold weather.
 
-**Courtier's Outfit:** This outfit includes fancy, tailored clothes in
+**Courtier’s Outfit:** This outfit includes fancy, tailored clothes in
 whatever fashion happens to be the current style in the courts of the
 nobles. Anyone trying to influence nobles or courtiers while wearing
-street dress will have a hard time of it (--2 penalty on Charisma-based
+street dress will have a hard time of it (–2 penalty on Charisma-based
 skill checks to influence such individuals). If you wear this outfit
 without jewelry (costing an additional 50 gp), you look like an
 out-of-place commoner.
 
-**Entertainer's Outfit:** This set of flashy, perhaps even gaudy,
+**Entertainer’s Outfit:** This set of flashy, perhaps even gaudy,
 clothes is for entertaining. While the outfit looks whimsical, its
 practical design lets you tumble, dance, walk a tightrope, or just run
 (if the audience turns ugly).
 
-**Explorer's Outfit:** This is a full set of clothes for someone who
+**Explorer’s Outfit:** This is a full set of clothes for someone who
 never knows what to expect. It includes sturdy boots, leather breeches
 or a skirt, a belt, a shirt (perhaps with a vest or jacket), gloves, and
 a cloak. Rather than a leather skirt, a leather overtunic may be worn
@@ -3209,19 +3914,19 @@ over a cloth skirt. The clothes have plenty of pockets (especially the
 cloak). The outfit also includes any extra items you might need, such as
 a scarf or a wide-brimmed hat.
 
-**Monk's Outfit:** This simple outfit includes sandals, loose breeches,
+**Monk’s Outfit:** This simple outfit includes sandals, loose breeches,
 and a loose shirt, and is all bound together with sashes. The outfit is
-designed to give you maximum mobility, and it's made of high-quality
+designed to give you maximum mobility, and it’s made of high-quality
 fabric. You can hide small weapons in pockets hidden in the folds, and
 the sashes are strong enough to serve as short ropes.
 
-**Noble's Outfit:** This set of clothes is designed specifically to be
+**Noble’s Outfit:** This set of clothes is designed specifically to be
 expensive and to show it. Precious metals and gems are worked into the
 clothing. To fit into the noble crowd, every would-be noble also needs a
 signet ring (see Adventuring Gear, above) and jewelry (worth at least
 100 gp).
 
-**Peasant's Outfit:** This set of clothes consists of a loose shirt and
+**Peasant’s Outfit:** This set of clothes consists of a loose shirt and
 baggy breeches, or a loose shirt and skirt or overdress. Cloth wrappings
 are used for shoes.
 
@@ -3229,10 +3934,10 @@ are used for shoes.
 crown, ring, and other accoutrements. Royal clothes are ostentatious,
 with gems, gold, silk, and fur in abundance.
 
-**Scholar's Outfit:** Perfect for a scholar, this outfit includes a
+**Scholar’s Outfit:** Perfect for a scholar, this outfit includes a
 robe, a belt, a cap, soft shoes, and possibly a cloak.
 
-**Traveler's Outfit:** This set of clothes consists of boots, a wool
+**Traveler’s Outfit:** This set of clothes consists of boots, a wool
 skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or
 jacket), and an ample cloak with a hood.
 
@@ -3266,22 +3971,22 @@ mount, the cost is only double, and the weight is the same as for Medium
 armor worn by a humanoid. Medium or heavy barding slows a mount that
 wears it, as shown on the table below.
 
-  -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------- ----------- -----------
-                                                                                                                                                                         []{style="                                                                           
-                                                                                                                                                                              display: block;                                                                 
-                                                                                                                                                                            position: absolute;                                                               
-                                                                                                                                                                                 right: 0;                                                                    
-                                                                                                                                                                                 top: 50%;                                                                    
-                                                                                                                                                                                 left: 0px;                                                                   
-                                                                                                                                                                    border-top: 1px solid currentColor;                                                       
-                                                                                                                          "}[Base Speed ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}              
-  Barding                                                                                                                                                                 (40 ft.)                                                                 (50 ft.)    (60 ft.)
-  Medium                                                                                                                                                                   30 ft.                                                                   35 ft.      40 ft.
-  Heavy                                                                                                                                                                  30 ft.^1^                                                                 35 ft.^1^   40 ft.^1^
-  1 A mount wearing heavy armor moves at only triple its normal speed when running instead of quadruple.                                                                                                                                                      
-  -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------- ----------- -----------
+|                                                                                                        |                                                                                                                                                       |                    |                    |
+|--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:------------------:|
+|                                                                                                        |                                                                     <span style="                                                                     
+                                                                                                                                                                                      display: block;                                                            
+                                                                                                                                                                                    position: absolute;                                                          
+                                                                                                                                                                                         right: 0;                                                               
+                                                                                                                                                                                         top: 50%;                                                               
+                                                                                                                                                                                        left: 0px;                                                               
+                                                                                                                                                                            border-top: 1px solid currentColor;                                                  
+                                                                                                                        "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Base Speed </span>  |                    |                    |
+| Barding                                                                                                |                                                                       (40 ft.)                                                                        |      (50 ft.)      |      (60 ft.)      |
+| Medium                                                                                                 |                                                                        30 ft.                                                                         |       35 ft.       |       40 ft.       |
+| Heavy                                                                                                  |                                                                  30 ft.<sup>1</sup>                                                                   | 35 ft.<sup>1</sup> | 40 ft.<sup>1</sup> |
+| 1 A mount wearing heavy armor moves at only triple its normal speed when running instead of quadruple. |                                                                                                                                                       |                    |                    |
 
-Flying mounts can't fly in medium or heavy barding.
+Flying mounts can’t fly in medium or heavy barding.
 
 Removing and fitting barding takes five times as long as the figures
 given on Table: Donning Armor. A barded animal cannot be used to carry
@@ -3313,7 +4018,7 @@ come in military, pack, and riding styles.
 
 **Saddle, Military:** A military saddle braces the rider, providing a +2
 circumstance bonus on Ride checks related to staying in the saddle. If
-you're knocked unconscious while in a military saddle, you have a 75%
+you’re knocked unconscious while in a military saddle, you have a 75%
 chance to stay in the saddle (compared to 50% for a riding saddle).
 
 **Saddle, Pack:** A pack saddle holds gear and supplies, but not a
@@ -3368,7 +4073,7 @@ wagon comes with the harness needed to pull it.
 
 **Warship:** This 100-foot-long ship has a single mast, although oars
 can also propel it. It has a crew of 60 to 80 rowers. This ship can
-carry 160 soldiers, but not for long distances, since there isn't room
+carry 160 soldiers, but not for long distances, since there isn’t room
 for supplies to support that many people. The warship cannot make sea
 voyages and sticks to the coast. It is not used for cargo. It moves
 about 2-1/2 miles per hour when being rowed or under sail.
@@ -3400,7 +4105,7 @@ well-trodden, well-kept, and well-guarded road to pay for patrols on it
 and for its upkeep. Occasionally, a large walled city charges a toll to
 enter or exit (or sometimes just to enter).
 
-**Ship's Passage:** Most ships do not specialize in passengers, but many
+**Ship’s Passage:** Most ships do not specialize in passengers, but many
 have the capability to take a few along when transporting cargo. Double
 the given cost for creatures larger than Medium or creatures that are
 otherwise difficult to bring aboard a ship.
@@ -3424,9 +4129,9 @@ cost, add 5 gp per XP lost.
 Furthermore, if a spell has dangerous consequences, the spellcaster will
 certainly require proof that you can and will pay for dealing with any
 such consequences (that is, assuming that the spellcaster even agrees to
-cast such a spell, which isn't certain). In the case of spells that
+cast such a spell, which isn’t certain). In the case of spells that
 transport the caster and characters over a distance, you will likely
-have to pay for two castings of the spell, even if you aren't returning
+have to pay for two castings of the spell, even if you aren’t returning
 with the caster.
 
 In addition, not every town or village has a spellcaster of sufficient
@@ -3435,5 +4140,5 @@ larger settlement) to be reasonably assured of finding a spellcaster
 capable of casting 1st-level spells, a large town for 2nd-level spells,
 a small city for 3rd- or 4th-level spells, a large city for 5th- or
 6th-level spells, and a metropolis for 7th- or 8th-level spells. Even a
-metropolis isn't guaranteed to have a local spellcaster able to cast
+metropolis isn’t guaranteed to have a local spellcaster able to cast
 9th-level spells.

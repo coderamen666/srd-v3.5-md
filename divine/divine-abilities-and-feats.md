@@ -3,7 +3,7 @@ the terms of the Open Game License v1.0a.
 
 # SALIENT DIVINE ABILITIES
 
-A salient divine ability is like a feat---it gives a deity a new
+A salient divine ability is like a feat—it gives a deity a new
 capability or improves one that the deity already has. A deity has one
 salient divine ability for each divine rank the deity has, plus
 additional salient divine abilities reflecting its status: Demigods
@@ -14,7 +14,7 @@ Some salient divine abilities have prerequisites. Usually, the deity
 must have all the listed prerequisites to have the ability. A divine
 rank of 1 is a prerequisite for all salient divine abilities. The most
 common salient divine abilities are described here. A few deities have
-unique salient divine abilities that are described in the deity's
+unique salient divine abilities that are described in the deity’s
 individual entry.
 
 **Using Salient Divine Abilities:** Using a salient divine ability is a
@@ -180,9 +180,9 @@ using the ability in play.
 is required, the entry is absent. A resting deity can engage in light
 activities such as talking or walking at half speed. When attempting
 anything more strenuous than that, the deity can only take partial
-actions and suffers a --6 penalty on all attack rolls, saves, and
-checks. The deity cannot use another ability that requires rest until
-its current rest requirement is fulfilled. Any time the deity spends
+actions and suffers a –6 penalty on all attack rolls, saves, and checks.
+The deity cannot use another ability that requires rest until its
+current rest requirement is fulfilled. Any time the deity spends
 performing strenuous activities does not count toward the required rest
 time.
 
@@ -199,7 +199,7 @@ This is an extraordinary ability.
 
 **Benefit:** As a move-equivalent action, the deity can alter its form,
 including clothing and equipment. The assumed form must be corporeal.
-The deity's body can undergo a limited physical transmutation, including
+The deity’s body can undergo a limited physical transmutation, including
 adding or subtracting one or two limbs. If the form selected has wings,
 the deity can fly. Likewise, the deity can swim if the form has fins,
 breathe water if the form has gills, and so on.
@@ -207,8 +207,8 @@ breathe water if the form has gills, and so on.
 The deity can remain in the altered form indefinitely, but resumes its
 own form if slain.
 
-**Notes:** The deity's attack bonus, Armor Class, and saves do not
-change. The deity does not gain any of the assumed form's special
+**Notes:** The deity’s attack bonus, Armor Class, and saves do not
+change. The deity does not gain any of the assumed form’s special
 abilities, attack forms, defenses, ability scores, or mannerisms. The
 deity can change physical qualities (such as hair color, hair
 
@@ -229,8 +229,8 @@ least a standard action.
 
 **Notes:** The deity can duplicate any spell of 9th level or lower as a
 standard action. The duplicated spell has no material or XP component,
-and the DC of its saving throw (if one is allowed) is 20 + the deity's
-rank + the deity's Charisma modifier.
+and the DC of its saving throw (if one is allowed) is 20 + the deity’s
+rank + the deity’s Charisma modifier.
 
 The deity also can duplicate a spell with any metamagic feat (so long as
 the metamagic feat is available to characters of 20th level or lower).
@@ -252,7 +252,7 @@ the items last one day per rank.
 The deity also can create permanent nonmagical objects as if using the
 Create Object ability except that all rest requirements are doubled and
 there is no reduction in rest time for being on an Outer Plane or in the
-deity's own realm.
+deity’s own realm.
 
 The deity can create temporary magic items or creatures. This works like
 the Divine Creation ability (including the required rest period), except
@@ -272,18 +272,18 @@ shaped after the work is completed.
 to Colossal. The deity also can change the size of up to 100 pounds of
 objects it touches. If the deity has a familiar, personal mount, or
 personal intelligent weapon, the creature can change size with the deity
-if the deity touches it, but its weight counts against the deity's
+if the deity touches it, but its weight counts against the deity’s
 weight limit. This is a supernatural ability.
 
 **Notes:** This ability allows the deity to assume any proportions from
 the size of a grain of sand up or as much as 1,600 feet tall. A radical
-change in size can have great impact on the deity's combat ability. The
-deity's Strength, Armor Class, attack bonus, and damage dealt with
-weapons changes according to the size the deity assumes. The deity's
+change in size can have great impact on the deity’s combat ability. The
+deity’s Strength, Armor Class, attack bonus, and damage dealt with
+weapons changes according to the size the deity assumes. The deity’s
 Strength
 
 score can never be reduced to less than 1 through this ability. Also
-note that use of this divine ability does not affect all the deities'
+note that use of this divine ability does not affect all the deities’
 characteristics.
 
 **Suggested Portfolio Elements:** Any.
@@ -294,8 +294,8 @@ characteristics.
 
 **Benefit:** When the deity strikes with a weapon or natural weapon, the
 opponent struck might be obliterated. Creatures, attended objects, and
-magic items must make Fortitude saves (DC 20 + the deity's rank + the
-damage dealt) or be reduced to --10 hit points and killed outright.
+magic items must make Fortitude saves (DC 20 + the deity’s rank + the
+damage dealt) or be reduced to –10 hit points and killed outright.
 Unattended, nonmagical objects are obliterated. The deity can destroy up
 to 1,000 cubic feet (a 10-foot cube) of nonliving matter per rank, so
 the ability destroys only part of any very large object or structure
@@ -331,7 +331,7 @@ ability.
 Shield ability. The deity produces a transparent barrier whose area is
 up to one 10-foot square per rank, or a sphere or hemisphere with a
 radius of up to 1 foot per rank. The barrier can be placed anywhere
-within the deity's line of sight. The deity can place the barrier so
+within the deity’s line of sight. The deity can place the barrier so
 that it is mobile with respect to some unattended object or willing
 creature. The barrier can be adjusted to ignore certain types of damage,
 just as a divine shield can. If the deity makes the shield mobile with
@@ -357,7 +357,7 @@ altered by the use of this ability does not use up a higher-level slot.
 
 **Notes:** The deity must obey all the limitations normally associated
 with the metamagic feat. Any metamagic feat selected cannot have a level
-requirement of 21st or higher. Feats that depend on making the spell's
+requirement of 21st or higher. Feats that depend on making the spell’s
 level higher, such as Heighten Spell, do not work with this ability. A
 deity can have this ability multiple times, choosing a metamagic feat
 and either a spellcasting class or spell-like abilities to which the
@@ -369,7 +369,7 @@ ability will apply each time.
 
 **Prerequisites:** Divine rank 6, Cha 29.
 
-**Benefit:** An avatar serves as a deity's alter ego, effectively
+**Benefit:** An avatar serves as a deity’s alter ego, effectively
 allowing the deity to be in two or more places at the same time. An
 avatar is an extension of a deity. The deity senses and knows everything
 the avatar senses and knows and vice versa. Each avatar counts as a
@@ -378,23 +378,23 @@ deity can have up to five avatars at once, an intermediate deity can
 have up to ten, and a greater deity can have up to twenty avatars at
 once. It takes a deity one year to create an avatar or replace a
 destroyed avatar. The process does not require any special effort on the
-deity's
+deity’s
 
-part. An avatar must be created in the deity's own realm. If the deity
+part. An avatar must be created in the deity’s own realm. If the deity
 has the Divine Creation salient divine ability, the deity can use it to
 create a new avatar anywhere. However, the deity must rest afterward as
 noted in the Divine Creation ability description. An avatar is a less
-powerful version of a deity, created by modifying the deity's
+powerful version of a deity, created by modifying the deity’s
 statistics, that has the following characteristics.
 
-*Divine Rank:* The avatar's divine rank is half that of the deity (round
-down). This decrease in divine rank affects many of the avatar's
+*Divine Rank:* The avatar’s divine rank is half that of the deity (round
+down). This decrease in divine rank affects many of the avatar’s
 statistics and abilities, including bonuses to attack rolls, damage,
 saves, checks, and Armor Class, damage reduction, resistances, number of
 salient divine abilities and bonus salient divine abilities, uses per
 day of domain powers, saving throw DCs against spell-like abilities,
 range of senses, automatic actions, magic items it can create, and
-extent of divine aura. The deity's ability scores, speed, class levels,
+extent of divine aura. The deity’s ability scores, speed, class levels,
 and Hit Dice are unchanged.
 
 *Divine Abilities:* The avatar has salient divine abilities according to
@@ -402,7 +402,7 @@ its own divine rank. The deity chooses which of its abilities the avatar
 has when creating the avatar. The avatar cannot have a salient divine
 ability that is not available to a deity of its own rank,
 
-nor can it use a salient divine ability if it doesn't meet the
+nor can it use a salient divine ability if it doesn’t meet the
 prerequisites. An avatar cannot have the Avatar or Possess Mortal
 salient divine abilities.
 
@@ -422,17 +422,17 @@ properties the weapon has.
 
 **Notes:** The deity selects one kind of enemy from the list below.
 
-  --------------------- --------------------------------
-  Aberrations           Oozes
-  Animals               Outsiders, chaotic
-  Beasts                Outsiders, evil
-  Constructs            Outsiders, good
-  Dragons               Outsiders, lawful
-  Elementals            Plants
-  Fey                   Undead
-  Giants                Vermin
-  Monstrous humanoids   Humanoids (choose one subtype)
-  --------------------- --------------------------------
+|                     |                                |
+|---------------------|--------------------------------|
+| Aberrations         | Oozes                          |
+| Animals             | Outsiders, chaotic             |
+| Beasts              | Outsiders, evil                |
+| Constructs          | Outsiders, good                |
+| Dragons             | Outsiders, lawful              |
+| Elementals          | Plants                         |
+| Fey                 | Undead                         |
+| Giants              | Vermin                         |
+| Monstrous humanoids | Humanoids (choose one subtype) |
 
 The ability functions only when the deity personally attacks with a
 melee weapon or ranged weapon. The deity can apply the Banestrike
@@ -461,10 +461,10 @@ class feature, this ability replaces it.
 ## Call Creatures
 
 **Benefit:** The kind of creature the deity can call is noted in the
-deity's description. Each creature called can have no more Hit Dice than
+deity’s description. Each creature called can have no more Hit Dice than
 the deity has divine ranks, and the deity cannot have more creatures
 serving it at any given time than the deity has ranks. The creatures are
-transported to the deity's presence through an interdimensional
+transported to the deity’s presence through an interdimensional
 connection similar to that created by a *gate* spell, except that it
 opens to the Material Plane. The creatures willingly serve to the best
 of their ability. The calling effect is otherwise similar to the calling
@@ -483,7 +483,7 @@ different kind of creature each time.
 objects, and disguised creatures or objects for what they really are,
 provided they are within 10 feet per divine rank of the deity. This
 ability is similar to the *true seeing* spell, except that it does not
-reveal creatures' alignments and it does foil mundane disguises.
+reveal creatures’ alignments and it does foil mundane disguises.
 
 **Suggested Portfolio Elements:** Knowledge, truth.
 
@@ -508,19 +508,19 @@ regardless of Hit Dice.
 ## Control Creatures
 
 **Benefit:** The deity can command some kind of creature as noted in the
-deity's description. This ability is similar to the *dominate monster*
+deity’s description. This ability is similar to the *dominate monster*
 spell, but it is not a mind-affecting ability (the deity seizes direct
-control over the creature's body). Each day the deity can attempt to
+control over the creature’s body). Each day the deity can attempt to
 control a number of creature equal to its divine rank. The deity can
 attempt to take control of that number all at once, or in smaller
 numbers. All creatures to
 
-be affected must be within the deity's line of sight when first
+be affected must be within the deity’s line of sight when first
 affected. Once control is established, distance is not a factor and the
 deity can maintain control remotely, even across planes and through
 wards or barriers (except divine shields and warding spells cast by
 deities of higher rank than the deity using the ability). The subject is
-allowed a Will save (DC 10 + the deity's rank + the deity's Charisma
+allowed a Will save (DC 10 + the deity’s rank + the deity’s Charisma
 modifier) to resist and is allowed a
 
 new save if the deity commands the subject to do something against its
@@ -557,7 +557,7 @@ simple, nonmagical objects with a total weight of up to 50 pounds per
 divine rank, or with a total volume of 10 cubic feet per rank. If the
 deity uses this ability on a divinely morphic plane or within its own
 godly realm, double the volume and weight the deity can create. If the
-deity's realm is located on a divinely morphic plane, triple the volume
+deity’s realm is located on a divinely morphic plane, triple the volume
 and weight the deity can create there.
 
 **Notes:** For purposes of this ability, a simple object can have no
@@ -580,7 +580,7 @@ weighing up to 100 pounds per divine rank, or with a volume of 20 cubic
 feet per rank. If the deity uses this ability on a divinely morphic
 plane or within its own godly realm, double the volume and
 
-weight the deity can create. If the deity's realm is located on a
+weight the deity can create. If the deity’s realm is located on a
 divinely morphic plane, triple the volume and weight the deity can
 create there.
 
@@ -595,7 +595,7 @@ every additional 100 gp of value (or fraction of 100
 
 gp), the deity must rest for 10 minutes. If the deity is creating an
 item on a divinely morphic plane or within its own godly realm, it can
-create a 200 gp item without resting. If the deity's realm is located on
+create a 200 gp item without resting. If the deity’s realm is located on
 a divinely morphic plane, it can create a 300 gp item there without
 having to rest.
 
@@ -621,14 +621,14 @@ disturbance in the air the creature causes.
 Shot.
 
 **Benefit:** The deity can fire a ranged weapon at any target within
-line of sight and within range of the deity's personal senses. No range
+line of sight and within range of the deity’s personal senses. No range
 increment applies to the attack. The deity does not incur any attacks of
 opportunity for firing a bow when threatened. As a full-round action,
 the deity may fire an arrow at her full base attack bonus at each
 opponent within 10 feet per divine rank. The deity must have the Weapon
 Focus feat with the type of bow she uses to perform this attack. When
 shooting a ranged weapon, the deity can ignore any cover bonus to the
-target's AC or any miss chance conferred by the target's concealment.
+target’s AC or any miss chance conferred by the target’s concealment.
 
 **Suggested Portfolio Elements:** Archers, war.
 
@@ -648,16 +648,16 @@ medium or light armor.
 
 **Benefit:** This ability has several benefits:
 
--   For the deity's bardic abilities that have a range (countersong,
+-   For the deity’s bardic abilities that have a range (countersong,
     *fascinate,* inspire competence, inspire greatness), that range is a
-    number of miles equal to the deity's divine rank.
+    number of miles equal to the deity’s divine rank.
 -   The deity can use any bardic music inspiration ability as a standard
     action. The inspiration takes effect immediately after the deity
     concludes the action.
--   The deity's bardic music abilities can affect even those normally
+-   The deity’s bardic music abilities can affect even those normally
     immune to mind-affecting effects. However, such creatures gain a +10
     bonus on their Will saves to resist such effects.
--   The effects of all the deity's bardic music abilities are doubled.
+-   The effects of all the deity’s bardic music abilities are doubled.
     Inspire courage grants a +8 morale bonus on saving throws against
     charm and fear effects and a +8 morale bonus on attack and damage
     rolls; inspire competence grants a +4 competence bonus on skill
@@ -668,13 +668,13 @@ medium or light armor.
     inspire competence, inspire greatness, and inspire heroics doubles.
     When inspiring competence in multiple allies, the deity can choose
     different skills to inspire for different allies.
--   The effects of the deity's bardic music inspiration abilities last
+-   The effects of the deity’s bardic music inspiration abilities last
     for ten times as long as normal after the deity stops singing. This
     has no effect on inspiration abilities that have no duration after
     the bard stops singing.
 -   When any effect that is subject to countersong (any spell,
     supernatural ability, or spell-like effect that has the sonic or
-    language-dependent desriptor) occurs within the deity's hearing, the
+    language-dependent desriptor) occurs within the deity’s hearing, the
     deity can attempt a countersong as if it had prepared an action to
     do so.
 
@@ -687,7 +687,7 @@ music, poetry.
 Dodge, Expertise, Mobility, Spring Attack, Whirlwind Attack, War domain.
 
 **Benefit:** The deity can make an unlimited number of attacks of
-opportunity in one round. (The deity still can't make more than one
+opportunity in one round. (The deity still can’t make more than one
 attack of opportunity against a single opponent in a round.) As a
 full-round action, the deity may make one melee attack at its full base
 attack bonus against each opponent within reach. The deity does not
@@ -760,7 +760,7 @@ divine rank, or with a total volume of 20 cubic feet per rank. If the
 deity uses this ability on a divinely morphic plane or within its
 
 own godly realm, double the volume and weight the deity can create. If
-the deity's realm is located on a divinely morphic plane, triple the
+the deity’s realm is located on a divinely morphic plane, triple the
 volume and weight the deity can create there.
 
 **Notes:** This ability works like the Create Greater Object ability,
@@ -769,11 +769,11 @@ except as noted below.
 A deity can use this ability to create any kind of creature that does
 not have a divine rank. The deity can create a creature with class
 levels, but never with more class levels than the deity has itself or
-the deity's divine rank, whichever is lower.
+the deity’s divine rank, whichever is lower.
 
 **Rest:** The deity must convert a considerable amount of its own energy
 into a creature, which always leaves the deity impaired. The deity must
-rest for 10 minutes ×the creature's Hit Dice ×the creature's Challenge
+rest for 10 minutes ×the creature’s Hit Dice ×the creature’s Challenge
 Rating for each creature created, with a minimum of 10 minutes per
 creature. If the creature has class levels, each level counts as an
 additional Hit Die.
@@ -790,14 +790,14 @@ Create Greater object ability.
 **Prerequisite:** Dex 29.
 
 **Benefit:** Any physical attack or individually targeted spell directed
-at the deity has a percent miss chance equal to 50 + the deity's rank.
+at the deity has a percent miss chance equal to 50 + the deity’s rank.
 Area effects that include the deity have a similar chance to be
 ineffective.
 
 **Notes:** The ability is similar to the *blink* spell, except that it
 is defensive only and the deity does not move to the Ethereal Plane, but
 simply exits from reality for a brief moment. This ability never
-interferes with the deity's own attacks. If an attack overcomes the miss
+interferes with the deity’s own attacks. If an attack overcomes the miss
 chance, the deity still gets the benefit of a saving throw (if one is
 allowed).
 
@@ -811,7 +811,7 @@ allowed).
 extraordinary and supernatural abilities of the creature whose form it
 adopts. In addition to animal forms, the deity can take the form of
 magical beasts or plant creatures. Some deities can assume additional
-forms. These are specified in the deity's description.
+forms. These are specified in the deity’s description.
 
 The deity can assume the form of any animal, magical beast, or plant
 creature from Fine to Colossal in size.
@@ -889,11 +889,11 @@ action.
 
 **Benefit:** As a full-round action, the deity can speak and convince
 others to take some course of action. This works like a *mass
-suggestion* spell cast at a level equal to 10 + the deity's divine rank,
+suggestion* spell cast at a level equal to 10 + the deity’s divine rank,
 except that it affects up to (10 + divine rank) creatures, no two of
 
 which can be more than (10 ×divine rank) feet apart. The save DC is 10 +
-the deity's Charisma modifier + the deity's divine rank.
+the deity’s Charisma modifier + the deity’s divine rank.
 
 **Suggested Portfolio Elements:** Commerce, lies, thieves.
 
@@ -901,7 +901,7 @@ the deity's Charisma modifier + the deity's divine rank.
 
 **Benefit:** The deity can enchant creatures to create a specific
 emotion. The deity can affect one creature per divine rank at once, and
-up to the same number each day. All must be within the deity's line of
+up to the same number each day. All must be within the deity’s line of
 sight when first affected. The specific effects depend on the emotional
 state induced.
 
@@ -910,45 +910,45 @@ receive a +2 morale bonus on attack rolls, weapon damage rolls, skill
 checks, and Will saves.
 
 *Despair:* The enchanted creatures are affected as by an improved
-version of the *crushing despair* spell: affected creatures suffer a --4
+version of the *crushing despair* spell: affected creatures suffer a –4
 penalty on attack rolls, damage rolls, saves, and checksunless they make
-a successful Will save (DC 10 + deity's Charisma modifier + deity's
+a successful Will save (DC 10 + deity’s Charisma modifier + deity’s
 divine rank). The effect lasts one day.
 
 *Dread:* The enchanted creatures must make successful Wisdom checks (DC
-= the deity's divine rank) to attack or fight. If the check fails, the
+= the deity’s divine rank) to attack or fight. If the check fails, the
 creature flees in panic for 1d4 rounds. If the check succeeds, the
 creature does not have to check again for
 
-10 minutes. The enchanted creatures also suffer a --2 morale penalty on
+10 minutes. The enchanted creatures also suffer a –2 morale penalty on
 attack rolls, weapon damage rolls, skill checks, and Will saves.
 
 *Frenzy:* Frenzied creatures spend themselves in drinking, feasting, and
 dancing unless provoked or incited to violence. Frenzied creatures turn
 violent if they are attacked or perceive a threat to their safety.
 Frenzied creatures receive a +4 morale bonus to Strength and Dexterity,
-a --4 penalty to Wisdom, and a --2 penalty to AC. Subjects can attempt
-Will saves (DC 10 + deity's Charisma modifier + deity's divine rank) to
+a –4 penalty to Wisdom, and a –2 penalty to AC. Subjects can attempt
+Will saves (DC 10 + deity’s Charisma modifier + deity’s divine rank) to
 resist the effect. This is a mind-affecting compulsion.
 
 *Hope:* The enchanted creatures gain a +4 morale bonus on saving throws,
 attack rolls, ability checks, skill checks, and weapon damage rolls.
 
 *Rage:* The enchanted creatures receive a +4 morale bonus to Strength
-and Constitution scores, a +2 morale bonus on Will saves, and a --2
+and Constitution scores, a +2 morale bonus on Will saves, and a –2
 penalty to AC. They are compelled to fight heedless of danger. Subjects
-can attempt Will saves (DC 10 + deity's Charisma
+can attempt Will saves (DC 10 + deity’s Charisma
 
-modifier + deity's divine rank) to resist the effect. This is a
+modifier + deity’s divine rank) to resist the effect. This is a
 mind-affecting compulsion.
 
 *Love and Desire:* A love effect causes the target to fall in love with
 the specified creature, seeking every opportunity to be near that
-creature and making every effort to win the creature's affection. A
+creature and making every effort to win the creature’s affection. A
 desire effect is similar, but the target seeks any opportunity to
 
 become physically intimate with the specified creature. Subjects can
-attempt Will saves (DC 10 + deity's Charisma modifier + deity's divine
+attempt Will saves (DC 10 + deity’s Charisma modifier + deity’s divine
 rank) to resist the effect. This is a mind-affecting compulsion effect.
 
 **Suggested Portfolio Elements:** Any.
@@ -957,7 +957,7 @@ rank) to resist the effect. This is a mind-affecting compulsion effect.
 
 **Prerequisites:** Monk level 20th.
 
-**Benefit:** The deity's unarmed strikes are treated as a magic slashing
+**Benefit:** The deity’s unarmed strikes are treated as a magic slashing
 weapon with an enhancement bonus of +5 and the keen, lawful, and vorpal
 qualities. If the deity chooses, a particular attack can be bludgeoning
 instead of slashing, but the keen and vorpal qualities do not apply to
@@ -968,8 +968,8 @@ The deity can use the Deflect Arrows feat to deflect any ranged attacks
 (including spells that require ranged touch attacks) as if they were
 arrows. The deity can deflect any number of attacks in a single round.
 When the deity deflects any attack, the attack is reflected upon the
-attacker, using the deity's base ranged attack bonus. When the deity
-deflects a spell, the spell's level is added to the DC to deflect the
+attacker, using the deity’s base ranged attack bonus. When the deity
+deflects a spell, the spell’s level is added to the DC to deflect the
 attack. The deity only gains the second benefit of this ability if he or
 she has the Deflect Arrows feat.
 
@@ -979,11 +979,11 @@ she has the Deflect Arrows feat.
 
 **Prerequisites:** Paladin level 20th.
 
-**Benefit:** The deity's aura of courage grants a +8 morale bonus on
+**Benefit:** The deity’s aura of courage grants a +8 morale bonus on
 saving throws against fear effects and extends to all allies within 100
 feet of the deity.
 
-The deity's special mount, if any, gains the celestial template.
+The deity’s special mount, if any, gains the celestial template.
 
 The deity can smite evil ten times per day, and gets an extra 3 points
 of damage per class level on a successful smite attempt.
@@ -1000,7 +1000,7 @@ effects (unless created by a deity of higher rank) and causes pain and
 damage to undead creatures, who take 2d8 points of damage per round with
 no save. As a full attack action, the deity can generate up to three
 rays of scorching light that can strike targets up to a number of miles
-away equal to the deity's divine rank. Each ray deals 1d6 points of
+away equal to the deity’s divine rank. Each ray deals 1d6 points of
 damage per 2 divine ranks. Undead take 1d12 points of damage per 2
 divine ranks.
 
@@ -1010,16 +1010,16 @@ divine ranks.
 
 **Prerequisite:** Barbarian level 20th.
 
-**Benefit:** This ability is similar to the barbarian's rage ability
+**Benefit:** This ability is similar to the barbarian’s rage ability
 (and it replaces the barbarian rage ability for the deity). The deity
 can activate this ability only after suffering damage from a weapon, and
 can use it a number of times per day equal to its divine rank. Once
 used, the ability lasts 1 hour (though the deity can end the rage at
 will). While raging, the deity gains +10 to Strength, +10 to
-Constitution, and a +5 morale bonus on Will saves. The deity's spell
+Constitution, and a +5 morale bonus on Will saves. The deity’s spell
 resistance and energy resistances each increase by +10. The deity also
 can make one extra attack, at its full attack bonus, whenever it uses
-the full attack action. While raging, the deity suffers a --5 penalty to
+the full attack action. While raging, the deity suffers a –5 penalty to
 Armor Class and cannot perform acts that require patience and
 concentration, such as moving silently, casting spells, and using
 salient divine abilities.
@@ -1044,12 +1044,12 @@ disturbances they make and traces of their passage. The table below adds
 across water, underwater, and air to the list of surfaces found in the
 Track feat description.
 
-  -------------- -----
-  Surface        DC
-  Across water   60
-  Underwater     80
-  Air            120
-  -------------- -----
+|              |     |
+|--------------|-----|
+| Surface      | DC  |
+| Across water | 60  |
+| Underwater   | 80  |
+| Air          | 120 |
 
 **Suggested Portfolio Elements:** Archers, hunting, nature.
 
@@ -1087,7 +1087,7 @@ and where each carried item is.
 **Prerequisites:** Cha 29.
 
 **Benefit:** As a free action, the deity can create a shield that lasts
-10 minutes and protects the deity's body and equipment from attacks. The
+10 minutes and protects the deity’s body and equipment from attacks. The
 shield stops 10 points of damage per rank. Once the shield stops that
 much damage, it collapses. The damage can be from any source, including
 a divine blast attack. The deity can use this ability a number of times
@@ -1107,8 +1107,8 @@ do not stack.
 using the skill selected.
 
 **Notes:** This bonus stacks with the divine rank bonus deities normally
-receive on checks. If the selected skill is related to the deity's
-portfolio, add the deity's rank to the maximum DC for a free action.
+receive on checks. If the selected skill is related to the deity’s
+portfolio, add the deity’s rank to the maximum DC for a free action.
 
 A deity can have this ability multiple times, choosing a different skill
 each time.
@@ -1119,17 +1119,17 @@ each time.
 
 **Prerequisites:** Sneak attack +10d6, crippling strike.
 
-**Benefit:** The deity's sneak attacks deal an additional +3d6 points of
+**Benefit:** The deity’s sneak attacks deal an additional +3d6 points of
 damage.
 
 Any attack of opportunity the deity makes is considered a sneak attack.
 
 The deity can flank or catch flat-footed any opponent whose divine rank
-does not exceed the deity's and can sneak attack that opponent. The
+does not exceed the deity’s and can sneak attack that opponent. The
 deity cannot deal sneak attack damage to opponents that are immune to
 critical hits. Any time the deity inflicts damage with a sneak attack,
-that target suffers damage equal to the deity's sneak attack bonus
-damage on the deity's next turn as well.
+that target suffers damage equal to the deity’s sneak attack bonus
+damage on the deity’s next turn as well.
 
 **Suggested Portfolio Elements:** Thieves.
 
@@ -1138,7 +1138,7 @@ damage on the deity's next turn as well.
 **Prerequisites:** Spell Focus, Greater Spell Focus.
 
 **Benefit:** The deity chooses one school of magic. The save DC for any
-spell of that school increases by one-half the deity's divine rank. This
+spell of that school increases by one-half the deity’s divine rank. This
 bonus overlaps (does not stack with) the bonus from Spell Focus or
 Greater Spell Focus.
 
@@ -1153,7 +1153,7 @@ different school of magic each time.
 
 **Benefit:** The deity can cast spells whose effective level is above
 9th. The number of spells per day the deity can cast of each spell level
-above 9th depends on the deity's key ability score for spell-casting
+above 9th depends on the deity’s key ability score for spell-casting
 classes in which the deity has achieved 20th level, as shown
 
 on Table: Divine Spellcasting. The numbers on that table represent one
@@ -1169,10 +1169,10 @@ than nine levels of spells (such as bard, paladin, or ranger), the deity
 can also cast one spell per day of each level between the maximum normal
 spell level and 9th, plus appropriate bonus spells
 
-of each level based on the deity's key ability score. These spells are
+of each level based on the deity’s key ability score. These spells are
 not shown on the table.
 
-The deity also doesn't incur attacks of opportunity for casting spells
+The deity also doesn’t incur attacks of opportunity for casting spells
 when threatened.
 
 In addition, the deity receives the benefit of the Spell Focus feat on
@@ -1185,7 +1185,7 @@ any spell it casts.
 The Divine Spellcasting ability grants deities access to spell slots
 above 9th level (which can be used to hold lower-level spells or spells
 whose level has been increased above 9th by the use of metamagic feats).
-The number of spell slots available to a deity depends on the deity's
+The number of spell slots available to a deity depends on the deity’s
 key ability score (Intelligence for wizards, Wisdom for clerics, druids,
 paladins, and rangers, and Charisma for bards and sorcerers), as shown
 on Table: Divine Spellcasting.
@@ -1202,46 +1202,46 @@ This additional spell is one of the benefits of the
 
 Divine Spellcasting salient divine ability.
 
-  ---------- ---------- ----- ------------------------------------------------------------------------------------------------------------------------------------------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
-                                                                                              []{style="                                                                                                                                                                   
-                                                                                                   display: block;                                                                                                                                                         
-                                                                                                 position: absolute;                                                                                                                                                       
-                                                                                                      right: 0;                                                                                                                                                            
-                                                                                                      top: 50%;                                                                                                                                                            
-                                                                                                      left: 0px;                                                                                                                                                           
-                                                                                         border-top: 1px solid currentColor;                                                                                                                                               
-                                             "}[Spells per Day ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                                                                                                    
-  Score      Modifier                                                                            10th                                                                     11th   12th   13th   14th   15th   16th   17th   18th   19th   20th   21st   22nd   23rd   24th   25th
-  10--11                +0                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  12--13                +1                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  14--15                +2                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  16--17                +3                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  18--19                +4                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  20--21                +5                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  22--23                +6                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  24--25                +7                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  26--27                +8                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  28--29                +9                                                                       ---                                                                      ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  30--31                +10                                                                       2                                                                       ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  32--33                +11                                                                       2                                                                        2     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  34--35                +12                                                                       2                                                                        2      2     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  36--37                +13                                                                       2                                                                        2      2      2     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  38--39                +14                                                                       3                                                                        2      2      2      2     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  40--41                +15                                                                       3                                                                        3      2      2      2      2     ---    ---    ---    ---    ---    ---    ---    ---    ---    ---
-  42--43                +16                                                                       3                                                                        3      3      2      2      2      2     ---    ---    ---    ---    ---    ---    ---    ---    ---
-  44--45                +17                                                                       3                                                                        3      3      3      2      2      2      2     ---    ---    ---    ---    ---    ---    ---    ---
-  46--47                +18                                                                       4                                                                        3      3      3      3      2      2      2      2     ---    ---    ---    ---    ---    ---    ---
-  48--49                +19                                                                       4                                                                        4      3      3      3      3      2      2      2      2     ---    ---    ---    ---    ---    ---
-  50--51                +20                                                                       4                                                                        4      4      3      3      3      3      2      2      2      2     ---    ---    ---    ---    ---
-  52--53                +21                                                                       4                                                                        4      4      4      3      3      3      3      2      2      2      2     ---    ---    ---    ---
-  54--55                +22                                                                       5                                                                        4      4      4      4      3      3      3      3      2      2      2      2     ---    ---    ---
-  56--57                +23                                                                       5                                                                        5      4      4      4      4      3      3      3      3      2      2      2      2     ---    ---
-  58--59                +24                                                                       5                                                                        5      5      4      4      4      4      3      3      3      3      2      2      2      2     ---
-  60--61                +25                                                                       5                                                                        5      5      5      4      4      4      4      3      3      3      3      2      2      2      2
-  etc. . .                                                                                                                                                                                                                                                                 
-  ---------- ---------- ----- ------------------------------------------------------------------------------------------------------------------------------------------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+|          |          |     |                                                                                                                                                           |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+|----------|----------|-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|          |          |     |                                                                       <span style="                                                                       
+                                                                                                           display: block;                                                              
+                                                                                                         position: absolute;                                                            
+                                                                                                              right: 0;                                                                 
+                                                                                                              top: 50%;                                                                 
+                                                                                                             left: 0px;                                                                 
+                                                                                                 border-top: 1px solid currentColor;                                                    
+                                           "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Spells per Day </span>  |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Score    | Modifier |     |                                                                           10th                                                                            | 11th | 12th | 13th | 14th | 15th | 16th | 17th | 18th | 19th | 20th | 21st | 22nd | 23rd | 24th | 25th |
+| 10–11    |          | +0  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 12–13    |          | +1  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 14–15    |          | +2  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 16–17    |          | +3  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 18–19    |          | +4  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 20–21    |          | +5  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 22–23    |          | +6  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 24–25    |          | +7  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 26–27    |          | +8  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 28–29    |          | +9  |                                                                             —                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 30–31    |          | +10 |                                                                             2                                                                             |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 32–33    |          | +11 |                                                                             2                                                                             |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 34–35    |          | +12 |                                                                             2                                                                             |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 36–37    |          | +13 |                                                                             2                                                                             |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 38–39    |          | +14 |                                                                             3                                                                             |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 40–41    |          | +15 |                                                                             3                                                                             |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 42–43    |          | +16 |                                                                             3                                                                             |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 44–45    |          | +17 |                                                                             3                                                                             |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 46–47    |          | +18 |                                                                             4                                                                             |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 48–49    |          | +19 |                                                                             4                                                                             |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |  —   |
+| 50–51    |          | +20 |                                                                             4                                                                             |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |  —   |
+| 52–53    |          | +21 |                                                                             4                                                                             |  4   |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |  —   |
+| 54–55    |          | +22 |                                                                             5                                                                             |  4   |  4   |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |  —   |
+| 56–57    |          | +23 |                                                                             5                                                                             |  5   |  4   |  4   |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |  —   |
+| 58–59    |          | +24 |                                                                             5                                                                             |  5   |  5   |  4   |  4   |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |  —   |
+| 60–61    |          | +25 |                                                                             5                                                                             |  5   |  5   |  5   |  4   |  4   |  4   |  4   |  3   |  3   |  3   |  3   |  2   |  2   |  2   |  2   |
+| etc. . . |          |     |                                                                                                                                                           |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
-  : Table: Divine Spellcasting
+Table: Divine Spellcasting
 
 ## Divine Splendor
 
@@ -1265,10 +1265,10 @@ at creatures within the area, or if their paths take them through the
 area).
 
 In addition, the force expels creatures whose alignment on the ethical
-(lawful-chaotic) axis is opposite the deity's. If the deity's ethical
+(lawful-chaotic) axis is opposite the deity’s. If the deity’s ethical
 alignment is neutral (neutral good or neutral evil), the force does not
 expel any creatures. Affected creatures in the area must make Fortitude
-saves (DC 10 + the deity's Charisma modifier + the deity's divine rank)
+saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank)
 or be picked up and thrown out, regardless of size. Such creatures
 suffer 1d6 points of
 
@@ -1278,15 +1278,15 @@ still stops their thrown weapons and projectiles. Creatures that fail
 their saves can attempt to reenter the area, but must attempt new saves.
 
 The force damages creatures whose alignment on the moral (good-evil)
-axis is opposite the deity's. If the deity's moral alignment is neutral
+axis is opposite the deity’s. If the deity’s moral alignment is neutral
 (lawful neutral or chaotic neutral), the force does not damage any
 creatures. Affected creatures in the area must make Fortitude saves (DC
-10 + the deity's Charisma modifier + the deity's divine rank) each round
+10 + the deity’s Charisma modifier + the deity’s divine rank) each round
 or suffer 1 point of holy damage per divine rank. A successful save
 negates the damage, but the creature must save again the next round if
 it is still within the area.
 
-Creatures whose alignment is diametrically opposed to the deity's are
+Creatures whose alignment is diametrically opposed to the deity’s are
 subject to both effects.
 
 **Suggested Portfolio Elements:** War.
@@ -1318,7 +1318,7 @@ all wooden buildings and
 
 25% of the stone buildings it comes into contact with. At sea, the tidal
 wave capsizes ships and crushes them to splinters. The wave affects a
-number of miles of coastland up to the deity's divine rank.
+number of miles of coastland up to the deity’s divine rank.
 
 When touching water, the deity can automatically sense the location of
 anything within 10 feet per divine rank that is in contact with the same
@@ -1355,7 +1355,7 @@ martial weapon.
 **Prerequisites:** Base attack bonus +20, Divine Weapon Focus salient
 divine ability with the selected weapon.
 
-**Benefit:** This ability works like the fighter's Weapon Specialization
+**Benefit:** This ability works like the fighter’s Weapon Specialization
 feat, except that the deity receives a bonus on damage with the weapon
 equal to its divine rank.
 
@@ -1375,11 +1375,11 @@ of weapon each time.
 
 **Benefit:** The deity can create an emanation of a specific type of
 energy (acid, cold, electricity, fire, or sonic energy, specified in the
-deity's description) with a radius of 10 feet per divine rank. Anything
+deity’s description) with a radius of 10 feet per divine rank. Anything
 in the area takes 1d8 points of the appropriate energy damage per divine
 rank. Damage is halved for those who make successful saving throws
 (Reflex for acid, cold, electricity, or fire, or Fortitude for sonic
-energy; DC 10 + the deity's divine rank + the deity's Constitution
+energy; DC 10 + the deity’s divine rank + the deity’s Constitution
 modifier).
 
 **Notes:** A deity can have this ability multiple times, choosing a
@@ -1393,7 +1393,7 @@ different type of energy each time.
 
 **Benefit:** The deity can surround itself with a vortex of energy
 (acid, cold, electricity, fire, sonic, positive, or negative energy,
-specified in the deity's description). The vortex extends from the deity
+specified in the deity’s description). The vortex extends from the deity
 in an emanation with a radius of 10 feet per divine rank. The effect
 
 stops attacks with thrown weapons and projectiles. Such attacks fail if
@@ -1451,7 +1451,7 @@ of energy each time.
 **Prerequisites:** Wis 29.
 
 **Benefit:** The deity chooses one sense to enhance. The ability can
-extend a sense's range one mile per divine rank, or it can allow the
+extend a sense’s range one mile per divine rank, or it can allow the
 sense to ignore one type of physical or magical blockage. The enhanced
 sense can penetrate 10 feet of a physical barrier per rank or 100 feet
 of a less tangible barrier (such as fog or smoke) per rank.
@@ -1471,9 +1471,9 @@ each time.
 **Benefit:** The deity can sap the energy from living creatures so that
 they feel tired. It can affect up to one creature per divine rank at
 once, but no more than one creature per divine rank each day. All must
-be within the deity's line of sight when first affected. Subjects
+be within the deity’s line of sight when first affected. Subjects
 
-can attempt Fortitude saves (DC 10 + deity's Charisma modifier + deity's
+can attempt Fortitude saves (DC 10 + deity’s Charisma modifier + deity’s
 divine rank). Creatures who fail their saves become fatigued and their
 speed is reduced by half. Furthermore, any mount or vehicle they ride is
 likewise slowed. The effect lasts one day.
@@ -1494,10 +1494,10 @@ action.
 **Prerequisites:** Cha 24.
 
 **Benefit:** Whenever the deity performs a specific action specified in
-the deity's description (usually attacking, but sometimes making an
+the deity’s description (usually attacking, but sometimes making an
 intimidating gesture), foes within a 30-foot-radius burst must make Will
-saves (DC 10 + deity's Charisma modifier + deity's divine rank). Foes
-within the burst, but not the deity's immediate target, become shaken
+saves (DC 10 + deity’s Charisma modifier + deity’s divine rank). Foes
+within the burst, but not the deity’s immediate target, become shaken
 for 3d6 rounds if they fail their saves. Creatures the deity attacks
 when it activates the ability become panicked for 3d6 rounds if they
 fail their saves. Foes who make successful saving throws are unaffected
@@ -1516,7 +1516,7 @@ has been dead is irrelevant.
 
 This ability can restore a creature to life against its will, but only
 with the permission of whatever deity rules the underworld or the divine
-realm where the mortal's soul resides. This ability can resurrect an
+realm where the mortal’s soul resides. This ability can resurrect an
 elemental or outsider and can resurrect a creature whose soul is
 trapped, provided the soul is not held by a deity of higher rank than
 the one using this ability.
@@ -1531,7 +1531,7 @@ a higher rank.
 
 **Benefit:** This ability works like the *animal growth* spell, except
 that it can affect up to one creature of the specified type per divine
-rank each day, all of which must be within the deity's line of sight
+rank each day, all of which must be within the deity’s line of sight
 when first affected. The effect lasts one day.
 
 **Notes:** A deity can have this ability multiple times, choosing a
@@ -1541,13 +1541,13 @@ different type of creature each time.
 
 ## Hand of Death
 
-**Benefit:** The deity points to any mortal within the deity's sensory
+**Benefit:** The deity points to any mortal within the deity’s sensory
 range and snuffs out its life. There must be an unbroken line of effect
 between the deity and the target.
 
 **Notes:** This ability works like the *destruction* spell, except that
 there is no material component. The mortal is allowed a Fortitude saving
-throw with a DC of 20 + the deity's Charisma bonus + the deity's divine
+throw with a DC of 20 + the deity’s Charisma bonus + the deity’s divine
 rank. Even if the save succeeds, the subject takes 10d6 points of
 damage, which may kill it anyway. If the attack kills the mortal (either
 through a failed saving throw or through damage), the mortal cannot be
@@ -1561,8 +1561,8 @@ salient divine ability.
 
 **Prerequisites:** Con 29.
 
-**Benefit:** The deity's damage reduction increases 5 and adds an
-alignment requirement opposed to the deity's alignment to bypass the
+**Benefit:** The deity’s damage reduction increases 5 and adds an
+alignment requirement opposed to the deity’s alignment to bypass the
 damage reduction. For example, a lawful good deity with DR25/epic would
 gain DR 30/epic and evil or DR 30 epic and chaotic.
 
@@ -1585,7 +1585,7 @@ resistance by 10.
 
 ## Increased Spell Resistance
 
-**Benefit:** The deity's spell resistance increases by 20.
+**Benefit:** The deity’s spell resistance increases by 20.
 
 **Notes:** A deity can have this ability multiple times, and its effects
 stack. A deity with two applications of this ability improves its spell
@@ -1605,7 +1605,7 @@ its roll. This bonus stacks with the normal divine rank bonus.
 
 ## Instant Counterspell
 
-**Benefit:** When any spell is cast within the deity's line of sight,
+**Benefit:** When any spell is cast within the deity’s line of sight,
 the deity can counterspell it as a free action, provided that the deity
 is capable of casting the spell immediately or has it as a spell-like
 ability and makes the required Spellcraft check. The use of Instant
@@ -1635,10 +1635,10 @@ melee weapon.
 against a creature, resolve the attack as a melee touch attack (the
 weapon blow ignores armor and natural armor bonuses). If the weapon
 hits, the creature struck must make a Fortitude save (DC 10 + the
-deity's Constitution modifier + the deity's divine rank) or be stunned
+deity’s Constitution modifier + the deity’s divine rank) or be stunned
 for 1d10 rounds.
 
-The deity's attacks with the chosen weapons are considered to be
+The deity’s attacks with the chosen weapons are considered to be
 adamantine for purposes of bypassing damage reduction and hardness.
 
 **Notes:** A deity can have this ability multiple times, choosing a
@@ -1661,11 +1661,11 @@ on the deity.
 
 -   Affected creatures become unable to take actions; instead, they
     dance, observe the performance with rapt attention, laugh, or
-    applaud at the deity's option. The affected creatures also suffer a
-    --4 penalty to Armor Class, cannot succeed at Reflex saves (except
-    on a roll of 20), and cannot use shields. Creatures can resist this
-    mind effect with a successful Will save (DC 10 + the deity's
-    Charisma modifier + the deity's divine rank). The effects last for
+    applaud at the deity’s option. The affected creatures also suffer a
+    –4 penalty to Armor Class, cannot succeed at Reflex saves (except on
+    a roll of 20), and cannot use shields. Creatures can resist this
+    mind effect with a successful Will save (DC 10 + the deity’s
+    Charisma modifier + the deity’s divine rank). The effects last for
     as long as the deity performs and for up to 1 round per divine rank
     thereafter.
 -   Affected creatures become blissfully calm. They are immune to fear
@@ -1678,17 +1678,17 @@ on the deity.
     performs and for up to 1 round per divine rank thereafter.
 -   Affected creatures fall asleep. This works like the *sleep* spell,
     except that any living creature can be affected. Creatures can
-    resist this mind effect with Will saves (DC 10 + the deity's
-    Charisma modifier + the deity's divine rank). Affected creatures
+    resist this mind effect with Will saves (DC 10 + the deity’s
+    Charisma modifier + the deity’s divine rank). Affected creatures
     sleep for up to 1 hour per divine rank or until awakened. The deity
     can end the effect at will.
 -   Affected creatures are so deeply moved that they simply die. Only
-    living creatures with Hit Dice equal to or less than the deity's
+    living creatures with Hit Dice equal to or less than the deity’s
     divine rank are affected. Creatures can resist the effect with
-    Fortitude saves (DC 10 + the deity's Charisma modifier + the deity's
+    Fortitude saves (DC 10 + the deity’s Charisma modifier + the deity’s
     divine rank).
 
-Once a creature makes a successful save against one of the deity's
+Once a creature makes a successful save against one of the deity’s
 performances, the creature cannot be affected again for one day.
 
 Note: Not all deities with this ability can create all the mentioned
@@ -1700,7 +1700,7 @@ music, poetry.
 ## Know Death
 
 **Benefit:** The deity knows the exact moment and circumstances of any
-mortal creature's death just by looking at the creature.
+mortal creature’s death just by looking at the creature.
 
 **Suggested Portfolio Elements:** Death.
 
@@ -1708,11 +1708,11 @@ mortal creature's death just by looking at the creature.
 
 No secrets can be kept from the deity.
 
-**Benefit:** The deity can learn a creature's entire history (including
+**Benefit:** The deity can learn a creature’s entire history (including
 any embarrassing or vital secrets it might know) just by looking at it.
 This ability is similar to the *legend lore* spell, except that it
 delivers instant results and the subject is allowed a Will save (DC 10 +
-the deity's Charisma modifier + the deity's divine rank) to avoid the
+the deity’s Charisma modifier + the deity’s divine rank) to avoid the
 effect.
 
 **Suggested Portfolio Elements:** Knowledge, secrets.
@@ -1721,14 +1721,14 @@ effect.
 
 **Benefit:** This ability works like the *bestow curse* spell, except
 that mortals get no save. Deities of equal or lesser rank are subject to
-this ability, but are allowed Will saves (DC 10 + the deity's Charisma
-modifier + the deity's divine rank) to resist. The curse
+this ability, but are allowed Will saves (DC 10 + the deity’s Charisma
+modifier + the deity’s divine rank) to resist. The curse
 
 can be removed only by a deity of equal or higher rank than the cursing
 deity.
 
 The deity can affect up to one creature per divine rank at once, but no
-more than that number each day. All must be within the deity's line of
+more than that number each day. All must be within the deity’s line of
 sight when first affected.
 
 **Suggested Portfolio Elements:** Evil.
@@ -1739,7 +1739,7 @@ sight when first affected.
 it works only on mortals and it can be removed only by a deity of equal
 or higher rank than the deity who lays the quest. The deity can affect
 up to one creature per divine rank at once, but no more than that number
-each day. All must be within the deity's line of sight when first
+each day. All must be within the deity’s line of sight when first
 affected.
 
 **Suggested Portfolio Elements:** Justice, law.
@@ -1754,7 +1754,7 @@ the deity can designate any dead mortal and restore it to life.
 
 **Notes:** This ability works across planar boundaries and penetrates
 any barrier except a divine shield. However, the subject must be in a
-location the deity can sense, either within the deity's sense range or
+location the deity can sense, either within the deity’s sense range or
 in a location the deity can perceive through its remote sensing ability.
 If the deity cannot see the subject, the deity must unambiguously
 identify the subject in some fashion. If the deity chooses to kill a
@@ -1796,11 +1796,11 @@ per divine rank and 10 feet high. The cloud blocks sight as a *deeper
 darkness* spell does, except that it cannot be countered by light
 
 effects (other than those cast by deities of higher rank). Living
-creatures must make Will saves (DC 10 + the deity's Charisma modifier +
-the deity's divine rank) or die. Even with a successful save, living
+creatures must make Will saves (DC 10 + the deity’s Charisma modifier +
+the deity’s divine rank) or die. Even with a successful save, living
 creatures still gain two negative levels (the save DC to remove the
 negative levels is the same as the first Will save). A single creature
-can be drained by the cloud only once per day, but the cloud's darkness
+can be drained by the cloud only once per day, but the cloud’s darkness
 remains effective.
 
 **Suggested Portfolio Elements:** Death, undead.
@@ -1816,10 +1816,10 @@ can be more than one mile apart per rank, or an area. The area can be a
 cone, burst, spread, or cylinder. A cone can be up to 100 feet long per
 rank. A burst or spread can have a radius of up to 50 feet per rank. A
 cylinder can have a radius of up to 50 feet per rank and a height of up
-to 10 feet per rank. The deity chooses the attack's exact form and
+to 10 feet per rank. The deity chooses the attack’s exact form and
 dimensions.
 
-Each use of this ability counts as a use of the deity's Divine Blast
+Each use of this ability counts as a use of the deity’s Divine Blast
 ability.
 
 **Suggested Portfolio Elements:** Death, destruction, war.
@@ -1864,15 +1864,15 @@ sentient creatures to animal or plant form.
 
 **Benefit:** The deity can grant humanlike sentience to trees or
 animals. This sentience lasts a maximum of one day, and the sentient
-tree or animal obeys the deity's commands to the best of its ability.
+tree or animal obeys the deity’s commands to the best of its ability.
 The deity can affect up to one creature per divine rank at once, but no
-more than that number each day. All must be within the deity's line of
+more than that number each day. All must be within the deity’s line of
 sight when first affected.
 
 Also, the deity can transmute any creature into a plant or animal of
 approximately the same size or up to two size categories smaller. The
-subject is allowed a Fortitude save (DC 10 + the deity's Charisma
-modifier + the deity's divine rank) to resist. Subjects
+subject is allowed a Fortitude save (DC 10 + the deity’s Charisma
+modifier + the deity’s divine rank) to resist. Subjects
 
 turned into plants become objects. Subjects turned into animals have the
 same abilities and statistics of the kind of animal the deity chooses.
@@ -1886,8 +1886,8 @@ The Alter Reality ability can make either effect permanent.
 **Prerequisites:** Cha 29.
 
 **Benefit:** The deity can possess any mortal in any location the deity
-can sense. Unwilling mortals can attempt Will saves (DC 10 + the deity's
-Charisma modifier + the deity's rank).
+can sense. Unwilling mortals can attempt Will saves (DC 10 + the deity’s
+Charisma modifier + the deity’s rank).
 
 **Notes:** Spells that prevent possession block this ability if the
 mortal is unwilling. Likewise, spells that end possession drive out the
@@ -1898,14 +1898,14 @@ shield or the use of the Alter Reality salient divine ability by a deity
 of higher rank.
 
 The possessed mortal effectively becomes an avatar of the deity. The
-deity can draw on all the possessed mortal's memories, and the deity
+deity can draw on all the possessed mortal’s memories, and the deity
 senses what the mortal senses. Each mortal possessed counts as a remote
 location where the deity is sensing and communicating. A demigod can
 possess up to two mortals at a time, a lesser deity can possess up to
 five mortals at once, an intermediate deity can possess up to ten, and a
 greater deity can possess up to twenty mortals at once.
 
-While the deity is in possession, the mortal's abilities are unchanged,
+While the deity is in possession, the mortal’s abilities are unchanged,
 except as noted below.
 
 *Type:* Same as the deity.
@@ -1913,18 +1913,18 @@ except as noted below.
 *Hit Points:* Same as the mortal, +1 for each rank of the deity.
 
 *Armor Class:*The mortal gains a divine bonus to Armor Class equal to
-half the deity's divine rank.
+half the deity’s divine rank.
 
 *Ability Scores:* Strength, Dexterity, and Constitution are unchanged.
 Intelligence, Wisdom, and Charisma become 5 points lower than the
-deity's (or remain as the mortal's scores if they are higher).
+deity’s (or remain as the mortal’s scores if they are higher).
 
 *Saves:* Fortitude and Reflex same as the mortal; Will adjusted if
-necessary for the mortal's new Wisdom score.
+necessary for the mortal’s new Wisdom score.
 
-*Skills:* The mortal can use its own skills and the deity's skills. If
+*Skills:* The mortal can use its own skills and the deity’s skills. If
 the mortal and the deity have the same skill, use the skill of whichever
-has more ranks in the skill. Use the mortal's effective ability scores
+has more ranks in the skill. Use the mortal’s effective ability scores
 to determine skill modifiers.
 
 **Suggested Portfolio Elements:** Supreme.
@@ -1935,11 +1935,11 @@ to determine skill modifiers.
 
 **Benefit:** The deity can give creatures good or bad fortune. The deity
 can affect up to one creature per divine rank at once, but no more than
-that number each day. All must be within the deity's line of sight when
+that number each day. All must be within the deity’s line of sight when
 first affected. Subjects receive a luck bonus of +1 per divine rank or a
-luck penalty of --1 per divine rank on attack rolls, saves, and checks
+luck penalty of –1 per divine rank on attack rolls, saves, and checks
 for one day. Any creature that attacks the deity automatically suffers
-the luck penalty, and this does not count against the deity's daily uses
+the luck penalty, and this does not count against the deity’s daily uses
 of this ability.
 
 **Suggested Portfolio Elements:** Fate, gambling, luck.
@@ -1952,7 +1952,7 @@ action.
 
 -   Create or quell winds to produce anything from still air to tornado
     force winds.
--   Set the temperature anywhere from --50°F to 120°F.
+-   Set the temperature anywhere from –50°F to 120°F.
 -   Shake the earth, as the *earthquake* spell.
 -   Create rain, sleet, hail, snow, or thunderstorms.
 
@@ -1970,10 +1970,10 @@ lies* spell, except that it works continuously and applies to any
 creature the deity can perceive. The deity also can enchant creatures so
 they become truthful. The deity can affect up to one creature per divine
 rank at once, but no more than that number each day. All must be within
-the deity's line of sight when first affected. The enchanted creatures
+the deity’s line of sight when first affected. The enchanted creatures
 become unable to utter any deliberate falsehoods or evasions of truth
-for one day. The subject is allowed a Will save (DC 10 + the deity's
-Charisma modifier + the deity's divine rank) to resist. Subjects who
+for one day. The subject is allowed a Will save (DC 10 + the deity’s
+Charisma modifier + the deity’s divine rank) to resist. Subjects who
 make successful saves become immune to this ability for one day.
 
 **Suggested Portfolio Elements:** Justice, law, truth.
@@ -1987,10 +1987,10 @@ ability.
 simply disperses and reassembles later. Roll 10d10 to determine the
 number of days before the deity returns.
 
-**Notes:** If the deity is killed in its own realm, subtract the deity's
-divine rank from the number of days it takes to return. If the deity's
+**Notes:** If the deity is killed in its own realm, subtract the deity’s
+divine rank from the number of days it takes to return. If the deity’s
 realm is on a divinely morphic Outer Plane, and the deity is killed
-there, subtract twice the deity's divine rank from
+there, subtract twice the deity’s divine rank from
 
 the number of days it takes to return. The return always takes at least
 one day.
@@ -2032,7 +2032,7 @@ and as noted here.
 
 The deity can use its Alter Size ability simultaneously with this one to
 become as small as a grain of sand or as large as 1,600 feet in the
-assumed form's greatest dimension.
+assumed form’s greatest dimension.
 
 The deity can use this ability to create disguises, gaining a bonus of
 +20 on its Disguise checks.
@@ -2048,7 +2048,7 @@ Alter Form salient divine ability.
 
 **Benefit:** The deity can assume the form of another creature. The
 forms a deity can assume are limited and vary with each deity. The forms
-allowed are listed in the deity's description. The deity can remain in
+allowed are listed in the deity’s description. The deity can remain in
 the assumed form indefinitely, but it resumes its own form if slain.
 
 **Notes:** The deity acquires the physical, natural, and extraordinary
@@ -2062,8 +2062,8 @@ qualities (presence or absence of wings, number of extremities, and so
 on). A body with extra limbs does not allow the deity to make more
 attacks (or more advantageous two-weapon attacks) than normal. Natural
 abilities also include mundane movement capabilities, such as walking,
-swimming, and flight with wings. The deity's speed is that of the
-assumed form or the deity's normal speed, whichever is higher.
+swimming, and flight with wings. The deity’s speed is that of the
+assumed form or the deity’s normal speed, whichever is higher.
 
 In general, any part of the body or piece of equipment that is separated
 from the whole reverts to its original form. However, if the assumed
@@ -2085,7 +2085,7 @@ like that of a humanoid for verbal components and hands like those of a
 humanoid for somatic components, Likewise, the deity needs hands to use
 many of its powers, such as creating objects related to its portfolio.
 
-When the shape shift occurs, the deity's equipment, if any, transforms
+When the shape shift occurs, the deity’s equipment, if any, transforms
 to match the new form. If the new form is a creature that does not use
 equipment (aberration, animal, beast, magical beast, construct, dragon,
 elemental, ooze, some outsiders, plant, some undead creatures, some
@@ -2094,7 +2094,7 @@ becomes nonfunctional.
 
 Material components and focuses melded in this way cannot be used to
 cast spells. If the new form uses equipment (fey, giant, humanoid, some
-outsiders, many shapechangers, many undead creatures), the deity's
+outsiders, many shapechangers, many undead creatures), the deity’s
 equipment changes to match the new form and retains its properties.
 
 This ability cannot confer class levels or class abilities.
@@ -2105,7 +2105,7 @@ create disguises, gaining a bonus of +15 on its Disguise checks.
 
 The deity can use its Alter Size ability simultaneously with this one to
 become as small as a grain of sand or as large as 1,600 feet in the
-assumed form's greatest dimension.
+assumed form’s greatest dimension.
 
 **Suggested Portfolio Elements:** Nature.
 
@@ -2126,7 +2126,7 @@ different type of creature each time.
 **Prerequisites:** Divine rank 6, Wizard level 1st, Int 29, Spell
 Mastery, Arcane Mastery salient divine ability.
 
-**Benefit:** This ability works like a cleric's ability to cast *cure*
+**Benefit:** This ability works like a cleric’s ability to cast *cure*
 spells spontaneously, except that it applies to wizard spells. The deity
 must have a sufficient Intelligence score and wizard levels to cast the
 spell.
@@ -2140,14 +2140,14 @@ unless it also has the Divine Spellcasting ability.
 
 **Prerequisites:** Travel domain.
 
-**Benefit:** The deity's movement is doubled on the local or overland
-scales. Also, having this ability means that the deity's height does not
+**Benefit:** The deity’s movement is doubled on the local or overland
+scales. Also, having this ability means that the deity’s height does not
 limit the distance it can jump.
 
 In addition, the deity can impart extra overland speed to living
 creatures. The deity can affect up to one creature per divine rank at
 once, but no more than that number each day. All must be within the
-deity's line of sight when first affected. Creatures who receive this
+deity’s line of sight when first affected. Creatures who receive this
 boon double their speeds on the local or overland scales.
 
 **Suggested Portfolio Elements:** Travel.
@@ -2159,7 +2159,7 @@ the deity can destroy it with a touch. Treat a successful touch as a
 combination of a *disintegrate* spell and a
 
 *disjunction* spell, both targeted exclusively at the touched item. The
-save DC for both effects is 19 + the deity's Charisma modifier. Anitem
+save DC for both effects is 19 + the deity’s Charisma modifier. Anitem
 remains vulnerable to this ability for up to one day after being used
 against the deity.
 
@@ -2175,10 +2175,10 @@ This is an extraordinary ability.
 what its initiative result is or what initiative result anyone else in
 an encounter or battle has.
 
-**Notes:** Determine initiative normally among any beings who don't have
+**Notes:** Determine initiative normally among any beings who don’t have
 this ability, placing them in order after the deity. The deity can
 choose to delay or ready an action, just any other being can, and doing
-so changes the deity's initiative as normal. The deity also can refocus,
+so changes the deity’s initiative as normal. The deity also can refocus,
 thereby resuming its position at the beginning of the initiative order.
 
 If two or more deities who have this ability are in the same battle, the
@@ -2204,7 +2204,7 @@ matter how obscure the knowledge involved. The deity speaks and
 understands all languages. The deity can use *legend lore* and *analyze
 dweomer* as free actions at will. These actions count against
 
-the deity's maximum number of free actions per round.
+the deity’s maximum number of free actions per round.
 
 **Suggested Portfolio Elements:** Knowledge.
 
@@ -2231,7 +2231,7 @@ The deity can use this ability to create disguises, gaining a bonus of
 
 The deity can use its Alter Size ability simultaneously with this one to
 become as small as a grain of sand or as large as 1,600 feet in the
-assumed form's greatest dimension.
+assumed form’s greatest dimension.
 
 **Suggested Portfolio Elements:** Nature, secrets, thieves.
 
@@ -2244,7 +2244,7 @@ creature, as desired, as a free action, though this counts against the
 normal limit of free actions per round. The deity can do this as often
 as desired, but it can command no more than one
 
-undead creature per divine rank (regardless of the creatures' Hit Dice)
+undead creature per divine rank (regardless of the creatures’ Hit Dice)
 at any one time.
 
 **Suggested Portfolio Elements:** Death, life, undead.
@@ -2253,40 +2253,40 @@ at any one time.
 
 **Benefit:** The deity gains the qualities of the undead type:
 
----No Constitution score.
+—No Constitution score.
 
----Darkvision out to 60 feet.
+—Darkvision out to 60 feet.
 
----Immunity to all mind-affecting effects (charms, compulsions,
-phantasms, patterns, and morale effects).
+—Immunity to all mind-affecting effects (charms, compulsions, phantasms,
+patterns, and morale effects).
 
----Immunity to poison, sleep effects, paralysis, stunning, disease, and
+—Immunity to poison, sleep effects, paralysis, stunning, disease, and
 death effects.
 
----Not subject to critical hits, nonlethal damage, ability drain, or
+—Not subject to critical hits, nonlethal damage, ability drain, or
 energy drain. Immune to damage to its physical ability scores (Strength,
 Dexterity, and Constitution), as well as to fatigue and exhaustion
 effects.
 
----Cannot heal damage on its own if it has no Intelligence score,
-although it can be healed. Negative energy can heal undead creatures.
-The fast healing special quality works regardless of the creature's
-Intelligence score.
+—Cannot heal damage on its own if it has no Intelligence score, although
+it can be healed. Negative energy can heal undead creatures. The fast
+healing special quality works regardless of the creature’s Intelligence
+score.
 
----Immunity to any effect that requires a Fortitude save (unless the
+—Immunity to any effect that requires a Fortitude save (unless the
 effect also works on objects or is harmless).
 
----Uses its Charisma modifier for Concentration checks.
+—Uses its Charisma modifier for Concentration checks.
 
----Not at risk of death from massive damage, but when reduced to 0 hit
+—Not at risk of death from massive damage, but when reduced to 0 hit
 points or less, it is immediately destroyed.
 
----Not affected by *raise dead* and *reincarnate* spells or abilities.
+—Not affected by *raise dead* and *reincarnate* spells or abilities.
 *Resurrection* and *true resurrection* can affect undead creatures.
 These spells turn undead creatures back into the living creatures they
 were before becoming undead.
 
----Undead do not breathe, eat, or sleep.
+—Undead do not breathe, eat, or sleep.
 
 **Suggested Portfolio Elements:** Death, undead.
 
@@ -2296,11 +2296,11 @@ were before becoming undead.
 
 **Benefit:** The deity can create a wave of mental force that extends
 from the deity in a spread with a radius of 10 feet per divine rank.
-Creatures within the spread must make Will saves (DC 10 + the deity's
-Charisma modifier + the deity's divine rank) or
+Creatures within the spread must make Will saves (DC 10 + the deity’s
+Charisma modifier + the deity’s divine rank) or
 
 be forced to act unpredictably. This ability works like a *confusion*
-spell cast by a sorcerer of level 10 + the deity's divine rank.
+spell cast by a sorcerer of level 10 + the deity’s divine rank.
 
 **Suggested Portfolio Elements:** Chaos.
 
@@ -2314,7 +2314,7 @@ addition to the normal damage from the weapon. Multiple wounds from the
 weapon result in cumulative bleeding loss (two
 
 wounds for 2d6 points of damage per round, and so on). The bleeding can
-only be stopped by a successful Heal check (DC 15 + the deity's rank) or
+only be stopped by a successful Heal check (DC 15 + the deity’s rank) or
 the application of any *cure* spell or other healing spell *(heal,
 healing circle,* and so on).
 
@@ -2333,7 +2333,7 @@ deity can have this ability multiple times, and its effects stack.
 Deities can obtain the feats described here, in addition to any standard
 feats.
 
-### Blindsight,5-Ft.Radius [\[General\]]{.small} {#blindsight-5-ftradius}
+### Blindsight,5-Ft.Radius <span class="small">\[General\]</span>
 
 **Prerequisites:** Base attack bonus +4, Blind-Fight, Wisdom 19.
 
@@ -2342,21 +2342,21 @@ vibrations, you detect the location of opponents who are no more than 5
 feet away from you. *Invisibility* and *darkness* are irrelevant, though
 it you discern incorporeal beings.
 
-### Disguise Spell [\[Metamagic\]]{.small} {#disguise-spell}
+### Disguise Spell <span class="small">\[Metamagic\]</span>
 
 **Prerequisites:** Bardic music, Perform 12 ranks.
 
 **Benefit:** You have mastered the art of casting spells unobtrusively,
 mingling verbal and somatic components into its music and performances
 so that others rarely catch you in the act of casting a spell. Like a
-silent, stilled spell, a disguised spell can't be identified through
+silent, stilled spell, a disguised spell can’t be identified through
 Spellcraft. Your performance is obvious to everyone in the vicinity, but
-the fact that you are casting a spell isn't. Unless the spell visibly
+the fact that you are casting a spell isn’t. Unless the spell visibly
 emanates from you or observers have some other means of determining its
-source, they don't know where the effect came from. A disguised spell
-uses up a spell slot one level higher than the spell's actual level.
+source, they don’t know where the effect came from. A disguised spell
+uses up a spell slot one level higher than the spell’s actual level.
 
-### Divine Might [\[Divine \]]{.small} {#divine-might}
+### Divine Might <span class="small">\[Divine \]</span>
 
 **Prerequisites:** Str 13, turn or rebuke undead ability, Power Attack.
 
@@ -2364,7 +2364,7 @@ uses up a spell slot one level higher than the spell's actual level.
 attempts to add your Charisma bonus to your weapon damage for 1 full
 round.
 
-### Divine Vengeance [\[Divine \]]{.small} {#divine-vengeance}
+### Divine Vengeance <span class="small">\[Divine \]</span>
 
 **Prerequisites:** Ability to turn undead, Extra Turning.
 
@@ -2373,7 +2373,7 @@ points of sacred energy damage to all your successful melee attacks
 against undead until the end of your next action. This is a supernatural
 ability.
 
-### Energy Substitution [\[Metamagic\]]{.small} {#energy-substitution}
+### Energy Substitution <span class="small">\[Metamagic\]</span>
 
 **Prerequisites:** Any other metamagic feat, Knowledge (arcana) 5 ranks.
 
@@ -2381,7 +2381,7 @@ ability.
 fire, or sonic. When employing a spell with the acid, cold, electricity,
 fire, or sonic designator, you can modify the spell to use your chosen
 type of energy instead. The altered spell uses a spell slot of the
-spell's normal level.
+spell’s normal level.
 
 The altered spell works normally in all respects except the type of
 damage dealt.
@@ -2389,7 +2389,7 @@ damage dealt.
 **Special:** You can gain this feat multiple times. Each time the feat
 applies to a different type of energy.
 
-### Extra Music [\[General\]]{.small} {#extra-music}
+### Extra Music <span class="small">\[General\]</span>
 
 **Prerequisite:** Bardic music.
 
@@ -2401,21 +2401,21 @@ per day per level.
 **Special:** You can gain this feat multiple times, adding another four
 uses of bardic music each time.
 
-### Eyes in the Back of Your Head [\[General\]]{.small} {#eyes-in-the-back-of-your-head}
+### Eyes in the Back of Your Head <span class="small">\[General\]</span>
 
 **Prerequisites:** Base attack bonus +3, Wis 19.
 
 **Benefit:** Attackers do not gain the usual +2 attack bonus when
 flanking you. This feat grants no effect whenever you are attacked
 without benefit of your Dexterity modifier to AC, such as when you are
-flat-footed or when you are the target of a rogue's sneak attack.
+flat-footed or when you are the target of a rogue’s sneak attack.
 
-### Fleet of Foot [\[General\]]{.small} {#fleet-of-foot}
+### Fleet of Foot <span class="small">\[General\]</span>
 
 **Prerequisites:** Dex 15, Run.
 
 **Benefit:** When running or charging, you can make a single direction
-change of 90 degrees or less. You can't use this feat while wearing
+change of 90 degrees or less. You can’t use this feat while wearing
 medium or heavy armor, or when carrying a medium or heavy load. If you
 are charging, you must move in a straight line for 10 feet after the
 turn to maintain the charge.
@@ -2423,7 +2423,7 @@ turn to maintain the charge.
 **Normal:** Without this feat, you can run or charge only in a straight
 line.
 
-### Hold the Line [\[General\]]{.small} {#hold-the-line}
+### Hold the Line <span class="small">\[General\]</span>
 
 **Prerequisites:** Combat Reflexes, base attack bonus +2.
 
@@ -2434,14 +2434,14 @@ happens immediately before the charge attack is resolved.
 **Normal:** You only get an attack of opportunity against a character
 that exits a square you threaten.
 
-### Jack of All Trades [\[General\]]{.small} {#jack-of-all-trades}
+### Jack of All Trades <span class="small">\[General\]</span>
 
 **Prerequisite:** You must be at least 6th level.
 
 **Benefit:** You can use any skill untrained, even those that normally
 require training.
 
-### Knock-Down [\[General\]]{.small} {#knock-down}
+### Knock-Down <span class="small">\[General\]</span>
 
 **Prerequisites:** Base attack bonus +2, Improved Trip, Str 15.
 
@@ -2449,7 +2449,7 @@ require training.
 opponent in melee, you make a trip attack as a free action against the
 same target.
 
-### Persistent Spell [\[Metamagic\]]{.small} {#persistent-spell}
+### Persistent Spell <span class="small">\[Metamagic\]</span>
 
 **Prerequisite:** Extend Spell.
 
@@ -2461,10 +2461,10 @@ whose effects are discharged. You need not concentrate on spells such as
 absence of the things detected, but you must still concentrate to gain
 additional information as normal. Concentration on such a spell is a
 standard action that does not provoke an attack of opportunity. A
-persistent spell uses up a spell slot six levels higher than the spell's
+persistent spell uses up a spell slot six levels higher than the spell’s
 actual level.
 
-### Plant Control [\[General\]]{.small} {#plant-control}
+### Plant Control <span class="small">\[General\]</span>
 
 **Prerequisites:** Plant Defiance, ability to cast *speak with plants.*
 
@@ -2475,7 +2475,7 @@ desired. This ability is usable a total number of times per day equal to
 3 + your Charisma modifier. You use your highest caster level to
 determine the level at which you rebuke plants.
 
-### Plant Defiance [\[General\]]{.small} {#plant-defiance}
+### Plant Defiance <span class="small">\[General\]</span>
 
 **Prerequisite:** Ability to cast *detect animals or plants.*
 
@@ -2487,7 +2487,7 @@ number of times per day equal to 3 + your Charisma modifier. You use
 your highest caster level to determine the level at which you turns
 plants.
 
-### Power Critical [\[General\]]{.small} {#power-critical}
+### Power Critical <span class="small">\[General\]</span>
 
 **Prerequisites:** Weapon focus (chosen weapon), base attack bonus +4
 
@@ -2501,15 +2501,15 @@ You can gain Power Critical multiple times. Each time you take the feat,
 it may be with a different weapon or the same weapon. If you take it
 with the same weapon, the effects of the feats stack.
 
-### Reach Spell [\[Metamagic\]]{.small} {#reach-spell}
+### Reach Spell <span class="small">\[Metamagic\]</span>
 
 **Benefit:** You may cast a spell that normally has a range of touch at
 any distance up to 30 feet. The spell effectively becomes a ray, so you
 must succeed at a ranged touch attack to bestow the spell upon the
 recipient. A reach spell uses up a spell slot two levels higher than the
-spell's actual level.
+spell’s actual level.
 
-### Repeat Spell [\[Metamagic\]]{.small} {#repeat-spell}
+### Repeat Spell <span class="small">\[Metamagic\]</span>
 
 **Prerequisites:** Any other metamagic feat.
 
@@ -2521,19 +2521,19 @@ area as the primary spell. If the repeated spell
 designates a target, the secondary spell retargets the same target if
 the target is within 30 feet of its original position; otherwise the
 secondary spell fails to go off. A repeated spell uses up a spell slot
-three levels higher than the spell's actual level. Repeat Spell cannot
+three levels higher than the spell’s actual level. Repeat Spell cannot
 be used on spells with a range of touch.
 
-### Sacred Spell [\[Metamagic\]]{.small} {#sacred-spell}
+### Sacred Spell <span class="small">\[Metamagic\]</span>
 
 **Benefit:** Half of the damage dealt by a sacred spell results directly
 from divine power and is therefore not subject to being reduced by
 protection from elements or similar magic. The other half of the damage
 dealt by the spell is as normal. A sacred spell uses up a spell slot two
-levels higher than the spell's actual level. Only divine spells can be
+levels higher than the spell’s actual level. Only divine spells can be
 cast as sacred spells.
 
-### Sharp-Shooting [\[General\]]{.small} {#sharp-shooting}
+### Sharp-Shooting <span class="small">\[General\]</span>
 
 **Prerequisites:** Point Blank Shot, Precise Shot, base attack bonus +3.
 
@@ -2546,19 +2546,19 @@ cover.
 **Special:** A fighter may select Sharp-Shooting as one of his bonus
 feats.
 
-### Subdual Substitution [\[Metamagic\]]{.small} {#subdual-substitution}
+### Subdual Substitution <span class="small">\[Metamagic\]</span>
 
 **Prerequisites:** Any other metamagic feat, Knowledge (arcana) 5 ranks.
 
 **Benefit:** When employing a spell with the acid, cold, electricity,
 fire, or sonic designator, you can modify the spell to deal subdual
 damage instead of the indicated type of energy damage. The altered spell
-uses a spell slot of the spell's normal level.
+uses a spell slot of the spell’s normal level.
 
 The altered spell works normally in all respects except the type of
 damage dealt.
 
-### Superior Expertise [\[General\]]{.small} {#superior-expertise}
+### Superior Expertise <span class="small">\[General\]</span>
 
 **Prerequisites:** Int 13, Combat Expertise, base attack bonus +6.
 

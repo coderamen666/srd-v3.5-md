@@ -102,12 +102,12 @@ delicate activities such as these require Intelligence checks.
 
 *Combat Maneuver:* Alternatively, once per round, you can use
 *telekinesis* to perform a bull rush, disarm, grapple (including pin),
-or trip. Resolve these attempts as normal, except that they don't
+or trip. Resolve these attempts as normal, except that they don’t
 provoke attacks of opportunity, you use your caster level in place of
 your base attack bonus (for disarm and grapple), you use your
 Intelligence modifier (if a wizard) or Charisma modifier (if a sorcerer)
 in place of your Strength or Dexterity modifier, and a failed attempt
-doesn't allow a reactive attempt by the target (such as for disarm or
+doesn’t allow a reactive attempt by the target (such as for disarm or
 trip). No save is allowed against these attempts, but spell resistance
 applies normally. This version of the spell can last 1 round per caster
 level, but it ends if you cease concentration.
@@ -161,10 +161,10 @@ moving a sphere in the round after casting the spell. If you concentrate
 on doing so (a standard action), you can move the sphere as much as 30
 feet in a round. If you cease concentrating, the sphere does not move in
 that round (if on a level surface) or descends at its falling rate (if
-aloft) until it reaches a level surface, or the spell's duration
+aloft) until it reaches a level surface, or the spell’s duration
 expires, or you begin concentrating again. If you cease concentrating
 (voluntarily or due to failing a Concentration check), you can resume
-concentrating on your next turn or any later turn during the spell's
+concentrating on your next turn or any later turn during the spell’s
 duration.
 
 The sphere falls at a rate of only 60 feet per round, which is not fast
@@ -221,7 +221,7 @@ creatures.
 This spell instantly transports you to a designated destination, which
 may be as distant as 100 miles per caster level. Interplanar travel is
 not possible. You can bring along objects as long as their weight
-doesn't exceed your maximum load. You may also bring one additional
+doesn’t exceed your maximum load. You may also bring one additional
 willing Medium or smaller creature (carrying gear or objects up to its
 maximum load) or its equivalent (see below) per three caster levels. A
 Large creature counts as two Medium creatures, a Huge creature counts as
@@ -241,15 +241,15 @@ To see how well the teleportation works, roll d% and consult the
 Teleport table. Refer to the following information for definitions of
 the terms on the table.
 
-*Familiarity:* "Very familiar" is a place where you have been very often
-and where you feel at home. "Studied carefully" is a place you know
-well, either because you can currently see it, you've been there often,
+*Familiarity:* “Very familiar” is a place where you have been very often
+and where you feel at home. “Studied carefully” is a place you know
+well, either because you can currently see it, you’ve been there often,
 or you have used other means (such as *scrying*) to study the place for
-at least one hour. "Seen casually" is a place that you have seen more
-than once but with which you are not very familiar. "Viewed once" is a
+at least one hour. “Seen casually” is a place that you have seen more
+than once but with which you are not very familiar. “Viewed once” is a
 place that you have seen once, possibly using magic.
 
-"False destination" is a place that does not truly exist or if you are
+“False destination” is a place that does not truly exist or if you are
 teleporting to an otherwise familiar location that no longer exists as
 such or has been so completely altered as to no longer be familiar to
 you. When traveling to a false destination, roll 1d20+80 to obtain
@@ -263,26 +263,26 @@ destination in a random direction. Distance off target is 1d10x1d10% of
 the distance that was to be traveled. The direction off target is
 determined randomly
 
-*Similar Area:* You wind up in an area that's visually or thematically
+*Similar Area:* You wind up in an area that’s visually or thematically
 similar to the target area.
 
 Generally, you appear in the closest similar place within range. If no
-such area exists within the spell's range, the spell simply fails
+such area exists within the spell’s range, the spell simply fails
 instead.
 
 *Mishap:* You and anyone else teleporting with you have gotten
-"scrambled." You each take 1d10 points of damage, and you reroll on the
+“scrambled.” You each take 1d10 points of damage, and you reroll on the
 chart to see where you wind up. For these rerolls, roll 1d20+80. Each
-time "Mishap" comes up, the characters take more damage and must reroll.
+time “Mishap” comes up, the characters take more damage and must reroll.
 
-  ----------------------------- ----------- ------------ -------------- ---------
-  Familiarity                   On Target   Off Target   Similar Area   Mishap
-  Very familiar                 01--97      98--99       100            ---
-  Studied carefully             01--94      95--97       98--99         100
-  Seen casually                 01--88      89--94       95--98         99--100
-  Viewed once                   01--76      77--88       89--96         97--100
-  False destination (1d20+80)   ---         ---          81--92         93--100
-  ----------------------------- ----------- ------------ -------------- ---------
+|                             |           |            |              |        |
+|-----------------------------|-----------|------------|--------------|--------|
+| Familiarity                 | On Target | Off Target | Similar Area | Mishap |
+| Very familiar               | 01–97     | 98–99      | 100          | —      |
+| Studied carefully           | 01–94     | 95–97      | 98–99        | 100    |
+| Seen casually               | 01–88     | 89–94      | 95–98        | 99–100 |
+| Viewed once                 | 01–76     | 77–88      | 89–96        | 97–100 |
+| False destination (1d20+80) | —         | —          | 81–92        | 93–100 |
 
 ## Teleport Object
 
@@ -331,7 +331,7 @@ original location. Interplanar travel is not possible.
 You create a circle on the floor or other horizontal surface that
 teleports, as *greater teleport,* any creature who stands on it to a
 designated spot. Once you designate the destination for the circle, you
-can't change it. The spell fails if you attempt to set the circle to
+can’t change it. The spell fails if you attempt to set the circle to
 teleport creatures into a solid object, to a place with which you are
 not familiar and have no clear description, or to another plane.
 
@@ -397,7 +397,7 @@ their defenses, summon allies, or flee from combat.
 
 You cannot move or harm items held, carried, or worn by a creature stuck
 in normal time, but you can affect any item that is not in another
-creature's possession.
+creature’s possession.
 
 You are undetectable while *time stop* lasts. You cannot enter an area
 protected by an *antimagic field* while under the effect of *time stop.*
@@ -456,7 +456,7 @@ understand the language of any intelligent creature, whether it is a
 racial tongue or a regional dialect. The subject can speak only one
 language at a time, although it may be able to understand several
 languages. *Tongues* does not enable the subject to speak with creatures
-who don't speak. The subject can make itself understood as far as its
+who don’t speak. The subject can make itself understood as far as its
 voice carries. This spell does not predispose any creature addressed
 toward the subject in any way.
 
@@ -480,10 +480,10 @@ shatters when the verbal component is pronounced.
 You channel negative energy through your touch, fatiguing the target.
 You must succeed on a touch attack to strike a target.
 
-The subject is immediately fatigued for the spell's duration.
+The subject is immediately fatigued for the spell’s duration.
 
 This spell has no effect on a creature that is already fatigued. Unlike
-with normal fatigue, the effect ends as soon as the spell's duration
+with normal fatigue, the effect ends as soon as the spell’s duration
 expires.
 
 *Material Component:* A drop of sweat.
@@ -500,12 +500,12 @@ expires.
 -   **Saving Throw:** No
 -   **Spell Resistance:** Yes
 
-With a touch, you reduce the target's mental faculties. Your successful
-melee touch attack applies a 1d6 penalty to the target's Intelligence,
-Wisdom, and Charisma scores. This penalty can't reduce any of these
+With a touch, you reduce the target’s mental faculties. Your successful
+melee touch attack applies a 1d6 penalty to the target’s Intelligence,
+Wisdom, and Charisma scores. This penalty can’t reduce any of these
 scores below 1.
 
-This spell's effect may make it impossible for the target to cast some
+This spell’s effect may make it impossible for the target to cast some
 or all of its spells, if the requisite ability score drops below the
 minimum required to cast spells of that level.
 
@@ -519,9 +519,9 @@ minimum required to cast spells of that level.
 -   **Target:** You
 -   **Duration:** 1 round/level
 
-You become a virtual fighting machine--- stronger, tougher, faster, and
+You become a virtual fighting machine— stronger, tougher, faster, and
 more skilled in combat. Your mind-set changes so that you relish combat
-and you can't cast spells, even from magic items.
+and you can’t cast spells, even from magic items.
 
 You gain a +4 enhancement bonus to Strength, Dexterity, and
 Constitution, a +4 natural armor bonus to AC, a +5 competence bonus on
@@ -533,7 +533,7 @@ You lose your spellcasting ability, including your ability to use spell
 activation or spell completion magic items, just as if the spells were
 no longer on your class list.
 
-*Material Component:* A *potion of bull's strength*, which you drink
+*Material Component:* A *potion of bull’s strength*, which you drink
 (and whose effects are subsumed by the spell effects).
 
 ## Transmute Metal to Wood
@@ -552,7 +552,7 @@ This spell enables you to change all metal objects within its area to
 wood. Weapons, armor, and other metal objects carried by creatures are
 affected as well. A magic object made of metal effectively has spell
 resistance equal to 20 + its caster level against this spell. Artifacts
-cannot be transmuted. Weapons converted from metal to wood take a --2
+cannot be transmuted. Weapons converted from metal to wood take a –2
 penalty on attack and damage rolls. The armor bonus of any armor
 converted from metal to wood is reduced by 2. Weapons changed by this
 spell splinter and break on any natural attack roll of 1 or 2, and armor
@@ -600,7 +600,7 @@ This spell turns natural, uncut or unworked rock of any sort into an
 equal volume of mud. Magical stone is not affected by the spell. The
 depth of the mud created cannot exceed 10 feet. A creature unable to
 levitate, fly, or otherwise free itself from the mud sinks until hip- or
-chest-deep, reducing its speed to 5 feet and causing a --2 penalty on
+chest-deep, reducing its speed to 5 feet and causing a –2 penalty on
 attack rolls and AC. Brush thrown atop the mud can support creatures
 able to climb on top of it. Creatures large enough to walk on the bottom
 can wade through the area at a speed of 5 feet.
@@ -612,13 +612,13 @@ bludgeoning damage to anyone caught directly beneath the area, or half
 damage to those who succeed on Reflex saves.
 
 Castles and large stone buildings are generally immune to the effect of
-the spell, since *transmute rock to mud* can't affect worked stone and
-doesn't reach deep enough to undermine such buildings' foundations.
+the spell, since *transmute rock to mud* can’t affect worked stone and
+doesn’t reach deep enough to undermine such buildings’ foundations.
 However, small buildings or structures often rest upon foundations
 shallow enough to be damaged or even partially toppled by this spell.
 
 The mud remains until a successful *dispel magic* or *transmute mud to
-rock* spell restores its substance---but not necessarily its form.
+rock* spell restores its substance—but not necessarily its form.
 Evaporation turns the mud to normal dirt over a period of days. The
 exact time depends on exposure to the sun, wind, and normal drainage.
 
@@ -648,7 +648,7 @@ desired location. If a particular destination plant is desired but the
 plant is not living, the spell fails and you are ejected from the entry
 plant.
 
-You can bring along objects as long as their weight doesn't exceed your
+You can bring along objects as long as their weight doesn’t exceed your
 maximum load. You may also bring one additional willing Medium or
 smaller creature (carrying gear or objects up to its maximum load) or
 its equivalent per three caster levels. Use the following equivalents to
@@ -658,7 +658,7 @@ two Large creatures, and so forth. All creatures to be transported must
 be in contact with one another, and at least one of those creatures must
 be in contact with you.
 
-You can't use this spell to travel through plant creatures.
+You can’t use this spell to travel through plant creatures.
 
 The destruction of an occupied plant slays you and any creatures you
 have brought along, and ejects the bodies and all carried objects from
@@ -676,7 +676,7 @@ the tree.
 -   **Saving Throw:** See text
 -   **Spell Resistance:** Yes; see text
 
-*Trap the soul* forces a creature's life force (and its material body)
+*Trap the soul* forces a creature’s life force (and its material body)
 into a gem. The gem holds the trapped entity indefinitely or until the
 gem is broken and the life force is released, which allows the material
 body to reform. If the trapped creature is a powerful creature from
@@ -690,14 +690,14 @@ two ways.
 *Spell Completion:* First, the spell can be completed by speaking its
 final word as a standard action as if you were casting a regular spell
 at the subject. This allows spell resistance (if any) and a Will save to
-avoid the effect. If the creature's name is spoken as well, any spell
+avoid the effect. If the creature’s name is spoken as well, any spell
 resistance is ignored and the save DC increases by 2. If the save or
 spell resistance is successful, the gem shatters.
 
 *Trigger Object:* The second method is far more insidious, for it tricks
 the subject into accepting a trigger object inscribed with the final
-spell word, automatically placing the creature's soul in the trap. To
-use this method, both the creature's name and the trigger word must be
+spell word, automatically placing the creature’s soul in the trap. To
+use this method, both the creature’s name and the trigger word must be
 inscribed on the trigger object when the gem is enspelled. A *sympathy*
 spell can also be placed on the trigger object. As soon as the subject
 picks up or accepts the trigger object, its life force is automatically
@@ -760,14 +760,14 @@ back out of the tree you moved into. You may choose to pass to any tree
 of the appropriate kind within the transport range as shown on the
 following table.
 
-  ----------------- -----------------
-  Type of Tree      Transport Range
-  Oak, ash, yew     3,000 feet
-  Elm, linden       2,000 feet
-  Other deciduous   1,500 feet
-  Any coniferous    1,000 feet
-  All other trees   500 feet
-  ----------------- -----------------
+|                 |                 |
+|-----------------|-----------------|
+| Type of Tree    | Transport Range |
+| Oak, ash, yew   | 3,000 feet      |
+| Elm, linden     | 2,000 feet      |
+| Other deciduous | 1,500 feet      |
+| Any coniferous  | 1,000 feet      |
+| All other trees | 500 feet        |
 
 You may move into a tree up to one time per caster level (passing from
 one tree to another counts only as moving into one tree). The spell
@@ -789,7 +789,7 @@ This spell functions like *raise dead,* except that you can resurrect a
 creature that has been dead for as long as 10 years per caster level.
 This spell can even bring back creatures whose bodies have been
 destroyed, provided that you unambiguously identify the deceased in some
-fashion (reciting the deceased's time and place of birth or death is the
+fashion (reciting the deceased’s time and place of birth or death is the
 most common method).
 
 Upon completion of the spell, the creature is immediately restored to
@@ -798,10 +798,10 @@ Constitution points) or prepared spells.
 
 You can revive someone killed by a death effect or someone who has been
 turned into an undead creature and then destroyed. This spell can also
-resurrect elementals or outsiders, but it can't resurrect constructs or
+resurrect elementals or outsiders, but it can’t resurrect constructs or
 undead creatures.
 
-Even *true resurrection* can't restore to life a creature who has died
+Even *true resurrection* can’t restore to life a creature who has died
 of old age.
 
 *Material Component:* A sprinkle of holy water and diamonds worth a
@@ -906,7 +906,7 @@ site. This has three major effects.
 First, the site or structure is guarded by a *magic circle against good*
 effect.
 
-Second, all turning checks made to turn undead take a --4 penalty, and
+Second, all turning checks made to turn undead take a –4 penalty, and
 turning checks to rebuke undead gain a +4 profane bonus. Spell
 resistance does not apply to this effect. (This provision does not apply
 to the druid version of the spell.)
@@ -926,7 +926,7 @@ dispel magic, endure elements, freedom of movement, invisibility purge,
 protection from energy, remove fear, resist energy, silence, tongues,*
 and *zone of truth*.
 
-Saving throws and spell resistance might apply to these spells' effects.
+Saving throws and spell resistance might apply to these spells’ effects.
 (See the individual spell descriptions for details.)
 
 An area can receive only one *unhallow* spell (and its associated spell
@@ -1023,14 +1023,14 @@ within range. It can open only normal doors, drawers, lids, and the
 like. It has an effective Strength score of 2 (so it can lift 20 pounds
 or drag 100 pounds). It can trigger traps and such, but it can exert
 only 20 pounds of force, which is not enough to activate certain
-pressure plates and other devices. It can't perform any task that
+pressure plates and other devices. It can’t perform any task that
 requires a skill check with a DC higher than 10 or that requires a check
-using a skill that can't be used untrained. Its speed is 15 feet.
+using a skill that can’t be used untrained. Its speed is 15 feet.
 
 The servant cannot attack in any way; it is never allowed an attack
 roll. It cannot be killed, but it dissipates if it takes 6 points of
 damage from area attacks. (It gets no saves against attacks.) If you
-attempt to send it beyond the spell's range (measured from your current
+attempt to send it beyond the spell’s range (measured from your current
 position), the servant ceases to exist.
 
 *Material Component:* A piece of string and a bit of wood.
@@ -1049,8 +1049,8 @@ position), the servant ceases to exist.
 
 You must succeed on a melee touch attack. Your touch deals 1d6 points of
 damage per two caster levels (maximum 10d6). You gain temporary hit
-points equal to the damage you deal. However, you can't gain more than
-the subject's current hit points +10, which is enough to kill the
+points equal to the damage you deal. However, you can’t gain more than
+the subject’s current hit points +10, which is enough to kill the
 subject. The temporary hit points disappear 1 hour later.
 
 ## Veil
@@ -1067,17 +1067,17 @@ subject. The temporary hit points disappear 1 hour later.
 -   **Spell Resistance:** Yes; see text
 
 You instantly change the appearance of the subjects and then maintain
-that appearance for the spell's duration. You can make the subjects
+that appearance for the spell’s duration. You can make the subjects
 appear to be anything you wish. The subjects look, feel, and smell just
 like the creatures the spell makes them resemble. Affected creatures
 resume their normal appearances if slain. You must succeed on a Disguise
 check to duplicate the appearance of a specific individual. This spell
 gives you a +10 bonus on the check.
 
-Unwilling targets can negate the spell's effect on them by making Will
+Unwilling targets can negate the spell’s effect on them by making Will
 saves or with spell resistance. Those who interact with the subjects can
 attempt Will disbelief saves to see through the glamer, but spell
-resistance doesn't help.
+resistance doesn’t help.
 
 ## Ventriloquism
 
@@ -1199,7 +1199,7 @@ A *wall of force* spell creates an invisible wall of force. The wall
 cannot move, it is immune to damage of all kinds, and it is unaffected
 by most spells, including *dispel magic*. However, *disintegrate*
 immediately destroys it, as does a *rod of cancellation*, a *sphere of
-annihilation,* or a *mage's disjunction* spell. Breath weapons and
+annihilation,* or a *mage’s disjunction* spell. Breath weapons and
 spells cannot pass through the wall in either direction, although
 *dimension door, teleport,* and similar effects can bypass the barrier.
 It blocks ethereal creatures as well as material ones (though ethereal
@@ -1287,7 +1287,7 @@ same space as a creature or another object. It must always be a flat
 plane, though you can shape its edges to fit the available space.
 
 A *wall of iron* is 1 inch thick per four caster levels. You can double
-the wall's area by halving its thickness. Each 5- foot square of the
+the wall’s area by halving its thickness. Each 5- foot square of the
 wall has 30 hit points per inch of thickness and hardness 10. A section
 of wall whose hit points drop to 0 is breached. If a creature tries to
 break through the wall with a single attack, the DC for the Strength
@@ -1324,7 +1324,7 @@ natural phenomena.
 
 This spell creates a wall of rock that merges into adjoining rock
 surfaces. A *wall of stone* is 1 inch thick per four caster levels and
-composed of up to one 5-foot square per level. You can double the wall's
+composed of up to one 5-foot square per level. You can double the wall’s
 area by halving its thickness. The wall cannot be conjured so that it
 occupies the same space as a creature or another object.
 
@@ -1334,7 +1334,7 @@ any firm foundation; however, it must merge with and be solidly
 supported by existing stone. It can be used to bridge a chasm, for
 instance, or as a ramp. For this use, if the span is more than 20 feet,
 the wall must be arched and buttressed. This requirement reduces the
-spell's area by half. The wall can be crudely shaped to allow
+spell’s area by half. The wall can be crudely shaped to allow
 crenellations, battlements, and so forth by likewise reducing the area.
 
 Like any other stone wall, this one can be destroyed by a *disintegrate*
@@ -1363,10 +1363,10 @@ creatures. Creatures can avoid entrapment with successful Reflex saves.
 -   **Spell Resistance:** No
 
 A *wall of thorns* spell creates a barrier of very tough, pliable,
-tangled brush bearing needle-sharp thorns as long as a human's finger.
+tangled brush bearing needle-sharp thorns as long as a human’s finger.
 Any creature forced into or attempting to move through a *wall of
 thorns* takes slashing damage per round of movement equal to 25 minus
-the creature's AC. Dexterity and dodge bonuses to AC do not count for
+the creature’s AC. Dexterity and dodge bonuses to AC do not count for
 this calculation. (Creatures with an Armor Class of 25 or higher,
 without considering Dexterity and dodge bonuses, take no damage from
 contact with the wall.)
@@ -1416,7 +1416,7 @@ You cause wood to bend and warp, permanently destroying its
 straightness, form, and strength. A warped door springs open (or becomes
 stuck, requiring a Strength check to open, at your option). A boat or
 ship springs a leak. Warped ranged weapons are useless. A warped melee
-weapon causes a --4 penalty on attack rolls.
+weapon causes a –4 penalty on attack rolls.
 
 You may warp one Small or smaller object or its equivalent per caster
 level. A Medium object counts as two Small objects, a Large object as
@@ -1466,7 +1466,7 @@ The spell does not make creatures unable to breathe air.
 
 The transmuted creatures can tread on any liquid as if it were firm
 ground. Mud, oil, snow, quicksand, running water, ice, and even lava can
-be traversed easily, since the subjects' feet hover an inch or two above
+be traversed easily, since the subjects’ feet hover an inch or two above
 the surface. (Creatures crossing molten lava still take damage from the
 heat because they are near it.) The subjects can walk, run, charge, or
 otherwise move across the surface as if it were normal ground.
@@ -1487,7 +1487,7 @@ toward the surface at 60 feet per round until they can stand on it.
 -   **Saving Throw:** No
 -   **Spell Resistance:** Yes
 
-Waves of negative energy cause all living creatures in the spell's area
+Waves of negative energy cause all living creatures in the spell’s area
 to become exhausted. This spell has no effect on a creature that is
 already exhausted.
 
@@ -1503,7 +1503,7 @@ already exhausted.
 -   **Saving Throw:** No
 -   **Spell Resistance:** Yes
 
-Waves of negative energy render all living creatures in the spell's area
+Waves of negative energy render all living creatures in the spell’s area
 fatigued. This spell has no effect on a creature that is already
 fatigued.
 
@@ -1524,14 +1524,14 @@ strands trap those caught in them. The strands are similar to spider
 webs but far larger and tougher. These masses must be anchored to two or
 more solid and diametrically opposed points or else the web collapses
 upon itself and disappears. Creatures caught within a *web* become
-entangled among the gluey fibers. Attacking a creature in a web won't
+entangled among the gluey fibers. Attacking a creature in a web won’t
 cause you to become entangled.
 
-Anyone in the effect's area when the spell is cast must make a Reflex
+Anyone in the effect’s area when the spell is cast must make a Reflex
 save. If this save succeeds, the creature is entangled, but not
 prevented from moving, though moving is more difficult than normal for
 being entangled (see below). If the save fails, the creature is
-entangled and can't move from its space, but can break loose by spending
+entangled and can’t move from its space, but can break loose by spending
 1 round and making a DC 20 Strength check or a DC 25 Escape Artist
 check. Once loose (either by making the initial Reflex save or a later
 Strength check or Escape Artist check), a creature remains entangled,
@@ -1567,7 +1567,7 @@ than one creature. Only the affected creatures see the phantasmal
 creatures attacking them, though you see the attackers as shadowy
 shapes.
 
-If a subject's Fortitude save succeeds, it still takes 3d6 points of
+If a subject’s Fortitude save succeeds, it still takes 3d6 points of
 damage and is stunned for 1 round. The subject also takes 1d4 points of
 temporary Strength damage.
 
@@ -1586,12 +1586,12 @@ temporary Strength damage.
 
 This spell creates a powerful cyclone of raging wind that moves through
 the air, along the ground, or over water at a speed of 60 feet per
-round. You can concentrate on controlling the cyclone's every movement
-or specify a simple program. Directing the cyclone's movement or
+round. You can concentrate on controlling the cyclone’s every movement
+or specify a simple program. Directing the cyclone’s movement or
 changing its programmed movement is a standard action for you. The
 cyclone always moves during your turn. If the cyclone exceeds the
-spell's range, it moves in a random, uncontrolled fashion for 1d3 rounds
-and then dissipates. (You can't regain control of the cyclone, even if
+spell’s range, it moves in a random, uncontrolled fashion for 1d3 rounds
+and then dissipates. (You can’t regain control of the cyclone, even if
 comes back within range.)
 
 Any Large or smaller creature that comes in contact with the spell
@@ -1664,7 +1664,7 @@ which counts toward the duration of the spell (as does any time spent in
 physical form). As noted above, you can dismiss the spell, and you can
 even dismiss it for individual wind walkers and not others.
 
-For the last minute of the spell's duration, a *wind walker* in cloud
+For the last minute of the spell’s duration, a *wind walker* in cloud
 form automatically descends 60 feet per round (for a total of 600 feet),
 though it may descend faster if it wishes. This descent serves as a
 warning that the spell is about to end.
@@ -1724,8 +1724,8 @@ A *wish* can produce any one of the following effects.
 -   Duplicate any other spell of 6th level or lower, provided the spell
     is not of a school prohibited to you.
 -   Duplicate any wizard or sorcerer spell of 7th level or lower even if
-    it's of a prohibited school.
--   Duplicate any other spell of 5th level or lower even if it's of a
+    it’s of a prohibited school.
+-   Duplicate any other spell of 5th level or lower even if it’s of a
     prohibited school.
 -   Undo the harmful effects of many other spells, such as *geas/quest*
     or *insanity*.
@@ -1761,9 +1761,9 @@ A *wish* can produce any one of the following effects.
 -   Undo misfortune. A *wish* can undo a single recent event. The *wish*
     forces a reroll of any roll made within the last round (including
     your last turn). Reality reshapes itself to accommodate the new
-    result. For example, a *wish* could undo an opponent's successful
-    save, a foe's successful critical hit (either the attack roll or the
-    critical roll), a friend's failed save, and so on. The reroll,
+    result. For example, a *wish* could undo an opponent’s successful
+    save, a foe’s successful critical hit (either the attack roll or the
+    critical roll), a friend’s failed save, and so on. The reroll,
     however, may be as bad as or worse than the original roll. An
     unwilling target gets a Will save to negate the effect, and spell
     resistance (if any) applies.
@@ -1800,8 +1800,8 @@ the item, plus an additional 5,000 XP.
 
 *Wood shape* enables you to form one existing piece of wood into any
 shape that suits your purpose. While it is possible to make crude
-coffers, doors, and so forth, fine detail isn't possible. There is a 30%
-chance that any shape that includes moving parts simply doesn't work.
+coffers, doors, and so forth, fine detail isn’t possible. There is a 30%
+chance that any shape that includes moving parts simply doesn’t work.
 
 ## Word of Chaos
 
@@ -1831,20 +1831,20 @@ against these effects.
 
 *Killed:* Living creatures die. Undead creatures are destroyed.
 
-  ------------------------- ---------------------------------------
-  HD                        Effect
-  Equal to caster level     Deafened
-  Up to caster level --1    Stunned, deafened
-  Up to caster level --5    *Confused*, stunned, deafened
-  Up to caster level --10   Killed, *confused*, stunned, deafened
-  ------------------------- ---------------------------------------
+|                        |                                       |
+|------------------------|---------------------------------------|
+| HD                     | Effect                                |
+| Equal to caster level  | Deafened                              |
+| Up to caster level –1  | Stunned, deafened                     |
+| Up to caster level –5  | *Confused*, stunned, deafened         |
+| Up to caster level –10 | Killed, *confused*, stunned, deafened |
 
 Furthermore, if you are on your home plane when you cast this spell,
 nonchaotic extraplanar creatures within the area are instantly banished
 back to their home planes. Creatures so banished cannot return for at
 least 24 hours. This effect takes place regardless of whether the
 creatures hear the *word of chaos.* The banishment effect allows a Will
-save (at a --4 penalty) to negate.
+save (at a –4 penalty) to negate.
 
 Creatures whose HD exceed your caster level are unaffected by *word of
 chaos.*
@@ -1867,7 +1867,7 @@ spell, and it must be a very familiar place. The actual point of arrival
 is a designated area no larger than 10 feet by 10 feet. You can be
 transported any distance within a plane but cannot travel between
 planes. You can transport, in addition to yourself, any objects you
-carry, as long as their weight doesn't exceed your maximum load. You may
+carry, as long as their weight doesn’t exceed your maximum load. You may
 also bring one additional willing Medium or smaller creature (carrying
 gear or objects up to its maximum load) or its equivalent per three
 caster levels. A Large creature counts as two Medium creatures, a Huge
@@ -1876,8 +1876,8 @@ be transported must be in contact with one another, and at least one of
 those creatures must be in contact with you. Exceeding this limit causes
 the spell to fail.
 
-An unwilling creature can't be teleported by *word of recall.* Likewise,
-a creature's Will save (or spell resistance) prevents items in its
+An unwilling creature can’t be teleported by *word of recall.* Likewise,
+a creature’s Will save (or spell resistance) prevents items in its
 possession from being teleported. Unattended, nonmagical objects receive
 no saving throw.
 
@@ -1892,13 +1892,13 @@ no saving throw.
 -   **Duration:** 1 hour/level (D)
 
 By casting *zone of silence*, you manipulate sound waves in your
-immediate vicinity so that you and those within the spell's area can
+immediate vicinity so that you and those within the spell’s area can
 converse normally, yet no one outside can hear your voices or any other
 noises from within, including language-dependent or sonic spell effects.
 This effect is centered on you and moves with you. Anyone who enters the
 zone immediately becomes subject to its effects, but those who leave are
 no longer affected. Note, however, that a successful Spot check to read
-lips can still reveal what's said inside a *zone of silence.*
+lips can still reveal what’s said inside a *zone of silence.*
 
 ## Zone of Truth
 
@@ -1912,7 +1912,7 @@ lips can still reveal what's said inside a *zone of silence.*
 -   **Saving Throw:** Will negates
 -   **Spell Resistance:** Yes
 
-Creatures within the emanation area (or those who enter it) can't speak
+Creatures within the emanation area (or those who enter it) can’t speak
 any deliberate and intentional lies. Each potentially affected creature
 is allowed a save to avoid the effects when the spell is cast or when
 the creature first enters the emanation area. Affected creatures are

@@ -26,9 +26,9 @@ the terms of the Open Game License v1.0a.
 
 **Hit Die:** d6.
 
-### Class Skills {#adept--class-skills}
+### Class Skills
 
-The adept's class skills (and the key ability for each skill) are
+The adept’s class skills (and the key ability for each skill) are
 Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis),
 Knowledge (all skills taken individually) (Int), Profession (Wis),
 Spellcraft (Int), and Survival (Wis).
@@ -37,66 +37,346 @@ Spellcraft (Int), and Survival (Wis).
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-  ------- --------- ------- ------ ------- ---------- ---------------------------------------------------------------------------------------------------------- ----- ----- ----- ----- -----
-                                                                                                      []{style="                                                                         
-                                                                                                           display: block;                                                               
-                                                                                                         position: absolute;                                                             
-                                                                                                              right: 0;                                                                  
-                                                                                                              top: 50%;                                                                  
-                                                                                                              left: 0px;                                                                 
-                                                                                                 border-top: 1px solid currentColor;                                                     
-                                                                                                         "}[Spells per Day                                                               
-                                                       ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                          
+<table class="full-width-table">
+<caption>Table: The Adept</caption>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;" colspan="6"
+style="position: relative"><span style="
+                display: block;
+                position: absolute;
+                right: 0;
+                top: 50%;
+                left: 0px;
+                border-top: 1px solid currentColor;
+              "></span><span
+style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Spells
+per Day </span></th>
+</tr>
+<tr class="even">
+<th>NPC Level</th>
+<th>Base Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">1st</th>
+<th style="text-align: center;">2nd</th>
+<th style="text-align: center;">3rd</th>
+<th style="text-align: center;">4th</th>
+<th style="text-align: center;">5th</th>
+</tr>
+<tr class="odd">
+<th>1st</th>
+<th>+0</th>
+<th>+0</th>
+<th>+0</th>
+<th>+2</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>2nd</th>
+<th>+1</th>
+<th>+0</th>
+<th>+0</th>
+<th>+3</th>
+<th>Summon familiar</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>3rd</th>
+<th>+1</th>
+<th>+1</th>
+<th>+1</th>
+<th>+3</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>4th</th>
+<th>+2</th>
+<th>+1</th>
+<th>+1</th>
+<th>+4</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>5th</th>
+<th>+2</th>
+<th>+1</th>
+<th>+1</th>
+<th>+4</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>6th</th>
+<th>+3</th>
+<th>+2</th>
+<th>+2</th>
+<th>+5</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>7th</th>
+<th>+3</th>
+<th>+2</th>
+<th>+2</th>
+<th>+5</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>8th</th>
+<th>+4</th>
+<th>+2</th>
+<th>+2</th>
+<th>+6</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>9th</th>
+<th>+4</th>
+<th>+3</th>
+<th>+3</th>
+<th>+6</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>10th</th>
+<th>+5</th>
+<th>+3</th>
+<th>+3</th>
+<th>+7</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>11th</th>
+<th>+5</th>
+<th>+3</th>
+<th>+3</th>
+<th>+7</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>12th</th>
+<th>+6/+1</th>
+<th>+4</th>
+<th>+4</th>
+<th>+8</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>13th</th>
+<th>+6/+1</th>
+<th>+4</th>
+<th>+4</th>
+<th>+8</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>14th</th>
+<th>+7/+2</th>
+<th>+4</th>
+<th>+4</th>
+<th>+9</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>15th</th>
+<th>+7/+2</th>
+<th>+5</th>
+<th>+5</th>
+<th>+9</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>16th</th>
+<th>+8/+3</th>
+<th>+5</th>
+<th>+5</th>
+<th>+10</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">0</th>
+</tr>
+<tr class="odd">
+<th>17th</th>
+<th>+8/+3</th>
+<th>+5</th>
+<th>+5</th>
+<th>+10</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr class="even">
+<th>18th</th>
+<th>+9/+4</th>
+<th>+6</th>
+<th>+6</th>
+<th>+11</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr class="odd">
+<th>19th</th>
+<th>+9/+4</th>
+<th>+6</th>
+<th>+6</th>
+<th>+11</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+</tr>
+<tr class="even">
+<th>20th</th>
+<th>+10/+5</th>
+<th>+6</th>
+<th>+6</th>
+<th>+12</th>
+<th></th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+</tr>
+</tbody>
+</table>
 
-  NPC     Base      Fort\   Ref\   Will\   Special                                                        0                                                       1st   2nd   3rd   4th   5th
-  Level   Attack\   Save    Save   Save                                                                                                                                                  
-          Bonus                                                                                                                                                                          
+Table: The Adept
 
-  1st     +0        +0      +0     +2                                                                     3                                                        1    ---   ---   ---   ---
-
-  2nd     +1        +0      +0     +3      Summon                                                         3                                                        1    ---   ---   ---   ---
-                                           familiar                                                                                                                                      
-
-  3rd     +1        +1      +1     +3                                                                     3                                                        2    ---   ---   ---   ---
-
-  4th     +2        +1      +1     +4                                                                     3                                                        2     0    ---   ---   ---
-
-  5th     +2        +1      +1     +4                                                                     3                                                        2     1    ---   ---   ---
-
-  6th     +3        +2      +2     +5                                                                     3                                                        2     1    ---   ---   ---
-
-  7th     +3        +2      +2     +5                                                                     3                                                        3     2    ---   ---   ---
-
-  8th     +4        +2      +2     +6                                                                     3                                                        3     2     0    ---   ---
-
-  9th     +4        +3      +3     +6                                                                     3                                                        3     2     1    ---   ---
-
-  10th    +5        +3      +3     +7                                                                     3                                                        3     2     1    ---   ---
-
-  11th    +5        +3      +3     +7                                                                     3                                                        3     3     2    ---   ---
-
-  12th    +6/+1     +4      +4     +8                                                                     3                                                        3     3     2     0    ---
-
-  13th    +6/+1     +4      +4     +8                                                                     3                                                        3     3     2     1    ---
-
-  14th    +7/+2     +4      +4     +9                                                                     3                                                        3     3     2     1    ---
-
-  15th    +7/+2     +5      +5     +9                                                                     3                                                        3     3     3     2    ---
-
-  16th    +8/+3     +5      +5     +10                                                                    3                                                        3     3     3     2     0
-
-  17th    +8/+3     +5      +5     +10                                                                    3                                                        3     3     3     2     1
-
-  18th    +9/+4     +6      +6     +11                                                                    3                                                        3     3     3     2     1
-
-  19th    +9/+4     +6      +6     +11                                                                    3                                                        3     3     3     3     2
-
-  20th    +10/+5    +6      +6     +12                                                                    3                                                        3     3     3     3     2
-  ------- --------- ------- ------ ------- ---------- ---------------------------------------------------------------------------------------------------------- ----- ----- ----- ----- -----
-
-  : Table: The Adept
-
-### Class Features {#adept--class-features}
+### Class Features
 
 All of the following are class features of the adept NPC class.
 
@@ -111,7 +391,7 @@ cast *cure* or *inflict* spells.
 
 To prepare or cast a spell, an adept must have a Wisdom score equal to
 at least 10 + the spell level. The Difficulty Class for a saving throw
-against an adept's spell is 10 + the spell level + the adept's Wisdom
+against an adept’s spell is 10 + the spell level + the adept’s Wisdom
 modifier.
 
 Adepts, unlike wizards, do not acquire their spells from books or
@@ -132,7 +412,7 @@ a given spell level, she gains only the bonus spells she would be
 entitled to based on her Wisdom score for that spell level.
 
 Each adept has a particular holy symbol (as a divine focus) depending on
-the adept's magical tradition.
+the adept’s magical tradition.
 
 **Summon Familiar:** At 2nd level, an adept can call a familiar, just as
 a sorcerer or wizard can.
@@ -150,7 +430,7 @@ languages, cure light wounds, detect chaos, detect evil, detect good,
 detect law, endure elements, obscuring mist, protection from chaos,
 protection from evil, protection from good, protection from law, sleep.*
 
-2nd Level: *aid, animal trance, bear's endurance, bull's strength, cat's
+2nd Level: *aid, animal trance, bear’s endurance, bull’s strength, cat’s
 grace, cure moderate wounds, darkness, delay poison, invisibility,
 mirror image, resist energy, scorching ray, see invisibility, web.*
 
@@ -168,9 +448,9 @@ creation, raise dead, true seeing, wall of stone.*
 
 **Hit Die:** d8.
 
-### Class Skills {#aristocrat--class-skills}
+### Class Skills
 
-The aristocrat's class skills (and the key ability for each skill) are
+The aristocrat’s class skills (and the key ability for each skill) are
 Appraise (Int), Bluff (Cha), Diplomacy (Cha), Disguise (Cha), Forgery
 (Int), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha),
 Knowledge (all skills taken individually) (Int), Listen (Wis), Perform
@@ -181,54 +461,174 @@ Knowledge (all skills taken individually) (Int), Listen (Wis), Perform
 
 **Skill Points at Each Additional Level:** 4 + Int modifier.
 
-  -------------- -------------- -------------- -------------- --------------
-  NPC Level      Base Attack\   Fort\          Ref\           Will\
-                 Bonus          Save           Save           Save
+<table class="half-width-table">
+<caption>Table: The Aristocrat</caption>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>NPC Level</th>
+<th>Base Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+</tr>
 
-  1st            +0             +0             +0             +2
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+3</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+3</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+3</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+4</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+6/+1</td>
+<td>+2</td>
+<td>+2</td>
+<td>+6</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+6/+1</td>
+<td>+3</td>
+<td>+3</td>
+<td>+6</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+7/+2</td>
+<td>+3</td>
+<td>+3</td>
+<td>+7</td>
+</tr>
+<tr class="odd">
+<td>11th</td>
+<td>+8/+3</td>
+<td>+3</td>
+<td>+3</td>
+<td>+7</td>
+</tr>
+<tr class="even">
+<td>12th</td>
+<td>+9/+4</td>
+<td>+4</td>
+<td>+4</td>
+<td>+8</td>
+</tr>
+<tr class="odd">
+<td>13th</td>
+<td>+9/+4</td>
+<td>+4</td>
+<td>+4</td>
+<td>+8</td>
+</tr>
+<tr class="even">
+<td>14th</td>
+<td>+10/+5</td>
+<td>+4</td>
+<td>+4</td>
+<td>+9</td>
+</tr>
+<tr class="odd">
+<td>15th</td>
+<td>+11/+6/+1</td>
+<td>+5</td>
+<td>+5</td>
+<td>+9</td>
+</tr>
+<tr class="even">
+<td>16th</td>
+<td>+12/+7/+2</td>
+<td>+5</td>
+<td>+5</td>
+<td>+10</td>
+</tr>
+<tr class="odd">
+<td>17th</td>
+<td>+12/+7/+2</td>
+<td>+5</td>
+<td>+5</td>
+<td>+10</td>
+</tr>
+<tr class="even">
+<td>18th</td>
+<td>+13/+8/+3</td>
+<td>+6</td>
+<td>+6</td>
+<td>+11</td>
+</tr>
+<tr class="odd">
+<td>19th</td>
+<td>+14/+9/+4</td>
+<td>+6</td>
+<td>+6</td>
+<td>+11</td>
+</tr>
+<tr class="even">
+<td>20th</td>
+<td>+15/+10/+5</td>
+<td>+6</td>
+<td>+6</td>
+<td>+12</td>
+</tr>
+</tbody>
+</table>
 
-  2nd            +1             +0             +0             +3
+Table: The Aristocrat
 
-  3rd            +2             +1             +1             +3
-
-  4th            +3             +1             +1             +4
-
-  5th            +3             +1             +1             +4
-
-  6th            +4             +2             +2             +5
-
-  7th            +5             +2             +2             +5
-
-  8th            +6/+1          +2             +2             +6
-
-  9th            +6/+1          +3             +3             +6
-
-  10th           +7/+2          +3             +3             +7
-
-  11th           +8/+3          +3             +3             +7
-
-  12th           +9/+4          +4             +4             +8
-
-  13th           +9/+4          +4             +4             +8
-
-  14th           +10/+5         +4             +4             +9
-
-  15th           +11/+6/+1      +5             +5             +9
-
-  16th           +12/+7/+2      +5             +5             +10
-
-  17th           +12/+7/+2      +5             +5             +10
-
-  18th           +13/+8/+3      +6             +6             +11
-
-  19th           +14/+9/+4      +6             +6             +11
-
-  20th           +15/+10/+5     +6             +6             +12
-  -------------- -------------- -------------- -------------- --------------
-
-  : Table: The Aristocrat
-
-### Class Features {#aristocrat--class-features}
+### Class Features
 
 The following is a class feature of the aristocrat NPC class.
 
@@ -240,9 +640,9 @@ shields.
 
 **Hit Die:** d4.
 
-### Class Skills {#commoner--class-skills}
+### Class Skills
 
-The commoner's class skills (and the key ability for each skill) are
+The commoner’s class skills (and the key ability for each skill) are
 Climb (Str), Craft (Int), Handle Animal (Cha), Jump (Str), Listen (Wis),
 Profession (Wis), Ride (Dex), Spot (Wis), Swim (Str), and Use Rope
 (Dex).
@@ -251,54 +651,174 @@ Profession (Wis), Ride (Dex), Spot (Wis), Swim (Str), and Use Rope
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-  -------------- -------------- -------------- -------------- --------------
-  NPC Level      Base Attack\   Fort\          Ref\           Will\
-                 Bonus          Save           Save           Save
+<table class="half-width-table">
+<caption>Table: The Commoner</caption>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>NPC Level</th>
+<th>Base Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+</tr>
 
-  1st            +0             +0             +0             +0
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+2</td>
+<td>+2</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+2</td>
+<td>+2</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+4</td>
+<td>+2</td>
+<td>+2</td>
+<td>+2</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+4</td>
+<td>+3</td>
+<td>+3</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+5</td>
+<td>+3</td>
+<td>+3</td>
+<td>+3</td>
+</tr>
+<tr class="odd">
+<td>11th</td>
+<td>+5</td>
+<td>+3</td>
+<td>+3</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td>12th</td>
+<td>+6/+1</td>
+<td>+4</td>
+<td>+4</td>
+<td>+4</td>
+</tr>
+<tr class="odd">
+<td>13th</td>
+<td>+6/+1</td>
+<td>+4</td>
+<td>+4</td>
+<td>+4</td>
+</tr>
+<tr class="even">
+<td>14th</td>
+<td>+7/+2</td>
+<td>+4</td>
+<td>+4</td>
+<td>+4</td>
+</tr>
+<tr class="odd">
+<td>15th</td>
+<td>+7/+2</td>
+<td>+5</td>
+<td>+5</td>
+<td>+5</td>
+</tr>
+<tr class="even">
+<td>16th</td>
+<td>+8/+3</td>
+<td>+5</td>
+<td>+5</td>
+<td>+5</td>
+</tr>
+<tr class="odd">
+<td>17th</td>
+<td>+8/+3</td>
+<td>+5</td>
+<td>+5</td>
+<td>+5</td>
+</tr>
+<tr class="even">
+<td>18th</td>
+<td>+9/+4</td>
+<td>+6</td>
+<td>+6</td>
+<td>+6</td>
+</tr>
+<tr class="odd">
+<td>19th</td>
+<td>+9/+4</td>
+<td>+6</td>
+<td>+6</td>
+<td>+6</td>
+</tr>
+<tr class="even">
+<td>20th</td>
+<td>+10/+5</td>
+<td>+6</td>
+<td>+6</td>
+<td>+6</td>
+</tr>
+</tbody>
+</table>
 
-  2nd            +1             +0             +0             +0
+Table: The Commoner
 
-  3rd            +1             +1             +1             +1
-
-  4th            +2             +1             +1             +1
-
-  5th            +2             +1             +1             +1
-
-  6th            +3             +2             +2             +2
-
-  7th            +3             +2             +2             +2
-
-  8th            +4             +2             +2             +2
-
-  9th            +4             +3             +3             +3
-
-  10th           +5             +3             +3             +3
-
-  11th           +5             +3             +3             +3
-
-  12th           +6/+1          +4             +4             +4
-
-  13th           +6/+1          +4             +4             +4
-
-  14th           +7/+2          +4             +4             +4
-
-  15th           +7/+2          +5             +5             +5
-
-  16th           +8/+3          +5             +5             +5
-
-  17th           +8/+3          +5             +5             +5
-
-  18th           +9/+4          +6             +6             +6
-
-  19th           +9/+4          +6             +6             +6
-
-  20th           +10/+5         +6             +6             +6
-  -------------- -------------- -------------- -------------- --------------
-
-  : Table: The Commoner
-
-### Class Features {#commoner--class-features}
+### Class Features
 
 The following is a class feature of the commoner NPC class.
 
@@ -310,7 +830,7 @@ proficient with any type of armor or shields.
 
 **Hit Die:** d6.
 
-### Class Skills {#expert--class-skills}
+### Class Skills
 
 The expert can choose any ten skills to be class skills.
 
@@ -318,54 +838,174 @@ The expert can choose any ten skills to be class skills.
 
 **Skill Points at Each Additional Level:** 6 + Int modifier.
 
-  -------------- -------------- -------------- -------------- --------------
-  NPC Level      Base Attack\   Fort\          Ref\           Will\
-                 Bonus          Save           Save           Save
+<table class="half-width-table">
+<caption>Table: The Expert</caption>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>NPC Level</th>
+<th>Base Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+</tr>
 
-  1st            +0             +0             +0             +2
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+3</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+3</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+3</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+4</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+6/+1</td>
+<td>+2</td>
+<td>+2</td>
+<td>+6</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+6/+1</td>
+<td>+3</td>
+<td>+3</td>
+<td>+6</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+7/+2</td>
+<td>+3</td>
+<td>+3</td>
+<td>+7</td>
+</tr>
+<tr class="odd">
+<td>11th</td>
+<td>+8/+3</td>
+<td>+3</td>
+<td>+3</td>
+<td>+7</td>
+</tr>
+<tr class="even">
+<td>12th</td>
+<td>+9/+4</td>
+<td>+4</td>
+<td>+4</td>
+<td>+8</td>
+</tr>
+<tr class="odd">
+<td>13th</td>
+<td>+9/+4</td>
+<td>+4</td>
+<td>+4</td>
+<td>+8</td>
+</tr>
+<tr class="even">
+<td>14th</td>
+<td>+10/+5</td>
+<td>+4</td>
+<td>+4</td>
+<td>+9</td>
+</tr>
+<tr class="odd">
+<td>15th</td>
+<td>+11/+6/+1</td>
+<td>+5</td>
+<td>+5</td>
+<td>+9</td>
+</tr>
+<tr class="even">
+<td>16th</td>
+<td>+12/+7/+2</td>
+<td>+5</td>
+<td>+5</td>
+<td>+10</td>
+</tr>
+<tr class="odd">
+<td>17th</td>
+<td>+12/+7/+2</td>
+<td>+5</td>
+<td>+5</td>
+<td>+10</td>
+</tr>
+<tr class="even">
+<td>18th</td>
+<td>+13/+8/+3</td>
+<td>+6</td>
+<td>+6</td>
+<td>+11</td>
+</tr>
+<tr class="odd">
+<td>19th</td>
+<td>+14/+9/+4</td>
+<td>+6</td>
+<td>+6</td>
+<td>+11</td>
+</tr>
+<tr class="even">
+<td>20th</td>
+<td>+15/+10/+5</td>
+<td>+6</td>
+<td>+6</td>
+<td>+12</td>
+</tr>
+</tbody>
+</table>
 
-  2nd            +1             +0             +0             +3
+Table: The Expert
 
-  3rd            +2             +1             +1             +3
-
-  4th            +3             +1             +1             +4
-
-  5th            +3             +1             +1             +4
-
-  6th            +4             +2             +2             +5
-
-  7th            +5             +2             +2             +5
-
-  8th            +6/+1          +2             +2             +6
-
-  9th            +6/+1          +3             +3             +6
-
-  10th           +7/+2          +3             +3             +7
-
-  11th           +8/+3          +3             +3             +7
-
-  12th           +9/+4          +4             +4             +8
-
-  13th           +9/+4          +4             +4             +8
-
-  14th           +10/+5         +4             +4             +9
-
-  15th           +11/+6/+1      +5             +5             +9
-
-  16th           +12/+7/+2      +5             +5             +10
-
-  17th           +12/+7/+2      +5             +5             +10
-
-  18th           +13/+8/+3      +6             +6             +11
-
-  19th           +14/+9/+4      +6             +6             +11
-
-  20th           +15/+10/+5     +6             +6             +12
-  -------------- -------------- -------------- -------------- --------------
-
-  : Table: The Expert
-
-### Class Features {#expert--class-features}
+### Class Features
 
 The following is a class feature of the expert NPC class.
 
@@ -376,9 +1016,9 @@ all simple weapons and with light armor but not shields.
 
 **Hit Die:** d8.
 
-### Class Skills {#warrior--class-skills}
+### Class Skills
 
-The warrior's class skills (and the key ability for each skill) are
+The warrior’s class skills (and the key ability for each skill) are
 Climb (Str), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride
 (Dex), and Swim (Str).
 
@@ -386,54 +1026,174 @@ Climb (Str), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-  -------------- ---------------- -------------- -------------- --------------
-  NPC Level      Base Attack\     Fort\          Ref\           Will\
-                 Bonus            Save           Save           Save
+<table class="half-width-table">
+<caption>Table: The Warrior</caption>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>NPC Level</th>
+<th>Base Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+</tr>
 
-  1st            +1               +2             +0             +0
+<tr class="odd">
+<td>1st</td>
+<td>+1</td>
+<td>+2</td>
+<td>+0</td>
+<td>+0</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+2</td>
+<td>+3</td>
+<td>+0</td>
+<td>+0</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+3</td>
+<td>+3</td>
+<td>+1</td>
+<td>+1</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+4</td>
+<td>+4</td>
+<td>+1</td>
+<td>+1</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+5</td>
+<td>+4</td>
+<td>+1</td>
+<td>+1</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+6/+1</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+7/+2</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+8/+3</td>
+<td>+6</td>
+<td>+2</td>
+<td>+2</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+9/+4</td>
+<td>+6</td>
+<td>+3</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+10/+5</td>
+<td>+7</td>
+<td>+3</td>
+<td>+3</td>
+</tr>
+<tr class="odd">
+<td>11th</td>
+<td>+11/+6/+1</td>
+<td>+7</td>
+<td>+3</td>
+<td>+3</td>
+</tr>
+<tr class="even">
+<td>12th</td>
+<td>+12/+7/+2</td>
+<td>+8</td>
+<td>+4</td>
+<td>+4</td>
+</tr>
+<tr class="odd">
+<td>13th</td>
+<td>+13/+8/+3</td>
+<td>+8</td>
+<td>+4</td>
+<td>+4</td>
+</tr>
+<tr class="even">
+<td>14th</td>
+<td>+14/+9/+4</td>
+<td>+9</td>
+<td>+4</td>
+<td>+4</td>
+</tr>
+<tr class="odd">
+<td>15th</td>
+<td>+15/+10/+5</td>
+<td>+9</td>
+<td>+5</td>
+<td>+5</td>
+</tr>
+<tr class="even">
+<td>16th</td>
+<td>+16/+11/+6/+1</td>
+<td>+10</td>
+<td>+5</td>
+<td>+5</td>
+</tr>
+<tr class="odd">
+<td>17th</td>
+<td>+17/+12/+7/+2</td>
+<td>+10</td>
+<td>+5</td>
+<td>+5</td>
+</tr>
+<tr class="even">
+<td>18th</td>
+<td>+18/+13/+8/+3</td>
+<td>+11</td>
+<td>+6</td>
+<td>+6</td>
+</tr>
+<tr class="odd">
+<td>19th</td>
+<td>+19/+14/+9/+4</td>
+<td>+11</td>
+<td>+6</td>
+<td>+6</td>
+</tr>
+<tr class="even">
+<td>20th</td>
+<td>+20/+15/+10/+5</td>
+<td>+12</td>
+<td>+6</td>
+<td>+6</td>
+</tr>
+</tbody>
+</table>
 
-  2nd            +2               +3             +0             +0
+Table: The Warrior
 
-  3rd            +3               +3             +1             +1
-
-  4th            +4               +4             +1             +1
-
-  5th            +5               +4             +1             +1
-
-  6th            +6/+1            +5             +2             +2
-
-  7th            +7/+2            +5             +2             +2
-
-  8th            +8/+3            +6             +2             +2
-
-  9th            +9/+4            +6             +3             +3
-
-  10th           +10/+5           +7             +3             +3
-
-  11th           +11/+6/+1        +7             +3             +3
-
-  12th           +12/+7/+2        +8             +4             +4
-
-  13th           +13/+8/+3        +8             +4             +4
-
-  14th           +14/+9/+4        +9             +4             +4
-
-  15th           +15/+10/+5       +9             +5             +5
-
-  16th           +16/+11/+6/+1    +10            +5             +5
-
-  17th           +17/+12/+7/+2    +10            +5             +5
-
-  18th           +18/+13/+8/+3    +11            +6             +6
-
-  19th           +19/+14/+9/+4    +11            +6             +6
-
-  20th           +20/+15/+10/+5   +12            +6             +6
-  -------------- ---------------- -------------- -------------- --------------
-
-  : Table: The Warrior
-
-### Class Features {#warrior--class-features}
+### Class Features
 
 The following is a class feature of the warrior NPC class.
 

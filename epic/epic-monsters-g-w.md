@@ -87,32 +87,32 @@ the terms of the Open Game License v1.0a.
 
 ## Genius Loci
 
-  ---------------------- --------------------------------------------------
-                         Colossal Ooze
-  Hit Dice:              70d10+1,400 (1,785 hp)
-  Initiative:            --2 (Dex)
-  Speed:                 5 ft., burrow 5 ft.
-  AC:                    0 (--2 Dex, --8 size)
-  Base Attack/Grapple:   +52/+88
-  Attack:                Slam +64 (4d10+20) melee
-  Full Attack:           10 slam +64 (4d10+20) melee
-  Space/Reach:           Varies (see text)
-  Special Attacks:       Enslave, improved grab, constrict 4d10+30
-  Special Qualities:     Blindsight 200 ft., fast healing 50, ooze traits
-  Saves:                 Fort +43, Ref +21, Will +30
-  Abilities:             Str 50, Dex 6, Con 50, Int --, Wis 24, Cha 26
-  Skills:                Jump +5
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      30
-  Treasure:              Standard
-  Alignment:             Usually any evil
-  Advancement:           None
-  ---------------------- --------------------------------------------------
+|                      |                                                  |
+|----------------------|--------------------------------------------------|
+|                      | Colossal Ooze                                    |
+| Hit Dice:            | 70d10+1,400 (1,785 hp)                           |
+| Initiative:          | –2 (Dex)                                         |
+| Speed:               | 5 ft., burrow 5 ft.                              |
+| AC:                  | 0 (–2 Dex, –8 size)                              |
+| Base Attack/Grapple: | +52/+88                                          |
+| Attack:              | Slam +64 (4d10+20) melee                         |
+| Full Attack:         | 10 slam +64 (4d10+20) melee                      |
+| Space/Reach:         | Varies (see text)                                |
+| Special Attacks:     | Enslave, improved grab, constrict 4d10+30        |
+| Special Qualities:   | Blindsight 200 ft., fast healing 50, ooze traits |
+| Saves:               | Fort +43, Ref +21, Will +30                      |
+| Abilities:           | Str 50, Dex 6, Con 50, Int –, Wis 24, Cha 26     |
+| Skills:              | Jump +5                                          |
+| Climate/Terrain:     | Any                                              |
+| Organization:        | Solitary                                         |
+| Challenge Rating:    | 30                                               |
+| Treasure:            | Standard                                         |
+| Alignment:           | Usually any evil                                 |
+| Advancement:         | None                                             |
 
 A genius loci is difficult to spot, since it looks like any other
 section of landscape. A genius loci itself has no intelligence, but
-rather "emulates" the sentience of any creature it currently enslaves
+rather “emulates” the sentience of any creature it currently enslaves
 (see below), if any. Each genius loci has only a single enslaved
 creature at one time, though other creatures may also inhabit the
 surface of the genius loci. Any creature entering a genius loci who
@@ -121,7 +121,7 @@ amiss, though it is difficult to tell exactly what. Genius loci do not
 speak directly, though they may do so through their currently enslaved
 thrall.
 
-### Combat {#genius-loci--combat}
+### Combat
 
 A genius loci can directly attack any creature standing on its surface
 with animated parts of itself, delivering slam attacks. It also directs
@@ -139,9 +139,9 @@ enslave another until its current slave dies, is *imprisoned,*or is
 otherwise incapaticiated. A slave becomes free if its genius loci master
 is slain. A genius loci forces its slave to remain with it, though it
 may send its slave off to temporarily visit nearby locations in order to
-draw in unsuspecting victims. In fact, the "purposes" of the genius loci
+draw in unsuspecting victims. In fact, the “purposes” of the genius loci
 are to some degree influenced by the current slave. The genius loci has
-no Intelligence score of its own; thus, its emulation of its slave's
+no Intelligence score of its own; thus, its emulation of its slave’s
 intelligence sometimes transfers attitudes and goals. However, a slave
 can only go so far in influencing its mobile master, and cannot
 knowingly attempt to free itself from the genius loci that keeps it
@@ -169,37 +169,37 @@ and morale effects).
 
 ## Gibbering Orb
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Huge Aberration
-  Hit Dice:              27d8+216 (337 hp)
-  Initiative:            +20 (+12 Dex, +8 Superior Initiative)
-  Speed:                 5 ft., fly 20 ft. (good)
-  AC:                    48 (+12 Dex, --2 size, +16 natural armor, +12 insight)
-  Base Attack/Grapple:   +20/+39
-  Attack:                24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19--20) melee
-  Full Attack:           24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19--20) melee
-  Space/Reach:           15 ft./10 ft.
-  Special Attacks:       Gibbering, improved grab, swallow whole, eye rays, spell-like abilities
-  Special Qualities:     All-around vision, flight, amorphous, SR 37, DR 10/epic
-  Saves:                 Fort +21, Ref +21, Will +24
-  Abilities:             Str 32, Dex 35, Con 27, Int 40, Wis 24, Cha 22
-  Skills:                Concentration +38, Escape Artist +42, Jump -4, Knowledge (arcana) +37, Hide +34, Listen +37, Move Silently +34, Search +37, Speak Language (any five), Spot +37
-  Feats:                 Flyby Attack, Improved Initiative, Improved Critical (bite), Iron Will, Multiattack, Weapon Focus (eye ray), Weapon Focus (bite)
-  Epic Feats:            Epic Fortitude, Polyglot, Superior Initiative
-  Climate/Terrain:       Any land and underground
-  Organization:          Solitary
-  Challenge Rating:      27
-  Treasure:              Standard
-  Alignment:             Usually chaotic evil
-  Advancement:           27--54 HD (Huge); 55--108 HD (Gargantuan)
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Huge Aberration                                                                                                                                                 |
+| Hit Dice:            | 27d8+216 (337 hp)                                                                                                                                               |
+| Initiative:          | +20 (+12 Dex, +8 Superior Initiative)                                                                                                                           |
+| Speed:               | 5 ft., fly 20 ft. (good)                                                                                                                                        |
+| AC:                  | 48 (+12 Dex, –2 size, +16 natural armor, +12 insight)                                                                                                           |
+| Base Attack/Grapple: | +20/+39                                                                                                                                                         |
+| Attack:              | 24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19–20) melee                                                                                                  |
+| Full Attack:         | 24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19–20) melee                                                                                                  |
+| Space/Reach:         | 15 ft./10 ft.                                                                                                                                                   |
+| Special Attacks:     | Gibbering, improved grab, swallow whole, eye rays, spell-like abilities                                                                                         |
+| Special Qualities:   | All-around vision, flight, amorphous, SR 37, DR 10/epic                                                                                                         |
+| Saves:               | Fort +21, Ref +21, Will +24                                                                                                                                     |
+| Abilities:           | Str 32, Dex 35, Con 27, Int 40, Wis 24, Cha 22                                                                                                                  |
+| Skills:              | Concentration +38, Escape Artist +42, Jump -4, Knowledge (arcana) +37, Hide +34, Listen +37, Move Silently +34, Search +37, Speak Language (any five), Spot +37 |
+| Feats:               | Flyby Attack, Improved Initiative, Improved Critical (bite), Iron Will, Multiattack, Weapon Focus (eye ray), Weapon Focus (bite)                                |
+| Epic Feats:          | Epic Fortitude, Polyglot, Superior Initiative                                                                                                                   |
+| Climate/Terrain:     | Any land and underground                                                                                                                                        |
+| Organization:        | Solitary                                                                                                                                                        |
+| Challenge Rating:    | 27                                                                                                                                                              |
+| Treasure:            | Standard                                                                                                                                                        |
+| Alignment:           | Usually chaotic evil                                                                                                                                            |
+| Advancement:         | 27–54 HD (Huge); 55–108 HD (Gargantuan)                                                                                                                         |
 
 A gibbering orb can speak all languages.
 
-A gibbering orb's natural weapons are treated as epic for the purpose of
+A gibbering orb’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#gibbering-orb--combat}
+### Combat
 
 The gibbering orb has the ability to bite its foes by extending a
 pseudopod with one of its mouths protruding from the end. The orb can
@@ -225,7 +225,7 @@ blow (AC 16, DR 10/epic still applies). Once the creature exits, the
 fluidlike body structure of the orb closes the wound; other swallowed
 opponents must cut their own way out. When a creature dies by being
 swallowed whole (or when a creature killed by the gibbering orb in some
-other fashion is eaten by it), the gibbering orb absorbs the creature's
+other fashion is eaten by it), the gibbering orb absorbs the creature’s
 known spells, prepared spells, and spell-like abilities. The orb can use
 any two of those abilities per round as a free action. Each originates
 from an eye that is not producing an eye ray (see below) that round.
@@ -245,17 +245,17 @@ and requires a ranged touch attack. The eye rays are: *cone of cold,
 disintegrate, dominate monster, energy drain, feeblemind, finger of
 death, flesh to stone, greater dispelling, harm, hold monster, horrid
 wilting, implosion, inflict critical wounds, lightning bolt, magic
-missile, mage's disjunction, irresistible dance, polymorph any object,
+missile, mage’s disjunction, irresistible dance, polymorph any object,
 power word blind, power word kill, power word stun, prismatic spray,
 slay living,* and *temporal stasis.*
 
-**Spell-Like Abilities:** At will---Two stolen spells or spell-like
+**Spell-Like Abilities:** At will—Two stolen spells or spell-like
 abilities per round. Caster level 27th, save DC 16 + spell level.
 
-**All-Around Vision (Ex):** The gibbering orb's many eyes give it a +4
+**All-Around Vision (Ex):** The gibbering orb’s many eyes give it a +4
 racial bonus on Spot and Search checks.
 
-**Flight (Ex):** The gibbering orb's body is naturally buoyant. This
+**Flight (Ex):** The gibbering orb’s body is naturally buoyant. This
 buoyancy allows it to fly as the spell, as a free action, at a speed of
 20 feet. This buoyancy also grants it a permanent *feather fall* effect
 with personal range.
@@ -265,41 +265,41 @@ has no clear front or back, so it cannot be flanked.
 
 ## Gloom
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------
-                         Medium-Size Monstrous Humanoid
-  Hit Dice:              25d8+225 (337 hp)
-  Initiative:            +26 (+18 Dex, +8 Superior Initiative)
-  Speed:                 30 ft.
-  AC:                    40 (+18 Dex, +12 insight)
-  Base Attack/Grapple:   +25/+36
-  Attack:                *+10 keen dagger of human dread* +54 (1d4+21/17-20) melee
-  Full Attack:           *+10 keen dagger of human dread* +54/+49/+44/+39 (1d4+21/17-20) melee
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Fear gaze, sneak attack +13d6
-  Special Qualities:     Blindsight 60 ft., opportunist, quiescence, spell-like abilities, SR 35, DR 10/epic
-  Saves:                 Fort +17, Ref +32, Will +21
-  Abilities:             Str 32, Dex 46, Con 29, Int 26, Wis 25, Cha 30
-  Skills:                Bluff +38, Climb +39, Hide +46, Intimidate +38, Jump +39, Listen +35, Move Silently +66, Spot +35, Survival +35, Tumble +46
-  Feats:                 Dodge, Improved Initiative, Improved Critical (dagger), Mobility, Spring Attack, Weapon Finesse, Weapon Focus (dagger)
-  Epic Feats:            Sneak Attack of Opportunity, Superior Initiative
-  Climate/Terrain:       Any urban
-  Organization:          Solitary
-  Challenge Rating:      25
-  Treasure:              Nonstandard (just its dagger)
-  Alignment:             Usually lawful evil
-  Advancement:           25+ HD (Medium-size)
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                             |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|                      | Medium-Size Monstrous Humanoid                                                                                              |
+| Hit Dice:            | 25d8+225 (337 hp)                                                                                                           |
+| Initiative:          | +26 (+18 Dex, +8 Superior Initiative)                                                                                       |
+| Speed:               | 30 ft.                                                                                                                      |
+| AC:                  | 40 (+18 Dex, +12 insight)                                                                                                   |
+| Base Attack/Grapple: | +25/+36                                                                                                                     |
+| Attack:              | *+10 keen dagger of human dread* +54 (1d4+21/17-20) melee                                                                   |
+| Full Attack:         | *+10 keen dagger of human dread* +54/+49/+44/+39 (1d4+21/17-20) melee                                                       |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                 |
+| Special Attacks:     | Fear gaze, sneak attack +13d6                                                                                               |
+| Special Qualities:   | Blindsight 60 ft., opportunist, quiescence, spell-like abilities, SR 35, DR 10/epic                                         |
+| Saves:               | Fort +17, Ref +32, Will +21                                                                                                 |
+| Abilities:           | Str 32, Dex 46, Con 29, Int 26, Wis 25, Cha 30                                                                              |
+| Skills:              | Bluff +38, Climb +39, Hide +46, Intimidate +38, Jump +39, Listen +35, Move Silently +66, Spot +35, Survival +35, Tumble +46 |
+| Feats:               | Dodge, Improved Initiative, Improved Critical (dagger), Mobility, Spring Attack, Weapon Finesse, Weapon Focus (dagger)      |
+| Epic Feats:          | Sneak Attack of Opportunity, Superior Initiative                                                                            |
+| Climate/Terrain:     | Any urban                                                                                                                   |
+| Organization:        | Solitary                                                                                                                    |
+| Challenge Rating:    | 25                                                                                                                          |
+| Treasure:            | Nonstandard (just its dagger)                                                                                               |
+| Alignment:           | Usually lawful evil                                                                                                         |
+| Advancement:         | 25+ HD (Medium-size)                                                                                                        |
 
 In the hand of any other creature but a gloom, the dagger is a *+5 keen
 dagger.*
 
-A gloom's natural weapons are treated as epic for the purpose of
+A gloom’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#gloom--combat}
+### Combat
 
-**Fear Gaze (Su):** Viewing the gloom's face inspires terror. Creatures
-that meet the gloom's gaze must succeed at a Will save (DC 32) or suffer
+**Fear Gaze (Su):** Viewing the gloom’s face inspires terror. Creatures
+that meet the gloom’s gaze must succeed at a Will save (DC 32) or suffer
 the effects of a *fear* spell as cast by a 20th-level caster. The DC is
 Charisma-based.
 
@@ -316,65 +316,127 @@ still possible for a gloom to create noise, such as by bumping into
 something that scrapes on the floor or by sounding a chime). The gloom
 can lower this effect at will.
 
-**Spell-Like Abilities:** At will---*shadow walk;* 3/day--- *true
-strike.* Caster level 20th; save DC 20 + spell level. The DC is
-Charisma-based.
+**Spell-Like Abilities:** At will—*shadow walk;* 3/day— *true strike.*
+Caster level 20th; save DC 20 + spell level. The DC is Charisma-based.
 
 ## Golem
 
-  ----------------------- ----------------------- -----------------------
-                          Mithral Golem           Adamantine Golem
-
-                          Huge Construct          Huge Construct
-
-  Hit Dice:               36d10+40 (238 hp)       54d10+40 (337 hp)
-
-  Initiative:             +4 (Dex)                --1 (Dex)
-
-  Speed:                  40 ft.                  20 ft. (can't run)
-
-  AC:                     42 (--2 size, +4 Dex,   37 (--2 size, --1 Dex,
-                          +26 natural, +4 haste)  +30 natural)
-
-  Base Attack/\           +27/+49                 +40/+68
-  Grapple:                                        
-
-  Attack:                 Slam +39 (4d10+14)      Slam +58 (6d10+20)
-                          melee                   melee
-
-  Full Attack:            2 slams +39 (4d10+14)   2 slams +58 (6d10+20)
-                          melee                   melee
-
-  Space/Reach:            15 ft./15 ft.           15 ft./15 ft.
-
-  Special Attacks:        ---                     Trample
-
-  Special Qualities:      Construct traits, magic Construct traits, magic
-                          immunity, DR 15/epic    immunity, DR 20/epic
-                          and adamantine,         and adamantine
-                          alacrity                
-
-  Saves:                  Fort +12, Ref +16, Will Fort +18, Ref +17, Will
-                          +12                     +18
-
-  Skills:                 Jump +18                Jump +14
-
-  Abilities:              Str 39, Dex 19, Con --, Str 51, Dex 9, Con --,
-                          Int --, Wis 11, Cha 1   Int --, Wis 11, Cha 1
-
-  Climate/Terrain:        Any land                Any land
-
-  Organization:           Solitary                Solitary
-
-  Challenge Rating:       21                      25
-
-  Treasure:               None                    None
-
-  Alignment:              Always neutral          Always neutral
-
-  Advancement:            37--54 HD (Huge);       55--82 HD (Huge);
-                          55--72 HD (Gargantuan)  83--108 HD (Gargantuan)
-  ----------------------- ----------------------- -----------------------
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<td>Mithral Golem</td>
+<td>Adamantine Golem</td>
+</tr>
+<tr class="even">
+<th></th>
+<td>Huge Construct</td>
+<td>Huge Construct</td>
+</tr>
+<tr class="odd">
+<th>Hit Dice:</th>
+<td>36d10+40 (238 hp)</td>
+<td>54d10+40 (337 hp)</td>
+</tr>
+<tr class="even">
+<th>Initiative:</th>
+<td>+4 (Dex)</td>
+<td>–1 (Dex)</td>
+</tr>
+<tr class="odd">
+<th>Speed:</th>
+<td>40 ft.</td>
+<td>20 ft. (can’t run)</td>
+</tr>
+<tr class="even">
+<th>AC:</th>
+<td>42 (–2 size, +4 Dex, +26 natural, +4 haste)</td>
+<td>37 (–2 size, –1 Dex, +30 natural)</td>
+</tr>
+<tr class="odd">
+<th>Base Attack/<br />
+Grapple:</th>
+<td>+27/+49</td>
+<td>+40/+68</td>
+</tr>
+<tr class="even">
+<th>Attack:</th>
+<td>Slam +39 (4d10+14) melee</td>
+<td>Slam +58 (6d10+20) melee</td>
+</tr>
+<tr class="odd">
+<th>Full Attack:</th>
+<td>2 slams +39 (4d10+14) melee</td>
+<td>2 slams +58 (6d10+20) melee</td>
+</tr>
+<tr class="even">
+<th>Space/Reach:</th>
+<td>15 ft./15 ft.</td>
+<td>15 ft./15 ft.</td>
+</tr>
+<tr class="odd">
+<th>Special Attacks:</th>
+<td>—</td>
+<td>Trample</td>
+</tr>
+<tr class="even">
+<th>Special Qualities:</th>
+<td>Construct traits, magic immunity, DR 15/epic and adamantine,
+alacrity</td>
+<td>Construct traits, magic immunity, DR 20/epic and adamantine</td>
+</tr>
+<tr class="odd">
+<th>Saves:</th>
+<td>Fort +12, Ref +16, Will +12</td>
+<td>Fort +18, Ref +17, Will +18</td>
+</tr>
+<tr class="even">
+<th>Skills:</th>
+<td>Jump +18</td>
+<td>Jump +14</td>
+</tr>
+<tr class="odd">
+<th>Abilities:</th>
+<td>Str 39, Dex 19, Con –, Int –, Wis 11, Cha 1</td>
+<td>Str 51, Dex 9, Con –, Int –, Wis 11, Cha 1</td>
+</tr>
+<tr class="even">
+<th>Climate/Terrain:</th>
+<td>Any land</td>
+<td>Any land</td>
+</tr>
+<tr class="odd">
+<th>Organization:</th>
+<td>Solitary</td>
+<td>Solitary</td>
+</tr>
+<tr class="even">
+<th>Challenge Rating:</th>
+<td>21</td>
+<td>25</td>
+</tr>
+<tr class="odd">
+<th>Treasure:</th>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr class="even">
+<th>Alignment:</th>
+<td>Always neutral</td>
+<td>Always neutral</td>
+</tr>
+<tr class="odd">
+<th>Advancement:</th>
+<td>37–54 HD (Huge); 55–72 HD (Gargantuan)</td>
+<td>55–82 HD (Huge); 83–108 HD (Gargantuan)</td>
+</tr>
+</tbody>
+</table>
 
 ### Mithral Golem
 
@@ -382,10 +444,10 @@ A mithral golem cannot speak or make any vocal noise, nor does it have
 any distinguishable odor. Unlike most golems, it can run just as well as
 a normal creature.
 
-A mithral golem's natural weapons are treated as epic for the purpose of
+A mithral golem’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-#### Combat {#mithral-golem--combat}
+#### Combat
 
 **Alacrity (Su):** Once per round, the mithral golem may take an extra
 standard action (either before or after its other actions in the round).
@@ -397,9 +459,9 @@ per level of the caster (maximum 10d6) or restores its alacrity, if
 previously negated by a *slow* spell. Multiple *slow* spells simply
 extend the duration of the effect.
 
-### Construction {#golem--construction}
+### Construction
 
-A mithral golem's body is sculpted from 8 1/2 tons of pure iron and is
+A mithral golem’s body is sculpted from 8 1/2 tons of pure iron and is
 then polymorphed into mithral (using *polymorph any object).*A mithral
 golem costs 250,000 gold pieces to create, which includes 5,000 gp for
 the body. Assembling the body requires a successful Craft
@@ -413,24 +475,24 @@ from the creator and requires *geas/quest, haste,* and *wish.*
 An adamantine golem cannot speak or make any vocal noise, nor does it
 have any distinguishable odor.
 
-An adamantine golem's natural weapons are treated as epic for the
+An adamantine golem’s natural weapons are treated as epic for the
 purpose of overcoming damage reduction.
 
-#### Combat {#adamantine-golem--combat}
+#### Combat
 
 **Trample (Ex):** As a standard action during its turn each round, the
 adamantine golem can literally run over an opponent at least one size
 category smaller than itself. The trample deals 8d10+30 points of
 bludgeoning Damage. Trampled opponents can either attempt attacks of
-opportunity at a --4 penalty or Reflex saves (DC 57) for half Damage.
-The DC is Strength-based.
+opportunity at a –4 penalty or Reflex saves (DC 57) for half Damage. The
+DC is Strength-based.
 
 **Magic Immunity (Ex):** An adamantine golem is immune to all magical
 and supernatural effects.
 
-#### Construction {#adamantine-golem--construction}
+#### Construction
 
-An adamantine golem's body is sculpted from 45,000 pounds of pure iron
+An adamantine golem’s body is sculpted from 45,000 pounds of pure iron
 and is then polymorphed into adamantine (using *polymorph any
 object).*The golem costs 500,000 gold pieces to create, which includes
 25,000 gp for the body. Assembling the body requires a successful Craft
@@ -441,34 +503,34 @@ from the creator and requires *crushing hand, geas/quest,* and *wish.*
 
 ## Ha-Naga
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Colossal Aberration
-  Hit Dice:              20d8+220 (310 hp)
-  Initiative:            +14 (Dex)
-  Speed:                 60 ft., fly 120 ft. (perfect)
-  AC:                    40 (--8 size, +14 Dex, +24 natural armor)
-  Base Attack/Grapple:   +15/+39
-  Attack:                Coil whip +21 (4d6+8) melee
-  Full Attack:           Coil whip +21 (4d6+8) melee, sting +19 (2d8+4 plus poison) melee, bite +13 (4d8+4) melee
-  Space/Reach:           30 ft./ 20 ft.
-  Special Attacks:       Charming gaze, poison, improved grab, constrict 4d6+12
-  Special Qualities:     Flight, SR 30, DR 5/epic
-  Saves:                 Fort +17, Ref +22, Will +22
-  Abilities:             Str 27, Dex 38, Con 32, Int 35, Wis 31, Cha 36
-  Skills:                Appraise +35, Concentration +34, Bluff +24, Diplomacy +38, Escape Artist +37, Hide +21, Jump +20, Knowledge (arcana, history, religion) +35, Listen +33, Move Silently +37, Search +35, Sense Motive +24, Spellcraft +37, Spot +33
-  Feats:                 Dodge, Flyby Attack, Lightning Reflexes, Mobility, Multiattack, Quicken Spell, Weapon Finesse
-  Climate/Terrain:       Temperate and warm land or underground
-  Organization:          Solitary or nest (2--4)
-  Challenge Rating:      22
-  Treasure:              Standard
-  Alignment:             Usually chaotic evil
-  Advancement:           21--40 HD (Colossal)
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                    |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Colossal Aberration                                                                                                                                                                                                                |
+| Hit Dice:            | 20d8+220 (310 hp)                                                                                                                                                                                                                  |
+| Initiative:          | +14 (Dex)                                                                                                                                                                                                                          |
+| Speed:               | 60 ft., fly 120 ft. (perfect)                                                                                                                                                                                                      |
+| AC:                  | 40 (–8 size, +14 Dex, +24 natural armor)                                                                                                                                                                                           |
+| Base Attack/Grapple: | +15/+39                                                                                                                                                                                                                            |
+| Attack:              | Coil whip +21 (4d6+8) melee                                                                                                                                                                                                        |
+| Full Attack:         | Coil whip +21 (4d6+8) melee, sting +19 (2d8+4 plus poison) melee, bite +13 (4d8+4) melee                                                                                                                                           |
+| Space/Reach:         | 30 ft./ 20 ft.                                                                                                                                                                                                                     |
+| Special Attacks:     | Charming gaze, poison, improved grab, constrict 4d6+12                                                                                                                                                                             |
+| Special Qualities:   | Flight, SR 30, DR 5/epic                                                                                                                                                                                                           |
+| Saves:               | Fort +17, Ref +22, Will +22                                                                                                                                                                                                        |
+| Abilities:           | Str 27, Dex 38, Con 32, Int 35, Wis 31, Cha 36                                                                                                                                                                                     |
+| Skills:              | Appraise +35, Concentration +34, Bluff +24, Diplomacy +38, Escape Artist +37, Hide +21, Jump +20, Knowledge (arcana, history, religion) +35, Listen +33, Move Silently +37, Search +35, Sense Motive +24, Spellcraft +37, Spot +33 |
+| Feats:               | Dodge, Flyby Attack, Lightning Reflexes, Mobility, Multiattack, Quicken Spell, Weapon Finesse                                                                                                                                      |
+| Climate/Terrain:     | Temperate and warm land or underground                                                                                                                                                                                             |
+| Organization:        | Solitary or nest (2–4)                                                                                                                                                                                                             |
+| Challenge Rating:    | 22                                                                                                                                                                                                                                 |
+| Treasure:            | Standard                                                                                                                                                                                                                           |
+| Alignment:           | Usually chaotic evil                                                                                                                                                                                                               |
+| Advancement:         | 21–40 HD (Colossal)                                                                                                                                                                                                                |
 
-A ha-naga's natural weapons are treated as epic for the purpose of
+A ha-naga’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#ha-naga--combat}
+### Combat
 
 **Flight (Su):** As per the *fly* spell, 120 ft. (perfect). This ability
 gives the ha-naga a +6 circumstance bonus on Move Silently checks.
@@ -492,44 +554,44 @@ successful grapple attack against Huge or smaller opponents.
 also cast cleric spells and spells from the domains of Chaos and Evil as
 arcane spells (save DC 33 + spell level). The DC is Charisma-based.
 
-## Hagunemnon (Protean) {#hagunemnon}
+## Hagunemnon (Protean)
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Aberration (Shapechanger)
-  Hit Dice:              44d8+616 (814 hp)
-  Initiative:            +17 (+13 Dex, +4 Improved Initiative)
-  Speed:                 50 ft.
-  AC:                    50 (--1 size, +13 Dex, +28 natural)
-  Base Attack/Grapple:   +33/+58
-  Attack:                Slam +54 (2d6+21/19-20) melee
-  Full Attack:           5 slams +54 (2d6+21/19-20) melee
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Psionics, destabilize form
-  Special Qualities:     Alter shape, DR 10/epic, darkvision 120 ft., immunities, regeneration 50, spell resistance 39
-  Saves:                 Fort +40, Ref +39, Will +32
-  Abilities:             Str 53, Dex 37, Con 39, Int 20, Wis 23, Cha 34
-  Skills:                Bluff +59, Diplomacy +53, Disguise +59, Hide +35, Intimidate +47, Jump +29, Listen +55, Move Silently +35, Sense Motive +29, Spot +55
-  Feats:                 Alertness, Cleave, Combat Reflexes, Endurance, Great Cleave, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Power Attack, Weapon Focus (slam)
-  Epic Feats:            Blinding Speed, Devastating Critical (slam), Overwhelming Critical (slam)
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      29
-  Treasure:              Standard
-  Alignment:             Always chaotic neutral
-  Advancement:           45--59 HD (Large); 60--74 HD (Huge); 75--89 HD (Huge)
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                  |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Aberration (Shapechanger)                                                                                                                                                  |
+| Hit Dice:            | 44d8+616 (814 hp)                                                                                                                                                                |
+| Initiative:          | +17 (+13 Dex, +4 Improved Initiative)                                                                                                                                            |
+| Speed:               | 50 ft.                                                                                                                                                                           |
+| AC:                  | 50 (–1 size, +13 Dex, +28 natural)                                                                                                                                               |
+| Base Attack/Grapple: | +33/+58                                                                                                                                                                          |
+| Attack:              | Slam +54 (2d6+21/19-20) melee                                                                                                                                                    |
+| Full Attack:         | 5 slams +54 (2d6+21/19-20) melee                                                                                                                                                 |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                                                                                    |
+| Special Attacks:     | Psionics, destabilize form                                                                                                                                                       |
+| Special Qualities:   | Alter shape, DR 10/epic, darkvision 120 ft., immunities, regeneration 50, spell resistance 39                                                                                    |
+| Saves:               | Fort +40, Ref +39, Will +32                                                                                                                                                      |
+| Abilities:           | Str 53, Dex 37, Con 39, Int 20, Wis 23, Cha 34                                                                                                                                   |
+| Skills:              | Bluff +59, Diplomacy +53, Disguise +59, Hide +35, Intimidate +47, Jump +29, Listen +55, Move Silently +35, Sense Motive +29, Spot +55                                            |
+| Feats:               | Alertness, Cleave, Combat Reflexes, Endurance, Great Cleave, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Power Attack, Weapon Focus (slam) |
+| Epic Feats:          | Blinding Speed, Devastating Critical (slam), Overwhelming Critical (slam)                                                                                                        |
+| Climate/Terrain:     | Any                                                                                                                                                                              |
+| Organization:        | Solitary                                                                                                                                                                         |
+| Challenge Rating:    | 29                                                                                                                                                                               |
+| Treasure:            | Standard                                                                                                                                                                         |
+| Alignment:           | Always chaotic neutral                                                                                                                                                           |
+| Advancement:         | 45–59 HD (Large); 60–74 HD (Huge); 75–89 HD (Huge)                                                                                                                               |
 
-A hagunemnon's natural weapons are treated as epic for the purpose of
+A hagunemnon’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#hagunemnon--combat}
+### Combat
 
-**Psionics (Sp):** At will *---detect thoughts, dimension door, ethereal
+**Psionics (Sp):** At will *—detect thoughts, dimension door, ethereal
 jaunt, knock, nondetection, plane shift, suggestion.*Caster level 20th,
 save DC 22.
 
 **Destabilize Form (Su):** If a protean hits with two or more slam
-attacks in the same round, it partly destabilizes its foe's physical
+attacks in the same round, it partly destabilizes its foe’s physical
 form, dealing an additional 4d6+31 points of Damage as well as 2 points
 of temporary Constitution Damage. If the victim is drained to 0
 Constitution, its dead body is only so much clear fluid that drains away
@@ -537,7 +599,7 @@ unless somehow preserved by friends of the victim.
 
 **Alter Shape (Ex):** A protean can assume the shape of any combination
 of physical nondeific creatures at the same time as a free action. In
-fact, a protean's form constantly boils, and it requires a
+fact, a protean’s form constantly boils, and it requires a
 move-equivalent action each round for a protean to maintain a certain
 shape (even if that shape is a combination of several shapes). Whatever
 its present form, the protean retains all its own special qualities.
@@ -557,111 +619,157 @@ appropriate to the attack type.
 
 ## Hoary Hunter
 
-  ----------------------- ----------------------- -----------------------
-                          Hoary Hunter            Hoary Steed
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<td>Hoary Hunter</td>
+<td>Hoary Steed</td>
+</tr>
+<tr class="even">
+<th></th>
+<td>Medium-Size Fey (Cold)</td>
+<td>Large Magical Beast (Cold)</td>
+</tr>
+<tr class="odd">
+<th>Hit Dice:</th>
+<td>46d6+598 (759 hp)</td>
+<td>12d10+36 (102 hp)</td>
+</tr>
+<tr class="even">
+<th>Initiative:</th>
+<td>+19 (+11 Dex, +8 Superior Initiative)</td>
+<td>+8 (+4 Dex, +4 Improved Initiative)</td>
+</tr>
+<tr class="odd">
+<th>Speed:</th>
+<td>30 ft.</td>
+<td>40 ft., fly 90 ft. (good)</td>
+</tr>
+<tr class="even">
+<th>AC:</th>
+<td>46 (+11 Dex, +15 insight, +10 natural)</td>
+<td>23 (–1 size, +4 Dex, +10 natural)</td>
+</tr>
+<tr class="odd">
+<th>Base Attack/<br />
+Grapple:</th>
+<td>+23/+37</td>
+<td>+12/+22</td>
+</tr>
+<tr class="even">
+<th>Attack:</th>
+<td><em>+6 keen longsword of binding</em> +46 (1d8+27/17-20 plus 1d6
+plus <em>binding</em>) melee</td>
+<td>Hoof +17 (3d6+6) melee</td>
+</tr>
+<tr class="odd">
+<th>Full Attack:</th>
+<td><em>+6 keen longsword of binding</em> +46/+41/+36/+31 (1d8+27/17–20
+plus 1d6 plus <em>binding</em>) melee</td>
+<td>2 hooves +17 (3d6+6) melee, bite +15 (5d8+3) melee</td>
+</tr>
+<tr class="even">
+<th>Space/Reach:</th>
+<td>5 ft./5 ft.</td>
+<td>10 ft./5 ft.</td>
+</tr>
+<tr class="odd">
+<th>Special Attacks:</th>
+<td>Spell-like abilities</td>
+<td></td>
+</tr>
+<tr class="even">
+<th>Special Qualities:</th>
+<td>Cold immunity, fire vulnerability, SR 36, DR 10/epic and cold
+iron</td>
+<td>Cold immunity, fire vulnerability, air walk, astral projection and
+etherealness, magic circle against good, misty breath, SR 20, DR 5/magic
+and cold iron, immunities</td>
+</tr>
+<tr class="odd">
+<th>Saves:</th>
+<td>Fort +28, Ref +36, Will +31</td>
+<td>Fort +11, Ref +12, Will +5</td>
+</tr>
+<tr class="even">
+<th>Abilities:</th>
+<td>Str 38, Dex 33, Con 36, Int 21, Wis 23, Cha 26</td>
+<td>Str 22, Dex 18, Con 17, Int 6, Wis 13, Cha 14</td>
+</tr>
+<tr class="odd">
+<th>Skills:</th>
+<td>Diplomacy +14, Hide +60, Intimidate +57, Knowledge (geography,
+nature) +54, Listen +55, Move Silently +60, Ride +60, Search +54, Sense
+Motive +55, Spot +55, Survival +55</td>
+<td>Jump +10, Listen +8, Spot +13</td>
+</tr>
+<tr class="even">
+<th>Feats:</th>
+<td>Blind-Fight, Cleave, Great Cleave, Improved Critical (longsword),
+Improved Initiative, Mounted Combat, Power Attack, Ride-by Attack,
+Spirited Charge, Track, Trample, Weapon Focus (longsword)</td>
+<td>Alertness, Endurance, Flyby Attack, Improved Initiative,
+Multiattack</td>
+</tr>
+<tr class="odd">
+<th>Epic Feats:</th>
+<td>Dire Charge, Epic Weapon Focus (longsword), Overwhelming Critical
+(longsword), Superior Initiative</td>
+<td></td>
+</tr>
+<tr class="even">
+<th>Climate/Terrain:</th>
+<td>Any cold</td>
+<td>Any cold</td>
+</tr>
+<tr class="odd">
+<th>Organization:</th>
+<td>Solitary or company (2–5)</td>
+<td>Solitary (with rider)</td>
+</tr>
+<tr class="even">
+<th>Challenge Rating:</th>
+<td>25</td>
+<td>9</td>
+</tr>
+<tr class="odd">
+<th>Treasure:</th>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr class="even">
+<th>Alignment:</th>
+<td>Always neutral evil</td>
+<td>Always neutral evil</td>
+</tr>
+<tr class="odd">
+<th>Advancement:</th>
+<td>47+ HD (Medium)</td>
+<td>13–24 HD (Large); 25–36 HD (Huge)</td>
+</tr>
+</tbody>
+</table>
 
-                          Medium-Size Fey (Cold)  Large Magical Beast
-                                                  (Cold)
-
-  Hit Dice:               46d6+598 (759 hp)       12d10+36 (102 hp)
-
-  Initiative:             +19 (+11 Dex, +8        +8 (+4 Dex, +4 Improved
-                          Superior Initiative)    Initiative)
-
-  Speed:                  30 ft.                  40 ft., fly 90 ft.
-                                                  (good)
-
-  AC:                     46 (+11 Dex, +15        23 (--1 size, +4 Dex,
-                          insight, +10 natural)   +10 natural)
-
-  Base Attack/\           +23/+37                 +12/+22
-  Grapple:                                        
-
-  Attack:                 *+6 keen longsword of   Hoof +17 (3d6+6) melee
-                          binding* +46            
-                          (1d8+27/17-20 plus 1d6  
-                          plus *binding*) melee   
-
-  Full Attack:            *+6 keen longsword of   2 hooves +17 (3d6+6)
-                          binding*                melee, bite +15 (5d8+3)
-                          +46/+41/+36/+31         melee
-                          (1d8+27/17--20 plus 1d6 
-                          plus *binding*) melee   
-
-  Space/Reach:            5 ft./5 ft.             10 ft./5 ft.
-
-  Special Attacks:        Spell-like abilities    
-
-  Special Qualities:      Cold immunity, fire     Cold immunity, fire
-                          vulnerability, SR 36,   vulnerability, air
-                          DR 10/epic and cold     walk, astral projection
-                          iron                    and etherealness, magic
-                                                  circle against good,
-                                                  misty breath, SR 20, DR
-                                                  5/magic and cold iron,
-                                                  immunities
-
-  Saves:                  Fort +28, Ref +36, Will Fort +11, Ref +12, Will
-                          +31                     +5
-
-  Abilities:              Str 38, Dex 33, Con 36, Str 22, Dex 18, Con 17,
-                          Int 21, Wis 23, Cha 26  Int 6, Wis 13, Cha 14
-
-  Skills:                 Diplomacy +14, Hide     Jump +10, Listen +8,
-                          +60, Intimidate +57,    Spot +13
-                          Knowledge (geography,   
-                          nature) +54, Listen     
-                          +55, Move Silently +60, 
-                          Ride +60, Search +54,   
-                          Sense Motive +55, Spot  
-                          +55, Survival +55       
-
-  Feats:                  Blind-Fight, Cleave,    Alertness, Endurance,
-                          Great Cleave, Improved  Flyby Attack, Improved
-                          Critical (longsword),   Initiative, Multiattack
-                          Improved Initiative,    
-                          Mounted Combat, Power   
-                          Attack, Ride-by Attack, 
-                          Spirited Charge, Track, 
-                          Trample, Weapon Focus   
-                          (longsword)             
-
-  Epic Feats:             Dire Charge, Epic       
-                          Weapon Focus            
-                          (longsword),            
-                          Overwhelming Critical   
-                          (longsword), Superior   
-                          Initiative              
-
-  Climate/Terrain:        Any cold                Any cold
-
-  Organization:           Solitary or company     Solitary (with rider)
-                          (2--5)                  
-
-  Challenge Rating:       25                      9
-
-  Treasure:               None                    None
-
-  Alignment:              Always neutral evil     Always neutral evil
-
-  Advancement:            47+ HD (Medium)         13--24 HD (Large);
-                                                  25--36 HD (Huge)
-  ----------------------- ----------------------- -----------------------
-
-A hoary hunter's natural weapons are treated as epic for the purpose of
+A hoary hunter’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#hoary-hunter--combat}
+### Combat
 
 A critical hit (or the blow that would kill or render a foe unconscious)
-from the hoary hunter's blade does not wound the hunter's prey. Instead,
+from the hoary hunter’s blade does not wound the hunter’s prey. Instead,
 the victim is bodily transported as per a *soul binding* spell
 heightened to 16th level (DC 30) into a diamond at the end of the
-sword's hilt.
+sword’s hilt.
 
-**Spell-Like Abilities:** At will---*discern location, true strike, fog
-cloud, hold monster, plane shift;* 3/day---*dimensional anchor, dominate
-monster, greater dispel magic;* 1/day---mage's *disjunction, contingent
+**Spell-Like Abilities:** At will—*discern location, true strike, fog
+cloud, hold monster, plane shift;* 3/day—*dimensional anchor, dominate
+monster, greater dispel magic;* 1/day—mage’s *disjunction, contingent
 recall and resurrection\*.* Caster level 23rd; save DC 18 + spell level.
 *\*Contingent recall and resurrection* is a variation on an epic spell.
 When slain, the hoary hunter is actually transported, with its mount,
@@ -671,10 +779,10 @@ spell has been exhausted for the day.
 
 ### Hoary Steed
 
-A hoary steed's natural weapons are treated as magic for the purpose of
+A hoary steed’s natural weapons are treated as magic for the purpose of
 overcoming damage reduction.
 
-#### Combat {#hoary-steed--combat}
+#### Combat
 
 **Air Walk (Su):** A hoary steed can ride through the air as well as on
 the ground, as though affected by a permanent *air walk* spell.
@@ -693,43 +801,43 @@ spells or abilities.
 
 ## Hunefer
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Medium-Size Undead
-  Hit Dice:              50d12+3 (603 hp)
-  Initiative:            +16 (+12 Dex, +4 Improved Initiative)
-  Speed:                 100 ft.
-  AC:                    52 (+12 Dex, +20 natural, +10 insight)
-  Base Attack/Grapple:   +25/+43
-  Attack:                Slam +44 (3d6+18/19--20 (+1d6 on critical hit) plus hunefer rot)
-  Full Attack:           2 slams +44 (3d6+18/19--20 (+1d6 on critical hit) plus hunefer rot)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Despair, hunefer rot, spell-like abilities
-  Special Qualities:     Blindsight 300 ft., DR 10/--, fast healing 30, SR 37, undead traits, fire vulnerability
-  Saves:                 Fort +18, Ref +30, Will +41
-  Abilities:             Str 47, Dex 35, Con --, Int 18, Wis 38, Cha 36
-  Skills:                Concentration +66, Jump +46, Knowledge (religion, the planes) +57, Listen +67, Search +57, Sense Motive +67, Spellcraft +57, Spot +67
-  Feats:                 Cleave, Combat Reflexes, Dodge, Expertise, Great Cleave, Great Fortitude, Improved Critical (slam), Improved Disarm, Improved Initiative, Lightning Reflexes, Mobility, Power Attack, Toughness, Weapon Focus (slam)
-  Epic Feats:            Devastating Critical (slam), Overwhelming Critical (slam), Spell Stowaway *(greater teleport*)
-  Climate/Terrain:       Any
-  Organization:          Solitary, pair, or court (5--9)
-  Challenge Rating:      25
-  Treasure:              Standard
-  Alignment:             Always lawful evil
-  Advancement:           51--56 HD (Medium-size); 57--60 HD (Large); 61--66 HD (Huge); 67--70 HD (Gargantuan); 71+ HD (Colossal)
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Medium-Size Undead                                                                                                                                                                                                   |
+| Hit Dice:            | 50d12+3 (603 hp)                                                                                                                                                                                                     |
+| Initiative:          | +16 (+12 Dex, +4 Improved Initiative)                                                                                                                                                                                |
+| Speed:               | 100 ft.                                                                                                                                                                                                              |
+| AC:                  | 52 (+12 Dex, +20 natural, +10 insight)                                                                                                                                                                               |
+| Base Attack/Grapple: | +25/+43                                                                                                                                                                                                              |
+| Attack:              | Slam +44 (3d6+18/19–20 (+1d6 on critical hit) plus hunefer rot)                                                                                                                                                      |
+| Full Attack:         | 2 slams +44 (3d6+18/19–20 (+1d6 on critical hit) plus hunefer rot)                                                                                                                                                   |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                          |
+| Special Attacks:     | Despair, hunefer rot, spell-like abilities                                                                                                                                                                           |
+| Special Qualities:   | Blindsight 300 ft., DR 10/–, fast healing 30, SR 37, undead traits, fire vulnerability                                                                                                                               |
+| Saves:               | Fort +18, Ref +30, Will +41                                                                                                                                                                                          |
+| Abilities:           | Str 47, Dex 35, Con –, Int 18, Wis 38, Cha 36                                                                                                                                                                        |
+| Skills:              | Concentration +66, Jump +46, Knowledge (religion, the planes) +57, Listen +67, Search +57, Sense Motive +67, Spellcraft +57, Spot +67                                                                                |
+| Feats:               | Cleave, Combat Reflexes, Dodge, Expertise, Great Cleave, Great Fortitude, Improved Critical (slam), Improved Disarm, Improved Initiative, Lightning Reflexes, Mobility, Power Attack, Toughness, Weapon Focus (slam) |
+| Epic Feats:          | Devastating Critical (slam), Overwhelming Critical (slam), Spell Stowaway *(greater teleport*)                                                                                                                       |
+| Climate/Terrain:     | Any                                                                                                                                                                                                                  |
+| Organization:        | Solitary, pair, or court (5–9)                                                                                                                                                                                       |
+| Challenge Rating:    | 25                                                                                                                                                                                                                   |
+| Treasure:            | Standard                                                                                                                                                                                                             |
+| Alignment:           | Always lawful evil                                                                                                                                                                                                   |
+| Advancement:         | 51–56 HD (Medium-size); 57–60 HD (Large); 61–66 HD (Huge); 67–70 HD (Gargantuan); 71+ HD (Colossal)                                                                                                                  |
 
 Hunefers speak all spoken languages, though it takes one 1d4 rounds to
 switch between languages.
 
-### Combat {#hunefer--combat}
+### Combat
 
 **Despair (Su):** The mere sight of a hunefer requires viewers to
 succeed at a Will saving throw (DC 48) or be paralyzed with fear for 1d4
 rounds. Regardless of the outcome of the save, a subject is not again
-vulnerable to that hunefer's despair ability for 24 hours. The DC is
+vulnerable to that hunefer’s despair ability for 24 hours. The DC is
 Charisma-based.
 
-**Hunefer Rot (Su):** Supernatural disease---slam, Fort save (DC 35),
+**Hunefer Rot (Su):** Supernatural disease—slam, Fort save (DC 35),
 incubation period instantaneous; Damage 1d6 temporary Con. Unlike normal
 diseases, hunefer rot requires a victim to make a successful saving
 throw every round or take another 1d6 points of temporary Constitution
@@ -738,14 +846,14 @@ dies) or receives a *remove disease* spell or similar magic. An
 afflicted creature that dies shrivels away into sand unless both *remove
 disease* and *raise dead* (or better) are cast on the remains within 2
 rounds. If the remains are not so treated, on the third round the dust
-swirls and forms an 18 HD mummy with the dead foe's equipment under the
-hunefer's command. (The *mummy dust* epic spell has statistics for an 18
+swirls and forms an 18 HD mummy with the dead foe’s equipment under the
+hunefer’s command. (The *mummy dust* epic spell has statistics for an 18
 HD mummy.)
 
-**Spell-Like Abilities:** At will---*chain lightning, displacement,
-haste, knock, greater dispel magic, passwall, scrying, greater teleport,
-true seeing, unholy aura, weird;* 1/day---*ruin* (epic spell). Caster
-level 27th; save DC 23 + spell level. The DC is Charisma-based.
+**Spell-Like Abilities:** At will—*chain lightning, displacement, haste,
+knock, greater dispel magic, passwall, scrying, greater teleport, true
+seeing, unholy aura, weird;* 1/day—*ruin* (epic spell). Caster level
+27th; save DC 23 + spell level. The DC is Charisma-based.
 
 **Undead Traits:** Immune to poison, *sleep,* paralysis, stunning,
 disease, death, effects, necromantic effects, mind-affecting effects,
@@ -758,40 +866,40 @@ is willing.
 
 ## Lavawight
 
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------
-                         Medium-Size Undead (Fire)
-  Hit Dice:              32d12 (208 hp)
-  Initiative:            +12 (+8 Dex, +4 Improved Initiative)
-  Speed:                 60 ft.
-  AC:                    46 (+8 Dex, +28 natural)
-  Base Attack/Grapple:   +16/+37
-  Attack:                Claw +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee
-  Full Attack:           2 claws +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee, 1 skull butt +32 (2d6+10 plus blazefire) melee
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Rend 6d8+31, blazefire, spell-like abilities
-  Special Qualities:     Undead traits, fire subtype, heat aura, SR 34, DR 10/-- , fiery hardness
-  Skills:                Jump +33, Knowledge (religion) +33, Listen +41, Search +35, Spot +41
-  Feats:                 Cleave, Great Cleave, Great Fortitude, Improved Critical (claw), Improved Initiative, Power Attack, Weapon Focus (claw)
-  Epic Feats:            Blinding Speed (x2), Epic Weapon Focus (claw), Overwhelming Critical (claw)
-  Saves:                 Fort +12, Ref +18, Will +24
-  Abilities:             Str 52, Dex 27, Con --, Int 10, Wis 22, Cha 28
-  Climate/Terrain:       Any
-  Organization:          Solitary or pair
-  Challenge Rating:      23
-  Treasure:              Standard
-  Alignment:             Chaotic evil
-  Advancement:           33--42 HD (Medium-size); 43--55 HD (Huge)
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                         |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------|
+|                      | Medium-Size Undead (Fire)                                                                                               |
+| Hit Dice:            | 32d12 (208 hp)                                                                                                          |
+| Initiative:          | +12 (+8 Dex, +4 Improved Initiative)                                                                                    |
+| Speed:               | 60 ft.                                                                                                                  |
+| AC:                  | 46 (+8 Dex, +28 natural)                                                                                                |
+| Base Attack/Grapple: | +16/+37                                                                                                                 |
+| Attack:              | Claw +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee                                                     |
+| Full Attack:         | 2 claws +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee, 1 skull butt +32 (2d6+10 plus blazefire) melee  |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                             |
+| Special Attacks:     | Rend 6d8+31, blazefire, spell-like abilities                                                                            |
+| Special Qualities:   | Undead traits, fire subtype, heat aura, SR 34, DR 10/– , fiery hardness                                                 |
+| Skills:              | Jump +33, Knowledge (religion) +33, Listen +41, Search +35, Spot +41                                                    |
+| Feats:               | Cleave, Great Cleave, Great Fortitude, Improved Critical (claw), Improved Initiative, Power Attack, Weapon Focus (claw) |
+| Epic Feats:          | Blinding Speed (x2), Epic Weapon Focus (claw), Overwhelming Critical (claw)                                             |
+| Saves:               | Fort +12, Ref +18, Will +24                                                                                             |
+| Abilities:           | Str 52, Dex 27, Con –, Int 10, Wis 22, Cha 28                                                                           |
+| Climate/Terrain:     | Any                                                                                                                     |
+| Organization:        | Solitary or pair                                                                                                        |
+| Challenge Rating:    | 23                                                                                                                      |
+| Treasure:            | Standard                                                                                                                |
+| Alignment:           | Chaotic evil                                                                                                            |
+| Advancement:         | 33–42 HD (Medium-size); 43–55 HD (Huge)                                                                                 |
 
 Lavawights speak Common and Infernal.
 
-### Combat {#lavawight--combat}
+### Combat
 
 **Rend (Ex):** If the lavawight hits with both of its claws, it latches
-onto the opponent's body and tears the flesh. This attack automatically
+onto the opponent’s body and tears the flesh. This attack automatically
 deals an additional 6d8+31 points of Damage.
 
-**Blazefire (Su):** Living creatures taking Damage from a lavawight's
+**Blazefire (Su):** Living creatures taking Damage from a lavawight’s
 attack find themselves ignited with blaze-fire; they must succeed at a
 Fortitude save (DC 35) or permanently lose 4 hit points. The DC is
 Charisma-based. The opponent must continue to save every round for the
@@ -801,9 +909,9 @@ Damage whenever a creature is drained of hit points, gaining any excess
 as temporary hit points. Tehse temporary hit points last a maximum of 1
 hour. If an opponent is slain by blazefire, only blackened ash remains
 of the victim. Hit points lost to the blazefire never heal naturally and
-cannot be magically restored---they are gone for good.
+cannot be magically restored—they are gone for good.
 
-**Spell-Like Abilities:** At will--- *dimension door, flame arrow, spell
+**Spell-Like Abilities:** At will— *dimension door, flame arrow, spell
 immunity (sleet storm*), *fireball, wall of fire.* Caster level 22nd;
 save DC 19 + spell level. The DC is Charisma-based.
 
@@ -824,84 +932,145 @@ fire Damage each round they remain within the heat aura.
 
 **Fire Subtype:** Fire immunity, cold vulnerability..
 
-**Fiery Hardness (Ex):** The lavawight's molten skin provides it with
-Damage reduction of 10/--.
+**Fiery Hardness (Ex):** The lavawight’s molten skin provides it with
+Damage reduction of 10/–.
 
 ## Legendary Animal
 
-  ----------------------- ----------------------- -----------------------
-                          Legendary Bear          Legendary Tiger
-
-                          Large Animal            Large Animal
-
-  Hit Dice:               20d8+140 (230 hp)       26d8+188 (305 hp)
-
-  Initiative:             +6 (+2 Dex, +4 Improved +8 (+4 Dex, +4 Improved
-                          Initiative)             Initiative)
-
-  Speed:                  50 ft.                  50 ft.
-
-  AC:                     21 (--1 size, +2 Dex,   23 (--1 size, +4 Dex,
-                          +10 natural)            +10 natural)
-
-  Base Attack/\           +15/+32                 +19/+34
-  Grapple:                                        
-
-  Attack:                 Claw +27 (2d6+13) melee Claw +29 (2d6+11) melee
-
-  Full Attack:            2 claws +27 (2d6+13)    2 claws +29 (2d6+11)
-                          melee, bite +22 (4d6+6) melee, bite +24 (2d8+5)
-                          melee                   melee
-
-  Space/Reach:            10 ft./5 ft.            10 ft./5 ft.
-
-  Special Attacks:        Improved grab           Pounce, improved grab,
-                                                  rake 2d6+5
-
-  Special Qualities:      Scent                   Scent
-
-  Saves:                  Fort +19, Ref +14, Will Fort +22, Ref +19, Will
-                          +11                     +12
-
-  Abilities:              Str 36, Dex 14, Con 24, Str 32, Dex 18, Con 24,
-                          Int 2, Wis 16, Cha 12   Int 2, Wis 14, Cha 10
-
-  Skills:                 Climb +15, Jump +21,    Climb +13, Hide +15,
-                          Listen +14, Spot +14,   Jump +19, Listen +12,
-                          Swim +20                Move Silently +15, Spot
-                                                  +12, Swim +16
-
-  Feats:                  Alertness, Athletic,    Alertness, Athletic,
-                          Endurance, Improved     Endurance, Improved
-                          Initiative, Iron Will,  Initiative, Iron Will,
-                          Run, Track              Run, Toughness(x2),
-                                                  Track
-
-  Climate/Terrain:        Any forest, hill,       Any forest, hill,
-                          mountains, plains, and  mountains, plains, or
-                          underground             underground
-
-  Organization:           Solitary or pair        Solitary or pair
-
-  Challenge Rating:       9                       10
-
-  Treasure:               None                    None
-
-  Alignment:              Always neutral          Always neutral
-
-  Advancement:            21--40 HD (Large)       27--48 HD (Large)
-  ----------------------- ----------------------- -----------------------
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<td>Legendary Bear</td>
+<td>Legendary Tiger</td>
+</tr>
+<tr class="even">
+<th></th>
+<td>Large Animal</td>
+<td>Large Animal</td>
+</tr>
+<tr class="odd">
+<th>Hit Dice:</th>
+<td>20d8+140 (230 hp)</td>
+<td>26d8+188 (305 hp)</td>
+</tr>
+<tr class="even">
+<th>Initiative:</th>
+<td>+6 (+2 Dex, +4 Improved Initiative)</td>
+<td>+8 (+4 Dex, +4 Improved Initiative)</td>
+</tr>
+<tr class="odd">
+<th>Speed:</th>
+<td>50 ft.</td>
+<td>50 ft.</td>
+</tr>
+<tr class="even">
+<th>AC:</th>
+<td>21 (–1 size, +2 Dex, +10 natural)</td>
+<td>23 (–1 size, +4 Dex, +10 natural)</td>
+</tr>
+<tr class="odd">
+<th>Base Attack/<br />
+Grapple:</th>
+<td>+15/+32</td>
+<td>+19/+34</td>
+</tr>
+<tr class="even">
+<th>Attack:</th>
+<td>Claw +27 (2d6+13) melee</td>
+<td>Claw +29 (2d6+11) melee</td>
+</tr>
+<tr class="odd">
+<th>Full Attack:</th>
+<td>2 claws +27 (2d6+13) melee, bite +22 (4d6+6) melee</td>
+<td>2 claws +29 (2d6+11) melee, bite +24 (2d8+5) melee</td>
+</tr>
+<tr class="even">
+<th>Space/Reach:</th>
+<td>10 ft./5 ft.</td>
+<td>10 ft./5 ft.</td>
+</tr>
+<tr class="odd">
+<th>Special Attacks:</th>
+<td>Improved grab</td>
+<td>Pounce, improved grab, rake 2d6+5</td>
+</tr>
+<tr class="even">
+<th>Special Qualities:</th>
+<td>Scent</td>
+<td>Scent</td>
+</tr>
+<tr class="odd">
+<th>Saves:</th>
+<td>Fort +19, Ref +14, Will +11</td>
+<td>Fort +22, Ref +19, Will +12</td>
+</tr>
+<tr class="even">
+<th>Abilities:</th>
+<td>Str 36, Dex 14, Con 24, Int 2, Wis 16, Cha 12</td>
+<td>Str 32, Dex 18, Con 24, Int 2, Wis 14, Cha 10</td>
+</tr>
+<tr class="odd">
+<th>Skills:</th>
+<td>Climb +15, Jump +21, Listen +14, Spot +14, Swim +20</td>
+<td>Climb +13, Hide +15, Jump +19, Listen +12, Move Silently +15, Spot
++12, Swim +16</td>
+</tr>
+<tr class="even">
+<th>Feats:</th>
+<td>Alertness, Athletic, Endurance, Improved Initiative, Iron Will, Run,
+Track</td>
+<td>Alertness, Athletic, Endurance, Improved Initiative, Iron Will, Run,
+Toughness(x2), Track</td>
+</tr>
+<tr class="odd">
+<th>Climate/Terrain:</th>
+<td>Any forest, hill, mountains, plains, and underground</td>
+<td>Any forest, hill, mountains, plains, or underground</td>
+</tr>
+<tr class="even">
+<th>Organization:</th>
+<td>Solitary or pair</td>
+<td>Solitary or pair</td>
+</tr>
+<tr class="odd">
+<th>Challenge Rating:</th>
+<td>9</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<th>Treasure:</th>
+<td>None</td>
+<td>None</td>
+</tr>
+<tr class="odd">
+<th>Alignment:</th>
+<td>Always neutral</td>
+<td>Always neutral</td>
+</tr>
+<tr class="even">
+<th>Advancement:</th>
+<td>21–40 HD (Large)</td>
+<td>27–48 HD (Large)</td>
+</tr>
+</tbody>
+</table>
 
 ### Legendary Bear
 
-#### Combat {#legendary-bear--combat}
+#### Combat
 
 **Improved Grab (Ex):** To use this ability, a legendary bear must hit
 with a claw attack.
 
 ### Legendary Tiger
 
-#### Combat {#legendary-tiger--combat}
+#### Combat
 
 **Pounce (Ex):** If a legendary tiger leaps upon a foe during the first
 round of combat, it can make a full attack even if it has already taken
@@ -920,37 +1089,37 @@ Hide bonus improves to +16.
 
 ## Leshay
 
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Medium-Size Fey
-  Hit Dice:              50d6+650 (825 hp)
-  Initiative:            +21 (+17 Dex, +4 Improved Initiative)
-  Speed:                 40 ft.
-  AC:                    52 (+17 Dex, +20 insight, +5 natural armor)
-  Base Attack/Grapple:   +25/+30
-  Attack:                +10 *keen brilliant energy bastard sword* +53 (1d10+15/17-20) melee
-  Full Attack:           2 *+10 keen brilliant energy bastard swords* +53/+48/+43/+38 (1d10+15/17-20) melee
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Gaze, spell-like abilities, leShay weapons
-  Special Qualities:     Superior two-weapon fighting, DR 15/epic and cold iron, elf traits, immune to poison and disease, low-light vision, SR 42, fast healing 10
-  Saves:                 Fort +29, Ref +44, Will +35
-  Abilities:             Str 21, Dex 45, Con 37, Int 33, Wis 23, Cha 47
-  Skills:                Bluff +71, Concentration +66, Diplomacy +77, Disguise +71, Escape Artist +70, Gather Information +24, Hide +70, Intimidate +24, Jump +5, Knowledge (local, nature) +59, Listen +59, Move Silently +70, Search +59, Speak Language (any five), Spot +59
-  Feats:                 Blind-Fight, Cleave, Dodge, Expertise, Improved Critical (leShay weapon), Improved Initiative, Iron Will, Mobility, Power Attack, Quick Draw, Spring Attack, Weapon Finesse, Weapon Focus (leShay weapon), Whirlwind Attack
-  Epic Feats:            Blinding Speed, Polyglot, Spell Stowaway *(heal*)
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      28
-  Treasure:              Standard
-  Alignment:             Any
-  Advancement:           None
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                                        |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Medium-Size Fey                                                                                                                                                                                                                                        |
+| Hit Dice:            | 50d6+650 (825 hp)                                                                                                                                                                                                                                      |
+| Initiative:          | +21 (+17 Dex, +4 Improved Initiative)                                                                                                                                                                                                                  |
+| Speed:               | 40 ft.                                                                                                                                                                                                                                                 |
+| AC:                  | 52 (+17 Dex, +20 insight, +5 natural armor)                                                                                                                                                                                                            |
+| Base Attack/Grapple: | +25/+30                                                                                                                                                                                                                                                |
+| Attack:              | +10 *keen brilliant energy bastard sword* +53 (1d10+15/17-20) melee                                                                                                                                                                                    |
+| Full Attack:         | 2 *+10 keen brilliant energy bastard swords* +53/+48/+43/+38 (1d10+15/17-20) melee                                                                                                                                                                     |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                                                            |
+| Special Attacks:     | Gaze, spell-like abilities, leShay weapons                                                                                                                                                                                                             |
+| Special Qualities:   | Superior two-weapon fighting, DR 15/epic and cold iron, elf traits, immune to poison and disease, low-light vision, SR 42, fast healing 10                                                                                                             |
+| Saves:               | Fort +29, Ref +44, Will +35                                                                                                                                                                                                                            |
+| Abilities:           | Str 21, Dex 45, Con 37, Int 33, Wis 23, Cha 47                                                                                                                                                                                                         |
+| Skills:              | Bluff +71, Concentration +66, Diplomacy +77, Disguise +71, Escape Artist +70, Gather Information +24, Hide +70, Intimidate +24, Jump +5, Knowledge (local, nature) +59, Listen +59, Move Silently +70, Search +59, Speak Language (any five), Spot +59 |
+| Feats:               | Blind-Fight, Cleave, Dodge, Expertise, Improved Critical (leShay weapon), Improved Initiative, Iron Will, Mobility, Power Attack, Quick Draw, Spring Attack, Weapon Finesse, Weapon Focus (leShay weapon), Whirlwind Attack                            |
+| Epic Feats:          | Blinding Speed, Polyglot, Spell Stowaway *(heal*)                                                                                                                                                                                                      |
+| Climate/Terrain:     | Any                                                                                                                                                                                                                                                    |
+| Organization:        | Solitary                                                                                                                                                                                                                                               |
+| Challenge Rating:    | 28                                                                                                                                                                                                                                                     |
+| Treasure:            | Standard                                                                                                                                                                                                                                               |
+| Alignment:           | Any                                                                                                                                                                                                                                                    |
+| Advancement:         | None                                                                                                                                                                                                                                                   |
 
-A leshay's natural weapons are treated as epic for the purpose of
+A leshay’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#leshay--combat}
+### Combat
 
-**Spell-Like Abilities:** At will---*alter self, detect thoughts,
+**Spell-Like Abilities:** At will—*alter self, detect thoughts,
 displacement, freedom, greater dispelling, heal, greater invisibility,
 knock, speak with plants, spell turning, greater teleport, water
 breathing.* Caster level 28th; save DC 28 + spell level. The DCs are
@@ -960,7 +1129,7 @@ Charisma-based.
 that he or she manifests from his or her own life essence. The weapon
 can change form as he or she shifts from class to class, typically
 appearing as a bastard sword (one in each hand). When not in combat, the
-weapons simply do not exist, but leShay can "draw" their weapons from
+weapons simply do not exist, but leShay can “draw” their weapons from
 nowhere as a free action. LeShay weapons are considered light weapons
 for a leShay, regardless of their size.
 
@@ -988,60 +1157,60 @@ as bonus feats; +2 racial bonus on Listen, Spot, and Search checks
 
 ## Living Vault
 
-  ---------------------- -----------------------------------------------------------------------------------------
-                         Colossal Construct
-  Hit Dice:              96d10+80 (608 hp)
-  Initiative:            --2 (Dex)
-  Speed:                 10 ft. (can't run)
-  AC:                    60 (--8 size, --2 Dex, +60 natural)
-  Base Attack/Grapple:   +72/+123
-  Attack:                Slam +99 (10d6+35) melee
-  Full Attack:           2 slams +99 (10d6+35) melee
-  Space/Reach:           30 ft./20 ft.
-  Special Attacks:       Imprisonment
-  Special Qualities:     Recognition, *safekeeping,* construct traits, magic immunity, DR 15/epic and adamantine
-  Saves:                 Fort +32, Ref +30, Will +33
-  Skills:                Jump +0
-  Abilities:             Str 80, Dex 7, Con --, Int --, Wis 12, Cha 1
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      33
-  Treasure:              Standard (see text)
-  Alignment:             Neutral
-  Advancement:           None
-  ---------------------- -----------------------------------------------------------------------------------------
+|                      |                                                                                         |
+|----------------------|-----------------------------------------------------------------------------------------|
+|                      | Colossal Construct                                                                      |
+| Hit Dice:            | 96d10+80 (608 hp)                                                                       |
+| Initiative:          | –2 (Dex)                                                                                |
+| Speed:               | 10 ft. (can’t run)                                                                      |
+| AC:                  | 60 (–8 size, –2 Dex, +60 natural)                                                       |
+| Base Attack/Grapple: | +72/+123                                                                                |
+| Attack:              | Slam +99 (10d6+35) melee                                                                |
+| Full Attack:         | 2 slams +99 (10d6+35) melee                                                             |
+| Space/Reach:         | 30 ft./20 ft.                                                                           |
+| Special Attacks:     | Imprisonment                                                                            |
+| Special Qualities:   | Recognition, *safekeeping,* construct traits, magic immunity, DR 15/epic and adamantine |
+| Saves:               | Fort +32, Ref +30, Will +33                                                             |
+| Skills:              | Jump +0                                                                                 |
+| Abilities:           | Str 80, Dex 7, Con –, Int –, Wis 12, Cha 1                                              |
+| Climate/Terrain:     | Any                                                                                     |
+| Organization:        | Solitary                                                                                |
+| Challenge Rating:    | 33                                                                                      |
+| Treasure:            | Standard (see text)                                                                     |
+| Alignment:           | Neutral                                                                                 |
+| Advancement:         | None                                                                                    |
 
 To access a vault, its creator must call the vault from where it is
 sequestered through the use of a *sending* spell. The vault has no
 obvious opening; however, items can be stored and retrieved by naming
 them (the living vault provides an inventory to its creator on request).
-The item to be stored appears to sink into the living vault's form as if
-made of mud. Likewise, items retrieved pop out of the living vault's
+The item to be stored appears to sink into the living vault’s form as if
+made of mud. Likewise, items retrieved pop out of the living vault’s
 form. Storing and retrieving items in this fashion takes one round per
-transaction. Creatures other than the vault's master who wish to access
+transaction. Creatures other than the vault’s master who wish to access
 the inventory must destroy the vault to do so. If a vault is destroyed,
 all the objects and creatures stored within immediately emerge.
 
-A living vault's natural weapons are treated as epic for the purpose of
+A living vault’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#living-vault--combat}
+### Combat
 
 ***Imprisonment* (Sp):** As a free action twice per day, a living vault
 can project a 60-foot cone. Creatures caught in the cone must make a
 Will save (DC 58) or be affected as by the *imprisonment* spell, except
-creatures are stored within the vault's interior. The living vault can
+creatures are stored within the vault’s interior. The living vault can
 hold two Gargantuan creatures, eight Huge creatures, thirty-two Large
 creatures, one hundred twenty-eight Medium-size creatures, and so on.
 This assumes that the rest of the vault is also relatively empty, so a
 large hoard of treasure reduces the number of creatures a living vault
 can hold at any one time. If *freedom* is later cast upon the very spot
 where the victim of *imprisonment* disappeared, the victim is freed,
-though it doesn't appear where it disappeared, but in a space adjacent
+though it doesn’t appear where it disappeared, but in a space adjacent
 to wherever the living vault is currently physically located.
 
 **Recognition (Ex):** Once made, a living vault responds only to its
-owner; no other being can access the vault's interior. The vault is not
+owner; no other being can access the vault’s interior. The vault is not
 fooled by disguised creatures, and can distinguish between its true
 master and false duplicates, even penetrating disguises used in
 conjunction with *shapechange, alter self, disguise self, polymorph,
@@ -1077,38 +1246,38 @@ rounds.
 
 ## Mercane
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Outsider
-  Hit Dice:              7d8+21 (52 hp)
-  Initiative:            +2 (Dex)
-  Speed:                 30 ft.
-  AC:                    15 (--1 size, +2 Dex, +4 natural)
-  Base Attack/Grapple:   +7/+13
-  Attack:                Masterwork falchion +9(2d4+3) melee
-  Full Attack:           Masterwork falchion +9/+4 (2d4+3) melee
-  Space/Reach:           10 ft./10 ft.
-  Special Qualities:     SR 25, spell-like abilities, telepathy
-  Saves:                 Fort +8, Ref +7, Will +8
-  Abilities:             Str 15, Dex 15, Con 16, Int 20, Wis 17, Cha 15
-  Skills:                Appraise +19, Bluff +12, Diplomacy +12, Gather Information +12, Intimidate +12, Knowledge (arcana) +15, Knowledge (the planes) +15, Listen +13, Profession (bookkeeper) +13, Sense Motive +13, Sleight of Hand +14, Spellcraft +15, Spot +12
-  Feats:                 Expertise, Improved Disarm, Improved Feint
-  Climate/Terrain:       Any land and underground
-  Organization:          Company (1--4 mercanes and 3--18 5th-level fighter bodyguards) or progression (1 mercane, 3 14th-level fighters, 1 21st-level fighter/2nd-level Union Sentinel)
-  Challenge Rating:      5
-  Treasure:              Double standard
-  Alignment:             Always lawful neutral
-  Advancement:           By character class
-  Level Adjustment:      +7
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                              |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Outsider                                                                                                                                                                                                                               |
+| Hit Dice:            | 7d8+21 (52 hp)                                                                                                                                                                                                                               |
+| Initiative:          | +2 (Dex)                                                                                                                                                                                                                                     |
+| Speed:               | 30 ft.                                                                                                                                                                                                                                       |
+| AC:                  | 15 (–1 size, +2 Dex, +4 natural)                                                                                                                                                                                                             |
+| Base Attack/Grapple: | +7/+13                                                                                                                                                                                                                                       |
+| Attack:              | Masterwork falchion +9(2d4+3) melee                                                                                                                                                                                                          |
+| Full Attack:         | Masterwork falchion +9/+4 (2d4+3) melee                                                                                                                                                                                                      |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                                                                                                                                                |
+| Special Qualities:   | SR 25, spell-like abilities, telepathy                                                                                                                                                                                                       |
+| Saves:               | Fort +8, Ref +7, Will +8                                                                                                                                                                                                                     |
+| Abilities:           | Str 15, Dex 15, Con 16, Int 20, Wis 17, Cha 15                                                                                                                                                                                               |
+| Skills:              | Appraise +19, Bluff +12, Diplomacy +12, Gather Information +12, Intimidate +12, Knowledge (arcana) +15, Knowledge (the planes) +15, Listen +13, Profession (bookkeeper) +13, Sense Motive +13, Sleight of Hand +14, Spellcraft +15, Spot +12 |
+| Feats:               | Expertise, Improved Disarm, Improved Feint                                                                                                                                                                                                   |
+| Climate/Terrain:     | Any land and underground                                                                                                                                                                                                                     |
+| Organization:        | Company (1–4 mercanes and 3–18 5th-level fighter bodyguards) or progression (1 mercane, 3 14th-level fighters, 1 21st-level fighter/2nd-level Union Sentinel)                                                                                |
+| Challenge Rating:    | 5                                                                                                                                                                                                                                            |
+| Treasure:            | Double standard                                                                                                                                                                                                                              |
+| Alignment:           | Always lawful neutral                                                                                                                                                                                                                        |
+| Advancement:         | By character class                                                                                                                                                                                                                           |
+| Level Adjustment:    | +7                                                                                                                                                                                                                                           |
 
 Mercanes speak Abyssal, Celestial, Draconic, Infernal, and at least two
 other languages.
 
-### Combat {#mercane--combat}
+### Combat
 
-**Spell-Like Abilities:** 3/day---*dimension door, invisibility;*
-1/day---*secret chest, plane shift.* Caster level 14th; save DC 12 +
-spell level.
+**Spell-Like Abilities:** 3/day—*dimension door, invisibility;*
+1/day—*secret chest, plane shift.* Caster level 14th; save DC 12 + spell
+level.
 
 **Telepathy (Su):** Mercanes can communicate telepathically with any
 creature within 100 feet that has a language.
@@ -1117,42 +1286,42 @@ creature within 100 feet that has a language.
 
 ### Mercane Characters
 
-A mercane's favored class is wizard. Player character mercanes have a
+A mercane’s favored class is wizard. Player character mercanes have a
 level adjustment of +7.
 
 ## Mu Spore
 
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------
-                         Colossal Plant
-  Hit Dice:              35d8+315 (472 hp)
-  Initiative:            +5 (-3 Dex, +8 Superior Initiative)
-  Speed:                 40 ft.
-  AC:                    27 (--3 Dex, --8 size, +28 natural)
-  Base Attack/Grapple:   +26/+55
-  Attack:                Tendril +31 (2d6+13/19-20) melee
-  Full Attack:           4 tendrils +31 (2d6+13/19-20) melee, 1 bite +26 (4d6+6/19-20) melee
-  Space/Reach:           30 ft./30 ft.
-  Special Attacks:       Spore cough, improved grab, swallow whole
-  Special Qualities:     Acid resistance 20, blindsight 210 ft., DR 10/epic, fast healing 10, plant traits, sticky
-  Saves:                 Fort +28, Ref +8, Will +20
-  Abilities:             Str 36, Dex 5, Con 29, Int 18, Wis 28, Cha 28
-  Skills:                Bluff +47, Diplomacy +13, Gather Information +13, Hide +35, Intimidate +13, Jump +13, Knowledge (local, nature) +42, Listen +47, Spot +47
-  Feats:                 Cleave, Great Cleave, Improved Critical (bite), Improved Critical (tendril), Improved initiative, Lightning Reflexes, Power Attack
-  Epic Feats:            Epic Reflexes, Epic Toughness (x3), Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary, pair, or polyp (3--7)
-  Challenge Rating:      21
-  Treasure:              Standard
-  Alignment:             Usually chaotic neutral
-  Advancement:           36+ HD (Colossal)
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                           |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Colossal Plant                                                                                                                            |
+| Hit Dice:            | 35d8+315 (472 hp)                                                                                                                         |
+| Initiative:          | +5 (-3 Dex, +8 Superior Initiative)                                                                                                       |
+| Speed:               | 40 ft.                                                                                                                                    |
+| AC:                  | 27 (–3 Dex, –8 size, +28 natural)                                                                                                         |
+| Base Attack/Grapple: | +26/+55                                                                                                                                   |
+| Attack:              | Tendril +31 (2d6+13/19-20) melee                                                                                                          |
+| Full Attack:         | 4 tendrils +31 (2d6+13/19-20) melee, 1 bite +26 (4d6+6/19-20) melee                                                                       |
+| Space/Reach:         | 30 ft./30 ft.                                                                                                                             |
+| Special Attacks:     | Spore cough, improved grab, swallow whole                                                                                                 |
+| Special Qualities:   | Acid resistance 20, blindsight 210 ft., DR 10/epic, fast healing 10, plant traits, sticky                                                 |
+| Saves:               | Fort +28, Ref +8, Will +20                                                                                                                |
+| Abilities:           | Str 36, Dex 5, Con 29, Int 18, Wis 28, Cha 28                                                                                             |
+| Skills:              | Bluff +47, Diplomacy +13, Gather Information +13, Hide +35, Intimidate +13, Jump +13, Knowledge (local, nature) +42, Listen +47, Spot +47 |
+| Feats:               | Cleave, Great Cleave, Improved Critical (bite), Improved Critical (tendril), Improved initiative, Lightning Reflexes, Power Attack        |
+| Epic Feats:          | Epic Reflexes, Epic Toughness (x3), Superior Initiative                                                                                   |
+| Climate/Terrain:     | Any                                                                                                                                       |
+| Organization:        | Solitary, pair, or polyp (3–7)                                                                                                            |
+| Challenge Rating:    | 21                                                                                                                                        |
+| Treasure:            | Standard                                                                                                                                  |
+| Alignment:           | Usually chaotic neutral                                                                                                                   |
+| Advancement:         | 36+ HD (Colossal)                                                                                                                         |
 
 Mu spores speak Common and Terran.
 
-A mu spore's natural weapons are treated as epic for the purpose of
+A mu spore’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#mu-spore--combat}
+### Combat
 
 **Spore Cough (Su):** Once every 1d4 rounds a mu spore can release a
 cloud of burrowing spores. This spore cough is treated as a
@@ -1173,13 +1342,13 @@ given for the tendril.
 held in its mouth, it can attempt a new grapple check (as though
 attempting to pin the opponent). If it succeeds, it swallows its prey
 and the opponent takes bite Damage. A swallowed creature takes the twice
-the Damage given for the mu spore's bite every round. A swallowed
+the Damage given for the mu spore’s bite every round. A swallowed
 creature is considered grappled, while the creature that did the
 swallowing is not. A swallowed creature can try to cut its way free with
 any light piercing or slashing weapon, if it can deal 33 points of
 Damage in this fashion, or it can just try to escape the grapple. If the
 swallowed creature chooses the latter course, success puts it back in
-the mu spore's mouth, where it may be bitten or swallowed again.
+the mu spore’s mouth, where it may be bitten or swallowed again.
 
 **Sticky (Ex):** Sticky tendrils cover a mu spore, many more than the
 four main tendrils it uses for combat. Any creature that touches or
@@ -1195,55 +1364,55 @@ those with natural attacks only) do not have this option.
 **Plant Traits:** Immune to poison, *sleep,* paralysis, stunning, and
 polymorphing; not subject to critical hits or mind-affecting effects.
 
-## Neh-Thalggu (Brain Collector) {#neh-thalggu}
+## Neh-Thalggu (Brain Collector)
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------
-                         Huge Aberration (Extraplanar, Incorporeal)
-  Hit Dice:              32d8+192 (336 hp)
-  Initiative:            +12 (+4 Dex, +8 Superior Initiative)
-  Speed:                 60 ft. or via *dimension door*
-  AC:                    35 (--2 size, +4 Dex, +3 deflection, +20 insight)
-  Base Attack/Grapple:   +24/--
-  Attack:                Bite +26 (4d10 + 12 plus poison) melee
-  Full Attack:           Bite +26 (4d10 + 12 plus poison ) melee, 10 head-tentacles +21 (2d10 plus ability drain ) melee touch attack
-  Space/Reach:           15 ft./10 ft.
-  Special Attacks:       Extract brains (ranged attack), poison, spells
-  Special Qualities:     *Dimensional travel,* DR 10/epic, incorporeal traits, amorphous physiology, manifest maw, SR 30, darkvision 60 ft.
-  Saves:                 Fort +16, Ref +14, Will +23
-  Abilities:             Str --, Dex 19, Con 22, Int 20, Wis 20, Cha 17
-  Skills:                Concentration +41, Hide +39, Knowledge (arcana, the planes) +40, Move Silently +39, Search +40, Spellcraft +40
-  Feats:                 Blind-Fight, Combat Reflexes, Dodge, Eschew Materials, Expertise, Improved Initiative, Maximize Spell, Mobility, Power Attack, Spring Attack
-  Epic Feats:            Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      26
-  Treasure:              Triple standard
-  Alignment:             Usually chaotic neutral, neutral evil, or chaotic evil
-  Advancement:           33--66 HD (Gargantuan); 67--112 HD (Colossal)
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                              |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Huge Aberration (Extraplanar, Incorporeal)                                                                                                   |
+| Hit Dice:            | 32d8+192 (336 hp)                                                                                                                            |
+| Initiative:          | +12 (+4 Dex, +8 Superior Initiative)                                                                                                         |
+| Speed:               | 60 ft. or via *dimension door*                                                                                                               |
+| AC:                  | 35 (–2 size, +4 Dex, +3 deflection, +20 insight)                                                                                             |
+| Base Attack/Grapple: | +24/–                                                                                                                                        |
+| Attack:              | Bite +26 (4d10 + 12 plus poison) melee                                                                                                       |
+| Full Attack:         | Bite +26 (4d10 + 12 plus poison ) melee, 10 head-tentacles +21 (2d10 plus ability drain ) melee touch attack                                 |
+| Space/Reach:         | 15 ft./10 ft.                                                                                                                                |
+| Special Attacks:     | Extract brains (ranged attack), poison, spells                                                                                               |
+| Special Qualities:   | *Dimensional travel,* DR 10/epic, incorporeal traits, amorphous physiology, manifest maw, SR 30, darkvision 60 ft.                           |
+| Saves:               | Fort +16, Ref +14, Will +23                                                                                                                  |
+| Abilities:           | Str –, Dex 19, Con 22, Int 20, Wis 20, Cha 17                                                                                                |
+| Skills:              | Concentration +41, Hide +39, Knowledge (arcana, the planes) +40, Move Silently +39, Search +40, Spellcraft +40                               |
+| Feats:               | Blind-Fight, Combat Reflexes, Dodge, Eschew Materials, Expertise, Improved Initiative, Maximize Spell, Mobility, Power Attack, Spring Attack |
+| Epic Feats:          | Superior Initiative                                                                                                                          |
+| Climate/Terrain:     | Any                                                                                                                                          |
+| Organization:        | Solitary                                                                                                                                     |
+| Challenge Rating:    | 26                                                                                                                                           |
+| Treasure:            | Triple standard                                                                                                                              |
+| Alignment:           | Usually chaotic neutral, neutral evil, or chaotic evil                                                                                       |
+| Advancement:         | 33–66 HD (Gargantuan); 67–112 HD (Colossal)                                                                                                  |
 
 A creature whose brain has been harvested by a brain collector cannot be
 raised, reincarnated, or resurrected while the brain is in the creature,
 because the collector preserves and draws upon the soul and basic
 personality of the creature for as long as it retains the brain.
-Neh-thalggus' own language is a silent sign language "spoken" with their
+Neh-thalggus’ own language is a silent sign language “spoken” with their
 writhing head-tentacles. They can also communicate telepathically with
 any creature that has a language within 100 feet.
 
-A neh-thalggu's natural weapons are treated as epic for the purpose of
+A neh-thalggu’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#neh-thalggu--combat}
+### Combat
 
-**Poison (Ex):** A neh-thalggu's bite injects a debilitating poison (DC
-32) that Damages the victim's Constitution. He or she loses half his or
+**Poison (Ex):** A neh-thalggu’s bite injects a debilitating poison (DC
+32) that Damages the victim’s Constitution. He or she loses half his or
 her current Constitution immediately on a failed save and must save
 again 1 minute later or lose half of his or her remaining Constitution.
 If the character survives, he or she heals the ability Damage at the
 normal rate (1 point per day). The save DC is Constitution-based.
 
 **Head-Tentacles (Ex):** The long, whiplike tentacles that frame either
-side of a brain collector's face can deliver a dangerous touch attack
+side of a brain collector’s face can deliver a dangerous touch attack
 that, if successful, causes the target to dehydrate and wither (2d10
 points of desiccation Damage). In addition, each successful tentacle
 attack drains 1 point of Strength, 1 point of Dexterity, and 1 point of
@@ -1270,11 +1439,11 @@ neh-thalggu (though these never convert to actual level loss), which is
 a powerful incentive for the creature to always keep its brain-sacs
 filled. A neh-thalggu is free to draw on all the Knowledge skills of
 each brain it currently stores, using the base ranks in a skill
-possessed by each brain, and adjusted by the neh-thalggu's own skill
+possessed by each brain, and adjusted by the neh-thalggu’s own skill
 modifiers for the Knowledge skill in question (or its Intelligence
 modifier, for a skill it has no ranks in).
 
-***Dimensional Travel* (Sp):** A brain collector's preferred method of
+***Dimensional Travel* (Sp):** A brain collector’s preferred method of
 locomotion is via *dimension door,* which it can do as a quickened
 action, once per round. It can also use *teleport without error* or
 *plane shift* at will as a move-equivalent action.
@@ -1306,17 +1475,17 @@ it has no Strength score.
 
 ### Creating a Paragon Creature
 
-"Paragon" is a template that can be added to any creature (referred to
+“Paragon” is a template that can be added to any creature (referred to
 hereafter as the base creature).
 
-The base creature's type remains unchanged. The paragon creature uses
-all the base creature's statistics and special abilities except as noted
+The base creature’s type remains unchanged. The paragon creature uses
+all the base creature’s statistics and special abilities except as noted
 here.
 
 **HD:** A paragon creature always has maximum hit points. Paragon
 creatures also gain an additional 12 hit points per HD.
 
-**Speed:** A paragon creature's speed triples, for all movement types.
+**Speed:** A paragon creature’s speed triples, for all movement types.
 
 **AC:** Paragon creatures gain a +12 insight bonus to AC and a +12 luck
 bonus to AC. They also gain a +5 natural armor bonus (if the creature
@@ -1328,7 +1497,7 @@ bonus on the attack roll.
 **Damage:** A paragon creature gains a +20 luck bonus on Damage rolls
 for all melee and thrown ranged attacks.
 
-**Special Attacks:** A paragon creature's special attacks, if any, all
+**Special Attacks:** A paragon creature’s special attacks, if any, all
 gain a +13 insight bonus, if applicable. The +13 insight bonus may only
 be applied to a given special ability once.
 
@@ -1345,12 +1514,12 @@ qualities of the base creature and also gains the following.
     resistance, use whichever is better.
 -   Damage reduction 10/epic. If the creature already possesses Damage
     reduction, use whichever is better.
--   Spell resistance equal to the paragon creature's CR +25. If the
+-   Spell resistance equal to the paragon creature’s CR +25. If the
     creature already possesses spell resistance, use whichever is
     higher.
 -   Fast healing 20. If the creature already possesses fast healing, use
     whichever is better.
--   A paragon creature's natural weapons are treated as epic for the
+-   A paragon creature’s natural weapons are treated as epic for the
     purpose of overcoming damage reduction.
 
 **Saves:** The paragon creature gains a +10 insight bonus on all its
@@ -1378,35 +1547,35 @@ skill checks.
 
 ## Prismasaurus
 
-  ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Huge Magical Beast
-  Hit Dice:              60d10+620 (950 hp)
-  Initiative:            +15 (+7 Dex, +8 Superior Initiative)
-  Speed:                 30 ft.
-  AC:                    55 (--2 size, +7 Dex, +40 natural)
-  Base Attack/Grapple:   +60/+79
-  Attack:                Bite +72 (8d10+11/ 19--20 (+1d6 on critical hit)) melee
-  Full Attack:           Bite +72 melee (8d10+11/ 19--20 (+1d6 on critical hit)), tail +67 (10d6+5) melee
-  Space/Reach:           15 ft./10 ft.
-  Special Attacks:       Prismatic emanations
-  Special Qualities:     Immunities, prismatic blur, SR 38, DR 10/--
-  Saves:                 Fort +41, Ref +39, Will +24
-  Abilities:             Str 32, Dex 25, Con 29, Int 4, Wis 19, Cha 10
-  Skills:                Listen +37, Spot +38
-  Feats:                 Alertness, Cleave, Combat Reflexes, Dodge, Endurance, Great Cleave, Improved Critical (bite), Improved Initiative, Power Attack, Weapon Focus (bite), Weapon Focus (tail)
-  Epic Feats:            Devastating Critical (bite), Epic Endurance, Epic Toughness (x4), Epic Weapon Focus (bite), Epic Weapon Focus (tail), Overwhelming Critical (bite), Superior Initiative
-  Climate/Terrain:       Any sunny land
-  Organization:          Solitary or pair
-  Challenge Rating:      28
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           61--90 HD (Huge); 91--150 HD (Gargantuan)
-  ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                           |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Huge Magical Beast                                                                                                                                                        |
+| Hit Dice:            | 60d10+620 (950 hp)                                                                                                                                                        |
+| Initiative:          | +15 (+7 Dex, +8 Superior Initiative)                                                                                                                                      |
+| Speed:               | 30 ft.                                                                                                                                                                    |
+| AC:                  | 55 (–2 size, +7 Dex, +40 natural)                                                                                                                                         |
+| Base Attack/Grapple: | +60/+79                                                                                                                                                                   |
+| Attack:              | Bite +72 (8d10+11/ 19–20 (+1d6 on critical hit)) melee                                                                                                                    |
+| Full Attack:         | Bite +72 melee (8d10+11/ 19–20 (+1d6 on critical hit)), tail +67 (10d6+5) melee                                                                                           |
+| Space/Reach:         | 15 ft./10 ft.                                                                                                                                                             |
+| Special Attacks:     | Prismatic emanations                                                                                                                                                      |
+| Special Qualities:   | Immunities, prismatic blur, SR 38, DR 10/–                                                                                                                                |
+| Saves:               | Fort +41, Ref +39, Will +24                                                                                                                                               |
+| Abilities:           | Str 32, Dex 25, Con 29, Int 4, Wis 19, Cha 10                                                                                                                             |
+| Skills:              | Listen +37, Spot +38                                                                                                                                                      |
+| Feats:               | Alertness, Cleave, Combat Reflexes, Dodge, Endurance, Great Cleave, Improved Critical (bite), Improved Initiative, Power Attack, Weapon Focus (bite), Weapon Focus (tail) |
+| Epic Feats:          | Devastating Critical (bite), Epic Endurance, Epic Toughness (x4), Epic Weapon Focus (bite), Epic Weapon Focus (tail), Overwhelming Critical (bite), Superior Initiative   |
+| Climate/Terrain:     | Any sunny land                                                                                                                                                            |
+| Organization:        | Solitary or pair                                                                                                                                                          |
+| Challenge Rating:    | 28                                                                                                                                                                        |
+| Treasure:            | None                                                                                                                                                                      |
+| Alignment:           | Always neutral                                                                                                                                                            |
+| Advancement:         | 61–90 HD (Huge); 91–150 HD (Gargantuan)                                                                                                                                   |
 
-### Combat {#prismasaurus--combat}
+### Combat
 
 **Prismatic Emanations (Su):** The reflected and refracted light from
-the prismasaurus's crystalline ridge functions very similarly to the
+the prismasaurus’s crystalline ridge functions very similarly to the
 *prismatic spray* spell. Any creature of less than 8 HD that is within
 30 feet of the creature is automatically blinded for 2d4 rounds. In
 addition, any creature within 20 feet of the prismasaurus is randomly
@@ -1420,42 +1589,42 @@ effects is 49.
 mind-affecting attacks.
 
 **Prismatic Blur (Ex):** The reflected and refracted light that
-constantly surrounds the creature blurs the creature's outline and makes
+constantly surrounds the creature blurs the creature’s outline and makes
 it difficult to properly target. All melee and ranged attacks against
 the creature have a 50% miss chance.
 
 ## Pseudonatural Troll
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------
-                         Large Outsider (Extraplanar)
-  Hit Dice:              6d8+66 (114 hp)
-  Initiative:            +7 (Dex)
-  Speed:                 60 ft.
-  AC:                    51 (--1 size, +7 Dex, +35 natural)
-  Base Attack/Grapple:   +4/+40
-  Attack:                Tentacle rake +35 (2d8+17) melee
-  Full Attack:           5 tentacle rakes +35 (2d8+17) melee
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Constant insight, improved grab, rend 4d8+25, rotting constriction
-  Special Qualities:     DR 5/epic, SR 30, acid and electricity resistance 20, regeneration 5, scent, spell-like abilities, darkvision 90 ft.
-  Saves:                 Fort +16, Ref +9, Will +8
-  Abilities:             Str 45, Dex 24, Con 33, Int 6, Wis 19, Cha 6
-  Skills:                Climb +26, Hide +16, Jump +38, Listen +15, Move Silently +16, Spot +15
-  Feats:                 Alertness, Iron Will, Track
-  Climate/Terrain:       Any
-  Organization:          Solitary or gang (2--4)
-  Challenge Rating:      21
-  Treasure:              Standard
-  Alignment:             Always chaotic evil
-  Advancement:           By character class
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                      |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|
+|                      | Large Outsider (Extraplanar)                                                                                         |
+| Hit Dice:            | 6d8+66 (114 hp)                                                                                                      |
+| Initiative:          | +7 (Dex)                                                                                                             |
+| Speed:               | 60 ft.                                                                                                               |
+| AC:                  | 51 (–1 size, +7 Dex, +35 natural)                                                                                    |
+| Base Attack/Grapple: | +4/+40                                                                                                               |
+| Attack:              | Tentacle rake +35 (2d8+17) melee                                                                                     |
+| Full Attack:         | 5 tentacle rakes +35 (2d8+17) melee                                                                                  |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                        |
+| Special Attacks:     | Constant insight, improved grab, rend 4d8+25, rotting constriction                                                   |
+| Special Qualities:   | DR 5/epic, SR 30, acid and electricity resistance 20, regeneration 5, scent, spell-like abilities, darkvision 90 ft. |
+| Saves:               | Fort +16, Ref +9, Will +8                                                                                            |
+| Abilities:           | Str 45, Dex 24, Con 33, Int 6, Wis 19, Cha 6                                                                         |
+| Skills:              | Climb +26, Hide +16, Jump +38, Listen +15, Move Silently +16, Spot +15                                               |
+| Feats:               | Alertness, Iron Will, Track                                                                                          |
+| Climate/Terrain:     | Any                                                                                                                  |
+| Organization:        | Solitary or gang (2–4)                                                                                               |
+| Challenge Rating:    | 21                                                                                                                   |
+| Treasure:            | Standard                                                                                                             |
+| Alignment:           | Always chaotic evil                                                                                                  |
+| Advancement:         | By character class                                                                                                   |
 
 Pseudotrolls speak Giant.
 
-A pseudotroll's natural weapons are treated as epic for the purpose of
+A pseudotroll’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#pseudonatural-troll--combat}
+### Combat
 
 **Constant Insight (Su):** A pseudotroll makes all its attacks
 (including grapples) with a +15 insight bonus (calculated into the above
@@ -1468,7 +1637,7 @@ start a grapple as a free action without provoking an attack of
 opportunity.
 
 **Rend (Ex):** If a pseudotroll hits with two or more tentacle rake
-attacks, it latches onto the opponent's body and tears the flesh. This
+attacks, it latches onto the opponent’s body and tears the flesh. This
 attack automatically deals an additional 4d8+25 points of Damage, and
 can be used concurrently with its improved grab ability.
 
@@ -1482,29 +1651,29 @@ pseudotroll. If a pseudotroll loses a tentacle or body part, the lost
 portion regrows in 1 minute. The creature can reattach the severed
 member instantly by holding it to the stump.
 
-**Spell-Like Abilities:** At will---*blur, dimension door, shield,
+**Spell-Like Abilities:** At will—*blur, dimension door, shield,
 unhallow.* Caster level 20th; save DC 8 + spell level. The DC is
 Charisma-based.
 
 **Alternate Form (Su):** At will, a pseudotroll can take the form of a
 grotesque, tentacled mass (or another appropriately gruesome form), but
 all its abilities remain unchanged despite the alien appearance.
-Changing shape is a standard action. Other creatures receive a --1
-morale penalty on their attack rolls against a pseudotroll in this
-alternate form.
+Changing shape is a standard action. Other creatures receive a –1 morale
+penalty on their attack rolls against a pseudotroll in this alternate
+form.
 
 ## Creating a Pseudonatural Creature
 
-"Pseudonatural" is a template that can be added to any corporeal
+“Pseudonatural” is a template that can be added to any corporeal
 creature (referred to hereafter as the base creature).
 
-**Size and Type:** The creature's type changes to outsider
+**Size and Type:** The creature’s type changes to outsider
 (extraplanar). Do not recalculate base attack bonus, saves, or skill
 points. Size is unchanged.
 
 **HD:** A pseudonatural creature always has maximum hit points.
 
-**Speed:** A pseudonatural creature's speed doubles, for all movement
+**Speed:** A pseudonatural creature’s speed doubles, for all movement
 types.
 
 **AC:** Pseudonatural creatures gain a +35 natural armor bonus. If the
@@ -1512,7 +1681,7 @@ creature already has an armor bonus, use whichever is better.
 
 **Attack/Full Attack:** A pseudonatural creature substitutes tentacle
 rake attacks for its melee attacks while in pseudonatural form. These
-tentacle attacks always use the creature's best attack bonus. It also
+tentacle attacks always use the creature’s best attack bonus. It also
 gains additional tentacle rake attacks (also at its best attack bonus)
 as noted on the table below.
 
@@ -1535,7 +1704,7 @@ opponent, each successful grapple check it makes during subsequent
 rounds permanently drains 2d4 points of Constitution. At the same time,
 the creature regains 10 lost hit points.
 
-**Spell-Like Abilities:** At will---*blur, dimension door, shield,
+**Spell-Like Abilities:** At will—*blur, dimension door, shield,
 unhallow.* Caster level 20th. The DCs are Charisma-based.
 
 **Special Qualities:** A pseudonatural creature retains all the special
@@ -1547,24 +1716,24 @@ qualities of the base creature and also gains the following.
 -   Damage reduction of a varying amount related to its Hit Dice (see
     the table below). If the creature already possesses Damage
     reduction, use whichever is better.
--   Spell resistance equal to the creature's HD x5. If the creature
+-   Spell resistance equal to the creature’s HD x5. If the creature
     already possesses spell resistance, use whichever is higher.
 -   One extra tentacle rake attack (the creature can use another of its
     many tentacles to attack at no penalty while in pseudonatural form)
     for each 4 HD the creature has.
--   A pseudonatural creature's natural weapons are treated as epic for
+-   A pseudonatural creature’s natural weapons are treated as epic for
     the purpose of overcoming damage reduction.
 
-  ---------------- --------------------------------- ------------------ -----------------------------
-  Hit Dice         Electricity and Acid Resistance   Damage Reduction   Extra Tentacle Rake Attacks
-  1--3             15                                5/epic             1
-  4--7             20                                5/epic             2
-  8--11            25                                10/epic            3
-  12--15           30                                10/epic            4
-  16--19           35                                15/epic            5
-  21--24           40                                15/epic            6
-  each 4 more HD   +5                                15/epic            +1
-  ---------------- --------------------------------- ------------------ -----------------------------
+|                |                                 |                  |                             |
+|----------------|---------------------------------|------------------|-----------------------------|
+| Hit Dice       | Electricity and Acid Resistance | Damage Reduction | Extra Tentacle Rake Attacks |
+| 1–3            | 15                              | 5/epic           | 1                           |
+| 4–7            | 20                              | 5/epic           | 2                           |
+| 8–11           | 25                              | 10/epic          | 3                           |
+| 12–15          | 30                              | 10/epic          | 4                           |
+| 16–19          | 35                              | 15/epic          | 5                           |
+| 21–24          | 40                              | 15/epic          | 6                           |
+| each 4 more HD | +5                              | 15/epic          | +1                          |
 
 If the creature already has one or more of these special qualities, use
 the better value.
@@ -1573,7 +1742,7 @@ the better value.
 form of a grotesque, tentacled mass (or another appropriately gruesome
 form), but all its abilities remain unchanged despite the alien
 appearance. Changing shape is a standard action. Other creatures receive
-a --1 morale penalty on their attack rolls against pseudonatural
+a –1 morale penalty on their attack rolls against pseudonatural
 creatures in this alternate form.
 
 **Saves:** Same as the base creature.
@@ -1600,31 +1769,31 @@ as base creature +13; 16+ HD, as base creature +10
 
 ## Ruin Swarm
 
-  ---------------------- ------------------------------------------------------------
-                         Tiny Vermin (Swarm)
-  Hit Dice:              50d8+500 (725 hp)
-  Initiative:            +16
-  Speed:                 20 ft., climb 20 ft., fly 90 ft. (perfect)
-  Armor Class:           30 (+2 size, +16 Dex, +2 natural), touch 28, flatfooted 14
-  Base Attack/Grapple:   +37/---
-  Attack:                Swarm (5d6)
-  Full Attack:           Swarm (5d6)
-  Space/Reach:           10 ft./0 ft.
-  Special Attacks:       Blinding, distraction (DC 45)
-  Special Qualities:     Blindsense, fast healing 15, swarm traits, vermin traits
-  Saves:                 Fort +37, Ref +34, Will +22
-  Abilities:             Str 3, Dex 42, Con 30, Int---, Wis 23, Cha 32
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary, cloud (2--4 swarms), or plague (5--8 swarms)
-  Challenge Rating:      23
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           None
-  ---------------------- ------------------------------------------------------------
+|                      |                                                            |
+|----------------------|------------------------------------------------------------|
+|                      | Tiny Vermin (Swarm)                                        |
+| Hit Dice:            | 50d8+500 (725 hp)                                          |
+| Initiative:          | +16                                                        |
+| Speed:               | 20 ft., climb 20 ft., fly 90 ft. (perfect)                 |
+| Armor Class:         | 30 (+2 size, +16 Dex, +2 natural), touch 28, flatfooted 14 |
+| Base Attack/Grapple: | +37/—                                                      |
+| Attack:              | Swarm (5d6)                                                |
+| Full Attack:         | Swarm (5d6)                                                |
+| Space/Reach:         | 10 ft./0 ft.                                               |
+| Special Attacks:     | Blinding, distraction (DC 45)                              |
+| Special Qualities:   | Blindsense, fast healing 15, swarm traits, vermin traits   |
+| Saves:               | Fort +37, Ref +34, Will +22                                |
+| Abilities:           | Str 3, Dex 42, Con 30, Int—, Wis 23, Cha 32                |
+| Skills:              | —                                                          |
+| Feats:               | —                                                          |
+| Environment:         | Any                                                        |
+| Organization:        | Solitary, cloud (2–4 swarms), or plague (5–8 swarms)       |
+| Challenge Rating:    | 23                                                         |
+| Treasure:            | None                                                       |
+| Alignment:           | Always neutral                                             |
+| Advancement:         | None                                                       |
 
-### Combat {#ruin-swarm--combat}
+### Combat
 
 **Blinding (Ex):** Any living creature that begins its turn with a ruin
 swarm in its space must make a Fortitude save (DC 51) or be blinded for
@@ -1634,7 +1803,7 @@ one round. The save DC is Dexterity-based.
 200 ft. Opponents still have 100% concealment against the swarm (but
 swarm attacks ignore concealment).
 
-**Distraction (Ex):** Any living creature vulnerable to the swarm's
+**Distraction (Ex):** Any living creature vulnerable to the swarm’s
 damage that begins its turn with a swarm in its square is nauseated for
 1 round; a DC 45 Fortitude save negates the effect. Even with a
 successful save, spellcasting or concentrating on spells within the area
@@ -1656,7 +1825,7 @@ rushed, and they cannot grapple another.
 A swarm is immune to any spell or effect that targets a specific number
 of creatures (including single-target spells such as *disintegrate*),
 with the exception of mind-affecting effects if the swarm has an
-intelligence score and a hive mind. A swarm takes a --10 penalty on
+intelligence score and a hive mind. A swarm takes a –10 penalty on
 saving throws against spells or effects that affect an area, such as
 many evocation spells or grenadelike weapons. If the area effect attack
 does not allow a saving throw, the swarm takes double damage instead.
@@ -1671,38 +1840,38 @@ has darkvision (60-foot range).
 
 ## Shadow of the Void
 
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Undead (Cold, Incorporeal)
-  Hit Dice:              35d12 (227 hp)
-  Initiative:            +17 (+9 Dex, +8 Superior Initiative)
-  Speed:                 Fly 60 ft. (perfect)
-  AC:                    48 (--1 size, +9 Dex, +10 deflection, +20 insight)
-  Base Attack/Grapple:   +17/--
-  Attack:                Incorporeal touch +25 (2d6 plus blightfire) melee
-  Full Attack:           Incorporeal touch +25 (2d6 plus blightfire) melee
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Blightfire, create spawn, spell-like abilities
-  Special Qualities:     Undead traits, incorporeal traits, turn resistance +6, cold subtype, cold aura, SR 36, DR 10/epic
-  Saves:                 Fort +13, Ref +20, Will +26
-  Abilities:             Str --, Dex 29, Con --, Int 17, Wis 25, Cha 31
-  Skills:                Diplomacy +48, Hide +47, Intimidate +48, Listen +45, Search +41, Sense Motive +45, Spot +45
-  Feats:                 Alertness, Blind-Fight, Combat Reflexes, Dodge, Expertise, Great Fortitude, Improved Initiative, Mobility, Spring Attack, Whirlwind Attack
-  Epic Feats:            Blinding Speed, Improved Combat Reflexes, Spellcasting Harrier, Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary or gang (2--5)
-  Challenge Rating:      26
-  Treasure:              None
-  Alignment:             Always lawful evil
-  Advancement:           36--42 HD (Large); 43--70 HD (Huge)
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                            |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Undead (Cold, Incorporeal)                                                                                                           |
+| Hit Dice:            | 35d12 (227 hp)                                                                                                                             |
+| Initiative:          | +17 (+9 Dex, +8 Superior Initiative)                                                                                                       |
+| Speed:               | Fly 60 ft. (perfect)                                                                                                                       |
+| AC:                  | 48 (–1 size, +9 Dex, +10 deflection, +20 insight)                                                                                          |
+| Base Attack/Grapple: | +17/–                                                                                                                                      |
+| Attack:              | Incorporeal touch +25 (2d6 plus blightfire) melee                                                                                          |
+| Full Attack:         | Incorporeal touch +25 (2d6 plus blightfire) melee                                                                                          |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                                              |
+| Special Attacks:     | Blightfire, create spawn, spell-like abilities                                                                                             |
+| Special Qualities:   | Undead traits, incorporeal traits, turn resistance +6, cold subtype, cold aura, SR 36, DR 10/epic                                          |
+| Saves:               | Fort +13, Ref +20, Will +26                                                                                                                |
+| Abilities:           | Str –, Dex 29, Con –, Int 17, Wis 25, Cha 31                                                                                               |
+| Skills:              | Diplomacy +48, Hide +47, Intimidate +48, Listen +45, Search +41, Sense Motive +45, Spot +45                                                |
+| Feats:               | Alertness, Blind-Fight, Combat Reflexes, Dodge, Expertise, Great Fortitude, Improved Initiative, Mobility, Spring Attack, Whirlwind Attack |
+| Epic Feats:          | Blinding Speed, Improved Combat Reflexes, Spellcasting Harrier, Superior Initiative                                                        |
+| Climate/Terrain:     | Any                                                                                                                                        |
+| Organization:        | Solitary or gang (2–5)                                                                                                                     |
+| Challenge Rating:    | 26                                                                                                                                         |
+| Treasure:            | None                                                                                                                                       |
+| Alignment:           | Always lawful evil                                                                                                                         |
+| Advancement:         | 36–42 HD (Large); 43–70 HD (Huge)                                                                                                          |
 
-A shadow of the void's natural weapons are treated as epic for the
+A shadow of the void’s natural weapons are treated as epic for the
 purpose of overcoming damage reduction.
 
-### Combat {#shadow-of-the-void--combat}
+### Combat
 
 **Blightfire (Su):** Living creatures taking Damage from a shadow of the
-void's incorporeal touch attack find themselves ignited with blightfire;
+void’s incorporeal touch attack find themselves ignited with blightfire;
 cold, black flames cascade over their bodies, and they must succeed at a
 Fort save (DC 37) or permanently lose 6 points of Constitution. The
 opponent must continue to save every round for the next 6 rounds (7
@@ -1720,7 +1889,7 @@ its death. They do not possess any of the abilities they had in life,
 though they do possess general knowledge of the slain creature. This
 knowledge is used for evil purposes, if possible.
 
-**Spell-Like Abilities:** 3/day---*deeper darkness, freezing sphere.*
+**Spell-Like Abilities:** 3/day—*deeper darkness, freezing sphere.*
 Caster level 24th; save DC 20 + spell level. The save DC is
 Charisma-based.
 
@@ -1750,38 +1919,38 @@ points of cold Damage each round they remain within the cold aura.
 
 ## Shape of Fire
 
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Undead (Fire, Incorporeal)
-  Hit Dice:              35d12 (227 hp)
-  Initiative:            +17 (+9 Dex, +8 Superior Initiative)
-  Speed:                 Fly 60 ft. (perfect)
-  AC:                    48 (--1 size, +9 Dex, +10 deflection, +20 insight)
-  Base Attack/Grapple:   +17/--
-  Attack:                Incorporeal touch +25 (2d6 plus blazefire) melee
-  Full Attack:           Incorporeal touch +25 (2d6 plus blazefire) melee
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Blazefire, create spawn, spell-like abilities
-  Special Qualities:     Undead traits, incorporeal traits, turn resistance +6, fire subtype, heat aura, SR 36, DR 10/epic
-  Saves:                 Fort +13, Ref +20, Will +26
-  Abilities:             Str --, Dex 29, Con --, Int 17, Wis 25, Cha 31
-  Skills:                Diplomacy +48, Hide +47, Intimidate +48, Listen +45, Search +41, Sense Motive +45, Spot +45
-  Feats:                 Alertness, Blind-Fight, Combat Reflexes, Dodge, Expertise, Great Fortitude, Improved Initiative, Mobility, Spring Attack, Whirlwind Attack
-  Epic Feats:            Blinding Speed, Improved Combat Reflexes, Spellcasting Harrier, Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary or gang (2--5)
-  Challenge Rating:      26
-  Treasure:              None
-  Alignment:             Always lawful evil
-  Advancement:           36--42 HD (Large); 43--70 HD (Huge)
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                            |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Undead (Fire, Incorporeal)                                                                                                           |
+| Hit Dice:            | 35d12 (227 hp)                                                                                                                             |
+| Initiative:          | +17 (+9 Dex, +8 Superior Initiative)                                                                                                       |
+| Speed:               | Fly 60 ft. (perfect)                                                                                                                       |
+| AC:                  | 48 (–1 size, +9 Dex, +10 deflection, +20 insight)                                                                                          |
+| Base Attack/Grapple: | +17/–                                                                                                                                      |
+| Attack:              | Incorporeal touch +25 (2d6 plus blazefire) melee                                                                                           |
+| Full Attack:         | Incorporeal touch +25 (2d6 plus blazefire) melee                                                                                           |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                                              |
+| Special Attacks:     | Blazefire, create spawn, spell-like abilities                                                                                              |
+| Special Qualities:   | Undead traits, incorporeal traits, turn resistance +6, fire subtype, heat aura, SR 36, DR 10/epic                                          |
+| Saves:               | Fort +13, Ref +20, Will +26                                                                                                                |
+| Abilities:           | Str –, Dex 29, Con –, Int 17, Wis 25, Cha 31                                                                                               |
+| Skills:              | Diplomacy +48, Hide +47, Intimidate +48, Listen +45, Search +41, Sense Motive +45, Spot +45                                                |
+| Feats:               | Alertness, Blind-Fight, Combat Reflexes, Dodge, Expertise, Great Fortitude, Improved Initiative, Mobility, Spring Attack, Whirlwind Attack |
+| Epic Feats:          | Blinding Speed, Improved Combat Reflexes, Spellcasting Harrier, Superior Initiative                                                        |
+| Climate/Terrain:     | Any                                                                                                                                        |
+| Organization:        | Solitary or gang (2–5)                                                                                                                     |
+| Challenge Rating:    | 26                                                                                                                                         |
+| Treasure:            | None                                                                                                                                       |
+| Alignment:           | Always lawful evil                                                                                                                         |
+| Advancement:         | 36–42 HD (Large); 43–70 HD (Huge)                                                                                                          |
 
-A shape of fire's natural weapons are treated as epic for the purpose of
+A shape of fire’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#shape-of-fire--combat}
+### Combat
 
 **Blazefire (Su):** Living creatures taking Damage from a shape of
-fire's incorporeal touch attack find them-selves ignited with blazefire;
+fire’s incorporeal touch attack find them-selves ignited with blazefire;
 white-hot, lambent flames cascade over their bodies, and they must
 succeed at a Fort save (DC 37) or permanently lose 10 hit points. The
 opponent must continue to save every round for the next 6 rounds (7
@@ -1791,7 +1960,7 @@ creature is drained, gaining any excess hit points as temporary hit
 points. These temporary hit points last a maximum of 1 hour. If the
 opponent is slain by blazefire, only blackened ash remains of the
 victim. Hit points lost to the blazefire never heal naturally and cannot
-be magically restored---they are gone for good. The save DC is
+be magically restored—they are gone for good. The save DC is
 Charisma-based.
 
 **Create Spawn (Su):** Any humanoid slain by a shape of fire becomes a
@@ -1799,7 +1968,7 @@ lavawight in 1d4 rounds. Lavawights are under the command of the shape
 of fire that created them and remain enslaved until its death. They do
 not possess any of the abilities they had in life.
 
-**Spell-Like Abilities:** 3/day---*fire storm, incendiary cloud.* Caster
+**Spell-Like Abilities:** 3/day—*fire storm, incendiary cloud.* Caster
 level 24th; save DC 20 + spell level. The save DC is Charisma-based.
 
 **Incorporeal Traits:** Can be harmed only by other incorporeal
@@ -1828,64 +1997,64 @@ of fire Damage each round they remain within the heat aura.
 
 ## Sirrush
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Magical Beast
-  Hit Dice:              40d10+680 (900 hp)
-  Initiative:            +23 (+15 Dex, +8 Superior Initiative)
-  Speed:                 90 ft.
-  AC:                    44 (+15 Dex, --1 size, +20 natural)
-  Base Attack/Grapple:   +40/+60
-  Attack:                Claw +56 (2d6+16/19--20 (+1d6 on critical hit)) melee
-  Full Attack:           4 claws +56 (2d6+16/19--20 (+1d6 on critical hit)) melee, bite +54 (4d6+8) melee
-  Space/Reach:           10 ft./5 ft.
-  Special Attacks:       Pounce, stunning roar
-  Special Qualities:     Blindsight 300 ft., DR 10/epic, darkvision 60 ft., fast healing 20, low-light vision, SR 39, scent; acid, cold, electricity, fire, and sonic resistance 10
-  Saves:                 Fort +39, Ref +37, Will +27
-  Abilities:             Str 42, Dex 40, Con 44, Int 21, Wis 38, Cha 28
-  Skills:                Climb +59, Hide +58, Jump +83, Listen +57, Move Silently +58, Spot +57, Survival +57
-  Feats:                 Cleave, Great Cleave, Improved Critical (claw), Improved Initiative, Multiattack, Power Attack, Weapon Focus (bite), Weapon Focus (claw)
-  Epic Feats:            Blinding Speed (x4), Overwhelming Critical (claw), Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary, pair, or pack (4--9 sirrushes and 1--2 three-headed sirrushes)
-  Challenge Rating:      24
-  Treasure:              Standard
-  Alignment:             Usually chaotic neutral
-  Advancement:           41--50 HD (Large), 51--60 HD (Huge), 61+ HD (Gargantuan)
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Magical Beast                                                                                                                                        |
+| Hit Dice:            | 40d10+680 (900 hp)                                                                                                                                         |
+| Initiative:          | +23 (+15 Dex, +8 Superior Initiative)                                                                                                                      |
+| Speed:               | 90 ft.                                                                                                                                                     |
+| AC:                  | 44 (+15 Dex, –1 size, +20 natural)                                                                                                                         |
+| Base Attack/Grapple: | +40/+60                                                                                                                                                    |
+| Attack:              | Claw +56 (2d6+16/19–20 (+1d6 on critical hit)) melee                                                                                                       |
+| Full Attack:         | 4 claws +56 (2d6+16/19–20 (+1d6 on critical hit)) melee, bite +54 (4d6+8) melee                                                                            |
+| Space/Reach:         | 10 ft./5 ft.                                                                                                                                               |
+| Special Attacks:     | Pounce, stunning roar                                                                                                                                      |
+| Special Qualities:   | Blindsight 300 ft., DR 10/epic, darkvision 60 ft., fast healing 20, low-light vision, SR 39, scent; acid, cold, electricity, fire, and sonic resistance 10 |
+| Saves:               | Fort +39, Ref +37, Will +27                                                                                                                                |
+| Abilities:           | Str 42, Dex 40, Con 44, Int 21, Wis 38, Cha 28                                                                                                             |
+| Skills:              | Climb +59, Hide +58, Jump +83, Listen +57, Move Silently +58, Spot +57, Survival +57                                                                       |
+| Feats:               | Cleave, Great Cleave, Improved Critical (claw), Improved Initiative, Multiattack, Power Attack, Weapon Focus (bite), Weapon Focus (claw)                   |
+| Epic Feats:          | Blinding Speed (x4), Overwhelming Critical (claw), Superior Initiative                                                                                     |
+| Climate/Terrain:     | Any                                                                                                                                                        |
+| Organization:        | Solitary, pair, or pack (4–9 sirrushes and 1–2 three-headed sirrushes)                                                                                     |
+| Challenge Rating:    | 24                                                                                                                                                         |
+| Treasure:            | Standard                                                                                                                                                   |
+| Alignment:           | Usually chaotic neutral                                                                                                                                    |
+| Advancement:         | 41–50 HD (Large), 51–60 HD (Huge), 61+ HD (Gargantuan)                                                                                                     |
 
 ## Three-Headed Sirrush
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Magical Beast
-  Hit Dice:              45d10+855 (1,102 hp)
-  Initiative:            +25 (+17 Dex, +8 Superior Initiative)
-  Speed:                 120 ft.
-  AC:                    50 (+17 Dex, --1 size, +24 natural)
-  Base Attack/Grapple:   +45/+67
-  Attack:                Claw +63 (3d6+18/19--20 (+1d6 on critical hit)) melee
-  Full Attack:           4 claws +63 melee, 3 bites +61 melee
-  Space/Reach:           10 ft./5 ft.
-  Special Attacks:       Pounce, stunning roar
-  Special Qualities:     Blindsight 350 ft., DR 10/epic, darkvision 60 ft., fast healing 25, low-light vision, SR 42, scent; acid, cold, electricity, fire, and sonic resistance 15
-  Saves:                 Fort +45, Ref +43, Will +33
-  Abilities:             Str 47, Dex 45, Con 49, Int 26, Wis 43, Cha 33
-  Skills:                Balance +65, Climb +66, Hide +65, Intimidate +59, Jump +102, Listen +64, Move Silently +65, Search +56, Spot +64, Survival +64
-  Feats:                 Cleave, Great Cleave, Improved Critical (claw), Improved Initiative, Multiattack, Power Attack, Weapon Focus (bite), Weapon Focus (claw)
-  Epic Feats:            Blinding Speed (x6), Overwhelming Critical (claw), Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary, pair, or pack (1--2 three-headed sirrushes and 4--9 sirrushes).
-  Challenge Rating:      28
-  Treasure:              Standard
-  Alignment:             Usually chaotic neutral
-  Advancement:           46--55 HD (Large); 56--65 HD (Huge); 66+ HD (Gargantuan)
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Magical Beast                                                                                                                                        |
+| Hit Dice:            | 45d10+855 (1,102 hp)                                                                                                                                       |
+| Initiative:          | +25 (+17 Dex, +8 Superior Initiative)                                                                                                                      |
+| Speed:               | 120 ft.                                                                                                                                                    |
+| AC:                  | 50 (+17 Dex, –1 size, +24 natural)                                                                                                                         |
+| Base Attack/Grapple: | +45/+67                                                                                                                                                    |
+| Attack:              | Claw +63 (3d6+18/19–20 (+1d6 on critical hit)) melee                                                                                                       |
+| Full Attack:         | 4 claws +63 melee, 3 bites +61 melee                                                                                                                       |
+| Space/Reach:         | 10 ft./5 ft.                                                                                                                                               |
+| Special Attacks:     | Pounce, stunning roar                                                                                                                                      |
+| Special Qualities:   | Blindsight 350 ft., DR 10/epic, darkvision 60 ft., fast healing 25, low-light vision, SR 42, scent; acid, cold, electricity, fire, and sonic resistance 15 |
+| Saves:               | Fort +45, Ref +43, Will +33                                                                                                                                |
+| Abilities:           | Str 47, Dex 45, Con 49, Int 26, Wis 43, Cha 33                                                                                                             |
+| Skills:              | Balance +65, Climb +66, Hide +65, Intimidate +59, Jump +102, Listen +64, Move Silently +65, Search +56, Spot +64, Survival +64                             |
+| Feats:               | Cleave, Great Cleave, Improved Critical (claw), Improved Initiative, Multiattack, Power Attack, Weapon Focus (bite), Weapon Focus (claw)                   |
+| Epic Feats:          | Blinding Speed (x6), Overwhelming Critical (claw), Superior Initiative                                                                                     |
+| Climate/Terrain:     | Any                                                                                                                                                        |
+| Organization:        | Solitary, pair, or pack (1–2 three-headed sirrushes and 4–9 sirrushes).                                                                                    |
+| Challenge Rating:    | 28                                                                                                                                                         |
+| Treasure:            | Standard                                                                                                                                                   |
+| Alignment:           | Usually chaotic neutral                                                                                                                                    |
+| Advancement:         | 46–55 HD (Large); 56–65 HD (Huge); 66+ HD (Gargantuan)                                                                                                     |
 
 Sirrushes speak Sylvan and Draconic.
 
-A sirrush's natural weapons are treated as epic for the purpose of
+A sirrush’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#three-headed-sirrush--combat}
+### Combat
 
 **Stunning Roar (Ex):** Every 1d4 rounds, a sirrush can loose a sonic
 attack of such volume that it stuns all creatures in a 60-foot spread
@@ -1896,12 +2065,12 @@ for a three-headed sirrush). The DC is
 first round of combat, it can make a full attack even if it has already
 taken a move action.
 
-**Headloss Resistance (Ex):** A sirrush's thick bony plate protects its
+**Headloss Resistance (Ex):** A sirrush’s thick bony plate protects its
 neck like a shield and provides resistance from effects that could
 normally behead it, such as a vorpal weapon. When a sirrush or
 three-headed sir-rush would otherwise lose its head, it instead makes a
-Fortitude saving throw (DC 10 + 1/2 HD of attacker + attacker's Str
-modifier). On a failed save, the sirrush's head leaves its shoulders
+Fortitude saving throw (DC 10 + 1/2 HD of attacker + attacker’s Str
+modifier). On a failed save, the sirrush’s head leaves its shoulders
 normally, but on a successful save, the sirrush is unaffected by the
 beheading. A sirrush dies when beheaded; a three-headed sirrush goes on
 fighting until all its heads are lost (the only penalty it incurs is one
@@ -1909,35 +2078,35 @@ or two fewer bite attacks when it makes a full attack).
 
 ## Tayellah
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------
-                         Gargantuan Magical Beast
-  Hit Dice:              34d10+448 (635 hp)
-  Initiative:            +27 (+19 Dex, +8 Superior Initiative)
-  Speed:                 100 ft.
-  AC:                    44 (+19 Dex, --4 size, +15 insight, +4 natural)
-  Base Attack/Grapple:   +34/+57
-  Attack:                Claw +52 (2d8+11) melee
-  Full Attack:           2 claws +52 (2d8+11) melee, 3 bites +47 (2d6+5) melee, sting +39 (3d6+5 plus poison) melee
-  Space/Reach:           20 ft./15 ft.
-  Special Attacks:       Pounce, improved grab, rake 4d6+15
-  Special Qualities:     SR 34, DR 10/epic
-  Saves:                 Fort +31, Ref +38, Will +22
-  Abilities:             Str 32, Dex 48, Con 34, Int 14, Wis 32, Cha 19
-  Skills:                Hide +44, Jump +39, Listen +48, Move Silently +56, Spot +48
-  Feats:                 Combat Reflexes, Improved Initiative, Iron Will, Track, Weapon Focus (bite), Weapon Focus (claw), Weapon Finesse
-  Epic Feats:            Epic Toughness (x2), Epic Weapon Focus (bite), Epic Weapon Focus (claw), Superior Initiative,
-  Climate/Terrain:       Any temperate or cold land
-  Organization:          Solitary or pair
-  Challenge Rating:      24
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           35--68 HD (Gargantuan); 69--102 HD (Colossal)
-  ---------------------- ------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                  |
+|----------------------|------------------------------------------------------------------------------------------------------------------|
+|                      | Gargantuan Magical Beast                                                                                         |
+| Hit Dice:            | 34d10+448 (635 hp)                                                                                               |
+| Initiative:          | +27 (+19 Dex, +8 Superior Initiative)                                                                            |
+| Speed:               | 100 ft.                                                                                                          |
+| AC:                  | 44 (+19 Dex, –4 size, +15 insight, +4 natural)                                                                   |
+| Base Attack/Grapple: | +34/+57                                                                                                          |
+| Attack:              | Claw +52 (2d8+11) melee                                                                                          |
+| Full Attack:         | 2 claws +52 (2d8+11) melee, 3 bites +47 (2d6+5) melee, sting +39 (3d6+5 plus poison) melee                       |
+| Space/Reach:         | 20 ft./15 ft.                                                                                                    |
+| Special Attacks:     | Pounce, improved grab, rake 4d6+15                                                                               |
+| Special Qualities:   | SR 34, DR 10/epic                                                                                                |
+| Saves:               | Fort +31, Ref +38, Will +22                                                                                      |
+| Abilities:           | Str 32, Dex 48, Con 34, Int 14, Wis 32, Cha 19                                                                   |
+| Skills:              | Hide +44, Jump +39, Listen +48, Move Silently +56, Spot +48                                                      |
+| Feats:               | Combat Reflexes, Improved Initiative, Iron Will, Track, Weapon Focus (bite), Weapon Focus (claw), Weapon Finesse |
+| Epic Feats:          | Epic Toughness (x2), Epic Weapon Focus (bite), Epic Weapon Focus (claw), Superior Initiative,                    |
+| Climate/Terrain:     | Any temperate or cold land                                                                                       |
+| Organization:        | Solitary or pair                                                                                                 |
+| Challenge Rating:    | 24                                                                                                               |
+| Treasure:            | None                                                                                                             |
+| Alignment:           | Always neutral                                                                                                   |
+| Advancement:         | 35–68 HD (Gargantuan); 69–102 HD (Colossal)                                                                      |
 
-A tayellah's natural weapons are treated as epic for the purpose of
+A tayellah’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#tayellah--combat}
+### Combat
 
 **Poison (Ex):** Sting, Fort save (DC 39); initial and secondary Damage
 2d10 temporary Con. The save DC is Constitution-based.
@@ -1956,37 +2125,37 @@ can also rake.
 
 ## Thorciasid
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Medium-Size Aberration
-  Hit Dice:              29d8+348 (478 hp)
-  Initiative:            +22 (+14 Dex, +8 Superior Initiative)
-  Speed:                 70 ft.
-  AC:                    42 (+14 Dex, +18 natural)
-  Base Attack/Grapple:   +21/+27
-  Attack:                Forelimb +36 (0 plus ability drain) melee touch
-  Full Attack:           2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Ability drain, energy drain, cocoon
-  Special Qualities:     DR 10/epic, darkvision 240 ft., scent, SR 34, fire resistance 30
-  Saves:                 Fort +21, Ref +25, Will +25
-  Abilities:             Str 22, Dex 38, Con 34, Int 25, Wis 29, Cha 31
-  Skills:                Bluff +42, Concentration +44, Diplomacy +38, Escape Artist +46, Hide +46, Intimidate +38, Jump +22, Listen +41, Move Silently +46, Spot +41, Survival +25
-  Feats:                 Dodge, Expertise, Improved Disarm, Improved Initiative, Mobility, Spring Attack, Weapon Finesse, Weapon Focus (forelimb)
-  Epic Feats:            Blinding Speed, Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary, pair, or infestation (4--7)
-  Challenge Rating:      22
-  Treasure:              Standard
-  Alignment:             Usually neutral
-  Advancement:           30--36 HD (Medium-size); 37--42 HD (Large)
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                           |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Medium-Size Aberration                                                                                                                                    |
+| Hit Dice:            | 29d8+348 (478 hp)                                                                                                                                         |
+| Initiative:          | +22 (+14 Dex, +8 Superior Initiative)                                                                                                                     |
+| Speed:               | 70 ft.                                                                                                                                                    |
+| AC:                  | 42 (+14 Dex, +18 natural)                                                                                                                                 |
+| Base Attack/Grapple: | +21/+27                                                                                                                                                   |
+| Attack:              | Forelimb +36 (0 plus ability drain) melee touch                                                                                                           |
+| Full Attack:         | 2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch                                              |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                               |
+| Special Attacks:     | Ability drain, energy drain, cocoon                                                                                                                       |
+| Special Qualities:   | DR 10/epic, darkvision 240 ft., scent, SR 34, fire resistance 30                                                                                          |
+| Saves:               | Fort +21, Ref +25, Will +25                                                                                                                               |
+| Abilities:           | Str 22, Dex 38, Con 34, Int 25, Wis 29, Cha 31                                                                                                            |
+| Skills:              | Bluff +42, Concentration +44, Diplomacy +38, Escape Artist +46, Hide +46, Intimidate +38, Jump +22, Listen +41, Move Silently +46, Spot +41, Survival +25 |
+| Feats:               | Dodge, Expertise, Improved Disarm, Improved Initiative, Mobility, Spring Attack, Weapon Finesse, Weapon Focus (forelimb)                                  |
+| Epic Feats:          | Blinding Speed, Superior Initiative                                                                                                                       |
+| Climate/Terrain:     | Any                                                                                                                                                       |
+| Organization:        | Solitary, pair, or infestation (4–7)                                                                                                                      |
+| Challenge Rating:    | 22                                                                                                                                                        |
+| Treasure:            | Standard                                                                                                                                                  |
+| Alignment:           | Usually neutral                                                                                                                                           |
+| Advancement:         | 30–36 HD (Medium-size); 37–42 HD (Large)                                                                                                                  |
 
 Thorciasids speak Common, Elven, Dwarven, and Giant.
 
-A thorciasid's natural weapons are treated as epic for the purpose of
+A thorciasid’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#thorciasid--combat}
+### Combat
 
 **Cocoon (Ex):** A thorciasid can eject a stream of noxious goo that
 hardens on contact, potentially fixing a subject in place and hindering
@@ -2002,10 +2171,10 @@ subject can attempt to break the grapple of the cocoon (or use Escape
 Artist) each round, making an opposed grapple check against the cocoon
 (check modifier +37 for the cocoon). A thorciasid can reinforce a
 partial cocoon by spending a standard action secreting additional goo.
-Each action so spent provides an additional +5 to the cocoon's grapple
+Each action so spent provides an additional +5 to the cocoon’s grapple
 check modifier. Visually, the victim becomes more and more covered and
 is finally com-pletely encased in a cocoon. Even fully encased victims
-can still breathe, and a thorciasid can drain a victim's life force at
+can still breathe, and a thorciasid can drain a victim’s life force at
 its leisure.
 
 **Ability Drain (Su):** On a successful melee touch attack with a
@@ -2021,47 +2190,46 @@ its Constitution that lasts for 24 hours. The negative levels similarly
 last for 24 hours, at which time the victim must make a Fortitude saving
 throw (DC 34) to avoid level loss. The save DC is Charisma-based.
 
-## Titan,Elder {#titan-elder}
+## Titan,Elder
 
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Colossal Outsider (Extraplanar)
-  Hit Dice:              70d8+700 (1,015 hp)
-  Initiative:            +0
-  Speed:                 150 ft.
-  AC:                    58 (--8 size, +32 natural, +24 insight)
-  Base Attack/Grapple:   +70/+104
-  Attack:                *Colossal +5 warhammer* +87 (4d8+30/19--20 (+2d6 on critical hit)) melee; or *Colossal +5 javelin* +70 (2d10+22/19--20) ranged
-  Full Attack:           *Colossal +5 warhammer* +87/+82/+77/+72 (4d8+30/19--20 (+2d6 on critical hit)) melee; or *Colossal +5 javelin* +70/+65/+60/+55 (2d10+22/19--20) ranged
-  Space/Reach:           30 ft./30 ft.
-  Special Attacks:       Spell-like abilities, spells
-  Special Qualities:     DR 20/epic, SR 40
-  Saves:                 Fort +47, Ref +37, Will +50
-  Abilities:             Str 45, Dex 10, Con 31, Int 33, Wis 37, Cha 26
-  Skills:                Concentration +83, Craft (any five) +45, Decipher Script +84, Diplomacy +45, Gather Information +87, Intimidate +56, Jump +90, Knowledge (all) +66, Listen +86, Sense Motive +86, Speak Language (any five), Spellcraft +90, Spot +86
-  Feats:                 Blind-Fight, Cleave, Expertise, Great Cleave, Improved Critical (warhammer), Improved Critical (javelin), Improved Sunder, Power Attack, Silent Spell, Still Spell, Weapon Focus (warhammer), Weapon Focus (javelin)
-  Epic Feats:            Automatic Silent Spell (0- through 9th level spells), Automatic Still Spell (0- through 9th level spells), Devastating Critical (warhammer), Epic Spellcasting, Epic Weapon Focus (warhammer), Epic Weapon Focus (javelin), Overwhelming Critical (warhammer), Polyglot
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      30
-  Treasure:              Standard
-  Alignment:             Always neutral
-  Advancement:           71--140 HD (Colossal)
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                                                         |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Colossal Outsider (Extraplanar)                                                                                                                                                                                                                                         |
+| Hit Dice:            | 70d8+700 (1,015 hp)                                                                                                                                                                                                                                                     |
+| Initiative:          | +0                                                                                                                                                                                                                                                                      |
+| Speed:               | 150 ft.                                                                                                                                                                                                                                                                 |
+| AC:                  | 58 (–8 size, +32 natural, +24 insight)                                                                                                                                                                                                                                  |
+| Base Attack/Grapple: | +70/+104                                                                                                                                                                                                                                                                |
+| Attack:              | *Colossal +5 warhammer* +87 (4d8+30/19–20 (+2d6 on critical hit)) melee; or *Colossal +5 javelin* +70 (2d10+22/19–20) ranged                                                                                                                                            |
+| Full Attack:         | *Colossal +5 warhammer* +87/+82/+77/+72 (4d8+30/19–20 (+2d6 on critical hit)) melee; or *Colossal +5 javelin* +70/+65/+60/+55 (2d10+22/19–20) ranged                                                                                                                    |
+| Space/Reach:         | 30 ft./30 ft.                                                                                                                                                                                                                                                           |
+| Special Attacks:     | Spell-like abilities, spells                                                                                                                                                                                                                                            |
+| Special Qualities:   | DR 20/epic, SR 40                                                                                                                                                                                                                                                       |
+| Saves:               | Fort +47, Ref +37, Will +50                                                                                                                                                                                                                                             |
+| Abilities:           | Str 45, Dex 10, Con 31, Int 33, Wis 37, Cha 26                                                                                                                                                                                                                          |
+| Skills:              | Concentration +83, Craft (any five) +45, Decipher Script +84, Diplomacy +45, Gather Information +87, Intimidate +56, Jump +90, Knowledge (all) +66, Listen +86, Sense Motive +86, Speak Language (any five), Spellcraft +90, Spot +86                                   |
+| Feats:               | Blind-Fight, Cleave, Expertise, Great Cleave, Improved Critical (warhammer), Improved Critical (javelin), Improved Sunder, Power Attack, Silent Spell, Still Spell, Weapon Focus (warhammer), Weapon Focus (javelin)                                                    |
+| Epic Feats:          | Automatic Silent Spell (0- through 9th level spells), Automatic Still Spell (0- through 9th level spells), Devastating Critical (warhammer), Epic Spellcasting, Epic Weapon Focus (warhammer), Epic Weapon Focus (javelin), Overwhelming Critical (warhammer), Polyglot |
+| Climate/Terrain:     | Any                                                                                                                                                                                                                                                                     |
+| Organization:        | Solitary                                                                                                                                                                                                                                                                |
+| Challenge Rating:    | 30                                                                                                                                                                                                                                                                      |
+| Treasure:            | Standard                                                                                                                                                                                                                                                                |
+| Alignment:           | Always neutral                                                                                                                                                                                                                                                          |
+| Advancement:         | 71–140 HD (Colossal)                                                                                                                                                                                                                                                    |
 
-An elder titan's natural weapons are treated as epic for the purpose of
+An elder titan’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#titan-elder--combat}
+### Combat
 
-**Spell-Like Abilities:** At will---*alter self, analyze dweomer,
-commune with nature, cure critical wounds, eyebite, freedom of movement,
-fly, fog cloud, produce flame, protection from energy, read magic,
-remove curse, sanctuary, sending, speak with animals, soften earth and
-stone, speak with plants, summon monster VI, greater teleport, wind
-wall;* 3/day---*antilife shell, astral projection, contact other plane,
-greater dispel magic, greater scrying, invisibility purge, plane shift.*
-Caster level 29th; save DC 18 + spell level. The save DCs are
-Charisma-based.
+**Spell-Like Abilities:** At will—*alter self, analyze dweomer, commune
+with nature, cure critical wounds, eyebite, freedom of movement, fly,
+fog cloud, produce flame, protection from energy, read magic, remove
+curse, sanctuary, sending, speak with animals, soften earth and stone,
+speak with plants, summon monster VI, greater teleport, wind wall;*
+3/day—*antilife shell, astral projection, contact other plane, greater
+dispel magic, greater scrying, invisibility purge, plane shift.* Caster
+level 29th; save DC 18 + spell level. The save DCs are Charisma-based.
 
 **Spells:** An elder titan can use arcane spells as a 29th-level wizard
 or divine spells as a 29th-level cleric, from the cleric list and from
@@ -2069,38 +2237,38 @@ the Knowledge and Magic domains. He will also possess the knowledge of
 at least three epic spells and the means by which to develop them,
 though he may not have done so himself.
 
-## Treant,Elder {#treant-elder}
+## Treant,Elder
 
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Colossal Plant
-  Hit Dice:              50d8+880 (1,105 hp)
-  Initiative:            +3 (--1 Dex, +4 Improved Initiative)
-  Speed:                 60 ft.
-  AC:                    41 (--1 Dex, --8 size, +40 natural)
-  Base Attack/Grapple:   +37/+72
-  Attack:                Slam +51 (10d6+19/19--20(+1d6 on critical hit)) melee
-  Full Attack:           2 slams +51 (10d6+19/19--20 (+1d6 on a critical hit)) melee
-  Attacks:               2 slams +49 melee
-  Damage:                Slam 10d6+19/19--20
-  Space/Reach:           30 ft./30 ft.
-  Special Attacks:       Animate trees, trample, triple Damage against objects, spell-like abilities
-  Special Qualities:     Plant traits, SR 29, DR 10/--
-  Saves:                 Fort +45, Ref +17, Will +33
-  Abilities:             Str 48, Dex 8, Con 42, Int 19, Wis 33, Cha 35
-  Skills:                Diplomacy +61, Hide --12, Intimidate +62, Jump +31, Knowledge (any one) +57, Listen +63, Sense Motive +56, Spot +43, Survival +51
-  Feats:                 Alertness, Endurance, Great Fortitude, Improved Critical (slam), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (slam)
-  Epic Feats:            Epic Endurance, Epic Reflexes, Epic Toughness (x4), Epic Weapon Focus (slam), Epic Will
-  Climate/Terrain:       Any forest
-  Organization:          Solitary or with grove of treants
-  Challenge Rating:      25
-  Treasure:              Standard
-  Alignment:             Always neutral good
-  Advancement:           51--150 HD (Colossal)
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                        |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Colossal Plant                                                                                                                                         |
+| Hit Dice:            | 50d8+880 (1,105 hp)                                                                                                                                    |
+| Initiative:          | +3 (–1 Dex, +4 Improved Initiative)                                                                                                                    |
+| Speed:               | 60 ft.                                                                                                                                                 |
+| AC:                  | 41 (–1 Dex, –8 size, +40 natural)                                                                                                                      |
+| Base Attack/Grapple: | +37/+72                                                                                                                                                |
+| Attack:              | Slam +51 (10d6+19/19–20(+1d6 on critical hit)) melee                                                                                                   |
+| Full Attack:         | 2 slams +51 (10d6+19/19–20 (+1d6 on a critical hit)) melee                                                                                             |
+| Attacks:             | 2 slams +49 melee                                                                                                                                      |
+| Damage:              | Slam 10d6+19/19–20                                                                                                                                     |
+| Space/Reach:         | 30 ft./30 ft.                                                                                                                                          |
+| Special Attacks:     | Animate trees, trample, triple Damage against objects, spell-like abilities                                                                            |
+| Special Qualities:   | Plant traits, SR 29, DR 10/–                                                                                                                           |
+| Saves:               | Fort +45, Ref +17, Will +33                                                                                                                            |
+| Abilities:           | Str 48, Dex 8, Con 42, Int 19, Wis 33, Cha 35                                                                                                          |
+| Skills:              | Diplomacy +61, Hide –12, Intimidate +62, Jump +31, Knowledge (any one) +57, Listen +63, Sense Motive +56, Spot +43, Survival +51                       |
+| Feats:               | Alertness, Endurance, Great Fortitude, Improved Critical (slam), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (slam) |
+| Epic Feats:          | Epic Endurance, Epic Reflexes, Epic Toughness (x4), Epic Weapon Focus (slam), Epic Will                                                                |
+| Climate/Terrain:     | Any forest                                                                                                                                             |
+| Organization:        | Solitary or with grove of treants                                                                                                                      |
+| Challenge Rating:    | 25                                                                                                                                                     |
+| Treasure:            | Standard                                                                                                                                               |
+| Alignment:           | Always neutral good                                                                                                                                    |
+| Advancement:         | 51–150 HD (Colossal)                                                                                                                                   |
 
 Elder treants speak the language of treants, plus Common and Sylvan.
 
-### Combat {#treant-elder--combat}
+### Combat
 
 ***Animate Trees* (Sp):** An elder treant can animate trees within 500
 feet at will, controlling up to six trees at a time. It takes a full
@@ -2123,40 +2291,40 @@ polymorphing; not subject to critical hits or mind-affecting effects.
 **Skills:** Elder treants receive skills as though they were fey. \*They
 have a +24 racial bonus on Hide checks made in forested areas.
 
-**Spell-Like Abilities:** At will---*animal messenger, command plants,
-speak with plants, stone tell;* 3/day---mass cure light wounds(plants
-only), *plant growth, sunburst, wall of thorns;* 1/day---*shambler.*
+**Spell-Like Abilities:** At will—*animal messenger, command plants,
+speak with plants, stone tell;* 3/day—mass cure light wounds(plants
+only), *plant growth, sunburst, wall of thorns;* 1/day—*shambler.*
 Caster level 23rd; save DC 22 + spell level. The save DCs are
 Charisma-based.
 
-## Umbral Blot (Blackball) {#umbral-blot}
+## Umbral Blot (Blackball)
 
-  ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Medium-Size Construct
-  Hit Dice:              57d10 +120 (433 hp)
-  Initiative:            +18 (+10 Dex, +8 Superior Initiative)
-  Speed:                 Fly 90 ft. (perfect)
-  AC:                    40 (+10 Dex, +20 natural)
-  Base Attack/Grapple:   +42/+42
-  Attack:                Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch
-  Full Attack:           Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Disintegrating touch, vortex
-  Special Qualities:     Blindsight 200 ft., construct traits, fast healing 10, planar travel, SR 44; acid, cold, electricity, fire, and sonic resistance 30
-  Saves:                 Fort +19, Ref +29, Will +29
-  Abilities:             Str 10, Dex 30, Con --, Int 14, Wis 30, Cha 30
-  Skills:                Hide +62, Listen +52, Move Silently +62, Sense Motive +43, Spot +52, Survival +43
-  Feats:                 Alertness, Combat Reflexes, Improved Initiative, Skill Focus (Sense Motive), Skill Focus (Survival), Stealthy, Track
-  Epic Feats:            Epic Prowess (x3), Epic Skill Focus (Hide), Epic Skill Focus (Listen), Epic Skill Focus (Sense Motive), Epic Skill Focus (Spot), Epic Toughness (x5), Superior Initiative
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      32
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           58--63 HD (Medium-size); 64--79 HD (Large); 80--95 HD (Huge); 96--171 HD (Gargantuan)
-  ---------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                           |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Medium-Size Construct                                                                                                                                                     |
+| Hit Dice:            | 57d10 +120 (433 hp)                                                                                                                                                       |
+| Initiative:          | +18 (+10 Dex, +8 Superior Initiative)                                                                                                                                     |
+| Speed:               | Fly 90 ft. (perfect)                                                                                                                                                      |
+| AC:                  | 40 (+10 Dex, +20 natural)                                                                                                                                                 |
+| Base Attack/Grapple: | +42/+42                                                                                                                                                                   |
+| Attack:              | Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch                                                                                         |
+| Full Attack:         | Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch                                                                                         |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                               |
+| Special Attacks:     | Disintegrating touch, vortex                                                                                                                                              |
+| Special Qualities:   | Blindsight 200 ft., construct traits, fast healing 10, planar travel, SR 44; acid, cold, electricity, fire, and sonic resistance 30                                       |
+| Saves:               | Fort +19, Ref +29, Will +29                                                                                                                                               |
+| Abilities:           | Str 10, Dex 30, Con –, Int 14, Wis 30, Cha 30                                                                                                                             |
+| Skills:              | Hide +62, Listen +52, Move Silently +62, Sense Motive +43, Spot +52, Survival +43                                                                                         |
+| Feats:               | Alertness, Combat Reflexes, Improved Initiative, Skill Focus (Sense Motive), Skill Focus (Survival), Stealthy, Track                                                      |
+| Epic Feats:          | Epic Prowess (x3), Epic Skill Focus (Hide), Epic Skill Focus (Listen), Epic Skill Focus (Sense Motive), Epic Skill Focus (Spot), Epic Toughness (x5), Superior Initiative |
+| Climate/Terrain:     | Any                                                                                                                                                                       |
+| Organization:        | Solitary                                                                                                                                                                  |
+| Challenge Rating:    | 32                                                                                                                                                                        |
+| Treasure:            | None                                                                                                                                                                      |
+| Alignment:           | Always neutral                                                                                                                                                            |
+| Advancement:         | 58–63 HD (Medium-size); 64–79 HD (Large); 80–95 HD (Huge); 96–171 HD (Gargantuan)                                                                                         |
 
-### Combat {#umbral-blot--combat}
+### Combat
 
 **Disintegrating Touch (Ex):** Any material object that comes into
 contact with a blackball is immediately disintegrated unless it succeeds
@@ -2201,104 +2369,104 @@ less; cannot be raised or resurrected. Darkvision 60 ft.
 
 ## Uvuudaum
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Outsider (Evil, Extraplanar)
-  Hit Dice:              38d8+646 (817 hp)
-  Initiative:            +14 (Dex)
-  Speed:                 80 ft., climb 40 ft.
-  AC:                    52 (+14 Dex, --1 size, +29 natural)
-  Base Attack/Grapple:   +38/+56
-  Attack:                Head spike +51 (10d6+21/19--20 plus Wisdom drain) melee
-  Full Attack:           Head spike +51 (10d6+21/19--20 plus Wisdom drain) melee
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Confusion aura, spell-like abilities, Wisdom drain
-  Special Qualities:     Blindsight 500 ft., DR 10/epic and good, electricity resistance 30, fast healing 20, regeneration 5, SR 39
-  Saves:                 Fort +40, Ref +37, Will +41
-  Abilities:             Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46
-  Skills:                Balance +18, Climb +32, Concentration +58, Craft (alchemy) +52, Diplomacy +22, Escape Artist +55, Gather Information +22, Hide +51, Intimidate +59, Jump +69, Knowledge (arcana, history, local, religion, the planes) +52, Listen +55, Move Silently +55, Search +52, Sense Motive +55, Spellcraft +56, Spot +55, Swim +55, Tumble +59
-  Feats:                 Cleave, Combat Casting, Combat Reflexes, Great Cleave, Improved Critical (head spike), Lightning Reflexes, Power Attack
-  Epic Feats:            Epic Reflexes, Improved Combat Reflexes, Spell Stowaway *(time stop*), Tenacious Magic *(haste*), Tenacious Magic *(displacement*), Tenacious Magic *(stoneskin*)
-  Climate/Terrain:       Any
-  Organization:          Solitary, pair, or madness (3--6)
-  Challenge Rating:      27
-  Treasure:              Standard
-  Alignment:             Usually neutral evil
-  Advancement:           As character class
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                                                                                                                         |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Outsider (Evil, Extraplanar)                                                                                                                                                                                                                                                                                                      |
+| Hit Dice:            | 38d8+646 (817 hp)                                                                                                                                                                                                                                                                                                                       |
+| Initiative:          | +14 (Dex)                                                                                                                                                                                                                                                                                                                               |
+| Speed:               | 80 ft., climb 40 ft.                                                                                                                                                                                                                                                                                                                    |
+| AC:                  | 52 (+14 Dex, –1 size, +29 natural)                                                                                                                                                                                                                                                                                                      |
+| Base Attack/Grapple: | +38/+56                                                                                                                                                                                                                                                                                                                                 |
+| Attack:              | Head spike +51 (10d6+21/19–20 plus Wisdom drain) melee                                                                                                                                                                                                                                                                                  |
+| Full Attack:         | Head spike +51 (10d6+21/19–20 plus Wisdom drain) melee                                                                                                                                                                                                                                                                                  |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                                                                                                                                                                                                                                           |
+| Special Attacks:     | Confusion aura, spell-like abilities, Wisdom drain                                                                                                                                                                                                                                                                                      |
+| Special Qualities:   | Blindsight 500 ft., DR 10/epic and good, electricity resistance 30, fast healing 20, regeneration 5, SR 39                                                                                                                                                                                                                              |
+| Saves:               | Fort +40, Ref +37, Will +41                                                                                                                                                                                                                                                                                                             |
+| Abilities:           | Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46                                                                                                                                                                                                                                                                                          |
+| Skills:              | Balance +18, Climb +32, Concentration +58, Craft (alchemy) +52, Diplomacy +22, Escape Artist +55, Gather Information +22, Hide +51, Intimidate +59, Jump +69, Knowledge (arcana, history, local, religion, the planes) +52, Listen +55, Move Silently +55, Search +52, Sense Motive +55, Spellcraft +56, Spot +55, Swim +55, Tumble +59 |
+| Feats:               | Cleave, Combat Casting, Combat Reflexes, Great Cleave, Improved Critical (head spike), Lightning Reflexes, Power Attack                                                                                                                                                                                                                 |
+| Epic Feats:          | Epic Reflexes, Improved Combat Reflexes, Spell Stowaway *(time stop*), Tenacious Magic *(haste*), Tenacious Magic *(displacement*), Tenacious Magic *(stoneskin*)                                                                                                                                                                       |
+| Climate/Terrain:     | Any                                                                                                                                                                                                                                                                                                                                     |
+| Organization:        | Solitary, pair, or madness (3–6)                                                                                                                                                                                                                                                                                                        |
+| Challenge Rating:    | 27                                                                                                                                                                                                                                                                                                                                      |
+| Treasure:            | Standard                                                                                                                                                                                                                                                                                                                                |
+| Alignment:           | Usually neutral evil                                                                                                                                                                                                                                                                                                                    |
+| Advancement:         | As character class                                                                                                                                                                                                                                                                                                                      |
 
 Uvuudaums can speak telepathically to any creature within 500 feet that
 has a language.
 
-A uvuudaum's natural weapons are treated as epic and evil for the
+A uvuudaum’s natural weapons are treated as epic and evil for the
 purpose of overcoming damage reduction.
 
-### Combat {#uvuudaum--combat}
+### Combat
 
 **Confusion Aura (Su):** This ability operates continuously, as the
 *confusion* spell but with a 30-foot radius. Potential victims can make
 a Will save (DC 47) to resist confusion. Those affected by the aura can
 make a new save every 4 rounds to throw off the effect. Once it has
-successfully resisted, a subject remains immune to that uvuudaum's
+successfully resisted, a subject remains immune to that uvuudaum’s
 confusion aura for 24 hours. The save DC is Charisma-based.
 
 **Wisdom Drain (Su):** This effect permanently reduces a living
-opponent's Wisdom score by 2d4 points when the creature hits with its
+opponent’s Wisdom score by 2d4 points when the creature hits with its
 head spike, or twice that amount on a critical hit. The creature regains
 5 lost hit points (or 10 on a critical hit ) whenever it drains Wisdom,
 gaining any excess hit points as temporary hit points. Thesse temporary
 hit points last a maximum of 1 hour. An opponent can avoid the Wisdom
 drain with a Fortitude save (DC 47). The save DC is Charisma-based.
 
-**Spell-Like Abilities:** At will---*confusion, dimension door, greater
+**Spell-Like Abilities:** At will—*confusion, dimension door, greater
 dispel magic, displacement, haste, invisibility, lightning bolt, magic
 missile, mage armor, polymorph, shield, stoneskin, true strike, web;*
-3/day---*chain lightning, cone of cold, disintegrate, dominate person,
+3/day—*chain lightning, cone of cold, disintegrate, dominate person,
 plane shift, prismatic spray, scrying, greater teleport, wall of force;*
-1/day---*contingent resurrection, nailed to the sky, time duplicate*
-(epic spells), *time stop.* Caster level 27th; save DC 28 + spell level.
-The save DCs are Charisma-based.
+1/day—*contingent resurrection, nailed to the sky, time duplicate* (epic
+spells), *time stop.* Caster level 27th; save DC 28 + spell level. The
+save DCs are Charisma-based.
 
 **Regeneration (Ex):** Uvuudaums take normal damage from holy weapons,
 cold, and fire.
 
 ## Vermiurge
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Aberration
-  Hit Dice:              42d8+546 (735 hp)
-  Initiative:            +11 (+7 Dex, +4 Improved Initiative)
-  Speed:                 50 ft., fly 90 ft. (perfect)
-  AC:                    40 (+3 Dex, --1 size, +24 natural)
-  Base Attack/Grapple:   +31/+47
-  Attack:                Sting +43 (1d6+12/19--20 plus poison) melee
-  Full Attack:           Sting +43 (1d6+12/19--20 plus poison) melee, 4 pincers +41 (2d8+6/19--20) melee, bite +40 (3d6+6 plus poison) melee
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Aura of doom, concealing aura, frightful presence, poison, spell-like abilities
-  Special Qualities:     DR 10/epic, darkvision 60 ft., fast healing 10, immune to all mind-affecting effects, low-light vision, SR 34; scent
-  Saves:                 Fort +29, Ref +21, Will +38
-  Abilities:             Str 34, Dex 25, Con 36, Int 14, Wis 40, Cha 44
-  Skills:                Heal +24, Hide +33, Jump +45, Knowledge (nature) +34, Listen +47, Move Silently +33, Spot +47
-  Feats:                 Alertness, Cleave, Combat Reflexes, Dodge, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (pincers), Improved Critical (sting), Improved Initiative, Multiattack, Power Attack, Weapon Focus (pincers), Weapon Focus (sting)
-  Epic Feats:            Blinding Speed
-  Climate/Terrain:       Any
-  Organization:          Solitary
-  Challenge Rating:      24
-  Treasure:              Standard
-  Alignment:             Usually lawful neutral
-  Advancement:           43--52 HD (Large); 53--70 HD (Huge)
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                                    |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Aberration                                                                                                                                                                                                                                   |
+| Hit Dice:            | 42d8+546 (735 hp)                                                                                                                                                                                                                                  |
+| Initiative:          | +11 (+7 Dex, +4 Improved Initiative)                                                                                                                                                                                                               |
+| Speed:               | 50 ft., fly 90 ft. (perfect)                                                                                                                                                                                                                       |
+| AC:                  | 40 (+3 Dex, –1 size, +24 natural)                                                                                                                                                                                                                  |
+| Base Attack/Grapple: | +31/+47                                                                                                                                                                                                                                            |
+| Attack:              | Sting +43 (1d6+12/19–20 plus poison) melee                                                                                                                                                                                                         |
+| Full Attack:         | Sting +43 (1d6+12/19–20 plus poison) melee, 4 pincers +41 (2d8+6/19–20) melee, bite +40 (3d6+6 plus poison) melee                                                                                                                                  |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                                                        |
+| Special Attacks:     | Aura of doom, concealing aura, frightful presence, poison, spell-like abilities                                                                                                                                                                    |
+| Special Qualities:   | DR 10/epic, darkvision 60 ft., fast healing 10, immune to all mind-affecting effects, low-light vision, SR 34; scent                                                                                                                               |
+| Saves:               | Fort +29, Ref +21, Will +38                                                                                                                                                                                                                        |
+| Abilities:           | Str 34, Dex 25, Con 36, Int 14, Wis 40, Cha 44                                                                                                                                                                                                     |
+| Skills:              | Heal +24, Hide +33, Jump +45, Knowledge (nature) +34, Listen +47, Move Silently +33, Spot +47                                                                                                                                                      |
+| Feats:               | Alertness, Cleave, Combat Reflexes, Dodge, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (pincers), Improved Critical (sting), Improved Initiative, Multiattack, Power Attack, Weapon Focus (pincers), Weapon Focus (sting) |
+| Epic Feats:          | Blinding Speed                                                                                                                                                                                                                                     |
+| Climate/Terrain:     | Any                                                                                                                                                                                                                                                |
+| Organization:        | Solitary                                                                                                                                                                                                                                           |
+| Challenge Rating:    | 24                                                                                                                                                                                                                                                 |
+| Treasure:            | Standard                                                                                                                                                                                                                                           |
+| Alignment:           | Usually lawful neutral                                                                                                                                                                                                                             |
+| Advancement:         | 43–52 HD (Large); 53–70 HD (Huge)                                                                                                                                                                                                                  |
 
 Vermiurges speak Terran.
 
-A vermiurge's natural weapons are treated as epic for the purpose of
+A vermiurge’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#vermiurge--combat}
+### Combat
 
 **Aura of Doom (Su):** A vermiurge is constantly affected as if by a
 *crown of vermin* spell (epic spell) cast by a 42nd-level caster. As per
 the spell, a vermiurge may completely suppress the aura of insects as
-desired. A vermiurge's aura of doom constantly replenishes itself at a
+desired. A vermiurge’s aura of doom constantly replenishes itself at a
 rate of 200 vermin per round (unlimited duration). When vermin die off
 either by being slain or by dealing Damage to another creature, the aura
 does not permanently collapse, even if all the vermin are slain or if
@@ -2313,7 +2481,7 @@ have a 40% miss chance.
 when the vermiurge first engages its aura of doom. It affects only
 opponents with fewer Hit Dice or levels than the creature has. The
 affected creature must make a successful Will save (DC 48) or become
-shaken. Success indicates that the target is immune to that creature's
+shaken. Success indicates that the target is immune to that creature’s
 frightful presence for one day. The save DC is Charisma-based.
 
 **Poison (Ex):** Sting or bite, Fort save (DC 44); initial Damage 1d6
@@ -2322,44 +2490,44 @@ Constitution-based.
 
 ## Winterwight
 
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------
-                         Medium-Size Undead (Cold)
-  Hit Dice:              32d12 (208 hp)
-  Initiative:            +12 (+8 Dex, +4 Improved Initiative)
-  Speed:                 60 ft.
-  AC:                    46 (+8 Dex, +28 natural)
-  Base Attack/Grapple:   +16/+37
-  Attack:                +Claw +40 (3d8+21/19--20 (+1d6 on critical hit) plus blight-fire) melee
-  Full Attack:           2 claws +40 (3d8+21/19--20 (+1d6 on critical hit) plus blight-fire) melee, skull butt +32 (2d6+10 plus blightfire) melee
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Rend 6d8+31, blightfire, spell-like abilities
-  Special Qualities:     Undead traits, cold subtype, cold aura, SR 34, DR 10/--
-  Skills:                Jump +21, Intimidate +44, Knowledge (religion) +35, Listen +43, Spot +43
-  Feats:                 Cleave, Improved Critical (claw), Improved Initiative, Power Attack, Weapon Focus (claw)
-  Epic Feats:            Overwhelming Critical (claw), Blinding Speed, Epic Fortitude, Epic Weapon Focus (claw)
-  Saves:                 Fort +14, Ref +18, Will +24
-  Abilities:             Str 52, Dex 27, Con ---, Int 10, Wis 22, Cha 28
-  Climate/Terrain:       Any
-  Organization:          Solitary or pair
-  Challenge Rating:      23
-  Treasure:              Standard
-  Alignment:             Always chaotic evil
-  Advancement:           33--42 HD (Medium-size); 43--55 HD (Huge)
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                         |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------|
+|                      | Medium-Size Undead (Cold)                                                                                               |
+| Hit Dice:            | 32d12 (208 hp)                                                                                                          |
+| Initiative:          | +12 (+8 Dex, +4 Improved Initiative)                                                                                    |
+| Speed:               | 60 ft.                                                                                                                  |
+| AC:                  | 46 (+8 Dex, +28 natural)                                                                                                |
+| Base Attack/Grapple: | +16/+37                                                                                                                 |
+| Attack:              | +Claw +40 (3d8+21/19–20 (+1d6 on critical hit) plus blight-fire) melee                                                  |
+| Full Attack:         | 2 claws +40 (3d8+21/19–20 (+1d6 on critical hit) plus blight-fire) melee, skull butt +32 (2d6+10 plus blightfire) melee |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                             |
+| Special Attacks:     | Rend 6d8+31, blightfire, spell-like abilities                                                                           |
+| Special Qualities:   | Undead traits, cold subtype, cold aura, SR 34, DR 10/–                                                                  |
+| Skills:              | Jump +21, Intimidate +44, Knowledge (religion) +35, Listen +43, Spot +43                                                |
+| Feats:               | Cleave, Improved Critical (claw), Improved Initiative, Power Attack, Weapon Focus (claw)                                |
+| Epic Feats:          | Overwhelming Critical (claw), Blinding Speed, Epic Fortitude, Epic Weapon Focus (claw)                                  |
+| Saves:               | Fort +14, Ref +18, Will +24                                                                                             |
+| Abilities:           | Str 52, Dex 27, Con —, Int 10, Wis 22, Cha 28                                                                           |
+| Climate/Terrain:     | Any                                                                                                                     |
+| Organization:        | Solitary or pair                                                                                                        |
+| Challenge Rating:    | 23                                                                                                                      |
+| Treasure:            | Standard                                                                                                                |
+| Alignment:           | Always chaotic evil                                                                                                     |
+| Advancement:         | 33–42 HD (Medium-size); 43–55 HD (Huge)                                                                                 |
 
 Winterwights speak Common and Infernal.
 
-A winterwight's natural weapons are treated as epic for the purpose of
+A winterwight’s natural weapons are treated as epic for the purpose of
 overcoming damage reduction.
 
-### Combat {#winterwight--combat}
+### Combat
 
 **Rend (Ex):** If the winterwight hits with both of its claws, it
-latches onto the opponent's body and tears the flesh. This attack
+latches onto the opponent’s body and tears the flesh. This attack
 automatically deals an additional 6d8+31 points of Damage.
 
 **Blightfire (Su):** When a winterwight deals Damage to a living
-opponent, a night-black flame begins to burn on the opponent's body. If
+opponent, a night-black flame begins to burn on the opponent’s body. If
 the opponent fails a Fortitude save (DC 35), it takes 4 points of
 permanent Constitution drain. The opponent must continue to save every
 round for the next 4 rounds (5 rounds total) to avoid being permanently
@@ -2370,7 +2538,7 @@ These temporary hit points last a maximum of 1 hour. If the opponent is
 slain by blightfire, only icy fragments of the victim remain. The save
 DC is Charisma-based.
 
-**Spell-Like Abilities:** At will---*cone of cold, control weather,
+**Spell-Like Abilities:** At will—*cone of cold, control weather,
 dimension door, spell immunity (fireball*), *sleet storm* (a winterwight
 is immune to the effects of a *sleet storm* spell), *wall of ice.*Caster
 level 23rd; save DC 19 + spell level. The save DCs are Charisma-based.
@@ -2396,47 +2564,47 @@ of cold Damage each round they remain within the cold aura.
 
 ## Worm That Walks
 
-  -------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                       Medium-Size Aberration
-  Hit Dice:            HD 23d8 + 49 (152 hp)
-  Initiative:          +8 (+4 Dex, +4 Improved Initiative)
-  Speed:               30 ft.
-  AC:                  47 (+4 Dex, +8 *bracers*, +3 *ring*, +2 *amulet*, +20 insight)
-  Attacks:             *+4 staff* +15/+10 melee
-  Damage:              *+4 staff* 1d6+4
-  Space/Reach:         5 ft./5 ft.
-  Special Attacks:     Spell-like abilities, engulf, frightful presence
-  Special Qualities:   Blindsight 300 ft., SR 36, discorporate, immunities
-  Saves:               Fort +11, Ref +14, Will +17
-  Abilities:           Str 10, Dex 14 (18 with *gloves),*Con 13 (15 with *Ioun stone),*Int 20 (26 with *headband),*Wis 12, Cha 8
-  Skills:              Concentration +22, Craft (alchemy) +28, Listen +24, Knowledge (arcana, local, nature, religion) +28, Listen +21, Move Silently +24, Spellcraft +28
-  Feats:               Brew Potion, Combat Casting, Craft Staff, Craft Wondrous Item, Heighten Spell, Improved Initiative, Lightning Reflexes, Maximize Spell, Quicken Spell, Scribe Scroll, Spell Penetration, Toughness
-  Epic Feats:          Improved Spell Capacity (10th), Improved Spell Capacity (11th)
-  Climate/Terrain:     Any
-  Organization:        Solitary
-  Challenge Rating:    26
-  Treasure:            As character
-  Alignment:           Any evil
-  Advancement:         As character
-  -------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                    |                                                                                                                                                                                                    |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                    | Medium-Size Aberration                                                                                                                                                                             |
+| Hit Dice:          | HD 23d8 + 49 (152 hp)                                                                                                                                                                              |
+| Initiative:        | +8 (+4 Dex, +4 Improved Initiative)                                                                                                                                                                |
+| Speed:             | 30 ft.                                                                                                                                                                                             |
+| AC:                | 47 (+4 Dex, +8 *bracers*, +3 *ring*, +2 *amulet*, +20 insight)                                                                                                                                     |
+| Attacks:           | *+4 staff* +15/+10 melee                                                                                                                                                                           |
+| Damage:            | *+4 staff* 1d6+4                                                                                                                                                                                   |
+| Space/Reach:       | 5 ft./5 ft.                                                                                                                                                                                        |
+| Special Attacks:   | Spell-like abilities, engulf, frightful presence                                                                                                                                                   |
+| Special Qualities: | Blindsight 300 ft., SR 36, discorporate, immunities                                                                                                                                                |
+| Saves:             | Fort +11, Ref +14, Will +17                                                                                                                                                                        |
+| Abilities:         | Str 10, Dex 14 (18 with *gloves),*Con 13 (15 with *Ioun stone),*Int 20 (26 with *headband),*Wis 12, Cha 8                                                                                          |
+| Skills:            | Concentration +22, Craft (alchemy) +28, Listen +24, Knowledge (arcana, local, nature, religion) +28, Listen +21, Move Silently +24, Spellcraft +28                                                 |
+| Feats:             | Brew Potion, Combat Casting, Craft Staff, Craft Wondrous Item, Heighten Spell, Improved Initiative, Lightning Reflexes, Maximize Spell, Quicken Spell, Scribe Scroll, Spell Penetration, Toughness |
+| Epic Feats:        | Improved Spell Capacity (10th), Improved Spell Capacity (11th)                                                                                                                                     |
+| Climate/Terrain:   | Any                                                                                                                                                                                                |
+| Organization:      | Solitary                                                                                                                                                                                           |
+| Challenge Rating:  | 26                                                                                                                                                                                                 |
+| Treasure:          | As character                                                                                                                                                                                       |
+| Alignment:         | Any evil                                                                                                                                                                                           |
+| Advancement:       | As character                                                                                                                                                                                       |
 
 A worm that walks rarely speaks, although it retains knowledge of all
 languages it knew in life, as well as any it has learned since.
 
-### Combat {#worm-that-walks--combat}
+### Combat
 
 **Spells:** A worm that walks can cast any spells it could cast as a
 character. This sample worm was a 23rd-level wizard (spells per day:
 4/12/6/6/6/5/5/5/5/4/1/1). The last spell slots are 10th-level and
-11th-level slots, respectively, and are available for 0--9th level
+11th-level slots, respectively, and are available for 0–9th level
 meta-magic spells.
 
-**Spell-Like Abilities:** 1/day---*animal growth* (vermin), *animal
+**Spell-Like Abilities:** 1/day—*animal growth* (vermin), *animal
 messenger* (vermin), *animal shapes* (vermin), *animal trance* (vermin),
-*colossal vermin* (as *giant vermin,*but it can increase the creature's
+*colossal vermin* (as *giant vermin,*but it can increase the creature’s
 size from Large to Gargantuan and from Huge to Colossal), *creeping
 doom, giant vermin, summon swarm* (vermin), *summon vermin* (as *summon
-nature's ally,* except it summons 10 HD of vermin per level), and
+nature’s ally,* except it summons 10 HD of vermin per level), and
 *vermin plague* (as *insect plague).*Caster level 20th; save DC 9 +
 spell level. The save DCs are Charisma-based.
 
@@ -2454,23 +2622,23 @@ immune to this attack.
 living character. It also gains several related abilities.
 
 **Frightful Presence (Su):** When a worm that walks engulfs a victim,
-witnesses must make a Will save (DC 10 + 1/2 the worm's HD + the worm's
+witnesses must make a Will save (DC 10 + 1/2 the worm’s HD + the worm’s
 Cha modifier). Those who make the save are shaken. Those who fail by 5
 or fewer points are frightened. Those who fail by 6 to10 points are
 panicked. Those who fail by 11 or more points are cowering. All these
 conditions last for 1d4 rounds. Those who have seen a worm use this
 attack before gain a +5 bonus on their saving throws. The victim of the
-worm's engulf attack has a --5 penalty on his or her saving throw.
+worm’s engulf attack has a –5 penalty on his or her saving throw.
 
 **Discorporate (Ex):** If gravely threatened, a worm can discorporate as
 a free action, simply falling into a pile of individual vermin that
 slither quickly away. So long as any of the component vermin survive,
-they can breed and create a new body to house the wizard's intelligence
+they can breed and create a new body to house the wizard’s intelligence
 and personality. Discorporating is a dangerous tactic, because once
 separated, the vermin are treated no differently than other vermin.
 Also, the worm stands a good chance of losing all its equipment.
 However, discorporation almost assures that at least one maggot (if not
-dozens) will manage to crawl away, and so provide for the worm's
+dozens) will manage to crawl away, and so provide for the worm’s
 continued existence.
 
 **Immunities (Ex):** A worm that walks has no discernable anatomy, so it
@@ -2486,11 +2654,11 @@ pink Ioun stone, wings of flying.*
 
 ## Creating a Worm That Walks
 
-"Worm that walks" is a template that can be added to any evil wizard or
-sorcerer. It uses all the original character's statistics, special
+“Worm that walks” is a template that can be added to any evil wizard or
+sorcerer. It uses all the original character’s statistics, special
 abilities, and equipment, except as noted here.
 
-**Type:** The character's type changes to aberration (it is a creature
+**Type:** The character’s type changes to aberration (it is a creature
 composed of hundreds of discrete crawling worms).
 
 **Hit Dice:** Increase to d8.
@@ -2498,7 +2666,7 @@ composed of hundreds of discrete crawling worms).
 **AC:** The mass of worms that make up this creature, each looking out
 for danger, in sum provide a +20 insight bonus to AC.
 
-**Special Attack:** A worm that walks retains all the character's
+**Special Attack:** A worm that walks retains all the character’s
 special attacks. It also gains one special attack, engulf.
 
 **Engulf (Ex):** A worm that walks can choose to engulf an opponent who
@@ -2514,12 +2682,12 @@ else. Otherwise, each round a victim remains embraced, it takes another
 **Spells:** A worm that walks can cast any spells it could cast as a
 living character.
 
-**Spell-Like Abilities:** 1/day--- *animal growth* (vermin), *animal
+**Spell-Like Abilities:** 1/day— *animal growth* (vermin), *animal
 messenger* (vermin), *animal shapes* (vermin), *animal trance* (vermin),
-*colossal vermin* (as *giant vermin,*but it can increase the creature's
+*colossal vermin* (as *giant vermin,*but it can increase the creature’s
 size from Large to Gargantuan and from Huge to Colossal), *creeping
 doom, giant vermin, summon swarm* (vermin), *summon vermin* (as *summon
-nature's ally,* except it summons 10 HD of vermin per level), and
+nature’s ally,* except it summons 10 HD of vermin per level), and
 *vermin plague* (as *insect plague).*Caster level 20th.
 
 **Special Qualities:** A worm that walks retains any special abilities
@@ -2531,23 +2699,23 @@ it had in life and gains those mentioned below.
 to its Challenge Rating +10.
 
 ***Frightful Presence (Su):***When a worm that walks engulfs a victim,
-witnesses must make a Will save (DC 10 + 1/2 the worm's HD + the worm's
+witnesses must make a Will save (DC 10 + 1/2 the worm’s HD + the worm’s
 Cha modifier). Those who make the save are shaken. Those who fail by 5
 or fewer points are frightened. Those who fail by 6 to 10 points are
 panicked. Those who fail by 11 or more points are cowering. All these
 conditions last for 1d4 rounds. Those who have seen a worm use this
 attack before gain a +5 bonus on their saving throws. The victim of the
-worm's engulf attack has a --5 penalty on his or her saving throw.
+worm’s engulf attack has a –5 penalty on his or her saving throw.
 
 ***Discorporate (Ex):***If gravely threatened, a worm can discorporate
 as a free action, simply falling into a pile of individual vermin that
 slither quickly away. So long as any of the component vermin survive,
-they can breed and create a new body to house the wizard's intelligence
+they can breed and create a new body to house the wizard’s intelligence
 and personality. Discorporating is a dangerous tactic, because once
 separated, the vermin are treated no differently than other vermin.
 Also, the worm stands a good chance of losing all its equipment.
 However, discorporation almost assures that at least one maggot (if not
-dozens) will manage to crawl away, and so provide for the worm's
+dozens) will manage to crawl away, and so provide for the worm’s
 continued existence.
 
 **Immunities (Ex):** A worm that walks has no discernable anatomy, so it
@@ -2590,7 +2758,7 @@ summon swarm* (heightened to 7th level),and *sympathy.* Even if the
 ritual is performed correctly, there is only a chance that the deceased
 spellcaster will arise as a worm that walks. For each prepared but
 uncast arcane spell the deceased had at the moment of death (or unused
-spell slots if a spontaneous caster), there's a 1% chance that a worm
+spell slots if a spontaneous caster), there’s a 1% chance that a worm
 that walks will slither from the grave soil in 1d4 days. Some worms that
 walk arise spontaneously from ordinary burial plots, but such an event
 is exceedingly rare. And an epic spell can create worms that walk every
@@ -2616,9 +2784,9 @@ Conjuration (Healing)
 
 **To Develop:** 441,000 gp; 9 days; 17,640 XP. Seeds: *life* (DC 27),
 *transform* (DC 21). Factors: change creature type to aberration (+5
-DC); add worm that walks' spell-like, extraordinary, and supernatural
+DC); add worm that walks’ spell-like, extraordinary, and supernatural
 abilities (+40 DC). Mitigating factors: increase casting time by 10
-minutes (--20 DC); increase casting time by 7 days (--14 DC).
+minutes (–20 DC); increase casting time by 7 days (–14 DC).
 
 When this spell is cast, worms or maggots slither and crawl their way
 inexorably toward the corpse touched. Over the course of the next week,

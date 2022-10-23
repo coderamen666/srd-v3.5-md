@@ -40,13 +40,13 @@ surroundings at will (as magic weapons do); many cannot see otherwise.
 
 Unlike most magic items, intelligent items can activate their own powers
 without waiting for a command word from their owner. Intelligent items
-act during their owner's turn in the initiative order.
+act during their owner’s turn in the initiative order.
 
 ### Intelligent Item Alignment
 
 Any item with intelligence has an alignment. Note that intelligent
 weapons already have alignments, either stated or by implication. If
-you're generating a random intelligent weapon, that weapon's alignment
+you’re generating a random intelligent weapon, that weapon’s alignment
 must fit with any alignment-oriented special abilities it has.
 
 Any character whose alignment does not correspond to that of the item
@@ -59,460 +59,524 @@ might already place on inappropriate wielders. Items with Ego scores
 (see below) of 20 to 29 bestow two negative levels. Items with Ego
 scores of 30 or higher bestow three negative levels.
 
-  ------------------------------------------------------------------------------------------------------------------------------ -------------------
-  Intelligent Item Alignment                                                                                                     
-  d%                                                                                                                             Alignment of Item
-  01--05                                                                                                                         Chaotic good
-  06--15                                                                                                                         Chaotic neutral\*
-  16--20                                                                                                                         Chaotic evil
-  21--25                                                                                                                         Neutral evil\*
-  26--30                                                                                                                         Lawful evil
-  31--55                                                                                                                         Lawful good
-  56--60                                                                                                                         Lawful neutral\*
-  61--80                                                                                                                         Neutral good\*
-  81--100                                                                                                                        Neutral
-  \* The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item's alignment.   
-  ------------------------------------------------------------------------------------------------------------------------------ -------------------
+|                                                                                                                              |                   |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Intelligent Item Alignment                                                                                                   |                   |
+| d%                                                                                                                           | Alignment of Item |
+| 01–05                                                                                                                        | Chaotic good      |
+| 06–15                                                                                                                        | Chaotic neutral\* |
+| 16–20                                                                                                                        | Chaotic evil      |
+| 21–25                                                                                                                        | Neutral evil\*    |
+| 26–30                                                                                                                        | Lawful evil       |
+| 31–55                                                                                                                        | Lawful good       |
+| 56–60                                                                                                                        | Lawful neutral\*  |
+| 61–80                                                                                                                        | Neutral good\*    |
+| 81–100                                                                                                                       | Neutral           |
+| \* The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item’s alignment. |                   |
 
 ### Languages Spoken by Item
 
 Like a character, an intelligent item speaks Common plus one additional
 language per point of Intelligence bonus. Choose appropriate languages,
-taking into account the item's origin and purposes.
+taking into account the item’s origin and purposes.
 
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| d%        | Mental    | Comm      | Cap       | Senses    | Base      |
-|           | Ability   | unication | abilities |           | Price     |
-|           | Scores    |           |           |           | Modifier  |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 01--34    | <div>     | E         | One       | 30 ft.    | +1,000 gp |
-|           |           | mpathy^1^ | lesser    | vision    |           |
-|           | Two at    |           | power     | and       |           |
-|           | 12,       |           |           | hearing   |           |
-|           |           |           |           |           |           |
-|           | </div>    |           |           |           |           |
-|           |           |           |           |           |           |
-|           | <div>     |           |           |           |           |
-|           |           |           |           |           |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           |           |           |           |
-|           | </div>    |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 35--59    | <div>     | E         | Two       | 60 ft.    | +2,000 gp |
-|           |           | mpathy^1^ | lesser    | vision    |           |
-|           | Two at    |           | powers    | and       |           |
-|           | 13,       |           |           | hearing   |           |
-|           |           |           |           |           |           |
-|           | </div>    |           |           |           |           |
-|           |           |           |           |           |           |
-|           | <div>     |           |           |           |           |
-|           |           |           |           |           |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           |           |           |           |
-|           | </div>    |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 60--79    | <div>     | Speech^2^ | Two       | 120 ft.   | +4,000 gp |
-|           |           |           | lesser    | vision    |           |
-|           | Two at    |           | powers    | and       |           |
-|           | 14,       |           |           | hearing   |           |
-|           |           |           |           |           |           |
-|           | </div>    |           |           |           |           |
-|           |           |           |           |           |           |
-|           | <div>     |           |           |           |           |
-|           |           |           |           |           |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           |           |           |           |
-|           | </div>    |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 80--91    | <div>     | Speech^2^ | Three     | <div>     | +5,000 gp |
-|           |           |           | lesser    |           |           |
-|           | Two at    |           | powers    | 60 ft.    |           |
-|           | 15,       |           |           | d         |           |
-|           |           |           |           | arkvision |           |
-|           | </div>    |           |           |           |           |
-|           |           |           |           | </div>    |           |
-|           | <div>     |           |           |           |           |
-|           |           |           |           | <div>     |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           |           | and       |           |
-|           | </div>    |           |           | hearing   |           |
-|           |           |           |           |           |           |
-|           |           |           |           | </div>    |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 92--97    | <div>     | Spe       | Three     | <div>     | +6,000 gp |
-|           |           | ech^2\ 3^ | lesser    |           |           |
-|           | Two at    |           | powers    | 60 ft.    |           |
-|           | 16,       |           |           | d         |           |
-|           |           |           |           | arkvision |           |
-|           | </div>    |           |           |           |           |
-|           |           |           |           | </div>    |           |
-|           | <div>     |           |           |           |           |
-|           |           |           |           | <div>     |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           |           | and       |           |
-|           | </div>    |           |           | hearing   |           |
-|           |           |           |           |           |           |
-|           |           |           |           | </div>    |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 98        | <div>     | Speech,   | <div>     | <div>     | +9,000 gp |
-|           |           | telepa    |           |           |           |
-|           | Two at    | thy^3\ 4^ | Three     | 120 ft.   |           |
-|           | 17,       |           | lesser    | d         |           |
-|           |           |           | powers    | arkvision |           |
-|           | </div>    |           |           |           |           |
-|           |           |           | </div>    | </div>    |           |
-|           | <div>     |           |           |           |           |
-|           |           |           | <div>     | <div>     |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           | and one   | and       |           |
-|           | </div>    |           | greater   | hearing   |           |
-|           |           |           | power^6^  |           |           |
-|           |           |           |           | </div>    |           |
-|           |           |           | </div>    |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 99        | <div>     | Speech,   | <div>     | 120 ft.   | +12,000   |
-|           |           | telepa    |           | da        | gp        |
-|           | Two at    | thy^4\ 5^ | Three     | rkvision, |           |
-|           | 18,       |           | lesser    | bl        |           |
-|           |           |           | powers    | indsense, |           |
-|           | </div>    |           |           | and       |           |
-|           |           |           | </div>    | hearing   |           |
-|           | <div>     |           |           |           |           |
-|           |           |           | <div>     |           |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           | and two   |           |           |
-|           | </div>    |           | greater   |           |           |
-|           |           |           | powers^6^ |           |           |
-|           |           |           |           |           |           |
-|           |           |           | </div>    |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 100       | <div>     | Speech,   | <div>     | 120 ft.   | +15,000   |
-|           |           | telepathy |           | da        | gp        |
-|           | Two at    | ^4\ 5^    | Four      | rkvision, |           |
-|           | 19,       |           | lesser    | bl        |           |
-|           |           |           | powers    | indsense, |           |
-|           | </div>    |           |           | and       |           |
-|           |           |           | </div>    | hearing   |           |
-|           | <div>     |           |           |           |           |
-|           |           |           | <div>     |           |           |
-|           | one at 10 |           |           |           |           |
-|           |           |           | and three |           |           |
-|           | </div>    |           | greater   |           |           |
-|           |           |           | powers^6^ |           |           |
-|           |           |           |           |           |           |
-|           |           |           | </div>    |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 1 The     |           |           |           |           |           |
-| possessor |           |           |           |           |           |
-| feels     |           |           |           |           |           |
-| urges and |           |           |           |           |           |
-| sometimes |           |           |           |           |           |
-| emotions  |           |           |           |           |           |
-| from the  |           |           |           |           |           |
-| item that |           |           |           |           |           |
-| encourage |           |           |           |           |           |
-| or        |           |           |           |           |           |
-| d         |           |           |           |           |           |
-| iscourage |           |           |           |           |           |
-| certain   |           |           |           |           |           |
-| courses   |           |           |           |           |           |
-| of        |           |           |           |           |           |
-| action.   |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 2 Like a  |           |           |           |           |           |
-| c         |           |           |           |           |           |
-| haracter, |           |           |           |           |           |
-| an        |           |           |           |           |           |
-| in        |           |           |           |           |           |
-| telligent |           |           |           |           |           |
-| item      |           |           |           |           |           |
-| speaks    |           |           |           |           |           |
-| Common    |           |           |           |           |           |
-| plus one  |           |           |           |           |           |
-| language  |           |           |           |           |           |
-| per point |           |           |           |           |           |
-| of        |           |           |           |           |           |
-| Int       |           |           |           |           |           |
-| elligence |           |           |           |           |           |
-| bonus. It |           |           |           |           |           |
-| can       |           |           |           |           |           |
-| co        |           |           |           |           |           |
-| mmunicate |           |           |           |           |           |
-| telep     |           |           |           |           |           |
-| athically |           |           |           |           |           |
-| withthe   |           |           |           |           |           |
-| wielder.  |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 3 The     |           |           |           |           |           |
-| item can  |           |           |           |           |           |
-| also read |           |           |           |           |           |
-| any       |           |           |           |           |           |
-| languages |           |           |           |           |           |
-| it can    |           |           |           |           |           |
-| speak.    |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 4 The     |           |           |           |           |           |
-| item can  |           |           |           |           |           |
-| use       |           |           |           |           |           |
-| either    |           |           |           |           |           |
-| comm      |           |           |           |           |           |
-| unication |           |           |           |           |           |
-| mode at   |           |           |           |           |           |
-| will,     |           |           |           |           |           |
-| with      |           |           |           |           |           |
-| language  |           |           |           |           |           |
-| use as    |           |           |           |           |           |
-| any       |           |           |           |           |           |
-| speaking  |           |           |           |           |           |
-| item. It  |           |           |           |           |           |
-| can       |           |           |           |           |           |
-| co        |           |           |           |           |           |
-| mmunicate |           |           |           |           |           |
-| telep     |           |           |           |           |           |
-| athically |           |           |           |           |           |
-| with the  |           |           |           |           |           |
-| wielder.  |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 5 The     |           |           |           |           |           |
-| item can  |           |           |           |           |           |
-| read all  |           |           |           |           |           |
-| languages |           |           |           |           |           |
-| as well   |           |           |           |           |           |
-| as use    |           |           |           |           |           |
-| *read     |           |           |           |           |           |
-| magic*.   |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 6 The     |           |           |           |           |           |
-| in        |           |           |           |           |           |
-| telligent |           |           |           |           |           |
-| item can  |           |           |           |           |           |
-| have a    |           |           |           |           |           |
-| special   |           |           |           |           |           |
-| purpose   |           |           |           |           |           |
-| (and      |           |           |           |           |           |
-| corr      |           |           |           |           |           |
-| esponding |           |           |           |           |           |
-| dedicated |           |           |           |           |           |
-| power)    |           |           |           |           |           |
-| rather    |           |           |           |           |           |
-| than a    |           |           |           |           |           |
-| greater   |           |           |           |           |           |
-| power, if |           |           |           |           |           |
-| app       |           |           |           |           |           |
-| ropriate. |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
+<table class="full-width-table" style="width:100%;">
+<caption>Table: Item Intelligence, Wisdom, Charisma, and
+Capabilities</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>d%</th>
+<th>Mental Ability Scores</th>
+<th>Communication</th>
+<th>Capabilities</th>
+<th>Senses</th>
+<th>Base Price Modifier</th>
+</tr>
 
-: Table: Item Intelligence, Wisdom, Charisma, and Capabilities
+<tr class="odd">
+<td>01–34</td>
+<td><div>
+Two at 12,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Empathy<sup>1</sup></td>
+<td>One lesser power</td>
+<td>30 ft. vision and hearing</td>
+<td>+1,000 gp</td>
+</tr>
+<tr class="even">
+<td>35–59</td>
+<td><div>
+Two at 13,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Empathy<sup>1</sup></td>
+<td>Two lesser powers</td>
+<td>60 ft. vision and hearing</td>
+<td>+2,000 gp</td>
+</tr>
+<tr class="odd">
+<td>60–79</td>
+<td><div>
+Two at 14,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Speech<sup>2</sup></td>
+<td>Two lesser powers</td>
+<td>120 ft. vision and hearing</td>
+<td>+4,000 gp</td>
+</tr>
+<tr class="even">
+<td>80–91</td>
+<td><div>
+Two at 15,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Speech<sup>2</sup></td>
+<td>Three lesser powers</td>
+<td><div>
+60 ft. darkvision
+</div>
+<div>
+and hearing
+</div></td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="odd">
+<td>92–97</td>
+<td><div>
+Two at 16,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Speech<sup>2 3</sup></td>
+<td>Three lesser powers</td>
+<td><div>
+60 ft. darkvision
+</div>
+<div>
+and hearing
+</div></td>
+<td>+6,000 gp</td>
+</tr>
+<tr class="even">
+<td>98</td>
+<td><div>
+Two at 17,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Speech, telepathy<sup>3 4</sup></td>
+<td><div>
+Three lesser powers
+</div>
+<div>
+and one greater power<sup>6</sup>
+</div></td>
+<td><div>
+120 ft. darkvision
+</div>
+<div>
+and hearing
+</div></td>
+<td>+9,000 gp</td>
+</tr>
+<tr class="odd">
+<td>99</td>
+<td><div>
+Two at 18,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Speech, telepathy<sup>4 5</sup></td>
+<td><div>
+Three lesser powers
+</div>
+<div>
+and two greater powers<sup>6</sup>
+</div></td>
+<td>120 ft. darkvision, blindsense, and hearing</td>
+<td>+12,000 gp</td>
+</tr>
+<tr class="even">
+<td>100</td>
+<td><div>
+Two at 19,
+</div>
+<div>
+one at 10
+</div></td>
+<td>Speech, telepathy <sup>4 5</sup></td>
+<td><div>
+Four lesser powers
+</div>
+<div>
+and three greater powers<sup>6</sup>
+</div></td>
+<td>120 ft. darkvision, blindsense, and hearing</td>
+<td>+15,000 gp</td>
+</tr>
+<tr class="odd">
+<td colspan="6">1 The possessor feels urges and sometimes emotions from
+the item that encourage or discourage certain courses of action.</td>
+</tr>
+<tr class="even">
+<td colspan="6">2 Like a character, an intelligent item speaks Common
+plus one language per point of Intelligence bonus. It can communicate
+telepathically withthe wielder.</td>
+</tr>
+<tr class="odd">
+<td colspan="6">3 The item can also read any languages it can
+speak.</td>
+</tr>
+<tr class="even">
+<td colspan="6">4 The item can use either communication mode at will,
+with language use as any speaking item. It can communicate
+telepathically with the wielder.</td>
+</tr>
+<tr class="odd">
+<td colspan="6">5 The item can read all languages as well as use
+<em>read magic</em>.</td>
+</tr>
+<tr class="even">
+<td colspan="6">6 The intelligent item can have a special purpose (and
+corresponding dedicated power) rather than a greater power, if
+appropriate.</td>
+</tr>
+</tbody>
+</table>
+
+Table: Item Intelligence, Wisdom, Charisma, and Capabilities
 
 ### Intelligent Item Powers
 
 The table above determines how many lesser and greater powers an
-intelligent item has. To find the item's specific powers, choose or roll
+intelligent item has. To find the item’s specific powers, choose or roll
 on the appropriate tables below.
 
-  ----------------------- ----------------------- -----------------------
-  Intelligent Item Lesser                         
-  Powers                                          
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th colspan="3">Intelligent Item Lesser Powers</th>
+</tr>
+<tr class="odd">
+<th>d%</th>
+<th>Lesser Power</th>
+<th>Base Price<br />
+Modifier</th>
+</tr>
 
-  d%                      Lesser Power            Base Price\
-                                                  Modifier
-
-  01--05                  Item can *bless* its    +1,000 gp
-                          allies 3/day            
-
-  06--10                  Item can use *faerie    +1,100 gp
-                          fire* 3/day             
-
-  11--13                  Item can cast *minor    +2,200 gp
-                          image* 1/day            
-
-  14--20                  Item has *deathwatch*   +2,700 gp
-                          continually active      
-
-  21--25                  Item can use *detect    +3,600 gp
-                          magic* at will          
-
-  26--31                  Item has 10 ranks in    +5,000 gp
-                          Intimidate              
-
-  32--33                  Item has 10 ranks in    +5,000 gp
-                          Decipher Script         
-
-  34--36                  Item has 10 ranks in    +5,000 gp
-                          Knowledge (choose       
-                          category)               
-
-  37--40                  Item has 10 ranks in    +5,000 gp
-                          Search                  
-
-  41--45                  Item has 10 ranks in    +5,000 gp
-                          Spot                    
-
-  46--50                  Item has 10 ranks in    +5,000 gp
-                          Listen                  
-
-  51--54                  Item has 10 ranks in    +5,000 gp
-                          Spellcraft              
-
-  55--60                  Item has 10 ranks in    +5,000 gp
-                          Sense Motive            
-
-  61--66                  Item has 10 ranks in    +5,000 gp
-                          Bluff                   
-
-  67--72                  Item has 10 ranks in    +5,000 gp
-                          Diplomacy               
-
-  73--77                  Item can cast *major    +5,400 gp
-                          image* 1/day            
-
-  78--80                  Item can cast           +6,500 gp
-                          *darkness* 3/day        
-
-  81--83                  Item can use *hold      +6,500 gp
-                          person* on an enemy     
-                          3/day                   
-
-  84--86                  Item can activate *zone +6,500 gp
-                          of truth* 3/day         
-
-  87--89                  Item can use *daze      +6,500 gp
-                          monster* 3/day          
-
-  90--95                  Item can use *locate    +6,500 gp
-                          object* 3/day           
-
-  96--100                 Item can use *cure      +6,500 gp
-                          moderate wounds*        
-                          (2d8+3) on wielder      
-                          3/day                   
-  ----------------------- ----------------------- -----------------------
+<tr class="odd">
+<td>01–05</td>
+<td>Item can <em>bless</em> its allies 3/day</td>
+<td>+1,000 gp</td>
+</tr>
+<tr class="even">
+<td>06–10</td>
+<td>Item can use <em>faerie fire</em> 3/day</td>
+<td>+1,100 gp</td>
+</tr>
+<tr class="odd">
+<td>11–13</td>
+<td>Item can cast <em>minor image</em> 1/day</td>
+<td>+2,200 gp</td>
+</tr>
+<tr class="even">
+<td>14–20</td>
+<td>Item has <em>deathwatch</em> continually active</td>
+<td>+2,700 gp</td>
+</tr>
+<tr class="odd">
+<td>21–25</td>
+<td>Item can use <em>detect magic</em> at will</td>
+<td>+3,600 gp</td>
+</tr>
+<tr class="even">
+<td>26–31</td>
+<td>Item has 10 ranks in Intimidate</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="odd">
+<td>32–33</td>
+<td>Item has 10 ranks in Decipher Script</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="even">
+<td>34–36</td>
+<td>Item has 10 ranks in Knowledge (choose category)</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="odd">
+<td>37–40</td>
+<td>Item has 10 ranks in Search</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="even">
+<td>41–45</td>
+<td>Item has 10 ranks in Spot</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="odd">
+<td>46–50</td>
+<td>Item has 10 ranks in Listen</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="even">
+<td>51–54</td>
+<td>Item has 10 ranks in Spellcraft</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="odd">
+<td>55–60</td>
+<td>Item has 10 ranks in Sense Motive</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="even">
+<td>61–66</td>
+<td>Item has 10 ranks in Bluff</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="odd">
+<td>67–72</td>
+<td>Item has 10 ranks in Diplomacy</td>
+<td>+5,000 gp</td>
+</tr>
+<tr class="even">
+<td>73–77</td>
+<td>Item can cast <em>major image</em> 1/day</td>
+<td>+5,400 gp</td>
+</tr>
+<tr class="odd">
+<td>78–80</td>
+<td>Item can cast <em>darkness</em> 3/day</td>
+<td>+6,500 gp</td>
+</tr>
+<tr class="even">
+<td>81–83</td>
+<td>Item can use <em>hold person</em> on an enemy 3/day</td>
+<td>+6,500 gp</td>
+</tr>
+<tr class="odd">
+<td>84–86</td>
+<td>Item can activate <em>zone of truth</em> 3/day</td>
+<td>+6,500 gp</td>
+</tr>
+<tr class="even">
+<td>87–89</td>
+<td>Item can use <em>daze monster</em> 3/day</td>
+<td>+6,500 gp</td>
+</tr>
+<tr class="odd">
+<td>90–95</td>
+<td>Item can use <em>locate object</em> 3/day</td>
+<td>+6,500 gp</td>
+</tr>
+<tr class="even">
+<td>96–100</td>
+<td>Item can use <em>cure moderate wounds</em> (2d8+3) on wielder
+3/day</td>
+<td>+6,500 gp</td>
+</tr>
+</tbody>
+</table>
 
 All powers function at the direction of the item, although intelligent
 items generally follow the wishes of their owner. Activating a power or
 concentrating on an active one is a standard action the item takes.
 
-  ----------------------- ----------------------- -----------------------
-  Intelligent Item                                
-  Greater Powers                                  
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th colspan="3">Intelligent Item Greater Powers</th>
+</tr>
+<tr class="odd">
+<th>d%</th>
+<th>Greater Power</th>
+<th>Base Price<br />
+Modifier</th>
+</tr>
 
-  d%                      Greater Power           Base Price\
-                                                  Modifier
-
-  01--06                  Item can detect         +7,200 gp
-                          opposing alignment at   
-                          will                    
-
-  07--10                  Item can *detect        +7,200 gp
-                          undead* at will         
-
-  11--13                  Item can *cause fear*   +7,200 gp
-                          in an enemy at will     
-
-  14--18                  Item can use            +10,000 gp
-                          *dimensional anchor* on 
-                          a foe 1/day             
-
-  19--23                  Item can use            +10,000 gp
-                          *dismissal* on a foe    
-                          1/day                   
-
-  24--28                  Item can use *lesser    +10,000 gp
-                          globe of                
-                          invulnerability* 1/day  
-
-  29--33                  Item can use *arcane    +10,000 gp
-                          eye* 1/day              
-
-  34--37                  Item has continuous     +10,000 gp
-                          *detect scrying* effect 
-
-  38--41                  Item creates *wall of   +10,000 gp
-                          fire* in a ring with    
-                          the wielder at the      
-                          center 1/day            
-
-  42--45                  Item can use *quench*   +16,000 gp
-                          on fires 3/day          
-
-  46--50                  Item has *status*       +11,000 gp
-                          effect, usable at will  
-
-  51--54                  Item can use *gust of   +11,000 gp
-                          wind* 3/day             
-
-  55--59                  Item can use            +16,000 gp
-                          *clairvoyance* 3/day    
-
-  60--64                  Item can create *magic  +16,000 gp
-                          circle* against         
-                          opposing alignment at   
-                          will                    
-
-  65--68                  Item can use *haste* on +16,000 gp
-                          its owner 3/day         
-
-  69--73                  Item can create         +16,000 gp
-                          *daylight* 3/day        
-
-  74--76                  Item can create *deeper +16,000 gp
-                          darkness* 3/day         
-
-  77--80                  Item can use            +16,000 gp
-                          *invisibility purge*    
-                          (30 ft. range) 3/day    
-
-  81--85                  Item can use *slow* on  +16,000 gp
-                          its enemies 3/day       
-
-  86--91                  Item can *locate        +30,000 gp
-                          creature* 3/day         
-
-  91--97                  Item can use *fear*     +30,000 gp
-                          against foes 3/day      
-
-  98--100                 Item can use *detect    +44,000 gp
-                          thoughts* at will       
-
-  If the same power is                            
-  rolled twice, roll                              
-  again.                                          
-  ----------------------- ----------------------- -----------------------
+<tr class="odd">
+<td>01–06</td>
+<td>Item can detect opposing alignment at will</td>
+<td>+7,200 gp</td>
+</tr>
+<tr class="even">
+<td>07–10</td>
+<td>Item can <em>detect undead</em> at will</td>
+<td>+7,200 gp</td>
+</tr>
+<tr class="odd">
+<td>11–13</td>
+<td>Item can <em>cause fear</em> in an enemy at will</td>
+<td>+7,200 gp</td>
+</tr>
+<tr class="even">
+<td>14–18</td>
+<td>Item can use <em>dimensional anchor</em> on a foe 1/day</td>
+<td>+10,000 gp</td>
+</tr>
+<tr class="odd">
+<td>19–23</td>
+<td>Item can use <em>dismissal</em> on a foe 1/day</td>
+<td>+10,000 gp</td>
+</tr>
+<tr class="even">
+<td>24–28</td>
+<td>Item can use <em>lesser globe of invulnerability</em> 1/day</td>
+<td>+10,000 gp</td>
+</tr>
+<tr class="odd">
+<td>29–33</td>
+<td>Item can use <em>arcane eye</em> 1/day</td>
+<td>+10,000 gp</td>
+</tr>
+<tr class="even">
+<td>34–37</td>
+<td>Item has continuous <em>detect scrying</em> effect</td>
+<td>+10,000 gp</td>
+</tr>
+<tr class="odd">
+<td>38–41</td>
+<td>Item creates <em>wall of fire</em> in a ring with the wielder at the
+center 1/day</td>
+<td>+10,000 gp</td>
+</tr>
+<tr class="even">
+<td>42–45</td>
+<td>Item can use <em>quench</em> on fires 3/day</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="odd">
+<td>46–50</td>
+<td>Item has <em>status</em> effect, usable at will</td>
+<td>+11,000 gp</td>
+</tr>
+<tr class="even">
+<td>51–54</td>
+<td>Item can use <em>gust of wind</em> 3/day</td>
+<td>+11,000 gp</td>
+</tr>
+<tr class="odd">
+<td>55–59</td>
+<td>Item can use <em>clairvoyance</em> 3/day</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="even">
+<td>60–64</td>
+<td>Item can create <em>magic circle</em> against opposing alignment at
+will</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="odd">
+<td>65–68</td>
+<td>Item can use <em>haste</em> on its owner 3/day</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="even">
+<td>69–73</td>
+<td>Item can create <em>daylight</em> 3/day</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="odd">
+<td>74–76</td>
+<td>Item can create <em>deeper darkness</em> 3/day</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="even">
+<td>77–80</td>
+<td>Item can use <em>invisibility purge</em> (30 ft. range) 3/day</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="odd">
+<td>81–85</td>
+<td>Item can use <em>slow</em> on its enemies 3/day</td>
+<td>+16,000 gp</td>
+</tr>
+<tr class="even">
+<td>86–91</td>
+<td>Item can <em>locate creature</em> 3/day</td>
+<td>+30,000 gp</td>
+</tr>
+<tr class="odd">
+<td>91–97</td>
+<td>Item can use <em>fear</em> against foes 3/day</td>
+<td>+30,000 gp</td>
+</tr>
+<tr class="even">
+<td>98–100</td>
+<td>Item can use <em>detect thoughts</em> at will</td>
+<td>+44,000 gp</td>
+</tr>
+<tr class="odd">
+<td colspan="3">If the same power is rolled twice, roll again.</td>
+</tr>
+</tbody>
+</table>
 
 ### Special Purpose Items
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
-  Intelligent Item Purpose                                                                                                                                             
-  d%                                                                                                                                                                   Purpose
-  01--20                                                                                                                                                               Defeat/slay diametrically opposed alignment\*
-  21--30                                                                                                                                                               Defeat/slay arcane spellcasters (including spellcasting monsters and those that use spell-like abilities)
-  31--40                                                                                                                                                               Defeat/slay divine spellcasters (including divine entities and servitors)
-  41--50                                                                                                                                                               Defeat/slay nonspellcasters
-  51--55                                                                                                                                                               Defeat/slay a particular creature type (see the bane special ability for choices)
-  56--60                                                                                                                                                               Defeat/slay a particular race or kind of creature
-  61--70                                                                                                                                                               Defend a particular race or kind of creature
-  71--80                                                                                                                                                               Defeat/slay the servants of a specific deity
-  81--90                                                                                                                                                               Defend the servants and interests of a specific deity
-  91--95                                                                                                                                                               Defeat/slay all (other than the item and the wielder)
-  96--100                                                                                                                                                              Choose one
-  \* The purpose of the neutral (N) version of this item is to preserve the balance by defeating/slaying powerful beings of the extreme alignments (LG, LE, CG, CE).   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------
+|                                                                                                                                                                    |                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Intelligent Item Purpose                                                                                                                                           |                                                                                                           |
+| d%                                                                                                                                                                 | Purpose                                                                                                   |
+| 01–20                                                                                                                                                              | Defeat/slay diametrically opposed alignment\*                                                             |
+| 21–30                                                                                                                                                              | Defeat/slay arcane spellcasters (including spellcasting monsters and those that use spell-like abilities) |
+| 31–40                                                                                                                                                              | Defeat/slay divine spellcasters (including divine entities and servitors)                                 |
+| 41–50                                                                                                                                                              | Defeat/slay nonspellcasters                                                                               |
+| 51–55                                                                                                                                                              | Defeat/slay a particular creature type (see the bane special ability for choices)                         |
+| 56–60                                                                                                                                                              | Defeat/slay a particular race or kind of creature                                                         |
+| 61–70                                                                                                                                                              | Defend a particular race or kind of creature                                                              |
+| 71–80                                                                                                                                                              | Defeat/slay the servants of a specific deity                                                              |
+| 81–90                                                                                                                                                              | Defend the servants and interests of a specific deity                                                     |
+| 91–95                                                                                                                                                              | Defeat/slay all (other than the item and the wielder)                                                     |
+| 96–100                                                                                                                                                             | Choose one                                                                                                |
+| \* The purpose of the neutral (N) version of this item is to preserve the balance by defeating/slaying powerful beings of the extreme alignments (LG, LE, CG, CE). |                                                                                                           |
 
 ### Purpose
 
-An item's purpose must suit the type and alignment of the item and
-should always be treated reasonably. A purpose of "defeat/slay arcane
-spellcasters" doesn't mean that the sword forces the wielder to kill
+An item’s purpose must suit the type and alignment of the item and
+should always be treated reasonably. A purpose of “defeat/slay arcane
+spellcasters” doesn’t mean that the sword forces the wielder to kill
 every wizard she sees. Nor does it mean that the sword believes it is
 possible to kill every wizard, sorcerer, and bard in the world. It does
 mean that the item hates arcane spellcasters and wants to bring the
-local wizard's cabal to ruin, as well as end the rule of a
-sorceress-queen in a nearby land. Likewise, a purpose of "defend elves"
-doesn't mean that if the wielder is an elf, he only wants to help
+local wizard’s cabal to ruin, as well as end the rule of a
+sorceress-queen in a nearby land. Likewise, a purpose of “defend elves”
+doesn’t mean that if the wielder is an elf, he only wants to help
 himself. It means that the item wants to be used in furthering the cause
 of elves, stamping out their enemies and aiding their leaders. A purpose
-of "defeat/slay all" isn't just a matter of self-preservation. It means
-that the item won't rest (or let its wielder rest) until it places
+of “defeat/slay all” isn’t just a matter of self-preservation. It means
+that the item won’t rest (or let its wielder rest) until it places
 itself above all others.
 
 ### Dedicated Power
@@ -524,69 +588,68 @@ the means. Unlike its other powers, an intelligent item can refuse to
 use its dedicated power even if the owner is dominant (see Items against
 Characters, below).
 
-  --------------------------------------- -------------------------------------------------------------------- ---------------------
-  Special Purpose Item Dedicated Powers                                                                        
-  d%                                      Dedicated Power                                                      Base Price Modifier
-  01--06                                  Item can use *ice storm*                                             +50,000 gp
-  07--12                                  Item can use *confusion*                                             +50,000 gp
-  13--17                                  Item can use *phantasmal killer*                                     +50,000 gp
-  18--24                                  Item can use *crushing despair*                                      +50,000 gp
-  25--31                                  Item can use *dimension door* on itself and wielder                  +50,000 gp
-  32--36                                  Item can use *contagion* (heightened to 4th level) as touch attack   +56,000 gp
-  37--43                                  Item can use *poison* (heightened to 4th level) as touch attack      +56,000 gp
-  44--50                                  Item can use *rusting grasp* as touch attack                         +56,000 gp
-  51--56                                  Item can cast 10d6 *lightning bolt*                                  +60,000 gp
-  57--62                                  Item can cast 10d6 *fireball*                                        +60,000 gp
-  63--68                                  Wielder gets +2 luck bonus on attacks, saves, and checks             +80,000 gp
-  69--74                                  Item can use *mass inflict light wounds*                             +81,000 gp
-  75--81                                  Item can use *song of discord*                                       +81,000 gp
-  82--87                                  Item can use *prying eyes*                                           +81,000 gp
-  88--92                                  Item can cast 15d6 *greater shout* 3/day                             +130,000 gp
-  93--98                                  Item can use *waves of exhaustion*                                   +164,000 gp
-  99--100                                 Item can use *true resurrection* on wielder, once per month          +200,000 gp
-  --------------------------------------- -------------------------------------------------------------------- ---------------------
+|                                       |                                                                    |                     |
+|---------------------------------------|--------------------------------------------------------------------|---------------------|
+| Special Purpose Item Dedicated Powers |                                                                    |                     |
+| d%                                    | Dedicated Power                                                    | Base Price Modifier |
+| 01–06                                 | Item can use *ice storm*                                           | +50,000 gp          |
+| 07–12                                 | Item can use *confusion*                                           | +50,000 gp          |
+| 13–17                                 | Item can use *phantasmal killer*                                   | +50,000 gp          |
+| 18–24                                 | Item can use *crushing despair*                                    | +50,000 gp          |
+| 25–31                                 | Item can use *dimension door* on itself and wielder                | +50,000 gp          |
+| 32–36                                 | Item can use *contagion* (heightened to 4th level) as touch attack | +56,000 gp          |
+| 37–43                                 | Item can use *poison* (heightened to 4th level) as touch attack    | +56,000 gp          |
+| 44–50                                 | Item can use *rusting grasp* as touch attack                       | +56,000 gp          |
+| 51–56                                 | Item can cast 10d6 *lightning bolt*                                | +60,000 gp          |
+| 57–62                                 | Item can cast 10d6 *fireball*                                      | +60,000 gp          |
+| 63–68                                 | Wielder gets +2 luck bonus on attacks, saves, and checks           | +80,000 gp          |
+| 69–74                                 | Item can use *mass inflict light wounds*                           | +81,000 gp          |
+| 75–81                                 | Item can use *song of discord*                                     | +81,000 gp          |
+| 82–87                                 | Item can use *prying eyes*                                         | +81,000 gp          |
+| 88–92                                 | Item can cast 15d6 *greater shout* 3/day                           | +130,000 gp         |
+| 93–98                                 | Item can use *waves of exhaustion*                                 | +164,000 gp         |
+| 99–100                                | Item can use *true resurrection* on wielder, once per month        | +200,000 gp         |
 
 ### Item Ego
 
 Ego is a measure of the total power and force of personality that an
 item possesses. Only after all aspects of an item have been generated
-can its Ego score be calculated. An item's Ego score helps determine
+can its Ego score be calculated. An item’s Ego score helps determine
 whether the item or the character is dominant in their relationship, as
 detailed below.
 
-  ---------------------------------------- ------------
-  Item Ego                                 
-  Attribute of Item                        Ego Points
-  Each +1 of item's enhancement bonus      1
-  Each +1 of bonus for special abilities   1
-  Each lesser power                        1
-  Each greater power                       2
-  Special purpose (and dedicated power)    4
-  Telepathic ability                       1
-  Read languages ability                   1
-  *Read magic* ability                     1
-  Each +1 of Intelligence bonus            1
-  Each +1 of Wisdom bonus                  1
-  Each +1 of Charisma bonus                1
-  ---------------------------------------- ------------
+|                                        |            |
+|----------------------------------------|------------|
+| Item Ego                               |            |
+| Attribute of Item                      | Ego Points |
+| Each +1 of item’s enhancement bonus    | 1          |
+| Each +1 of bonus for special abilities | 1          |
+| Each lesser power                      | 1          |
+| Each greater power                     | 2          |
+| Special purpose (and dedicated power)  | 4          |
+| Telepathic ability                     | 1          |
+| Read languages ability                 | 1          |
+| *Read magic* ability                   | 1          |
+| Each +1 of Intelligence bonus          | 1          |
+| Each +1 of Wisdom bonus                | 1          |
+| Each +1 of Charisma bonus              | 1          |
 
 ### Items Against Characters
 
 When an item has an Ego of its own, it has a will of its own. The item
 is, of course, absolutely true to its alignment. If the character who
-possesses the item is not true to that alignment's goals or the item's
-special purpose, personality conflict---item against
-character---results. Similarly, any item with an Ego score of 20 or
-higher always considers itself superior to any character, and a
-personality conflict results if the possessor does not always agree with
-the item.
+possesses the item is not true to that alignment’s goals or the item’s
+special purpose, personality conflict—item against character—results.
+Similarly, any item with an Ego score of 20 or higher always considers
+itself superior to any character, and a personality conflict results if
+the possessor does not always agree with the item.
 
 When a personality conflict occurs, the possessor must make a Will
-saving throw (DC = item's Ego). If the possessor succeeds, she is
+saving throw (DC = item’s Ego). If the possessor succeeds, she is
 dominant. If she fails, the item is dominant. Dominance lasts for one
 day or until a critical situation occurs (such as a major battle, a
 serious threat to either the item or the character, and so on). Should
-an item gain dominance, it resists the character's desires and demands
+an item gain dominance, it resists the character’s desires and demands
 concessions such as any of the following.
 
 -   Removal of associates or items whose alignment or personality is
@@ -609,10 +672,10 @@ such as the following acts:
 -   Refuse to strike opponents.
 -   Strike at its wielder or her associates.
 -   Force its possessor to surrender to an opponent.
--   Cause itself to drop from the character's grasp.
+-   Cause itself to drop from the character’s grasp.
 
 Naturally, such actions are unlikely when harmony reigns between the
-character's and item's alignments or when their purposes and
+character’s and item’s alignments or when their purposes and
 personalities are well matched. Even so, an item might wish to have a
 lesser character possess it in order to easily establish and maintain
 dominance over him, or a higher-level possessor so as to better
@@ -635,21 +698,21 @@ but remain undaunted and continue to air their wishes and demands.
 ## Cursed Items
 
 Cursed items are magic items with some sort of potentially negative
-impact. Sometimes they're directly bad for the user; sometimes they're
+impact. Sometimes they’re directly bad for the user; sometimes they’re
 just inconvenient. Occasionally they mix bad with good, forcing
 characters to make difficult choices.
 
-  --------------------------- ---------------------------------
-  Cursed Item Common Curses   
-  d%                          Curse
-  01--15                      Delusion
-  16--35                      Opposite effect or target
-  36--45                      Intermittent functioning
-  46--60                      Requirement
-  61--75                      Drawback
-  76--90                      Completely different effect
-  91--100                     Substitute specific cursed item
-  --------------------------- ---------------------------------
+|                           |                                 |
+|---------------------------|---------------------------------|
+| Cursed Item Common Curses |                                 |
+| d%                        | Curse                           |
+| 01–15                     | Delusion                        |
+| 16–35                     | Opposite effect or target       |
+| 36–45                     | Intermittent functioning        |
+| 46–60                     | Requirement                     |
+| 61–75                     | Drawback                        |
+| 76–90                     | Completely different effect     |
+| 91–100                    | Substitute specific cursed item |
 
 **Delusion:** The user believes the item is what it appears to be, yet
 it actually has no magical power other than to deceive. The user is
@@ -659,54 +722,54 @@ convinced otherwise without the help of a *remove curse* spell.
 **Opposite Effect or Target:** These cursed items malfunction, so that
 either they do the opposite of what the creator intended, or they target
 the user instead of someone else. The interesting point to keep in mind
-here is that these items aren't always bad to have. Opposite-effect
+here is that these items aren’t always bad to have. Opposite-effect
 items include weapons that impose penalties on attack and damage rolls
-rather than bonuses. Just as a character shouldn't necessarily
+rather than bonuses. Just as a character shouldn’t necessarily
 immediately know what the enhancement bonus of a noncursed magic item
-is, she shouldn't immediately know that a weapon is cursed. Once she
+is, she shouldn’t immediately know that a weapon is cursed. Once she
 knows, however, the item can be discarded unless some sort of compulsion
 is placed upon it that compels the wielder to keep and use it. In such
 cases, a *remove curse* spell is generally needed to get rid of the
 item.
 
 **Intermittent Functioning:** The three varieties of intermittent
-functioning items all function perfectly as described---at least some of
+functioning items all function perfectly as described—at least some of
 the time. The three varieties are unreliable, dependent, and
 uncontrolled items.
 
 *Unreliable:* Each time the item is activated, there is a 5% chance
-(01--05 on d%) that it does not function.
+(01–05 on d%) that it does not function.
 
 *Dependent:* The item only functions in certain situations. To determine
 what the situation is, either select a situation or roll on the
 following table.
 
-  -------- ----------------------------------------------------------
-  d%       Situation
-  01--03   Temperature below freezing
-  04--05   Temperature above freezing
-  06--10   During the day
-  11--15   During the night
-  16--20   In direct sunlight
-  21--25   Out of direct sunlight
-  26--34   Underwater
-  35--37   Out of water
-  38--45   Underground
-  46--55   Aboveground
-  56--60   Within 10 feet of a random creature type
-  61--64   Within 10 feet of a random race or kind of creature
-  65--72   Within 10 feet of an arcane spellcaster
-  73--80   Within 10 feet of a divine spellcaster
-  81--85   In the hands of a nonspellcaster
-  86--90   In the hands of a spellcaster
-  91--95   In the hands of a creature of a particular alignment
-  96       In the hands of a creature of particular gender
-  97--99   On nonholy days or during particular astrological events
-  100      More than 100 miles from a particular site
-  -------- ----------------------------------------------------------
+|       |                                                          |
+|-------|----------------------------------------------------------|
+| d%    | Situation                                                |
+| 01–03 | Temperature below freezing                               |
+| 04–05 | Temperature above freezing                               |
+| 06–10 | During the day                                           |
+| 11–15 | During the night                                         |
+| 16–20 | In direct sunlight                                       |
+| 21–25 | Out of direct sunlight                                   |
+| 26–34 | Underwater                                               |
+| 35–37 | Out of water                                             |
+| 38–45 | Underground                                              |
+| 46–55 | Aboveground                                              |
+| 56–60 | Within 10 feet of a random creature type                 |
+| 61–64 | Within 10 feet of a random race or kind of creature      |
+| 65–72 | Within 10 feet of an arcane spellcaster                  |
+| 73–80 | Within 10 feet of a divine spellcaster                   |
+| 81–85 | In the hands of a nonspellcaster                         |
+| 86–90 | In the hands of a spellcaster                            |
+| 91–95 | In the hands of a creature of a particular alignment     |
+| 96    | In the hands of a creature of particular gender          |
+| 97–99 | On nonholy days or during particular astrological events |
+| 100   | More than 100 miles from a particular site               |
 
 *Uncontrolled:* An uncontrolled item occasionally activates at random
-times. Roll d% every day. On a result of 01--05 the item activates at
+times. Roll d% every day. On a result of 01–05 the item activates at
 some random point during that day.
 
 **Requirement:** In a sense, a command word is a requirement.
@@ -739,9 +802,9 @@ functioning, one or more of the following conditions must be met.
 -   Item must be cleansed with holy water each day.
 -   Item must be used to kill a living creature each day.
 -   Item must be bathed in volcanic lava once per month.
--   Item must be used at least once a day, or it won't function again
+-   Item must be used at least once a day, or it won’t function again
     for its current possessor.
--   Item must draw blood when wielded (weapons only). It can't be put
+-   Item must draw blood when wielded (weapons only). It can’t be put
     away or exchanged for another weapon until it has scored a hit.
 -   Item must have a particular spell cast upon it each day (such as
     *bless, atonement,* or *animate objects*).
@@ -761,43 +824,43 @@ items such as weapons), usually the drawback remains with the character
 for as long as she has the item.
 
 Roll on the table below to generate a drawback that (unless otherwise
-indicated) remains in effect as long as the item is in the character's
+indicated) remains in effect as long as the item is in the character’s
 possession.
 
-  -------- ----------------------------------------------------------------------------------------------------------
-  d%       Drawback
-  01--04   Character's hair grows 1 inch longer. Only happens once.
-  05--09   Character either shrinks 1/2 inch (01--50 on d%) or grows that much taller (51--100). Only happens once.
-  10--13   Temperature around item is 10°F cooler than normal.
-  14--17   Temperature around item is 10°F warmer than normal.
-  18--21   Character's hair color changes.
-  22--25   Character's skin color changes.
-  26--29   Character now bears some identifying mark (tattoo, weird glow, or the like).
-  30--32   Character's gender changes.
-  33--34   Character's race or kind changes.
-  35       Character is afflicted with a random disease that cannot be cured.
-  36--39   Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults).
-  40       Item looks ridiculous (garishly colored, silly shape, glows bright pink, . . .).
-  41--45   Character becomes selfishly possessive about the item.
-  46--49   Character becomes paranoid about losing the item and afraid of damage occurring to it.
-  50--51   Character's alignment changes.
-  52--54   Character must attack nearest creature (5% chance \[01--05 on d%\] each day).
-  55--57   Character is stunned for 1d4 rounds once item function is finished (or randomly, 1/day).
-  58--60   Character's vision is blurry (--2 penalty on attack rolls, saves, and skill checks requiring vision).
-  61--64   Character gains one negative level.
-  65       Character gains two negative levels.
-  66--70   Character must make a Will save each day or take 1 point of Intelligence damage.
-  71--75   Character must make a Will save each day or take 1 point of Wisdom damage.
-  76--80   Character must make a Will save each day or take 1 point of Charisma damage.
-  81--85   Character must make a Fortitude save each day or take 1 point of Constitution damage.
-  86--90   Character must make a Fortitude save each day or take 1 point of Strength damage.
-  91--95   Character must make a Fortitude save each day or take 1 point of Dexterity damage.
-  96       Character is polymorphed into a specific creature (5% chance \[01--05 on d%\] each day).
-  97       Character cannot cast arcane spells.
-  98       Character cannot cast divine spells.
-  99       Character cannot cast any spells.
-  100      Either pick one of the above that's appropriate or create a drawback specifically for that item.
-  -------- ----------------------------------------------------------------------------------------------------------
+|       |                                                                                                        |
+|-------|--------------------------------------------------------------------------------------------------------|
+| d%    | Drawback                                                                                               |
+| 01–04 | Character’s hair grows 1 inch longer. Only happens once.                                               |
+| 05–09 | Character either shrinks 1/2 inch (01–50 on d%) or grows that much taller (51–100). Only happens once. |
+| 10–13 | Temperature around item is 10°F cooler than normal.                                                    |
+| 14–17 | Temperature around item is 10°F warmer than normal.                                                    |
+| 18–21 | Character’s hair color changes.                                                                        |
+| 22–25 | Character’s skin color changes.                                                                        |
+| 26–29 | Character now bears some identifying mark (tattoo, weird glow, or the like).                           |
+| 30–32 | Character’s gender changes.                                                                            |
+| 33–34 | Character’s race or kind changes.                                                                      |
+| 35    | Character is afflicted with a random disease that cannot be cured.                                     |
+| 36–39 | Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults).             |
+| 40    | Item looks ridiculous (garishly colored, silly shape, glows bright pink, . . .).                       |
+| 41–45 | Character becomes selfishly possessive about the item.                                                 |
+| 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it.                 |
+| 50–51 | Character’s alignment changes.                                                                         |
+| 52–54 | Character must attack nearest creature (5% chance \[01–05 on d%\] each day).                           |
+| 55–57 | Character is stunned for 1d4 rounds once item function is finished (or randomly, 1/day).               |
+| 58–60 | Character’s vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision).   |
+| 61–64 | Character gains one negative level.                                                                    |
+| 65    | Character gains two negative levels.                                                                   |
+| 66–70 | Character must make a Will save each day or take 1 point of Intelligence damage.                       |
+| 71–75 | Character must make a Will save each day or take 1 point of Wisdom damage.                             |
+| 76–80 | Character must make a Will save each day or take 1 point of Charisma damage.                           |
+| 81–85 | Character must make a Fortitude save each day or take 1 point of Constitution damage.                  |
+| 86–90 | Character must make a Fortitude save each day or take 1 point of Strength damage.                      |
+| 91–95 | Character must make a Fortitude save each day or take 1 point of Dexterity damage.                     |
+| 96    | Character is polymorphed into a specific creature (5% chance \[01–05 on d%\] each day).                |
+| 97    | Character cannot cast arcane spells.                                                                   |
+| 98    | Character cannot cast divine spells.                                                                   |
+| 99    | Character cannot cast any spells.                                                                      |
+| 100   | Either pick one of the above that’s appropriate or create a drawback specifically for that item.       |
 
 ### Specific Cursed Items
 
@@ -810,49 +873,49 @@ of devouring* cannot be created by any known means.
 A simple *detect magic* spell yields a misleading aura and strength,
 often indicating that the item is a noncursed item of similar sort. An
 *identify* spell only has a 1% chance per caster level to reveal a
-cursed item's true properties, including the cursed aspect. *Analyze
+cursed item’s true properties, including the cursed aspect. *Analyze
 dweomer* reveals the true nature of a cursed item.
 
-  -------- --------------------------------- --------------
-  d%       Item                              Market Price
-  01--05   Incense of obsession              200 gp
-  06--15   Ring of clumsiness                500 gp
-  16--20   Amulet of inescapable location    1,000 gp
-  21--25   Stone of weight                   1,000 gp
-  26--30   Bracers of defenselessness        1,200 gp
-  31--35   Gauntlets of fumbling             1,300 gp
-  36--40   --2 sword, cursed                 1,500 gp
-  41--43   Armor of rage                     1,600 gp
-  44--46   Medallion of thought projection   1,800 gp
-  47--52   Flask of curses                   2,100 gp
-  53--54   Dust of sneezing and choking      2,400 gp
-  55       Helm of opposite alignment        4,000 gp
-  56--60   Potion of poison                  5,000 gp
-  61       Broom of animated attack          5,200 gp
-  62--63   Robe of powerlessness             5,500 gp
-  64       Vacuous grimoire                  6,000 gp
-  65--68   Spear, cursed backbiter           7,500 gp
-  69--70   Armor of arrow attraction         9,000 gp
-  71--72   Net of snaring                    10,000 gp
-  73--75   Bag of devouring                  ---
-  76--80   Mace of blood                     16,000 gp
-  81--85   Robe of vermin                    16,500 gp
-  86--88   Periapt of foul rotting           17,000 gp
-  89--92   Sword, berserking                 17,500 gp
-  93--96   Boots of dancing                  30,000 gp
-  97       Crystal hypnosis ball             ---
-  98       Necklace of strangulation         60,000 gp
-  99       Cloak of poisonousness            62,000 gp
-  100      Scarab of death                   80,000 gp
-  -------- --------------------------------- --------------
+|       |                                 |              |
+|-------|---------------------------------|--------------|
+| d%    | Item                            | Market Price |
+| 01–05 | Incense of obsession            | 200 gp       |
+| 06–15 | Ring of clumsiness              | 500 gp       |
+| 16–20 | Amulet of inescapable location  | 1,000 gp     |
+| 21–25 | Stone of weight                 | 1,000 gp     |
+| 26–30 | Bracers of defenselessness      | 1,200 gp     |
+| 31–35 | Gauntlets of fumbling           | 1,300 gp     |
+| 36–40 | –2 sword, cursed                | 1,500 gp     |
+| 41–43 | Armor of rage                   | 1,600 gp     |
+| 44–46 | Medallion of thought projection | 1,800 gp     |
+| 47–52 | Flask of curses                 | 2,100 gp     |
+| 53–54 | Dust of sneezing and choking    | 2,400 gp     |
+| 55    | Helm of opposite alignment      | 4,000 gp     |
+| 56–60 | Potion of poison                | 5,000 gp     |
+| 61    | Broom of animated attack        | 5,200 gp     |
+| 62–63 | Robe of powerlessness           | 5,500 gp     |
+| 64    | Vacuous grimoire                | 6,000 gp     |
+| 65–68 | Spear, cursed backbiter         | 7,500 gp     |
+| 69–70 | Armor of arrow attraction       | 9,000 gp     |
+| 71–72 | Net of snaring                  | 10,000 gp    |
+| 73–75 | Bag of devouring                | —            |
+| 76–80 | Mace of blood                   | 16,000 gp    |
+| 81–85 | Robe of vermin                  | 16,500 gp    |
+| 86–88 | Periapt of foul rotting         | 17,000 gp    |
+| 89–92 | Sword, berserking               | 17,500 gp    |
+| 93–96 | Boots of dancing                | 30,000 gp    |
+| 97    | Crystal hypnosis ball           | —            |
+| 98    | Necklace of strangulation       | 60,000 gp    |
+| 99    | Cloak of poisonousness          | 62,000 gp    |
+| 100   | Scarab of death                 | 80,000 gp    |
 
-  : Table: Specific Cursed Items
+Table: Specific Cursed Items
 
 **Amulet of Inescapable Location:** This device is typically worn on a
 chain or as a brooch. It appears, to magical analysis, to prevent
 location, scrying or detection or influence by *detect thoughts* or
 telepathy. It seems to be an *amulet of proof against detection and
-location*. Actually, the amulet gives the wearer a --10 penalty on all
+location*. Actually, the amulet gives the wearer a –10 penalty on all
 saves against divination spells.
 
 Moderate abjuration; CL 10th; Create Wondrous Item, *bestow curse;*
@@ -861,16 +924,16 @@ Price 1,000 gp.
 **Armor of Arrow Attraction:** Magical analysis indicates that this
 armor is a normal suit of *+3 full plate.* However, the armor is cursed.
 It works normally with regard to melee attacks but actually serves to
-attract ranged weapons. The wearer takes a --15 penalty to AC against
-any attack by a ranged weapon. The true nature of the armor does not
-reveal itself until the character is fired upon in earnest.
+attract ranged weapons. The wearer takes a –15 penalty to AC against any
+attack by a ranged weapon. The true nature of the armor does not reveal
+itself until the character is fired upon in earnest.
 
 Strong abjuration; CL 16th; Craft Magic Arms and Armor, *bestow curse;*
 Price 9,000 gp.
 
 **Armor of Rage:** This armor is similar in appearance to *armor of
 command* and functions as a suit of *+1 full plate*. However, when it is
-worn, the armor causes the character to take a --4 penalty to Charisma.
+worn, the armor causes the character to take a –4 penalty to Charisma.
 All unfriendly characters within 300 feet have a +1 morale bonus on
 attack rolls against her. The effect is not noticeable to the wearer or
 those affected. (In other words, the wearer does not immediately notice
@@ -882,10 +945,10 @@ Price 1,600 gp.
 
 **Bag of Devouring:** This bag appears to be an ordinary sack. Detection
 for magical properties makes it seem as if it were a *bag of holding*.
-The sack is, however, a lure used by an extradimensional creature---in
+The sack is, however, a lure used by an extradimensional creature—in
 fact, one of its feeding orifices.
 
-Any substance of animal or vegetable nature is subject to "swallowing''
+Any substance of animal or vegetable nature is subject to “swallowing’’
 if thrust within the bag. The *bag of devouring* is 90% likely to ignore
 any initial intrusion, but any time thereafter that it senses living
 flesh within (such as if someone reaches into the bag to pull something
@@ -897,7 +960,7 @@ The bag can hold up to 30 cubic feet of matter. It acts as a *bag of
 holding type I,* but each hour it has a 5% cumulative chance of
 swallowing the contents and then spitting the stuff out in some nonspace
 or on some other plane. Creatures drawn within are consumed in 1 round.
-The bag destroys the victim's body and prevents any form of raising or
+The bag destroys the victim’s body and prevents any form of raising or
 resurrection that requires part of the corpse. There is a 50% chance
 that a *wish, miracle,* or *true resurrection* spell can restore a
 devoured victim to life. Check once for each destroyed creature. If the
@@ -920,7 +983,7 @@ Price 30,000 gp.
 **Bracers of Defenselessness:** These appear to be *bracers of armor +5*
 and actually serve as such until the wearer is attacked in anger by an
 enemy with a Challenge Rating equal to or greater than her level. At
-that moment and thereafter, the bracers cause a --5 penalty to AC. Once
+that moment and thereafter, the bracers cause a –5 penalty to AC. Once
 their curse is activated, *bracers of defenselessness* can be removed
 only by means of a *remove curse* spell.
 
@@ -949,7 +1012,7 @@ objects;* Price 5,200 gp.
 
 **Cloak of Poisonousness:** This cloak is usually made of a woolen
 material, although it can be made of leather. A *detect poison* spell
-can reveal the presence of poison impregnated in the cloak's fabric. The
+can reveal the presence of poison impregnated in the cloak’s fabric. The
 garment can be handled without harm, but as soon as it is actually
 donned the wearer is killed instantly unless she succeeds on a DC 28
 Fortitude save.
@@ -993,7 +1056,7 @@ gp.
 **Flask of Curses:** This item looks like an ordinary beaker, bottle,
 container, decanter, flask, or jug. It may contain a liquid, or it may
 emit smoke. When the flask is first unstoppered, all within 30 feet must
-make a DC 17 Will save or be cursed, taking a --2 penalty on attack
+make a DC 17 Will save or be cursed, taking a –2 penalty on attack
 rolls, saving throws, and skill checks until a *remove curse* spell is
 cast upon them.
 
@@ -1019,7 +1082,7 @@ Price 1,300 gp.
 helmet. When placed upon the head, however, its curse immediately takes
 effect (Will DC 15 negates). On a failed save, the alignment of the
 wearer is radically altered to an alignment as different as possible
-from the former alignment---good to evil, chaotic to lawful, neutral to
+from the former alignment—good to evil, chaotic to lawful, neutral to
 some extreme commitment (LE, LG, CE, or CG). Alteration in alignment is
 mental as well as moral, and the individual changed by the magic
 thoroughly enjoys his new outlook. A character who succeeds on his save
@@ -1066,7 +1129,7 @@ the thoughts overheard are muffled and distorted, requiring a DC 15 Will
 save to sort out. However, while the user thinks she is picking up the
 thoughts of others, all she is really hearing are figments created by
 the medallion itself. These illusory thoughts always seem plausible and
-thus can seriously mislead any who rely upon them. What's worse, unknown
+thus can seriously mislead any who rely upon them. What’s worse, unknown
 to her, the cursed medallion actually broadcasts her thoughts to
 creatures in the path of the beam, thus alerting them to her presence.
 
@@ -1076,10 +1139,10 @@ sound;* Price 1,800 gp.
 **Necklace of Strangulation:** A *necklace of strangulation* appears to
 be a rare and wondrous piece of valuable jewelry and, short of the use
 of something as powerful as a *miracle* or a *wish*, can only be
-identified as a cursed item when placed around a character's neck. The
+identified as a cursed item when placed around a character’s neck. The
 necklace immediately constricts, dealing 6 points of damage per round.
 It cannot be removed by any means short of a *limited wish, wish,* or
-*miracle* and remains clasped around the victim's throat even after his
+*miracle* and remains clasped around the victim’s throat even after his
 death. Only when he has decayed to a dry skeleton (after approximately
 one month) does the necklace loosen, ready for another victim.
 
@@ -1119,7 +1182,7 @@ Moderate conjuration; CL 12th; Craft Wondrous Item, *poison;* Price
 
 **Robe of Powerlessness:** A *robe of powerlessness* appears to be a
 magic robe of another sort. As soon as a character dons this garment,
-she takes a --10 penalty to Strength and Intelligence, forgetting spells
+she takes a –10 penalty to Strength and Intelligence, forgetting spells
 and magic knowledge accordingly. The robe can be removed easily, but in
 order to restore mind and body, the character must receive a *remove
 curse* spell followed by *heal*.
@@ -1137,7 +1200,7 @@ all other activities in order to scratch, shift the robe, and generally
 show signs of the extreme discomfort caused by the bites and movement of
 these pests.
 
-The wearer takes a --5 penalty on initiative checks and a --2 penalty on
+The wearer takes a –5 penalty on initiative checks and a –2 penalty on
 all attack rolls, saves, and skill checks. If he tries to cast a spell,
 he must make a Concentration check (DC 20 + spell level) or lose the
 spell.
@@ -1147,7 +1210,7 @@ creator must be at least 13th level; Price 16,500 gp.
 
 **Ring of Clumsiness:** This ring operates exactly like a *ring of
 feather falling*. However, it also makes the wearer clumsy. She takes a
---4 penalty to Dexterity and has a 20% chance of spell failure when
+–4 penalty to Dexterity and has a 20% chance of spell failure when
 trying to cast any arcane spell that has a somatic component. (This
 chance of spell failure stacks with other arcane spell failure chances.)
 
@@ -1159,7 +1222,7 @@ beneficial amulets, brooches, or scarabs. However, if it is held for
 more than 1 round or carried by a living creature for 1 minute, it
 changes into a horrible burrowing beetlelike creature. The thing tears
 through any leather or cloth, burrows into flesh, and reaches the
-victim's heart in 1 round, causing death. A DC 25 Reflex save allows the
+victim’s heart in 1 round, causing death. A DC 25 Reflex save allows the
 wearer to tear the scarab away before it burrows out of sight, but he
 still takes 3d6 points of damage. The beetle then returns to its scarab
 form. Placing the scarab in a container of wood, ceramic, bone, ivory,
@@ -1181,9 +1244,9 @@ Moderate evocation; CL 10th; Craft Magic Arms and Armor, *bestow curse;*
 Price 7,500 gp.
 
 **Stone of Weight (Loadstone):** This stone appears to be a dark,
-smoothly polished stone. It reduces the possessor's base land speed to
+smoothly polished stone. It reduces the possessor’s base land speed to
 one-half of normal. Once picked up, the stone cannot be disposed of by
-any nonmagical means---if it is thrown away or smashed, it reappears
+any nonmagical means—if it is thrown away or smashed, it reappears
 somewhere on his person. If a *remove curse* spell is cast upon a
 *loadstone,* the item may be discarded normally and no longer haunts the
 individual.
@@ -1191,14 +1254,14 @@ individual.
 Faint transmutation; CL 5th; Create Wondrous Item, *slow;* Price 1,000
 gp.
 
-**--2 Sword, Cursed:** This longsword performs well against targets in
+**–2 Sword, Cursed:** This longsword performs well against targets in
 practice, but when used against an opponent in combat, it causes its
-wielder to take a --2 penalty on attack rolls.
+wielder to take a –2 penalty on attack rolls.
 
 All damage dealt is also reduced by 2 points, but never below a minimum
 of 1 point of damage on any successful hit. After one week in a
-character's possession, the sword always forces that character to employ
-it rather than another weapon. The sword's owner automatically draws it
+character’s possession, the sword always forces that character to employ
+it rather than another weapon. The sword’s owner automatically draws it
 and fights with it even when she meant to draw or ready some other
 weapon. The sword can be gotten rid of only by means of *limited wish*,
 *wish,* or *miracle*.
@@ -1209,7 +1272,7 @@ and *limited wish* or *miracle;* Price 1,500 gp.
 **Sword, Berserking:** This item appears to have the characteristics of
 a *+2 greatsword.* However, whenever the sword is used in battle, its
 wielder goes berserk (gaining all the benefits and drawbacks of the
-barbarian's rage ability). He attacks the nearest creature and continues
+barbarian’s rage ability). He attacks the nearest creature and continues
 to fight until unconscious or dead or until no living thing remains
 within 30 feet. Although many see this sword as a cursed object, others
 see it as a boon.
@@ -1235,7 +1298,7 @@ Strong enchantment; CL 20th; Create Wondrous Item, *feeblemind;* Price
 Artifacts are extremely powerful. Rather than merely another form of
 magic equipment, they are the sorts of legendary relics that whole
 campaigns can be based on. Each could be the center of a whole set of
-adventures---a quest to recover it, a fight against a opponent wielding
+adventures—a quest to recover it, a fight against a opponent wielding
 it, a mission to cause its destruction, and so on.
 
 No table has been included to randomly generate specific artifacts,
@@ -1258,23 +1321,22 @@ class the ability to use the spells within its pages. However, any
 character not already able to use spells gains one negative level for as
 long as the book is in her possession or while she uses its power. A
 *book of infinite spells* contains 1d8+22 pages. The nature of each page
-is determined by a dice roll: 01--50, arcane spell; 51--100, divine
-spell.
+is determined by a dice roll: 01–50, arcane spell; 51–100, divine spell.
 
 Determine the exact spell by using the tables for determining major
 scroll spells.
 
-Once a page is turned, it can never be flipped back---paging through a
+Once a page is turned, it can never be flipped back—paging through a
 *book of infinite spells* is a one-way trip. If the book is closed, it
 always opens again to the page it was on before the book was closed.
 When the last page is turned, the book vanishes.
 
 Once per day the owner of the book can cast the spell to which the book
-is opened. If that spell happens to be one that is on the character's
+is opened. If that spell happens to be one that is on the character’s
 class spell list, she can cast it up to four times per day. The pages
 cannot be ripped out without destroying the book. Similarly, the spells
 cannot be cast as scroll spells, nor can they be copied into a
-spellbook---their magic is bound up permanently within the book itself.
+spellbook—their magic is bound up permanently within the book itself.
 
 The owner of the book need not have the book on her person in order to
 use its power. The book can be stored in a place of safety while the
@@ -1287,13 +1349,13 @@ The owner knows this and may even benefit from the turning by gaining
 access to a new spell. The chance of a page turning depends on the spell
 the page contains and what sort of spellcaster the owner is.
 
-  ------------------------------------------------------------ ------------------------
-  Condition                                                    Chance of Page Turning
-  Caster employing a spell usable by own class and level       10%
-  Caster employing a spell not usable by own class and level   20%
-  Nonspellcaster employing divine spell                        25%
-  Nonspellcaster employing arcane spell                        30%
-  ------------------------------------------------------------ ------------------------
+|                                                            |                        |
+|------------------------------------------------------------|------------------------|
+| Condition                                                  | Chance of Page Turning |
+| Caster employing a spell usable by own class and level     | 10%                    |
+| Caster employing a spell not usable by own class and level | 20%                    |
+| Nonspellcaster employing divine spell                      | 25%                    |
+| Nonspellcaster employing arcane spell                      | 30%                    |
 
 Treat each spell use as if a scroll were being employed, for purposes of
 determining casting time, spell failure, and so on.
@@ -1325,32 +1387,32 @@ accompanying table. If no tarot deck is available, substitute ordinary
 playing cards instead, as indicated in the third column. The effects of
 each card, summarized on the table, are fully described below.
 
-  --------------------- ---------------------- --------------------------- ------------------------------------------------------------------
-  Deck of Many Things                                                      
-  Plaque                Tarot Card             Playing Card                Summary of Effect
-  Balance               XI\. Justice           Two of spades               Change alignment instantly.
-  Comet                 Two of swords          Two of diamonds             Defeat the next monster you meet to gain one level.
-  Donjon                Four of swords         Ace of spades               You are *imprisoned*.
-  Euryale               Ten of swords          Queen of spades             --1 penalty on all saving throws henceforth.
-  The Fates             Three of cups          Ace of hearts               Avoid any situation you choose . . . once.
-  Flames                XV\. The Devil         Queen of clubs              Enmity between you and an outsider.
-  Fool                  0\. The Fool           Joker (with trademark)      Lose 10,000 experience points and you must draw again.
-  Gem                   Seven of cups          Two of hearts               Gain your choice of twenty-five pieces of jewelry or fifty gems.
-  Idiot                 Two of pentacles       Two of clubs                Lose Intelligence (permanent drain). You may draw again.
-  Jester                XII\. The Hanged Man   Joker (without trademark)   Gain 10,000 XP or two more draws from the deck.
-  Key                   V. The Hierophant      Queen of hearts             Gain a major magic weapon.
-  Knight                Page of swords         Jack of hearts              Gain the service of a 4th-level fighter.
-  Moon                  XVIII\. The Moon       Queen of diamonds           You are granted 1d4 wishes.
-  Rogue                 Five of swords         Jack of spades              One of your friends turns against you.
-  Ruin                  XVI\. The Tower        King of spades              Immediately lose all wealth and real property.
-  Skull                 XIII\. Death           Jack of clubs               Defeat dread wraith or be forever destroyed.
-  Star                  XVII\. The Star        Jack of diamonds            Immediately gain a +2 inherent bonus to one ability score.
-  Sun                   XIX\. The Sun          King of diamonds            Gain beneficial medium wondrous item and 50,000 XP.
-  Talons                Queen of pentacles     Ace of clubs                All magic items you possess disappear permanently.
-  Throne                Four of staves         King of hearts              Gain a +6 bonus on Diplomacy checks plus a small keep.
-  Vizier                IX\. The Hermit        Ace of diamonds             Know the answer to your next dilemma.
-  The Void              Eight of swords        King of clubs               Body functions, but soul is trapped elsewhere.
-  --------------------- ---------------------- --------------------------- ------------------------------------------------------------------
+|                     |                      |                           |                                                                  |
+|---------------------|----------------------|---------------------------|------------------------------------------------------------------|
+| Deck of Many Things |                      |                           |                                                                  |
+| Plaque              | Tarot Card           | Playing Card              | Summary of Effect                                                |
+| Balance             | XI\. Justice         | Two of spades             | Change alignment instantly.                                      |
+| Comet               | Two of swords        | Two of diamonds           | Defeat the next monster you meet to gain one level.              |
+| Donjon              | Four of swords       | Ace of spades             | You are *imprisoned*.                                            |
+| Euryale             | Ten of swords        | Queen of spades           | –1 penalty on all saving throws henceforth.                      |
+| The Fates           | Three of cups        | Ace of hearts             | Avoid any situation you choose . . . once.                       |
+| Flames              | XV\. The Devil       | Queen of clubs            | Enmity between you and an outsider.                              |
+| Fool                | 0\. The Fool         | Joker (with trademark)    | Lose 10,000 experience points and you must draw again.           |
+| Gem                 | Seven of cups        | Two of hearts             | Gain your choice of twenty-five pieces of jewelry or fifty gems. |
+| Idiot               | Two of pentacles     | Two of clubs              | Lose Intelligence (permanent drain). You may draw again.         |
+| Jester              | XII\. The Hanged Man | Joker (without trademark) | Gain 10,000 XP or two more draws from the deck.                  |
+| Key                 | V. The Hierophant    | Queen of hearts           | Gain a major magic weapon.                                       |
+| Knight              | Page of swords       | Jack of hearts            | Gain the service of a 4th-level fighter.                         |
+| Moon                | XVIII\. The Moon     | Queen of diamonds         | You are granted 1d4 wishes.                                      |
+| Rogue               | Five of swords       | Jack of spades            | One of your friends turns against you.                           |
+| Ruin                | XVI\. The Tower      | King of spades            | Immediately lose all wealth and real property.                   |
+| Skull               | XIII\. Death         | Jack of clubs             | Defeat dread wraith or be forever destroyed.                     |
+| Star                | XVII\. The Star      | Jack of diamonds          | Immediately gain a +2 inherent bonus to one ability score.       |
+| Sun                 | XIX\. The Sun        | King of diamonds          | Gain beneficial medium wondrous item and 50,000 XP.              |
+| Talons              | Queen of pentacles   | Ace of clubs              | All magic items you possess disappear permanently.               |
+| Throne              | Four of staves       | King of hearts            | Gain a +6 bonus on Diplomacy checks plus a small keep.           |
+| Vizier              | IX\. The Hermit      | Ace of diamonds           | Know the answer to your next dilemma.                            |
+| The Void            | Eight of swords      | King of clubs             | Body functions, but soul is trapped elsewhere.                   |
 
 *Balance:* The character must change to a radically different alignment.
 If the character fails to act according to the new alignment, she gains
@@ -1360,12 +1422,12 @@ a negative level.
 monster or monsters encountered, or the benefit is lost. If successful,
 the character gains enough XP to attain the next experience level.
 
-*Donjon:* This card signifies imprisonment--- either by the
-*imprisonment* spell or by some powerful being. All gear and spells are
-stripped from the victim in any case. Draw no more cards.
+*Donjon:* This card signifies imprisonment— either by the *imprisonment*
+spell or by some powerful being. All gear and spells are stripped from
+the victim in any case. Draw no more cards.
 
 *Euryale:* The medusalike visage of this card brings a curse that only
-the fates card or a deity can remove. The --1 penalty on all saving
+the fates card or a deity can remove. The –1 penalty on all saving
 throws is otherwise permanent.
 
 *Fates:* This card enables the character to avoid even an instantaneous
@@ -1376,7 +1438,7 @@ is only for the character who drew the card; other party members may
 have to endure the situation.
 
 *Flames:* Hot anger, jealousy, and envy are but a few of the possible
-motivational forces for the enmity. The enmity of the outsider can't be
+motivational forces for the enmity. The enmity of the outsider can’t be
 ended until one of the parties has been slain. Determine the outsider
 randomly, and assume that it attacks the character (or plagues her life
 in some way) within 1d20 days.
@@ -1394,7 +1456,7 @@ immediately. The additional draw is optional.
 except the fool. The redraws are optional.
 
 *Key:* The magic weapon granted must be one usable by the character. It
-suddenly appears out of nowhere in the character's hand.
+suddenly appears out of nowhere in the character’s hand.
 
 *Knight:* The fighter appears out of nowhere and serves loyally until
 death. He or she is of the same race (or kind) and gender as the
@@ -1407,7 +1469,7 @@ four; gibbous = three; half = two; quarter = one). These *wishes* are
 the same as those granted by the 9th-level wizard spell and must be used
 within a number of minutes equal to the number received.
 
-*Rogue:* When this card is drawn, one of the character's NPC friends
+*Rogue:* When this card is drawn, one of the character’s NPC friends
 (preferably a cohort) is totally alienated and forever after
 
 hostile. If the character has no cohorts, the enmity of some powerful
@@ -1419,8 +1481,8 @@ devastating effect.
 possessions of the drawer are lost.
 
 *Skull:* A dread wraith appears. Treat this creature as an unturnable
-undead. The character must fight it alone---if others help, they get
-dread wraiths to fight as well. If the character is slain, she is slain
+undead. The character must fight it alone—if others help, they get dread
+wraiths to fight as well. If the character is slain, she is slain
 forever and cannot be revived, even with a *wish* or a *miracle*.
 
 *Star:* The 2 points are added to any ability the character chooses.
@@ -1431,7 +1493,7 @@ They cannot be divided among two abilities.
 *Talons:* When this card is drawn, every magic item owned or possessed
 by the character is instantly and irrevocably gone.
 
-*Throne:* The character becomes a true leader in people's eyes. The
+*Throne:* The character becomes a true leader in people’s eyes. The
 castle gained appears in any open area she wishes (but the decision
 where to place it must be made within 1 hour).
 
@@ -1442,9 +1504,9 @@ single problem or answer fully any question upon her request. The query
 or request must be made within one year. Whether the information gained
 can be successfully acted upon is another question entirely.
 
-*The Void:* This black card spells instant disaster. The character's
+*The Void:* This black card spells instant disaster. The character’s
 body continues to function, as though comatose, but her psyche is
-trapped in a prison somewhere---in an object on a far plane or planet,
+trapped in a prison somewhere—in an object on a far plane or planet,
 possibly in the possession of an outsider. A *wish* or a *miracle* does
 not bring the character back, instead merely revealing the plane of
 entrapment. Draw no more cards.
@@ -1462,17 +1524,17 @@ using this weapon), and strikes dead any giant upon whom it scores a hit
 
 When hurled, on a successful attack the hammer emits a great noise, like
 a clap of thunder, causing all creatures within 90 feet to be stunned
-for 1 round (Fortitude DC 15 negates). The hammer's range increment is
+for 1 round (Fortitude DC 15 negates). The hammer’s range increment is
 30 feet.
 
 Strong evocation, necromancy, and transmutation; CL 20th; Weight 15 lb.
 
-**Philosopher's Stone:** This rare substance appears to be an ordinary,
+**Philosopher’s Stone:** This rare substance appears to be an ordinary,
 sooty piece of blackish rock. If the stone is broken open (break DC 20),
-a cavity is revealed at the stone's heart. This cavity is lined with a
+a cavity is revealed at the stone’s heart. This cavity is lined with a
 magical type of quicksilver that enables any arcane spellcaster to
 transmute base metals (iron and lead) into silver and gold. A single
-*philosopher's stone* can turn from up to 5,000 pounds of iron into
+*philosopher’s stone* can turn from up to 5,000 pounds of iron into
 silver, or up to 1,000 pounds of lead into gold. However, the
 quicksilver becomes unstable once the stone is opened and loses its
 potency within 24 hours, so all transmutations must take place within
@@ -1496,7 +1558,7 @@ A *sphere of annihilation* is static, resting in some spot as if it were
 a normal hole. It can be caused to move, however, by mental effort
 (think of this as a mundane form of telekinesis, too weak to move actual
 objects but a force to which the sphere, being weightless, is
-sensitive). A character's ability to gain control of a *sphere of
+sensitive). A character’s ability to gain control of a *sphere of
 annihilation* (or to keep controlling one) is based on the result of a
 control check against DC 30 (a move action). A control check is 1d20 +
 character level + character Int modifier. If the check succeeds, the
@@ -1508,8 +1570,8 @@ character need not approach too closely). Once control is established,
 it must be maintained by continuing to make control checks (all DC 30)
 each round. For as long as a character maintains control (does not fail
 a check) in subsequent rounds, he can control the sphere from a distance
-of 40 feet + 10 feet per character level. The sphere's speed in a round
-is 10 feet +5 feet for every 5 points by which the character's control
+of 40 feet + 10 feet per character level. The sphere’s speed in a round
+is 10 feet +5 feet for every 5 points by which the character’s control
 check result in that round exceeded 30.
 
 If a control check fails, the sphere slides 10 feet in the direction of
@@ -1520,8 +1582,8 @@ the rolls are opposed. If none are successful, the sphere slips toward
 the one who rolled lowest.
 
 Should a *gate* spell be cast upon a *sphere of annihilation*, there is
-a 50% chance (01--50 on d%) that the spell destroys it, a 35% chance
-(51--85) that the spell does nothing, and a 15% chance (86--100) that a
+a 50% chance (01–50 on d%) that the spell destroys it, a 35% chance
+(51–85) that the spell does nothing, and a 15% chance (86–100) that a
 gap is torn in the spatial fabric, catapulting everything within a
 180-foot radius into another plane. If a *rod of cancellation* touches a
 *sphere of annihilation*,
@@ -1529,7 +1591,7 @@ gap is torn in the spatial fabric, catapulting everything within a
 they negate each other in a tremendous explosion. Everything within a
 60-foot radius takes 2d6x10 points of damage. *Dispel*
 
-*magic* and *mage's disjunction* have no effect on a sphere.
+*magic* and *mage’s disjunction* have no effect on a sphere.
 
 See also *talisman of the sphere* (below).
 
@@ -1538,7 +1600,7 @@ Strong transmutation; CL 20th.
 **Staff of the Magi:** A long wooden staff, shod in iron and inscribed
 with sigils and runes of all types, this potent artifact contains many
 spell powers and other functions. Some of its powers use charges, while
-others don't. The following powers do not use charges:
+others don’t. The following powers do not use charges:
 
 -   *Detect magic*
 -   *Enlarge person* (Fortitude DC 15 negates)
@@ -1586,8 +1648,8 @@ feet away take points equal to 6 times the number of charges, and those
 21 feet to 30 feet distant take 4 times the number of charges. A DC 17
 Reflex save reduces damage by half.
 
-The character breaking the staff has a 50% chance (01--50 on d%) of
-traveling to another plane of existence, but if she does not (51--100),
+The character breaking the staff has a 50% chance (01–50 on d%) of
+traveling to another plane of existence, but if she does not (51–100),
 the explosive release of spell energy destroys her. Only specific items,
 including the *staff of the magi* and the *staff of power* are capable
 of a retributive strike.
@@ -1616,7 +1678,7 @@ useless to those unable to cast arcane spells. Characters
 who cannot cast arcane spells take 5d6 points of damage merely from
 picking up and holding a talisman of this sort. However, when held by an
 arcane spellcaster who is concentrating on control of a *sphere of
-annihilation,* a *talisman of the sphere* doubles the character's
+annihilation,* a *talisman of the sphere* doubles the character’s
 modifier on his control check (doubling both his Intelligence bonus and
 his character level for this purpose).
 
@@ -1624,7 +1686,7 @@ If the wielder of a talisman establishes control, he need check for
 maintaining control only every other round thereafter. If control is not
 established, the sphere moves toward him. Note that while many spells
 and effects of cancellation have no effect upon a *sphere of
-annihilation,* the talisman's power of control can be suppressed or
+annihilation,* the talisman’s power of control can be suppressed or
 canceled.
 
 Strong transmutation; CL 16th;Weight 1 lb.
@@ -1646,7 +1708,7 @@ disappears.
 If he rolls a natural 20, the character finds it impossible to be rid of
 the talisman for as many months as he has points of Charisma. In
 addition, the artifact grants him one *wish* for every 6 points of the
-character's Charisma. It also grows warm and throbs whenever its
+character’s Charisma. It also grows warm and throbs whenever its
 possessor comes within 20 feet of a mechanical or magic trap. (If the
 talisman is not held, its warning heat and pulses are of no avail.)
 
@@ -1675,7 +1737,7 @@ Strong evocation \[evil\]; CL 18th.
 
 ### Major Artifacts
 
-Major artifacts are unique items---only one of each such item exists.
+Major artifacts are unique items—only one of each such item exists.
 These are the most potent of magic items, capable of altering the
 balance of a campaign.
 
@@ -1705,16 +1767,16 @@ and saving throw bonuses of the dragon within. These values replace
 whatever values the character would otherwise have, whether they are
 better or worse. These values cannot be modified by any means short of
 ridding the character of the *Orb.* A character possessing an *Orb of
-Dragonkind* is immune to the breath weapon---but only the breath
-weapon---of the dragon variety keyed to the *Orb.* Finally, a character
-possessing an *Orb* can herself use the breath weapon of the dragon in
-the *Orb* three times per day.
+Dragonkind* is immune to the breath weapon—but only the breath weapon—of
+the dragon variety keyed to the *Orb.* Finally, a character possessing
+an *Orb* can herself use the breath weapon of the dragon in the *Orb*
+three times per day.
 
 All *Orbs of Dragonkind* can be used to communicate verbally and
 visually with the possessors of the other *Orbs.* The owner of an *Orb*
 knows whether there are dragons within 10 miles at all times. For
-dragons of the *Orb*'s particular variety, the range is 100 miles. If
-within 1 mile of a dragon of the *Orb*'s variety, the wielder can
+dragons of the *Orb*’s particular variety, the range is 100 miles. If
+within 1 mile of a dragon of the *Orb*’s variety, the wielder can
 determine the exact location and age of the creature. The bearer of one
 of these *Orbs* earns the enmity forever of all dragonkind for profiting
 by the enslavement of one of their kin, even if she later loses the
@@ -1729,9 +1791,9 @@ round at 10th caster level.
 -   *Bronze Dragon Orb: Scrying* (Will DC 18 negates).
 -   *Copper Dragon Orb: Suggestion* (Will DC 17 negates).
 -   *Gold Dragon Orb:* The owner of the gold *Orb* can call upon any
-    power possessed by one of the other *Orbs*---including the
-    *dominate* and breath weapon abilities but not AC, save bonuses, or
-    breath weapon immunity---but can only use an individual
+    power possessed by one of the other *Orbs*—including the *dominate*
+    and breath weapon abilities but not AC, save bonuses, or breath
+    weapon immunity—but can only use an individual
 
 power once per day. She can use *dominate* on any other possessor of an
 *Orb* within 1 mile (Will DC 23 negates).
@@ -1742,8 +1804,8 @@ power once per day. She can use *dominate* on any other possessor of an
 -   *White Dragon Orb: Protection from energy (cold)* (Fortitude DC 17
     negates).
 
-**The Saint's Mace:** This relic appears to be a simple, well-used
-cudgel, but its simple appearance hides great power. The *saint's mace*
+**The Saint’s Mace:** This relic appears to be a simple, well-used
+cudgel, but its simple appearance hides great power. The *saint’s mace*
 has a +5 enhancement bonus and functions as a heavy mace with the holy,
 lawful, and disruption special abilities. The wielder can project
 *searing light* from the mace at will, at caster level 20th.
@@ -1753,7 +1815,7 @@ together the wispy strands of shadow itself into a twisted black staff.
 The *Shadowstaff* makes the wielder slightly shadowy and incorporeal,
 granting him a +4 bonus to AC and Reflex saves (which stacks with any
 other bonuses). However, in bright light (such as that of the sun, but
-not a torch) or in absolute darkness, the wielder takes a --2 penalty on
+not a torch) or in absolute darkness, the wielder takes a –2 penalty on
 all attack rolls, saves, and checks.
 
 The *Shadowstaff* also has these powers.
@@ -1775,10 +1837,10 @@ The Shield of the Sun: This *+5 large shield,* emblazoned with the
 symbol of the sun, allows the wielder to cast spells as if she were a
 20th-level paladin with a Wisdom score of 20. The spells gained are
 cumulative with any existing spells per day that the character might
-have, even if she's already a paladin. The *Shield of the Sun* also
+have, even if she’s already a paladin. The *Shield of the Sun* also
 grants spell resistance 15 to its wielder. It absorbs the first 10
 points of damage from any energy attack (fire, cold, acid, electricity,
-or sonic). In return for all this, once per year the shield's owner must
+or sonic). In return for all this, once per year the shield’s owner must
 undertake a quest (no saving throw to avoid) at the behest of a lawful
 good deity.
 
@@ -1787,4 +1849,4 @@ negative levels if she attempts to use this artifact. Although these
 negative levels never results in actual level loss, they remain as long
 as the shield is in hand and cannot be overcome in any way (including
 *restoration* spells). The negative levels disappear when the shield is
-stowed or leaves the wearer's possession.
+stowed or leaves the wearer’s possession.

@@ -76,7 +76,7 @@ clothing, and much more.
 
 ## Magic Items and Detect Magic
 
-When *detect magic* identifies a magic item's school of magic, this
+When *detect magic* identifies a magic item’s school of magic, this
 information refers to the school of the spell placed within the potion,
 scroll, or wand, or the prerequisite given for the item. The description
 of each item provides its aura strength and the school it belongs to.
@@ -85,12 +85,12 @@ If more than one spell is given as a prerequisite, use the highest-level
 spell. If no spells are included in the prerequisites, use the following
 default guidelines.
 
-  ---------------------------------------------- ---------------
-  Item Nature                                    School
-  Armor and protection items                     Abjuration
-  Weapons or offensive items                     Evocation
-  Bonus to ability score, on skill check, etc.   Transmutation
-  ---------------------------------------------- ---------------
+|                                              |               |
+|----------------------------------------------|---------------|
+| Item Nature                                  | School        |
+| Armor and protection items                   | Abjuration    |
+| Weapons or offensive items                   | Evocation     |
+| Bonus to ability score, on skill check, etc. | Transmutation |
 
 ## Using Items
 
@@ -112,20 +112,20 @@ The four ways to activate magic items are described below.
 **Spell Completion:** This is the activation method for scrolls. A
 scroll is a spell that is mostly finished. The preparation is done for
 the caster, so no preparation time is needed beforehand as with normal
-spellcasting. All that's left to do is perform the finishing parts of
+spellcasting. All that’s left to do is perform the finishing parts of
 the spellcasting (the final gestures, words, and so on). To use a spell
 completion item safely, a character must be of high enough level in the
-right class to cast the spell already. If he can't already cast the
-spell, there's a chance he'll make a mistake. Activating a spell
+right class to cast the spell already. If he can’t already cast the
+spell, there’s a chance he’ll make a mistake. Activating a spell
 completion item is a standard action and provokes attacks of opportunity
 exactly as casting a spell does.
 
 **Spell Trigger:** Spell trigger activation is similar to spell
-completion, but it's even simpler. No gestures or spell finishing is
+completion, but it’s even simpler. No gestures or spell finishing is
 needed, just a special knowledge of spellcasting that an appropriate
 character would know, and a single word that must be spoken. Anyone with
 a spell on his or her spell list knows how to use a spell trigger item
-that stores that spell. (This is the case even for a character who can't
+that stores that spell. (This is the case even for a character who can’t
 actually cast spells, such as a 3rd-level paladin.) The user must still
 determine what spell is stored in the item before she can activate it.
 Activating a spell trigger item is a standard action and does not
@@ -165,7 +165,7 @@ straightforward and self-explanatory.
 
 Many use-activated items are objects that a character wears. Continually
 functioning items are practically always items that one wears. A few
-must simply be in the character's possession (on his person). However,
+must simply be in the character’s possession (on his person). However,
 some items made for wearingmust still be activated. Although this
 activation sometimes requires a command word (see above), usually it
 means mentally willing the activation to happen. The description of an
@@ -176,10 +176,10 @@ a standard action or not an action at all and does not provoke attacks
 of opportunity, unless the use involves performing an action that
 provokes an attack of opportunity in itself. If the use of the item
 takes time before a magical effect occurs, then use activation is a
-standard action. If the item's activation is subsumed in its use and
+standard action. If the item’s activation is subsumed in its use and
 takes no extra time use activation is not an action at all.
 
-Use activation doesn't mean that if you use an item, you automatically
+Use activation doesn’t mean that if you use an item, you automatically
 know what it can do. You must know (or at least guess) what the item can
 do and then use the item in order to activate it, unless the benefit of
 the item comes automatically, such from drinking a potion or swinging a
@@ -188,20 +188,20 @@ sword.
 ## Size and Magic Items
 
 When an article of magic clothing or jewelry is discovered, most of the
-time size shouldn't be an issue. Many magic garments are made to be
+time size shouldn’t be an issue. Many magic garments are made to be
 easily adjustable, or they adjust themselves magically to the wearer.
 Size should not keep characters of various kinds from using magic items.
 
 There may be rare exceptions, especially with racial specific items.
 
 **Armor and Weapon Sizes:** Armor and weapons that are found at random
-have a 30% chance of being Small (01--30), a 60% chance of being Medium
-(31--90), and a 10% chance of being any other size (91--100).
+have a 30% chance of being Small (01–30), a 60% chance of being Medium
+(31–90), and a 10% chance of being any other size (91–100).
 
 ## Magic Items on the Body
 
 Many magic items need to be donned by a character who wants to employ
-them or benefit from their abilities. It's possible for a creature with
+them or benefit from their abilities. It’s possible for a creature with
 a humanoid-shaped body to wear as many as twelve magic items at the same
 time. However, each of those items must be worn on (or over) a
 particular part of the body.
@@ -230,7 +230,7 @@ type as he wishes. However, additional items beyond those listed above
 have no effect.
 
 Some itemscan be worn or carried without taking up space on a
-character's body. The description of an item indicates when an item has
+character’s body. The description of an item indicates when an item has
 this property.
 
 ## Saving Throws Against Magic Item Powers
@@ -250,13 +250,13 @@ level otherwise difficult to determine quickly).
 
 ## Damaging Magic Items
 
-A magic item doesn't need to make a saving throw unless it is
+A magic item doesn’t need to make a saving throw unless it is
 unattended, it is specifically targeted by the effect, or its wielder
 rolls a natural 1 on his save. Magic items should always get a saving
-throw against spells that might deal damage to them--- even against
+throw against spells that might deal damage to them— even against
 attacks from which a nonmagical item would normally get no chance to
 save. Magic items use the same saving throw bonus for all saves, no
-matter what the type (Fortitude, Reflex, or Will). A magic item's saving
+matter what the type (Fortitude, Reflex, or Will). A magic item’s saving
 throw bonus equals 2 + one-half its caster level (round down). The only
 exceptions to this are intelligent magic items, which make Will saves
 based on their own Wisdom scores.
@@ -270,7 +270,7 @@ destroyed, all its magical power is lost.
 Some magic items take damage over the course of an adventure. It costs
 no more to repair a magic item with the Craft skill than it does to
 repair its nonmagical counterpart. The *make whole* spell also repairs a
-damaged---but not completely broken---magic item.
+damaged—but not completely broken—magic item.
 
 ## Intelligent Items
 
@@ -283,11 +283,11 @@ In general, less than 1% of magic items have intelligence.
 
 ## Cursed Items
 
-Some items are cursed---incorrectly made, or corrupted by outside
-forces. Cursed items might be particularly dangerous to the user, or
-they might be normal items with a minor flaw, an inconvenient
-requirement, or an unpredictable nature. Randomly generated items are
-cursed 5% of the time.
+Some items are cursed—incorrectly made, or corrupted by outside forces.
+Cursed items might be particularly dangerous to the user, or they might
+be normal items with a minor flaw, an inconvenient requirement, or an
+unpredictable nature. Randomly generated items are cursed 5% of the
+time.
 
 ## Charges, Doses, and Multiple Uses
 
@@ -299,11 +299,11 @@ minimum 1). If the item has a maximum number of charges other than 50,
 roll randomly to determine how many charges are left.
 
 Prices listed are always for fully charged items. (When an item is
-created, it is fully charged.) For an item that's worthless when its
+created, it is fully charged.) For an item that’s worthless when its
 charges run out (which is the case for almost all charged items), the
 value of the partially used item is proportional to the number of
 charges left. For an item that has usefulness in addition to its
-charges, only part of the item's value is based on the number of charges
+charges, only part of the item’s value is based on the number of charges
 left.
 
 ## Magic Item Descriptions
@@ -314,12 +314,12 @@ descriptions of specific items.
 General descriptions include notes on activation, random generation, and
 other material. The AC, hardness, hit points, and break DC are given for
 typical examples of some magic items. The AC assumes that the item is
-unattended and includes a --5 penalty for the item's effective Dexterity
-of 0. If a creature holds the item, use the creature's Dexterity
-modifier in place of the --5 penalty.
+unattended and includes a –5 penalty for the item’s effective Dexterity
+of 0. If a creature holds the item, use the creature’s Dexterity
+modifier in place of the –5 penalty.
 
 Some individual items, notably those that simply store spells and
-nothing else, don't get full-blown descriptions. Reference the spell's
+nothing else, don’t get full-blown descriptions. Reference the spell’s
 description for details, modified by the form of the item (potion,
 scroll, wand, and so on). Assume that the spell is cast at the minimum
 level required to cast it
@@ -331,19 +331,19 @@ description.
 -   Aura: Most of the time, a *detect magic* spell will reveal the
     school of magic associated with a magic item and the strength of the
     aura an item emits. This information (when applicable) is given at
-    the beginning of the item's notational entry. See the *detect magic*
+    the beginning of the item’s notational entry. See the *detect magic*
     spell descriptionfor details.
 
 -   <div>
 
     Caster Level: The next item in a notational entry gives the caster
     level of the item, indicating its relative power. The caster level
-    determines the item's saving throw bonus, as well as range or other
+    determines the item’s saving throw bonus, as well as range or other
     level-dependent aspects of the powers of the item (if variable). It
     also determines the level that must be contended with should the
     item come under the effect of a *dispel magic* spell or similar
-    situation. This information is given in the form "CL x," where "CL"
-    is an abbreviation for caster level and "x" is an ordinal number
+    situation. This information is given in the form “CL x,” where “CL”
+    is an abbreviation for caster level and “x” is an ordinal number
     representing the caster level itself.
 
     </div>
@@ -354,9 +354,9 @@ description.
     level of an item at any number high enough to cast the stored spell
     and not higher than her own caster level. For other magic items, the
     caster level is determined by the item itself. In this case, the
-    creator's caster level must be as high as the item's caster level
+    creator’s caster level must be as high as the item’s caster level
     (and prerequisites may effectively put a higher minimum on the
-    creator's level).
+    creator’s level).
 
     </div>
 
@@ -366,7 +366,7 @@ description.
     character to create a magic item. These include feats, spells, and
     miscellaneous requirements such as level, alignment, and race or
     kind. The prerequisites for creation of an item are given
-    immediately following the item's caster level.
+    immediately following the item’s caster level.
 
     </div>
 
@@ -395,7 +395,7 @@ description.
 
     If two or more characters cooperate to create an item, they must
     agree among themselves who will be considered the creator for the
-    purpose of determinations where the creator's level must be known.
+    purpose of determinations where the creator’s level must be known.
     The character designated as the creator pays the XP required to make
     the item.
 
@@ -410,14 +410,14 @@ description.
 
     <div>
 
-    When two spells at the end of a list are separated by "or," one of
+    When two spells at the end of a list are separated by “or,” one of
     those spells is required in addition to every other spell mentioned
     prior to the last two.
 
     </div>
 
 -   Market Price: This gold piece value, given following the word
-    "Price," represents the price someone should expect to pay to buy
+    “Price,” represents the price someone should expect to pay to buy
     the item. The market price for an item that can be constructed with
     an item creation feat is usually equal to the base price plus the
     price for any components (material or XP).
@@ -431,7 +431,7 @@ description.
 
     <div>
 
-    "Cost." This information appears only for items with components
+    “Cost.” This information appears only for items with components
     (material or XP), which make their market prices higher than their
     base prices. The cost to create includes the costs derived from the
     base cost plus the costs of the components.
@@ -440,41 +440,41 @@ description.
 
     <div>
 
-    Items without components do not have a "Cost" entry. For them, the
+    Items without components do not have a “Cost” entry. For them, the
     market price and the base price are the same. The cost in gp is 1/2
     the market price, and the cost in XP is 1/25 the market price.
 
     </div>
 
 -   Weight: The notational entry for many wondrous items ends with a
-    value for the item's weight. When a weight figure is not given, the
+    value for the item’s weight. When a weight figure is not given, the
     item has no weight worth noting (for purposes of determining how
     much of a load a character can carry).
 
-  --------- --------- --------- -------------------
-  Minor     Medium    Major     Item
-  01--04    01--10    01--10    Armor and shields
-  05--09    11--20    11--20    Weapons
-  10--44    21--30    21--25    Potions
-  45--46    31--40    26--35    Rings
-  ---       41--50    36--45    Rods
-  47--81    51--65    46--55    Scrolls
-  ---       66--68    56--75    Staffs
-  82--91    69--83    76--80    Wands
-  92--100   84--100   81--100   Wondrous items
-  --------- --------- --------- -------------------
+|        |        |        |                   |
+|--------|--------|--------|-------------------|
+| Minor  | Medium | Major  | Item              |
+| 01–04  | 01–10  | 01–10  | Armor and shields |
+| 05–09  | 11–20  | 11–20  | Weapons           |
+| 10–44  | 21–30  | 21–25  | Potions           |
+| 45–46  | 31–40  | 26–35  | Rings             |
+| —      | 41–50  | 36–45  | Rods              |
+| 47–81  | 51–65  | 46–55  | Scrolls           |
+| —      | 66–68  | 56–75  | Staffs            |
+| 82–91  | 69–83  | 76–80  | Wands             |
+| 92–100 | 84–100 | 81–100 | Wondrous items    |
 
-  : Table: Random Magic Item Generation
+Table: Random Magic Item Generation
 
 ## Creating Magic Items
 
 To create magic items, spellcasters use special feats. They invest time,
 money, and their own personal energy (in the form of experience points)
-in an item's creation.
+in an item’s creation.
 
 Note that all items have prerequisites in their descriptions. These
 prerequisites must be met for the item to be created. Most of the time,
-they take the form of spells that must be known by the item's creator
+they take the form of spells that must be known by the item’s creator
 (although access through another magic item or spellcaster is allowed).
 
 While item creation costs are handled in detail below, note that
@@ -506,7 +506,7 @@ of creating the item.
 The creator also needs a fairly quiet, comfortable, and well-lit place
 in which to work. Any place suitable for preparing spells is suitable
 for making items. Creating an item requires one day per 1,000 gp in the
-item's base price, with a minimum of at least one day. Potions are an
+item’s base price, with a minimum of at least one day. Potions are an
 exception to this rule; they always take just one day to brew. The
 character must spend the gold and XP at the beginning of the
 construction process.
@@ -521,398 +521,382 @@ under-construction item are wasted.
 
 The secrets of creating artifacts are long lost.
 
-+---------+---------+---------+---------+---------+---------+---------+
-|         |         |         | Spell   |         |         |         |
-|         |         |         | Co      |         |         |         |
-|         |         |         | mponent |         |         |         |
-|         |         |         | Costs   |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Magic   | Feat    | Item    | Mate    | XP^3^   | Magic   | Base    |
-| Item    |         | Cost    | rial^2^ |         | S       | P       |
-|         |         |         |         |         | upplies | rice^4^ |
-|         |         |         |         |         | Cost    |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Armor   | Craft   | Mas     | Cost x  | <div>   | 1/2 the | Value   |
-|         | Magic   | terwork | 50      |         | value   | on      |
-|         | Arms    | armor   | (       | x 50    | on      | Table:  |
-|         | and     |         | usually | (       | Table:  | Armor   |
-|         | Armor   |         | none)   | usually | Armor   | and     |
-|         |         |         |         | none)   | and     | Shields |
-|         |         |         |         |         | Shields |         |
-|         |         |         |         | </div>  |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | <div>   |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | x 5 gp  |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | </div>  |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Shield  | Craft   | Mas     | x 50    | <div>   | 1/2 the | Value   |
-|         | Magic   | terwork | (       |         | value   | on      |
-|         | Arms    | shield  | usually | x 50    | on      | Table:  |
-|         | and     |         | none)   | (       | Table:  | Armor   |
-|         | Armor   |         |         | usually | Armor   | and     |
-|         |         |         |         | none)   | and     | Shields |
-|         |         |         |         |         | Shields |         |
-|         |         |         |         | </div>  |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | <div>   |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | x 5 gp  |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | </div>  |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Weapon  | Craft   | Mas     | x 50    | <div>   | 1/2 the | Value   |
-|         | Magic   | terwork | (       |         | value   | on      |
-|         | Arms    | weapon  | usually | x 50    | on      | Table:  |
-|         | and     |         | none)   | (       | Table:  | Weapons |
-|         | Armor   |         |         | usually | Weapons |         |
-|         |         |         |         | none)   |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | </div>  |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | <div>   |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | x 5 gp  |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | </div>  |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Potion  | Brew    | ---     | Cost    | Cost    | 1/2 x   | 25 x    |
-|         | Potion  |         | (       | (       | 25 x    | level   |
-|         |         |         | usually | usually | level   | of      |
-|         |         |         | none)   | none)   | of      | spell x |
-|         |         |         |         |         | spell x | level   |
-|         |         |         |         |         | level   | of      |
-|         |         |         |         |         | of      | caster  |
-|         |         |         |         |         | caster  |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Ring    | Forge   | ---     | x 50    | <div>   | S       | S       |
-|         | Ring    |         |         |         | pecial, | pecial, |
-|         |         |         |         | x 50    | see     | see     |
-|         |         |         |         |         | Table:  | Table:  |
-|         |         |         |         | </div>  | Est     | Est     |
-|         |         |         |         |         | imating | imating |
-|         |         |         |         | <div>   | Magic   | Magic   |
-|         |         |         |         |         | Item    | Item    |
-|         |         |         |         | x 5 gp  | Gold    | Gold    |
-|         |         |         |         |         | Price   | Price   |
-|         |         |         |         | </div>  | Values, | Values, |
-|         |         |         |         |         | below   | below   |
-+---------+---------+---------+---------+---------+---------+---------+
-| Rod     | Craft   | 1       | x 50    | x 50    | S       | S       |
-|         | Rod     |         | (often  | (often  | pecial, | pecial, |
-|         |         |         | none)   | none)   | see     | see     |
-|         |         |         |         |         | Table:  | Table:  |
-|         |         |         |         |         | Est     | Est     |
-|         |         |         |         |         | imating | imating |
-|         |         |         |         |         | Magic   | Magic   |
-|         |         |         |         |         | Item    | Item    |
-|         |         |         |         |         | Gold    | Gold    |
-|         |         |         |         |         | Price   | Price   |
-|         |         |         |         |         | Values, | Values, |
-|         |         |         |         |         | below   | below   |
-+---------+---------+---------+---------+---------+---------+---------+
-| Scroll  | Scribe  | ---     | Cost    | Cost    | 1/2 x   | 12.5 x  |
-|         | Scroll  |         | (       | (       | 12.5 x  | level   |
-|         |         |         | usually | usually | level   | of      |
-|         |         |         | none)   | none)   | of      | spell x |
-|         |         |         |         |         | spell x | level   |
-|         |         |         |         |         | level   | of      |
-|         |         |         |         |         | of      | caster  |
-|         |         |         |         |         | caster  |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Staff   | Craft   | Mas     | x 50 /  | x 50 x  | See     | See     |
-|         | Staff   | terwork | (# of   | 5 gp /  | C       | C       |
-|         |         | quart   | charges | (# of   | reating | reating |
-|         |         | erstaff | used to | charges | Staffs, | Staffs, |
-|         |         | (300    | a       | used to | below   | below   |
-|         |         | gp)     | ctivate | a       |         |         |
-|         |         |         | spell)  | ctivate |         |         |
-|         |         |         |         | spell)  |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| Wand    | Craft   | ---     | x 50    | <div>   | 1/2 x   | 375 x   |
-|         | Wand    |         |         |         | 375 x   | level   |
-|         |         |         |         | x 50    | level   | of      |
-|         |         |         |         |         | of      | spell x |
-|         |         |         |         | </div>  | spell x | level   |
-|         |         |         |         |         | level   | of      |
-|         |         |         |         | <div>   | of      | caster  |
-|         |         |         |         |         | caster  |         |
-|         |         |         |         | x 5 gp  |         |         |
-|         |         |         |         |         |         |         |
-|         |         |         |         | </div>  |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| <div>   | Craft   | 5       | x 50    | <div>   | S       | S       |
-|         | W       |         | (       |         | pecial, | pecial, |
-| W       | ondrous |         | usually | x 50    | see     | see     |
-| ondrous | Item    |         | none)   | (       | Table:  | Table:  |
-|         |         |         |         | usually | Est     | Est     |
-| </div>  |         |         |         | none)   | imating | imating |
-|         |         |         |         |         | Magic   | Magic   |
-| <div>   |         |         |         | </div>  | Item    | Item    |
-|         |         |         |         |         | Gold    | Gold    |
-| Item    |         |         |         | <div>   | Price   | Price   |
-|         |         |         |         |         | Values, | Values, |
-| </div>  |         |         |         | x 5 gp  | below   | below   |
-|         |         |         |         |         |         |         |
-|         |         |         |         | </div>  |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| 1 Rods  |         |         |         |         |         |         |
-| usable  |         |         |         |         |         |         |
-| as      |         |         |         |         |         |         |
-| weapons |         |         |         |         |         |         |
-| must    |         |         |         |         |         |         |
-| include |         |         |         |         |         |         |
-| the     |         |         |         |         |         |         |
-| mas     |         |         |         |         |         |         |
-| terwork |         |         |         |         |         |         |
-| weapon  |         |         |         |         |         |         |
-| cost.   |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| 2 This  |         |         |         |         |         |         |
-| cost is |         |         |         |         |         |         |
-| only    |         |         |         |         |         |         |
-| for     |         |         |         |         |         |         |
-| spells  |         |         |         |         |         |         |
-| ac      |         |         |         |         |         |         |
-| tivated |         |         |         |         |         |         |
-| by the  |         |         |         |         |         |         |
-| item    |         |         |         |         |         |         |
-| that    |         |         |         |         |         |         |
-| have    |         |         |         |         |         |         |
-| m       |         |         |         |         |         |         |
-| aterial |         |         |         |         |         |         |
-| or XP   |         |         |         |         |         |         |
-| comp    |         |         |         |         |         |         |
-| onents. |         |         |         |         |         |         |
-| Having  |         |         |         |         |         |         |
-| a spell |         |         |         |         |         |         |
-| with a  |         |         |         |         |         |         |
-| costly  |         |         |         |         |         |         |
-| co      |         |         |         |         |         |         |
-| mponent |         |         |         |         |         |         |
-| as a    |         |         |         |         |         |         |
-| prere   |         |         |         |         |         |         |
-| quisite |         |         |         |         |         |         |
-| does    |         |         |         |         |         |         |
-| not     |         |         |         |         |         |         |
-| automa  |         |         |         |         |         |         |
-| tically |         |         |         |         |         |         |
-| incur   |         |         |         |         |         |         |
-| this    |         |         |         |         |         |         |
-| cost if |         |         |         |         |         |         |
-| the     |         |         |         |         |         |         |
-| item    |         |         |         |         |         |         |
-| doesn't |         |         |         |         |         |         |
-| a       |         |         |         |         |         |         |
-| ctually |         |         |         |         |         |         |
-| cast    |         |         |         |         |         |         |
-| the     |         |         |         |         |         |         |
-| spell.  |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| 3 If    |         |         |         |         |         |         |
-| pur     |         |         |         |         |         |         |
-| chasing |         |         |         |         |         |         |
-| a       |         |         |         |         |         |         |
-| staff,  |         |         |         |         |         |         |
-| the     |         |         |         |         |         |         |
-| buyer   |         |         |         |         |         |         |
-| pays 5  |         |         |         |         |         |         |
-| x the   |         |         |         |         |         |         |
-| XP      |         |         |         |         |         |         |
-| value   |         |         |         |         |         |         |
-| in gold |         |         |         |         |         |         |
-| pieces. |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| 4 A     |         |         |         |         |         |         |
-| ch      |         |         |         |         |         |         |
-| aracter |         |         |         |         |         |         |
-| c       |         |         |         |         |         |         |
-| reating |         |         |         |         |         |         |
-| an item |         |         |         |         |         |         |
-| pays    |         |         |         |         |         |         |
-| 1/25    |         |         |         |         |         |         |
-| the     |         |         |         |         |         |         |
-| base    |         |         |         |         |         |         |
-| price   |         |         |         |         |         |         |
-| in      |         |         |         |         |         |         |
-| exp     |         |         |         |         |         |         |
-| erience |         |         |         |         |         |         |
-| points. |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| 5 Some  |         |         |         |         |         |         |
-| items   |         |         |         |         |         |         |
-| have    |         |         |         |         |         |         |
-| add     |         |         |         |         |         |         |
-| itional |         |         |         |         |         |         |
-| value   |         |         |         |         |         |         |
-| from a  |         |         |         |         |         |         |
-| mas     |         |         |         |         |         |         |
-| terwork |         |         |         |         |         |         |
-| item    |         |         |         |         |         |         |
-| com     |         |         |         |         |         |         |
-| ponent. |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| An      |         |         |         |         |         |         |
-| item's  |         |         |         |         |         |         |
-| market  |         |         |         |         |         |         |
-| price   |         |         |         |         |         |         |
-| is the  |         |         |         |         |         |         |
-| sum of  |         |         |         |         |         |         |
-| the     |         |         |         |         |         |         |
-| item    |         |         |         |         |         |         |
-| cost,   |         |         |         |         |         |         |
-| spell   |         |         |         |         |         |         |
-| co      |         |         |         |         |         |         |
-| mponent |         |         |         |         |         |         |
-| costs,  |         |         |         |         |         |         |
-| and the |         |         |         |         |         |         |
-| base    |         |         |         |         |         |         |
-| price.  |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
+<table class="full-width-table" style="width:100%;">
+<caption>Table: Summary of Magic Item Creation Costs</caption>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<th></th>
+<th></th>
+<th colspan="2">Spell Component Costs</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>Magic Item</th>
+<th>Feat</th>
+<th>Item Cost</th>
+<th>Material<sup>2</sup></th>
+<th>XP<sup>3</sup></th>
+<th>Magic Supplies Cost</th>
+<th>Base Price<sup>4</sup></th>
+</tr>
+<tr class="odd">
+<th>Armor</th>
+<th>Craft Magic Arms and Armor</th>
+<th>Masterwork armor</th>
+<th>Cost x 50 (usually none)</th>
+<th><div>
+x 50 (usually none)
+</div>
+<div>
+x 5 gp
+</div></th>
+<th>1/2 the value on Table: Armor and Shields</th>
+<th>Value on Table: Armor and Shields</th>
+</tr>
+<tr class="even">
+<th>Shield</th>
+<th>Craft Magic Arms and Armor</th>
+<th>Masterwork shield</th>
+<th>x 50 (usually none)</th>
+<th><div>
+x 50 (usually none)
+</div>
+<div>
+x 5 gp
+</div></th>
+<th>1/2 the value on Table: Armor and Shields</th>
+<th>Value on Table: Armor and Shields</th>
+</tr>
+<tr class="odd">
+<th>Weapon</th>
+<th>Craft Magic Arms and Armor</th>
+<th>Masterwork weapon</th>
+<th>x 50 (usually none)</th>
+<th><div>
+x 50 (usually none)
+</div>
+<div>
+x 5 gp
+</div></th>
+<th>1/2 the value on Table: Weapons</th>
+<th>Value on Table: Weapons</th>
+</tr>
+<tr class="even">
+<th>Potion</th>
+<th>Brew Potion</th>
+<th>—</th>
+<th>Cost (usually none)</th>
+<th>Cost (usually none)</th>
+<th>1/2 x 25 x level of spell x level of caster</th>
+<th>25 x level of spell x level of caster</th>
+</tr>
+<tr class="odd">
+<th>Ring</th>
+<th>Forge Ring</th>
+<th>—</th>
+<th>x 50</th>
+<th><div>
+x 50
+</div>
+<div>
+x 5 gp
+</div></th>
+<th>Special, see Table: Estimating Magic Item Gold Price Values,
+below</th>
+<th>Special, see Table: Estimating Magic Item Gold Price Values,
+below</th>
+</tr>
+<tr class="even">
+<th>Rod</th>
+<th>Craft Rod</th>
+<th>1</th>
+<th>x 50 (often none)</th>
+<th>x 50 (often none)</th>
+<th>Special, see Table: Estimating Magic Item Gold Price Values,
+below</th>
+<th>Special, see Table: Estimating Magic Item Gold Price Values,
+below</th>
+</tr>
+<tr class="odd">
+<th>Scroll</th>
+<th>Scribe Scroll</th>
+<th>—</th>
+<th>Cost (usually none)</th>
+<th>Cost (usually none)</th>
+<th>1/2 x 12.5 x level of spell x level of caster</th>
+<th>12.5 x level of spell x level of caster</th>
+</tr>
+<tr class="even">
+<th>Staff</th>
+<th>Craft Staff</th>
+<th>Masterwork quarterstaff (300 gp)</th>
+<th>x 50 / (# of charges used to activate spell)</th>
+<th>x 50 x 5 gp / (# of charges used to activate spell)</th>
+<th>See Creating Staffs, below</th>
+<th>See Creating Staffs, below</th>
+</tr>
+<tr class="odd">
+<th>Wand</th>
+<th>Craft Wand</th>
+<th>—</th>
+<th>x 50</th>
+<th><div>
+x 50
+</div>
+<div>
+x 5 gp
+</div></th>
+<th>1/2 x 375 x level of spell x level of caster</th>
+<th>375 x level of spell x level of caster</th>
+</tr>
+<tr class="even">
+<th><div>
+Wondrous
+</div>
+<div>
+Item
+</div></th>
+<th>Craft Wondrous Item</th>
+<th>5</th>
+<th>x 50 (usually none)</th>
+<th><div>
+x 50 (usually none)
+</div>
+<div>
+x 5 gp
+</div></th>
+<th>Special, see Table: Estimating Magic Item Gold Price Values,
+below</th>
+<th>Special, see Table: Estimating Magic Item Gold Price Values,
+below</th>
+</tr>
+<tr class="odd">
+<th colspan="7">1 Rods usable as weapons must include the masterwork
+weapon cost.</th>
+</tr>
+<tr class="even">
+<th colspan="7">2 This cost is only for spells activated by the item
+that have material or XP components. Having a spell with a costly
+component as a prerequisite does not automatically incur this cost if
+the item doesn’t actually cast the spell.</th>
+</tr>
+<tr class="odd">
+<th colspan="7">3 If purchasing a staff, the buyer pays 5 x the XP value
+in gold pieces.</th>
+</tr>
+<tr class="even">
+<th colspan="7">4 A character creating an item pays 1/25 the base price
+in experience points.</th>
+</tr>
+<tr class="odd">
+<th colspan="7">5 Some items have additional value from a masterwork
+item component.</th>
+</tr>
+<tr class="even">
+<th colspan="7">An item’s market price is the sum of the item cost,
+spell component costs, and the base price.</th>
+</tr>
+</tbody>
+</table>
 
-: Table: Summary of Magic Item Creation Costs
+Table: Summary of Magic Item Creation Costs
 
-+-----------------------+-----------------------+-----------------------+
-| Effect                | Base Price            | Example               |
-+-----------------------+-----------------------+-----------------------+
-| Ability bonus         | Bonus squared x 1,000 | Gloves of Dexterity   |
-| (enhancement)         | gp                    | +2                    |
-+-----------------------+-----------------------+-----------------------+
-| Armor bonus           | Bonus squared x 1,000 | +1 chainmail          |
-| (enhancement)         | gp                    |                       |
-+-----------------------+-----------------------+-----------------------+
-| Bonus spell           | Spell level squared x | Pearl of power        |
-|                       | 1,000 gp              |                       |
-+-----------------------+-----------------------+-----------------------+
-| AC bonus (deflection) | Bonus squared x 2,000 | Ring of protection +3 |
-|                       | gp                    |                       |
-+-----------------------+-----------------------+-----------------------+
-| AC bonus (other)^1^   | Bonus squared x 2,500 | Ioun stone, dusty     |
-|                       | gp                    | rose prism            |
-+-----------------------+-----------------------+-----------------------+
-| Natural armor bonus   | Bonus squared x 2,000 | Amulet of natural     |
-| (enhancement)         | gp                    | armor +1              |
-+-----------------------+-----------------------+-----------------------+
-| Save bonus            | Bonus squared x 1,000 | Cloak of resistance   |
-| (resistance)          | gp                    | +5                    |
-+-----------------------+-----------------------+-----------------------+
-| Save bonus (other)^1^ | Bonus squared x 2,000 | Stone of good luck    |
-|                       | gp                    |                       |
-+-----------------------+-----------------------+-----------------------+
-| Skill bonus           | Bonus squared x 100   | Cloak of elvenkind    |
-| (competence)          | gp                    |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell resistance      | <div>                 | Mantle of spell       |
-|                       |                       | resistance            |
-|                       | 10,000 gp per point   |                       |
-|                       | over SR 12;           |                       |
-|                       |                       |                       |
-|                       | </div>                |                       |
-|                       |                       |                       |
-|                       | <div>                 |                       |
-|                       |                       |                       |
-|                       | SR 13 minimum         |                       |
-|                       |                       |                       |
-|                       | </div>                |                       |
-+-----------------------+-----------------------+-----------------------+
-| Weapon bonus          | Bonus squared x 2,000 | +1 longsword          |
-| (enhancement)         | gp                    |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell Effect          | Base Price            | Example               |
-+-----------------------+-----------------------+-----------------------+
-| Single use, spell     | Spell level x caster  | Scroll of *haste*     |
-| completion            | level x 25 gp         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Single use,           | Spell level x caster  | Potion of cure light  |
-| use-activated         | level x 50 gp         | wounds                |
-+-----------------------+-----------------------+-----------------------+
-| 50 charges, spell     | Spell level x caster  | Wand of fireball      |
-| trigger               | level x 750 gp        |                       |
-+-----------------------+-----------------------+-----------------------+
-| Command word          | Spell level x caster  | Cape of the           |
-|                       | level x 1,800 gp      | mountebank            |
-+-----------------------+-----------------------+-----------------------+
-| Use-activated or      | Spell level x caster  | Lantern of revealing  |
-| continuous            | level x 2,000 gp^2^   |                       |
-+-----------------------+-----------------------+-----------------------+
-| Special               | Base Price Adjustment | Example               |
-+-----------------------+-----------------------+-----------------------+
-| Charges per day       | Divide by (5 divided  | Boots of              |
-|                       | by charges per day)   | teleportation         |
-+-----------------------+-----------------------+-----------------------+
-| Uncustomary space     | Multiply entire cost  | Helm of teleportation |
-| limitation^3^         | by 1.5                |                       |
-+-----------------------+-----------------------+-----------------------+
-| No space              | Multiply entire cost  | Ioun stone            |
-| limitation^4^         | by 2                  |                       |
-+-----------------------+-----------------------+-----------------------+
-| Multiple different    | Multiply higher item  | Helm of brilliance    |
-| abilities             | cost by 2             |                       |
-+-----------------------+-----------------------+-----------------------+
-| Charged (50 charges)  | 1/2 unlimited use     | Ring of the ram       |
-|                       | base price            |                       |
-+-----------------------+-----------------------+-----------------------+
-| Component             | Extra Cost            | Example               |
-+-----------------------+-----------------------+-----------------------+
-| Armor, shield, or     | Add cost of           | +1 composite longbow  |
-| weapon                | masterwork item       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell has material    | Add directly into     | Wand of stoneskin     |
-| component cost        | price of item per     |                       |
-|                       | charge^5^             |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spell has XP cost     | Add 5 gp per 1 XP per | Ring of three wishes  |
-|                       | charge^5^             |                       |
-+-----------------------+-----------------------+-----------------------+
-| *Spell Level:* A      |                       |                       |
-| 0-level spell is half |                       |                       |
-| the value of a        |                       |                       |
-| 1st-level spell for   |                       |                       |
-| determining price.    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 1 Such as a luck,     |                       |                       |
-| insight, sacred, or   |                       |                       |
-| profane bonus.        |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 2 If a continuous     |                       |                       |
-| item has an effect    |                       |                       |
-| based on a spell with |                       |                       |
-| a duration measured   |                       |                       |
-| in rounds, multiply   |                       |                       |
-| the cost by 4. If the |                       |                       |
-| duration of the spell |                       |                       |
-| is 1 minute/level,    |                       |                       |
-| multiply the cost by  |                       |                       |
-| 2, and if the         |                       |                       |
-| duration is 10        |                       |                       |
-| minutes/level,        |                       |                       |
-| multiply the cost by  |                       |                       |
-| 1.5. If the spell has |                       |                       |
-| a 24-hour duration or |                       |                       |
-| greater, divide the   |                       |                       |
-| cost in half.         |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 3 See Body Slot       |                       |                       |
-| Affinities, below.    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 4 An item that does   |                       |                       |
-| not take up one of    |                       |                       |
-| the spaces on a body  |                       |                       |
-| costs double.         |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 5 If item is          |                       |                       |
-| continuous or         |                       |                       |
-| unlimited, not        |                       |                       |
-| charged, determine    |                       |                       |
-| cost as if it had 100 |                       |                       |
-| charges. If it has    |                       |                       |
-| some daily limit,     |                       |                       |
-| determine as if it    |                       |                       |
-| had 50 charges.       |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+<table class="half-width-table">
+<caption>Table: Estimating Magic Item Gold Piece Values</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Effect</th>
+<th>Base Price</th>
+<th>Example</th>
+</tr>
 
-: Table: Estimating Magic Item Gold Piece Values
+<tr class="odd">
+<th>Ability bonus (enhancement)</th>
+<th>Bonus squared x 1,000 gp</th>
+<th style="font-style: italic">Gloves of Dexterity +2</th>
+</tr>
+<tr class="even">
+<th>Armor bonus (enhancement)</th>
+<th>Bonus squared x 1,000 gp</th>
+<th style="font-style: italic">+1 chainmail</th>
+</tr>
+<tr class="odd">
+<th>Bonus spell</th>
+<th>Spell level squared x 1,000 gp</th>
+<th style="font-style: italic">Pearl of power</th>
+</tr>
+<tr class="even">
+<th>AC bonus (deflection)</th>
+<th>Bonus squared x 2,000 gp</th>
+<th style="font-style: italic">Ring of protection +3</th>
+</tr>
+<tr class="odd">
+<th>AC bonus (other)<sup>1</sup></th>
+<th>Bonus squared x 2,500 gp</th>
+<th style="font-style: italic">Ioun stone, dusty rose prism</th>
+</tr>
+<tr class="even">
+<th>Natural armor bonus (enhancement)</th>
+<th>Bonus squared x 2,000 gp</th>
+<th style="font-style: italic">Amulet of natural armor +1</th>
+</tr>
+<tr class="odd">
+<th>Save bonus (resistance)</th>
+<th>Bonus squared x 1,000 gp</th>
+<th style="font-style: italic">Cloak of resistance +5</th>
+</tr>
+<tr class="even">
+<th>Save bonus (other)<sup>1</sup></th>
+<th>Bonus squared x 2,000 gp</th>
+<th style="font-style: italic">Stone of good luck</th>
+</tr>
+<tr class="odd">
+<th>Skill bonus (competence)</th>
+<th>Bonus squared x 100 gp</th>
+<th style="font-style: italic">Cloak of elvenkind</th>
+</tr>
+<tr class="even">
+<th>Spell resistance</th>
+<th><div>
+10,000 gp per point over SR 12;
+</div>
+<div>
+SR 13 minimum
+</div></th>
+<th style="font-style: italic">Mantle of spell resistance</th>
+</tr>
+<tr class="odd">
+<th>Weapon bonus (enhancement)</th>
+<th>Bonus squared x 2,000 gp</th>
+<th style="font-style: italic">+1 longsword</th>
+</tr>
+<tr class="even">
+<th>Spell Effect</th>
+<th>Base Price</th>
+<th>Example</th>
+</tr>
+<tr class="odd">
+<th>Single use, spell completion</th>
+<th>Spell level x caster level x 25 gp</th>
+<th>Scroll of <em>haste</em></th>
+</tr>
+<tr class="even">
+<th>Single use, use-activated</th>
+<th>Spell level x caster level x 50 gp</th>
+<th style="font-style: italic">Potion of cure light wounds</th>
+</tr>
+<tr class="odd">
+<th>50 charges, spell trigger</th>
+<th>Spell level x caster level x 750 gp</th>
+<th style="font-style: italic">Wand of fireball</th>
+</tr>
+<tr class="even">
+<th>Command word</th>
+<th>Spell level x caster level x 1,800 gp</th>
+<th style="font-style: italic">Cape of the mountebank</th>
+</tr>
+<tr class="odd">
+<th>Use-activated or continuous</th>
+<th>Spell level x caster level x 2,000 gp<sup>2</sup></th>
+<th style="font-style: italic">Lantern of revealing</th>
+</tr>
+<tr class="even">
+<th>Special</th>
+<th>Base Price Adjustment</th>
+<th>Example</th>
+</tr>
+<tr class="odd">
+<th>Charges per day</th>
+<th>Divide by (5 divided by charges per day)</th>
+<th style="font-style: italic">Boots of teleportation</th>
+</tr>
+<tr class="even">
+<th>Uncustomary space limitation<sup>3</sup></th>
+<th>Multiply entire cost by 1.5</th>
+<th style="font-style: italic">Helm of teleportation</th>
+</tr>
+<tr class="odd">
+<th>No space limitation<sup>4</sup></th>
+<th>Multiply entire cost by 2</th>
+<th style="font-style: italic">Ioun stone</th>
+</tr>
+<tr class="even">
+<th>Multiple different abilities</th>
+<th>Multiply higher item cost by 2</th>
+<th style="font-style: italic">Helm of brilliance</th>
+</tr>
+<tr class="odd">
+<th>Charged (50 charges)</th>
+<th>1/2 unlimited use base price</th>
+<th style="font-style: italic">Ring of the ram</th>
+</tr>
+<tr class="even">
+<th>Component</th>
+<th>Extra Cost</th>
+<th>Example</th>
+</tr>
+<tr class="odd">
+<th>Armor, shield, or weapon</th>
+<th>Add cost of masterwork item</th>
+<th style="font-style: italic">+1 composite longbow</th>
+</tr>
+<tr class="even">
+<th>Spell has material component cost</th>
+<th>Add directly into price of item per charge<sup>5</sup></th>
+<th style="font-style: italic">Wand of stoneskin</th>
+</tr>
+<tr class="odd">
+<th>Spell has XP cost</th>
+<th>Add 5 gp per 1 XP per charge<sup>5</sup></th>
+<th style="font-style: italic">Ring of three wishes</th>
+</tr>
+<tr class="even">
+<th colspan="3"><em>Spell Level:</em> A 0-level spell is half the value
+of a 1st-level spell for determining price.</th>
+</tr>
+<tr class="odd">
+<th colspan="3">1 Such as a luck, insight, sacred, or profane
+bonus.</th>
+</tr>
+<tr class="even">
+<th colspan="3">2 If a continuous item has an effect based on a spell
+with a duration measured in rounds, multiply the cost by 4. If the
+duration of the spell is 1 minute/level, multiply the cost by 2, and if
+the duration is 10 minutes/level, multiply the cost by 1.5. If the spell
+has a 24-hour duration or greater, divide the cost in half.</th>
+</tr>
+<tr class="odd">
+<th colspan="3">3 See Body Slot Affinities, below.</th>
+</tr>
+<tr class="even">
+<th colspan="3">4 An item that does not take up one of the spaces on a
+body costs double.</th>
+</tr>
+<tr class="odd">
+<th colspan="3">5 If item is continuous or unlimited, not charged,
+determine cost as if it had 100 charges. If it has some daily limit,
+determine as if it had 50 charges.</th>
+</tr>
+</tbody>
+</table>
+
+Table: Estimating Magic Item Gold Piece Values
 
 ### Magic Item Gold Piece Values
 
@@ -923,7 +907,7 @@ the guidelines summarized on Table: Estimating Magic Item Gold Piece
 Values.
 
 **Multiple Similar Abilities:** For items with multiple similar
-abilities that don't take up space on a character's body use the
+abilities that don’t take up space on a character’s body use the
 following formula: Calculate the price of the single most costly
 ability, then add 75% of the value of the next most costly ability, plus
 one-half the value of any other abilities.
@@ -931,7 +915,7 @@ one-half the value of any other abilities.
 **Multiple Different Abilities:** Abilities such as an attack roll bonus
 or saving throw bonus and a spell-like function are not similar, and
 their values are simply added together to determine the cost. For items
-that do take up a space on a character's body each additional power not
+that do take up a space on a character’s body each additional power not
 only has no discount but instead has a 50% increase in price.
 
 **0-Level Spells:** When multiplying spell levels to determine value, 0-
@@ -940,15 +924,15 @@ level spells should be treated as 1/2 level.
 **Other Considerations:** Once you have a final cost figure, reduce that
 number if either of the following conditions applies:
 
----*Item Requires Skill to Use:* Some items require a specific skill to
+—*Item Requires Skill to Use:* Some items require a specific skill to
 get them to function. This factor should reduce the cost about 10%.
 
----*Item Requires Specific Class or Alignment to Use:* Even more
+—*Item Requires Specific Class or Alignment to Use:* Even more
 restrictive than requiring a skill, this limitation cuts the cost by
 30%.
 
 Prices presented in the magic item descriptions (the gold piece value
-following the item's caster level) are the market value, which is
+following the item’s caster level) are the market value, which is
 generally twice what it costs the creator to make the item.
 
 Since different classes get access to certain spells at different
@@ -958,7 +942,7 @@ of lowest possible level can make it for. Calculate the market price
 based on the lowest possible level caster, no matter who makes the item.
 
 Not all items adhere to these formulas directly. The reasons for this
-are several. First and foremost, these few formulas aren't enough to
+are several. First and foremost, these few formulas aren’t enough to
 truly gauge the exact differences between items. The price of a magic
 item may be modified based on its actual worth. The formulas only
 provide a starting point. The pricing of scrolls assumes that, whenever
@@ -982,9 +966,9 @@ most obvious being the armor or the pieces of the armor to be assembled.
 Armor to be made into magic armor must be masterwork armor, and the
 masterwork cost is added to the base price to determine final market
 value. Additional magic supplies costs for the materials are subsumed in
-the cost for creating the magic armor---half the base price of the item.
+the cost for creating the magic armor—half the base price of the item.
 
-Creating magic armor has a special prerequisite: The creator's caster
+Creating magic armor has a special prerequisite: The creator’s caster
 level must be at least three times the enhancement bonus of the armor.
 If an item has both an enhancement bonus and a special ability, the
 higher of the two caster level requirements must be met.
@@ -999,7 +983,7 @@ spells, in the case of a sorcerer or bard), must provide any material
 components or focuses the spells require, and must pay any XP costs
 required for the spells. The act of working on the armor triggers the
 prepared spells, making them unavailable for casting during each day of
-the armor's creation. (That is, those spell slots are expended from his
+the armor’s creation. (That is, those spell slots are expended from his
 currently prepared spells, just as if they had been cast.)
 
 Creating some armor may entail other prerequisites beyond or other than
@@ -1018,10 +1002,10 @@ most obvious being the weapon or the pieces of the weapon to be
 assembled. Only a masterwork weapon can become a magic weapon, and the
 masterwork cost is added to the total cost to determine final market
 value. Additional magic supplies costs for the materials are subsumed in
-the cost for creating the magic weapon---half the base price given on
-Table: Weapons, according to the weapon's total effective bonus.
+the cost for creating the magic weapon—half the base price given on
+Table: Weapons, according to the weapon’s total effective bonus.
 
-Creating a magic weapon has a special prerequisite: The creator's caster
+Creating a magic weapon has a special prerequisite: The creator’s caster
 level must be at least three times the enhancement bonus of the weapon.
 If an item has both an enhancement bonus and a special ability the
 higher of the two caster level requirements must be met.
@@ -1036,7 +1020,7 @@ spells, in the case of a sorcerer or bard) but need not provide any
 material components or focuses the spells require, nor are any XP costs
 inherent in a prerequisite spell incurred in the creation of the item.
 The act of working on the weapon triggers the prepared spells, making
-them unavailable for casting during each day of the weapon's creation.
+them unavailable for casting during each day of the weapon’s creation.
 (That is, those spell slots are expended from his currently prepared
 spells, just as if they had been cast.)
 
@@ -1061,8 +1045,8 @@ Item Creation Feat Required: Craft Magic Arms and Armor.
 The creator of a potion needs a level working surface and at least a few
 containers in which to mix liquids, as well as a source of heat to boil
 the brew. In addition, he needs ingredients. The costs for materials and
-ingredients are subsumed in the cost for brewing the potion---25 gp x
-the level of the spell x the level of the caster.
+ingredients are subsumed in the cost for brewing the potion—25 gp x the
+level of the spell x the level of the caster.
 
 All ingredients and materials used to brew a potion must be fresh and
 unused. The character must pay the full cost for brewing each potion.
@@ -1075,7 +1059,7 @@ The creator must have prepared the spell to be placed in the potion (or
 must know the spell, in the case of a sorcerer or bard) and must provide
 any material component or focus the spell requires.
 
-If casting the spell would reduce the caster's XP total, he pays the XP
+If casting the spell would reduce the caster’s XP total, he pays the XP
 cost upon beginning the brew in addition to the XP cost for making the
 potion itself. Material components are consumed when he begins working,
 but a focus is not. (A focus used in brewing a potion can be reused.)
@@ -1086,89 +1070,149 @@ as if it had been cast.) Brewing a potion requires one day.
 
 Item Creation Feat Required: Brew Potion.
 
-  --------------------------------------------------------------------- --------------- -------- ---------- ------------
-  Potion Base Prices (By Brewer's Class)                                                                    
-  Spell Level                                                           Clr, Drd, Wiz   Sor      Brd        Pal, Rgr\*
-  0                                                                     25 gp           25 gp    25 gp      ---
-  1st                                                                   50 gp           50 gp    100 gp     100 gp
-  2nd                                                                   300 gp          400 gp   400 gp     400 gp
-  3rd                                                                   750 gp          900 gp   1,050 gp   750 gp
-  \* Caster level is half class level.                                                                      
-  Prices assume that the potion was made at the minimum caster level.                                       
-  --------------------------------------------------------------------- --------------- -------- ---------- ------------
+|                                                                     |               |        |          |            |
+|---------------------------------------------------------------------|---------------|--------|----------|------------|
+| Potion Base Prices (By Brewer’s Class)                              |               |        |          |            |
+| Spell Level                                                         | Clr, Drd, Wiz | Sor    | Brd      | Pal, Rgr\* |
+| 0                                                                   | 25 gp         | 25 gp  | 25 gp    | —          |
+| 1st                                                                 | 50 gp         | 50 gp  | 100 gp   | 100 gp     |
+| 2nd                                                                 | 300 gp        | 400 gp | 400 gp   | 400 gp     |
+| 3rd                                                                 | 750 gp        | 900 gp | 1,050 gp | 750 gp     |
+| \* Caster level is half class level.                                |               |        |          |            |
+| Prices assume that the potion was made at the minimum caster level. |               |        |          |            |
 
-+-------------+-------------+-------------+-------------+-------------+
-| Base Cost   |             |             |             |             |
-| to Brew a   |             |             |             |             |
-| Potion (By  |             |             |             |             |
-| Brewer's    |             |             |             |             |
-| Class)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Spell Level | Clr, Drd,   | Sor         | Brd         | Pal, Rgr\*  |
-|             | Wiz         |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 0           | <div>       | <div>       | <div>       | ---         |
-|             |             |             |             |             |
-|             | 12 gp 5 sp  | 12 gp 5 sp  | 12 gp 5 sp  |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       |             |
-|             |             |             |             |             |
-|             | +1 XP       | +1 XP       | +1 XP       |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 1st         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 25 gp       | 25 gp       | 50 gp       | 50 gp       |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +2 XP       | +2 XP       | +4 XP       | +4 XP       |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 2nd         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 150 gp      | 200 gp      | 200 gp      | 200 gp      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +12 XP      | +16 XP      | +16 XP      | +16 XP      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 3rd         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 375 gp      | 450 gp      | 525 gp      | 375 gp      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +30 XP      | +36 XP      | +42 XP      | +30 XP      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| \* Caster   |             |             |             |             |
-| level is    |             |             |             |             |
-| half class  |             |             |             |             |
-| level.      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Costs       |             |             |             |             |
-| assume that |             |             |             |             |
-| the creator |             |             |             |             |
-| makes the   |             |             |             |             |
-| potion at   |             |             |             |             |
-| the minimum |             |             |             |             |
-| caster      |             |             |             |             |
-| level.      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th colspan="5">Base Cost to Brew a Potion (By Brewer’s Class)</th>
+</tr>
+<tr class="odd">
+<th>Spell Level</th>
+<th>Clr, Drd, Wiz</th>
+<th>Sor</th>
+<th>Brd</th>
+<th>Pal, Rgr*</th>
+</tr>
+
+<tr class="odd">
+<td>0</td>
+<td><div>
+12 gp 5 sp
+</div>
+<div>
++1 XP
+</div></td>
+<td><div>
+12 gp 5 sp
+</div>
+<div>
++1 XP
+</div></td>
+<td><div>
+12 gp 5 sp
+</div>
+<div>
++1 XP
+</div></td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>1st</td>
+<td><div>
+25 gp
+</div>
+<div>
++2 XP
+</div></td>
+<td><div>
+25 gp
+</div>
+<div>
++2 XP
+</div></td>
+<td><div>
+50 gp
+</div>
+<div>
++4 XP
+</div></td>
+<td><div>
+50 gp
+</div>
+<div>
++4 XP
+</div></td>
+</tr>
+<tr class="odd">
+<td>2nd</td>
+<td><div>
+150 gp
+</div>
+<div>
++12 XP
+</div></td>
+<td><div>
+200 gp
+</div>
+<div>
++16 XP
+</div></td>
+<td><div>
+200 gp
+</div>
+<div>
++16 XP
+</div></td>
+<td><div>
+200 gp
+</div>
+<div>
++16 XP
+</div></td>
+</tr>
+<tr class="even">
+<td>3rd</td>
+<td><div>
+375 gp
+</div>
+<div>
++30 XP
+</div></td>
+<td><div>
+450 gp
+</div>
+<div>
++36 XP
+</div></td>
+<td><div>
+525 gp
+</div>
+<div>
++42 XP
+</div></td>
+<td><div>
+375 gp
+</div>
+<div>
++30 XP
+</div></td>
+</tr>
+<tr class="odd">
+<td colspan="5">* Caster level is half class level.</td>
+</tr>
+<tr class="even">
+<td colspan="5">Costs assume that the creator makes the potion at the
+minimum caster level.</td>
+</tr>
+</tbody>
+</table>
 
 ### Creating Rings
 
@@ -1178,13 +1222,13 @@ ring to be assembled. The cost for the materials is subsumed in the cost
 for creating the ring. Ring costs are difficult to formularize. Refer to
 Table: Estimating Magic Item Gold Piece Values and use the ring prices
 in the ring descriptions as a guideline. Creating a ring generally costs
-half the ring's market price.
+half the ring’s market price.
 
 Rings that duplicate spells with costly material or XP components add in
-the value of 50 x the spell's component cost. Having a spell with a
+the value of 50 x the spell’s component cost. Having a spell with a
 costly component as a prerequisite does not automatically incur this
 cost. The act of working on the ring triggers the prepared spells,
-making them unavailable for casting during each day of the ring's
+making them unavailable for casting during each day of the ring’s
 creation. (That is, those spell slots are expended from his currently
 prepared spells, just as if they had been cast.)
 
@@ -1210,7 +1254,7 @@ spells, in the case of a sorcerer or bard) but need not provide any
 material components or focuses the spells require, nor are any XP costs
 inherent in a prerequisite spell incurred in the creation of the item.
 The act of working on the rod triggers the prepared spells, making them
-unavailable for casting during each day of the rod's creation. (That is,
+unavailable for casting during each day of the rod’s creation. (That is,
 those spell slots are expended from his currently prepared spells, just
 as if they had been cast.)
 
@@ -1225,7 +1269,7 @@ Item Creation Feat Required: Craft Rod.
 
 To create a scroll, a character needs a supply of choice writing
 materials, the cost of which is subsumed in the cost for scribing the
-scroll---12.5 gp x the level of the spell x the level of the caster.
+scroll—12.5 gp x the level of the spell x the level of the caster.
 
 All writing implements and materials used to scribe a scroll must be
 fresh and unused. A character must pay the full cost for scribing each
@@ -1235,7 +1279,7 @@ same spell.
 The creator must have prepared the spell to be scribed (or must know the
 spell, in the case of a sorcerer or bard) and must provide any material
 component or focus the spell requires. If casting the spell would reduce
-the caster's XP total, she pays the cost upon beginning the scroll in
+the caster’s XP total, she pays the cost upon beginning the scroll in
 addition to the XP cost for making the scroll itself. Likewise, a
 material component is consumed when she begins writing, but a focus is
 not. (A focus used in scribing a scroll can be reused.) The act of
@@ -1248,172 +1292,278 @@ Scribing a scroll requires one day per each 1,000 gp of the base price.
 
 Item Creation Feat Required: Scribe Scroll.
 
-  --------------------------------------------------------------------- --------------- ------------ ------------ ------------
-  Scroll Base Prices (By Scriber's Class)                                                                         
-  Spell Level                                                           Clr, Drd, Wiz   Sor          Brd          Pal, Rgr\*
-  0                                                                     12 gp 5 sp      12 gp 5 sp   12 gp 5 sp   ---
-  1st                                                                   25 gp           25 gp        50 gp        50 gp
-  2nd                                                                   150 gp          200 gp       200 gp       200 gp
-  3rd                                                                   375 gp          450 gp       525 gp       375 gp
-  4th                                                                   700 gp          800 gp       1,000 gp     700 gp
-  5th                                                                   1,125 gp        1,250 gp     1,625 gp     ---
-  6th                                                                   1,650 gp        1,800 gp     2,400 gp     ---
-  7th                                                                   2,275 gp        2,450 gp     ---          ---
-  8th                                                                   3,000 gp        3,200 gp     ---          ---
-  9th                                                                   3,825 gp        4,050 gp     ---          ---
-  \* Caster level is half class level.                                                                            
-  Prices assume that the scroll was made at the minimum caster level.                                             
-  --------------------------------------------------------------------- --------------- ------------ ------------ ------------
+|                                                                     |               |            |            |            |
+|---------------------------------------------------------------------|---------------|------------|------------|------------|
+| Scroll Base Prices (By Scriber’s Class)                             |               |            |            |            |
+| Spell Level                                                         | Clr, Drd, Wiz | Sor        | Brd        | Pal, Rgr\* |
+| 0                                                                   | 12 gp 5 sp    | 12 gp 5 sp | 12 gp 5 sp | —          |
+| 1st                                                                 | 25 gp         | 25 gp      | 50 gp      | 50 gp      |
+| 2nd                                                                 | 150 gp        | 200 gp     | 200 gp     | 200 gp     |
+| 3rd                                                                 | 375 gp        | 450 gp     | 525 gp     | 375 gp     |
+| 4th                                                                 | 700 gp        | 800 gp     | 1,000 gp   | 700 gp     |
+| 5th                                                                 | 1,125 gp      | 1,250 gp   | 1,625 gp   | —          |
+| 6th                                                                 | 1,650 gp      | 1,800 gp   | 2,400 gp   | —          |
+| 7th                                                                 | 2,275 gp      | 2,450 gp   | —          | —          |
+| 8th                                                                 | 3,000 gp      | 3,200 gp   | —          | —          |
+| 9th                                                                 | 3,825 gp      | 4,050 gp   | —          | —          |
+| \* Caster level is half class level.                                |               |            |            |            |
+| Prices assume that the scroll was made at the minimum caster level. |               |            |            |            |
 
-+-------------+-------------+-------------+-------------+-------------+
-| Base Magic  |             |             |             |             |
-| Supplies    |             |             |             |             |
-| and XP Cost |             |             |             |             |
-| to Scribe a |             |             |             |             |
-| Scroll (By  |             |             |             |             |
-| Scriber's   |             |             |             |             |
-| Class)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Spell Level | Clr, Drd,   | Sor         | Brd         | Pal, Rgr\*  |
-|             | Wiz         |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 0           | <div>       | <div>       | <div>       | ---         |
-|             |             |             |             |             |
-|             | 6 gp 2 sp 5 | 6 gp 2 sp 5 | 6 gp 2 sp 5 |             |
-|             | cp          | cp          | cp          |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       |             |
-|             |             |             |             |             |
-|             | +1 XP       | +1 XP       | +1 XP       |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 1st         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 12 gp 5 sp  | 12 gp 5 sp  | 25 gp       | 25 gp       |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +1 XP       | +1 XP       | +1 XP       | +2 XP       |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 2nd         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 75 gp       | 100 gp      | 100 gp      | 100 gp      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +6 XP       | +8 XP       | +8 XP       | +8 XP       |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 3rd         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 187 gp 5 sp | 225 gp      | 262 gp 5 sp | 187 gp 5 sp |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +15 XP      | +18 XP      | +21 XP      | +15 XP      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 4th         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 350 gp      | 400 gp      | 500 gp      | 350 gp      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +28 XP      | +32 XP      | +40 XP      | +28 XP      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 5th         | <div>       | <div>       | <div>       | ---         |
-|             |             |             |             |             |
-|             | 562 gp 5 sp | 625 gp      | 812 gp 5 sp |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       |             |
-|             |             |             |             |             |
-|             | +45 XP      | +50 XP      | +65 XP      |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 6th         | <div>       | <div>       | <div>       | ---         |
-|             |             |             |             |             |
-|             | 826 gp      | 900 gp      | 1,200 gp    |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       |             |
-|             |             |             |             |             |
-|             | +66 XP      | +72 XP      | +96 XP      |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 7th         | <div>       | <div>       | ---         | ---         |
-|             |             |             |             |             |
-|             | 1,135 gp 5  | 1,225 gp    |             |             |
-|             | sp          |             |             |             |
-|             |             | </div>      |             |             |
-|             | </div>      |             |             |             |
-|             |             | <div>       |             |             |
-|             | <div>       |             |             |             |
-|             |             | +98 XP      |             |             |
-|             | +91 XP      |             |             |             |
-|             |             | </div>      |             |             |
-|             | </div>      |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 8th         | <div>       | <div>       | ---         | ---         |
-|             |             |             |             |             |
-|             | 1,500 gp    | 1,600 gp    |             |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      |             |             |
-|             |             |             |             |             |
-|             | <div>       | <div>       |             |             |
-|             |             |             |             |             |
-|             | +120 XP     | +128 XP     |             |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 9th         | <div>       | <div>       | ---         | ---         |
-|             |             |             |             |             |
-|             | 1,912 gp 5  | 2, 025 gp   |             |             |
-|             | sp          |             |             |             |
-|             |             | </div>      |             |             |
-|             | </div>      |             |             |             |
-|             |             | <div>       |             |             |
-|             | <div>       |             |             |             |
-|             |             | +162 XP     |             |             |
-|             | +153 XP     |             |             |             |
-|             |             | </div>      |             |             |
-|             | </div>      |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| \* Caster   |             |             |             |             |
-| level is    |             |             |             |             |
-| half class  |             |             |             |             |
-| level.      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Costs       |             |             |             |             |
-| assume that |             |             |             |             |
-| the creator |             |             |             |             |
-| makes the   |             |             |             |             |
-| scroll at   |             |             |             |             |
-| the minimum |             |             |             |             |
-| caster      |             |             |             |             |
-| level.      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th colspan="5">Base Magic Supplies and XP Cost to Scribe a Scroll (By
+Scriber’s Class)</th>
+</tr>
+<tr class="odd">
+<th>Spell Level</th>
+<th>Clr, Drd, Wiz</th>
+<th>Sor</th>
+<th>Brd</th>
+<th>Pal, Rgr*</th>
+</tr>
+
+<tr class="odd">
+<td>0</td>
+<td><div>
+6 gp 2 sp 5 cp
+</div>
+<div>
++1 XP
+</div></td>
+<td><div>
+6 gp 2 sp 5 cp
+</div>
+<div>
++1 XP
+</div></td>
+<td><div>
+6 gp 2 sp 5 cp
+</div>
+<div>
++1 XP
+</div></td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>1st</td>
+<td><div>
+12 gp 5 sp
+</div>
+<div>
++1 XP
+</div></td>
+<td><div>
+12 gp 5 sp
+</div>
+<div>
++1 XP
+</div></td>
+<td><div>
+25 gp
+</div>
+<div>
++1 XP
+</div></td>
+<td><div>
+25 gp
+</div>
+<div>
++2 XP
+</div></td>
+</tr>
+<tr class="odd">
+<td>2nd</td>
+<td><div>
+75 gp
+</div>
+<div>
++6 XP
+</div></td>
+<td><div>
+100 gp
+</div>
+<div>
++8 XP
+</div></td>
+<td><div>
+100 gp
+</div>
+<div>
++8 XP
+</div></td>
+<td><div>
+100 gp
+</div>
+<div>
++8 XP
+</div></td>
+</tr>
+<tr class="even">
+<td>3rd</td>
+<td><div>
+187 gp 5 sp
+</div>
+<div>
++15 XP
+</div></td>
+<td><div>
+225 gp
+</div>
+<div>
++18 XP
+</div></td>
+<td><div>
+262 gp 5 sp
+</div>
+<div>
++21 XP
+</div></td>
+<td><div>
+187 gp 5 sp
+</div>
+<div>
++15 XP
+</div></td>
+</tr>
+<tr class="odd">
+<td>4th</td>
+<td><div>
+350 gp
+</div>
+<div>
++28 XP
+</div></td>
+<td><div>
+400 gp
+</div>
+<div>
++32 XP
+</div></td>
+<td><div>
+500 gp
+</div>
+<div>
++40 XP
+</div></td>
+<td><div>
+350 gp
+</div>
+<div>
++28 XP
+</div></td>
+</tr>
+<tr class="even">
+<td>5th</td>
+<td><div>
+562 gp 5 sp
+</div>
+<div>
++45 XP
+</div></td>
+<td><div>
+625 gp
+</div>
+<div>
++50 XP
+</div></td>
+<td><div>
+812 gp 5 sp
+</div>
+<div>
++65 XP
+</div></td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>6th</td>
+<td><div>
+826 gp
+</div>
+<div>
++66 XP
+</div></td>
+<td><div>
+900 gp
+</div>
+<div>
++72 XP
+</div></td>
+<td><div>
+1,200 gp
+</div>
+<div>
++96 XP
+</div></td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>7th</td>
+<td><div>
+1,135 gp 5 sp
+</div>
+<div>
++91 XP
+</div></td>
+<td><div>
+1,225 gp
+</div>
+<div>
++98 XP
+</div></td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>8th</td>
+<td><div>
+1,500 gp
+</div>
+<div>
++120 XP
+</div></td>
+<td><div>
+1,600 gp
+</div>
+<div>
++128 XP
+</div></td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>9th</td>
+<td><div>
+1,912 gp 5 sp
+</div>
+<div>
++153 XP
+</div></td>
+<td><div>
+2, 025 gp
+</div>
+<div>
++162 XP
+</div></td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td colspan="5">* Caster level is half class level.</td>
+</tr>
+<tr class="even">
+<td colspan="5">Costs assume that the creator makes the scroll at the
+minimum caster level.</td>
+</tr>
+</tbody>
+</table>
 
 ### Creating Staffs
 
@@ -1421,7 +1571,7 @@ To create a magic staff, a character needs a supply of materials, the
 most obvious being a staff or the pieces of the staff to be assembled.
 
 The cost for the materials is subsumed in the cost for creating the
-staff---375 gp x the level of the highest-level spell x the level of the
+staff—375 gp x the level of the highest-level spell x the level of the
 caster, plus 75% of the value of the next most costly ability (281.25 gp
 x the level of the spell x the level of the caster), plus one-half of
 the value of any other abilities (187.5 gp x the level of the spell x
@@ -1443,7 +1593,7 @@ cost for making the staff itself. Material components are consumed when
 he begins working, but focuses are not. (A focus used in creating a
 staff can be reused.) The act of working on the staff triggers the
 prepared spells, making them unavailable for casting during each day of
-the staff 's creation. (That is, those spell slots are expended from his
+the staff ’s creation. (That is, those spell slots are expended from his
 currently prepared spells, just as if they had been cast.)
 
 Creating a few staffs may entail other prerequisites beyond
@@ -1458,19 +1608,19 @@ Item Creation Feat Required: Craft Staff.
 To create a magic wand, a character needs a small supply of materials,
 the most obvious being a baton or the pieces of the wand to be
 assembled. The cost for the materials is subsumed in the cost for
-creating the wand---375 gp x the level of the spell x the level of the
+creating the wand—375 gp x the level of the spell x the level of the
 caster. Wands are always fully charged (50 charges) when created.
 
 The creator must have prepared the spell to be stored (or must know the
 spell, in the case of a sorcerer or bard) and must provide any focuses
 the spell requires. Fifty of each needed material component are
 required, one for each charge. If casting the spell would reduce the
-caster's XP total, she pays the cost (multiplied by 50) upon beginning
+caster’s XP total, she pays the cost (multiplied by 50) upon beginning
 the wand in addition to the XP cost for making the wand itself.
 Likewise, material components are consumed when she begins working, but
 focuses are not. (A focus used in creating a wand can be reused.) The
 act of working on the wand triggers the prepared spell, making it
-unavailable for casting during each day devoted to the wand's creation.
+unavailable for casting during each day devoted to the wand’s creation.
 (That is, that spell slot is expended from her currently prepared
 spells, just as if it had been cast.)
 
@@ -1478,104 +1628,178 @@ Crafting a wand requires one day per each 1,000 gp of the base price.
 
 Item Creation Feat Required: Craft Wand.
 
-  ------------------------------------------------------------------- --------------- ----------- ----------- ------------
-  Wand Base Prices (By Crafter's Class)                                                                       
-  Spell Level                                                         Clr, Drd, Wiz   Sor         Brd         Pal, Rgr\*
-  0                                                                   375 gp          375 gp      375 gp      ---
-  1st                                                                 750 gp          750 gp      1,500 gp    1,500 gp
-  2nd                                                                 4,500 gp        6,000 gp    6,000 gp    6,000 gp
-  3rd                                                                 11,250 gp       13,500 gp   15,750 gp   11,250 gp
-  4th                                                                 21,000 gp       24,000 gp   30,000 gp   21,000 gp
-  \* Caster level is half class level.                                                                        
-  Prices assume that the wand was made at the minimum caster level.                                           
-  ------------------------------------------------------------------- --------------- ----------- ----------- ------------
+|                                                                   |               |           |           |            |
+|-------------------------------------------------------------------|---------------|-----------|-----------|------------|
+| Wand Base Prices (By Crafter’s Class)                             |               |           |           |            |
+| Spell Level                                                       | Clr, Drd, Wiz | Sor       | Brd       | Pal, Rgr\* |
+| 0                                                                 | 375 gp        | 375 gp    | 375 gp    | —          |
+| 1st                                                               | 750 gp        | 750 gp    | 1,500 gp  | 1,500 gp   |
+| 2nd                                                               | 4,500 gp      | 6,000 gp  | 6,000 gp  | 6,000 gp   |
+| 3rd                                                               | 11,250 gp     | 13,500 gp | 15,750 gp | 11,250 gp  |
+| 4th                                                               | 21,000 gp     | 24,000 gp | 30,000 gp | 21,000 gp  |
+| \* Caster level is half class level.                              |               |           |           |            |
+| Prices assume that the wand was made at the minimum caster level. |               |           |           |            |
 
-+-------------+-------------+-------------+-------------+-------------+
-| Base Magic  |             |             |             |             |
-| Supplies    |             |             |             |             |
-| and XP Cost |             |             |             |             |
-| to Craft a  |             |             |             |             |
-| Wand (By    |             |             |             |             |
-| Crafter's   |             |             |             |             |
-| Class)      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Spell Level | Clr, Drd,   | Sor         | Brd         | Pal, Rgr\*  |
-|             | Wiz         |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 0           | <div>       | <div>       | <div>       | ---         |
-|             |             |             |             |             |
-|             | 187 gp 5 sp | 187 gp 5 sp | 187 gp 5 sp |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       |             |
-|             |             |             |             |             |
-|             | +15 XP      | +15 XP      | +15 XP      |             |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 1st         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 375 gp      | 375 gp      | 750 gp      | 750 gp      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +30 XP      | +30 XP      | +60 XP      | +60 XP      |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 2nd         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 2,250 gp    | 3,000 gp    | 3,000 gp    | 3,000 gp    |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +180 XP     | +240 XP     | +240 XP     | +240 XP     |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 3rd         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 5,625 gp    | 6,750 gp    | 7,875 gp    | 5,625 gp    |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +450 XP     | +540 XP     | +630 XP     | +450 XP     |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| 4th         | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | 10,500 gp   | 12,000 gp   | 15,000 gp   | 10,500 gp   |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-|             |             |             |             |             |
-|             | <div>       | <div>       | <div>       | <div>       |
-|             |             |             |             |             |
-|             | +840 XP     | +960 XP     | +1200 XP    | +840 XP     |
-|             |             |             |             |             |
-|             | </div>      | </div>      | </div>      | </div>      |
-+-------------+-------------+-------------+-------------+-------------+
-| \* Caster   |             |             |             |             |
-| level is    |             |             |             |             |
-| half class  |             |             |             |             |
-| level.      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Costs       |             |             |             |             |
-| assume that |             |             |             |             |
-| the creator |             |             |             |             |
-| makes the   |             |             |             |             |
-| wand at the |             |             |             |             |
-| minimum     |             |             |             |             |
-| caster      |             |             |             |             |
-| level.      |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th colspan="5">Base Magic Supplies and XP Cost to Craft a Wand (By
+Crafter’s Class)</th>
+</tr>
+<tr class="odd">
+<th>Spell Level</th>
+<th>Clr, Drd, Wiz</th>
+<th>Sor</th>
+<th>Brd</th>
+<th>Pal, Rgr*</th>
+</tr>
+
+<tr class="odd">
+<td>0</td>
+<td><div>
+187 gp 5 sp
+</div>
+<div>
++15 XP
+</div></td>
+<td><div>
+187 gp 5 sp
+</div>
+<div>
++15 XP
+</div></td>
+<td><div>
+187 gp 5 sp
+</div>
+<div>
++15 XP
+</div></td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>1st</td>
+<td><div>
+375 gp
+</div>
+<div>
++30 XP
+</div></td>
+<td><div>
+375 gp
+</div>
+<div>
++30 XP
+</div></td>
+<td><div>
+750 gp
+</div>
+<div>
++60 XP
+</div></td>
+<td><div>
+750 gp
+</div>
+<div>
++60 XP
+</div></td>
+</tr>
+<tr class="odd">
+<td>2nd</td>
+<td><div>
+2,250 gp
+</div>
+<div>
++180 XP
+</div></td>
+<td><div>
+3,000 gp
+</div>
+<div>
++240 XP
+</div></td>
+<td><div>
+3,000 gp
+</div>
+<div>
++240 XP
+</div></td>
+<td><div>
+3,000 gp
+</div>
+<div>
++240 XP
+</div></td>
+</tr>
+<tr class="even">
+<td>3rd</td>
+<td><div>
+5,625 gp
+</div>
+<div>
++450 XP
+</div></td>
+<td><div>
+6,750 gp
+</div>
+<div>
++540 XP
+</div></td>
+<td><div>
+7,875 gp
+</div>
+<div>
++630 XP
+</div></td>
+<td><div>
+5,625 gp
+</div>
+<div>
++450 XP
+</div></td>
+</tr>
+<tr class="odd">
+<td>4th</td>
+<td><div>
+10,500 gp
+</div>
+<div>
++840 XP
+</div></td>
+<td><div>
+12,000 gp
+</div>
+<div>
++960 XP
+</div></td>
+<td><div>
+15,000 gp
+</div>
+<div>
++1200 XP
+</div></td>
+<td><div>
+10,500 gp
+</div>
+<div>
++840 XP
+</div></td>
+</tr>
+<tr class="even">
+<td colspan="5">* Caster level is half class level.</td>
+</tr>
+<tr class="odd">
+<td colspan="5">Costs assume that the creator makes the wand at the
+minimum caster level.</td>
+</tr>
+</tbody>
+</table>
 
 ### Creating Wondrous Items
 
@@ -1594,7 +1818,7 @@ spells, in the case of a sorcerer or bard) but need not provide any
 material components or focuses the spells require, nor are any XP costs
 inherent in a prerequisite spell incurred in the creation of the item.
 The act of working on the item triggers the prepared spells, making them
-unavailable for casting during each day of the item's creation. (That
+unavailable for casting during each day of the item’s creation. (That
 is, those spell slots are expended from his currently prepared spells,
 just as if they had been cast.)
 
@@ -1612,8 +1836,8 @@ To create an intelligent item, a character must have a caster level of
 15th or higher. Time and creation cost are based on the normal item
 creation rules, with the market price values on Table: Item
 Intelligence, Wisdom, Charisma, and Capabilities treated as additions to
-time, gp cost, and XP cost. The item's alignment is the same as its
-creator's. Determine other features randomly, following the guidelines
+time, gp cost, and XP cost. The item’s alignment is the same as its
+creator’s. Determine other features randomly, following the guidelines
 in the relevant section.
 
 ### Adding New Abilities
@@ -1624,7 +1848,7 @@ magical. Thus, a *+1 longsword* can be made into a *+2 vorpal
 longsword*, with the cost to create it being equal to that of a *+2
 vorpal sword* minus the cost of a *+1 sword*.
 
-If the item is one that occupies a specific place on a character's body
+If the item is one that occupies a specific place on a character’s body
 the cost of adding any additional ability to that item increases by 50%.
 For example, if a character adds the power to confer *invisibility* to
 her *ring of protection +2*, the cost of adding this ability is the same
@@ -1635,7 +1859,7 @@ as for creating a *ring of invisibility* multiplied by 1.5.
 Each location on the body, or body slot, has one or more affinities: a
 word or phrase that describes the general function or nature of magic
 items designed for that body slot. Body slot affinities are deliberately
-broad, abstract categorizations, because a hard-and-fast rule can't
+broad, abstract categorizations, because a hard-and-fast rule can’t
 cover the great variety among wondrous items.
 
 You can use the affinities in the list below to guide your decisions on
@@ -1645,24 +1869,24 @@ what form a particular item should take.
 
 Some body slots have different affinities for different specific items.
 
-  ------------------------------------------------------ ------------------------------------
-  Body Slot                                              Affinity
-  Headband, helmet                                       Mental improvement, ranged attacks
-  Hat                                                    Interaction
-  Phylactery                                             Morale, alignment
-  Eye lenses, goggles                                    Vision
-  Cloak, cape, mantle                                    Transformation, protection
-  Amulet, brooch, medallion, necklace, periapt, scarab   Protection, discernment
-  Robe                                                   Multiple effects
-  Shirt                                                  Physical improvement
-  Vest, vestment                                         Class ability improvement
-  Bracers                                                Combat
-  Bracelets                                              Allies
-  Gloves                                                 Quickness
-  Gauntlets                                              Destructive power
-  Belt                                                   Physical improvement
-  Boots                                                  Movement
-  ------------------------------------------------------ ------------------------------------
+|                                                      |                                    |
+|------------------------------------------------------|------------------------------------|
+| Body Slot                                            | Affinity                           |
+| Headband, helmet                                     | Mental improvement, ranged attacks |
+| Hat                                                  | Interaction                        |
+| Phylactery                                           | Morale, alignment                  |
+| Eye lenses, goggles                                  | Vision                             |
+| Cloak, cape, mantle                                  | Transformation, protection         |
+| Amulet, brooch, medallion, necklace, periapt, scarab | Protection, discernment            |
+| Robe                                                 | Multiple effects                   |
+| Shirt                                                | Physical improvement               |
+| Vest, vestment                                       | Class ability improvement          |
+| Bracers                                              | Combat                             |
+| Bracelets                                            | Allies                             |
+| Gloves                                               | Quickness                          |
+| Gauntlets                                            | Destructive power                  |
+| Belt                                                 | Physical improvement               |
+| Boots                                                | Movement                           |
 
-Wondrous items that don't match the affinity for a particular body slot
+Wondrous items that don’t match the affinity for a particular body slot
 should cost 50% more than wondrous items that match the affinity.

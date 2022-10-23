@@ -13,7 +13,7 @@ characteristics is an epic magic item.
 -   Grants an enhancement bonus to armor higher than +5.
 -   Has a special ability with a market price modifier greater than +5.
 -   Grants an armor bonus of greater than +10 (not including magic
-    armor's enhancement bonus).
+    armor’s enhancement bonus).
 -   Grants a natural armor, deflection, or resistance bonus greater than
     +5.
 -   Grants an enhancement bonus to an ability score greater than +6.
@@ -68,8 +68,8 @@ nonepic magic item. However, certain important differences exist.
 ## Caster Level
 
 Spells with an effective level of 10th or higher are possible at epic
-levels. Because these spell slots aren't automatically gained at a
-particular level like 0- to 9th-level spells are, they don't have a
+levels. Because these spell slots aren’t automatically gained at a
+particular level like 0- to 9th-level spells are, they don’t have a
 minimum caster level. For this reason, the minimum caster level for any
 spell of 10th level or higher is set at 11 + spell level.
 
@@ -85,7 +85,7 @@ Use the guidelines for nonepic magic itemsto determine the market price
 of an epic magic item, with one addition: If the item gives a bonus
 beyond the limit allowed in for normal, nonepic magic items, multiply
 the portion of the market price derived from that characteristic by 10.
-Some epic characteristics, such as caster level, don't trigger this
+Some epic characteristics, such as caster level, don’t trigger this
 multiplier.
 
 ### Experience Point Cost
@@ -129,149 +129,149 @@ effective bonus of +6 to +10 but that have an enhancement bonus of +5 or
 less and special abilities whose individual market price modifiers are
 +5 or less use the table for nonepic magic armorto determine price.
 
-  ----------------------------------------------------------------------------- ----------------------------------------------- ---------------
-  d%                                                                            Enhancement Bonus                               Market Price
-  01                                                                            +1 shield ^1^                                   +1,000 gp
-  02                                                                            +1 armor ^2^                                    +1,000 gp
-  03                                                                            +2 shield ^1^                                   +4,000 gp
-  04                                                                            +2 armor ^2^                                    +4,000 gp
-  05--06                                                                        +3 shield ^1^                                   +9,000 gp
-  07--08                                                                        +3 armor ^2^                                    +9,000 gp
-  09--12                                                                        +4 shield ^1^                                   +16,000 gp
-  13--16                                                                        +4 armor ^2^                                    +16,000 gp
-  17--21                                                                        +5 shield ^1^                                   +25,000 gp
-  22--26                                                                        +5 armor ^2^                                    +25,000 gp
-  27--30                                                                        +6 shield                                       +360,000 gp
-  31--34                                                                        +6 armor                                        +360,000 gp
-  35--38                                                                        +7 shield                                       +490,000 gp
-  39--42                                                                        +7 armor                                        +490,000 gp
-  43--45                                                                        +8 shield                                       +640,000 gp
-  46--48                                                                        +8 armor                                        +640,000 gp
-  49--50                                                                        +9 shield                                       +810,000 gp
-  51--52                                                                        +9 armor                                        +810,000 gp
-  53--54                                                                        +10 shield                                      +1,000,000 gp
-  55--56                                                                        +10 armor                                       +1,000,000 gp
-  57--62                                                                        Specific armor or shield ^3^                    
-  63--75                                                                        Armor with special ability and roll again ^4^   
-  76--98                                                                        Shield with special ability and roll again^4^   
-  99                                                                            Epic shield ^5^                                 
-  100                                                                           Epic armor ^5^                                  
-  1 Roll also on nonepic magic item Table: Shield Special Abilities.                                                            
-  2 Roll also on nonepic magic item Table: Armor Special Abilities.                                                             
-  3 Roll on Table: Specific Epic Magic Armor and Shields.                                                                       
-  4Roll on Table: Armor Special Abilities or Table: Shield Special Abilities.                                                   
-  5 Roll on Table: Epic Armor and Shields.                                                                                      
-  ----------------------------------------------------------------------------- ----------------------------------------------- ---------------
+|                                                                             |                                                        |               |
+|-----------------------------------------------------------------------------|--------------------------------------------------------|---------------|
+| d%                                                                          | Enhancement Bonus                                      | Market Price  |
+| 01                                                                          | +1 shield <sup>1</sup>                                 | +1,000 gp     |
+| 02                                                                          | +1 armor <sup>2</sup>                                  | +1,000 gp     |
+| 03                                                                          | +2 shield <sup>1</sup>                                 | +4,000 gp     |
+| 04                                                                          | +2 armor <sup>2</sup>                                  | +4,000 gp     |
+| 05–06                                                                       | +3 shield <sup>1</sup>                                 | +9,000 gp     |
+| 07–08                                                                       | +3 armor <sup>2</sup>                                  | +9,000 gp     |
+| 09–12                                                                       | +4 shield <sup>1</sup>                                 | +16,000 gp    |
+| 13–16                                                                       | +4 armor <sup>2</sup>                                  | +16,000 gp    |
+| 17–21                                                                       | +5 shield <sup>1</sup>                                 | +25,000 gp    |
+| 22–26                                                                       | +5 armor <sup>2</sup>                                  | +25,000 gp    |
+| 27–30                                                                       | +6 shield                                              | +360,000 gp   |
+| 31–34                                                                       | +6 armor                                               | +360,000 gp   |
+| 35–38                                                                       | +7 shield                                              | +490,000 gp   |
+| 39–42                                                                       | +7 armor                                               | +490,000 gp   |
+| 43–45                                                                       | +8 shield                                              | +640,000 gp   |
+| 46–48                                                                       | +8 armor                                               | +640,000 gp   |
+| 49–50                                                                       | +9 shield                                              | +810,000 gp   |
+| 51–52                                                                       | +9 armor                                               | +810,000 gp   |
+| 53–54                                                                       | +10 shield                                             | +1,000,000 gp |
+| 55–56                                                                       | +10 armor                                              | +1,000,000 gp |
+| 57–62                                                                       | Specific armor or shield <sup>3</sup>                  |               |
+| 63–75                                                                       | Armor with special ability and roll again <sup>4</sup> |               |
+| 76–98                                                                       | Shield with special ability and roll again<sup>4</sup> |               |
+| 99                                                                          | Epic shield <sup>5</sup>                               |               |
+| 100                                                                         | Epic armor <sup>5</sup>                                |               |
+| 1 Roll also on nonepic magic item Table: Shield Special Abilities.          |                                                        |               |
+| 2 Roll also on nonepic magic item Table: Armor Special Abilities.           |                                                        |               |
+| 3 Roll on Table: Specific Epic Magic Armor and Shields.                     |                                                        |               |
+| 4Roll on Table: Armor Special Abilities or Table: Shield Special Abilities. |                                                        |               |
+| 5 Roll on Table: Epic Armor and Shields.                                    |                                                        |               |
 
-  : Table: Armor and Shields
+Table: Armor and Shields
 
-  ---------------------------------------------------------------------------------------------------------------------- ------------------------------------- ---------------
-  d%                                                                                                                     Enhancement Bonus                     Market Price
-  01--21                                                                                                                 +11                                   +1,210,000 gp
-  22--39                                                                                                                 +12                                   +1,440,000 gp
-  40--54                                                                                                                 +13                                   +1,690,000 gp
-  55--66                                                                                                                 +14                                   +1,960,000 gp
-  67--76                                                                                                                 +15                                   +2,250,000 gp
-  77--84                                                                                                                 +16                                   +2,560,000 gp
-  85--90                                                                                                                 +17                                   +2,890,000 gp
-  91--94                                                                                                                 +18                                   +3,240,000 gp
-  95--97                                                                                                                 +19                                   +3,610,000 gp
-  98--99                                                                                                                 +20                                   +4,000,000 gp
-  100                                                                                                                    Roll again and add +10 to bonus ^1^   2
-  1 This is cumulative if rolled multiple times.                                                                                                               
-  2 For enhancement bonuses higher than +20, the market price modifier is equal to the square of the bonus x10,000 gp.                                         
-  ---------------------------------------------------------------------------------------------------------------------- ------------------------------------- ---------------
+|                                                                                                                      |                                              |               |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------|
+| d%                                                                                                                   | Enhancement Bonus                            | Market Price  |
+| 01–21                                                                                                                | +11                                          | +1,210,000 gp |
+| 22–39                                                                                                                | +12                                          | +1,440,000 gp |
+| 40–54                                                                                                                | +13                                          | +1,690,000 gp |
+| 55–66                                                                                                                | +14                                          | +1,960,000 gp |
+| 67–76                                                                                                                | +15                                          | +2,250,000 gp |
+| 77–84                                                                                                                | +16                                          | +2,560,000 gp |
+| 85–90                                                                                                                | +17                                          | +2,890,000 gp |
+| 91–94                                                                                                                | +18                                          | +3,240,000 gp |
+| 95–97                                                                                                                | +19                                          | +3,610,000 gp |
+| 98–99                                                                                                                | +20                                          | +4,000,000 gp |
+| 100                                                                                                                  | Roll again and add +10 to bonus <sup>1</sup> | 2             |
+| 1 This is cumulative if rolled multiple times.                                                                       |                                              |               |
+| 2 For enhancement bonuses higher than +20, the market price modifier is equal to the square of the bonus x10,000 gp. |                                              |               |
 
-  : Table: Epic Armor and Shields
+Table: Epic Armor and Shields
 
-  ------------------------------------------------------------------------------------------------------------------------ ----------------- ----------------
-  d%                                                                                                                       Armor             Armor Cost ^1^
-  01                                                                                                                       Padded            +155 gp
-  02                                                                                                                       Leather           +160 gp
-  03--12                                                                                                                   Hide              +165 gp
-  13--27                                                                                                                   Studded leather   +175 gp
-  28--42                                                                                                                   Chain shirt ^2^   +250 gp
-  43                                                                                                                       Scale mail ^2^    +200 gp
-  44                                                                                                                       Chainmail ^2^     +300 gp
-  45--57                                                                                                                   Breastplate ^2^   +350 gp
-  58                                                                                                                       Splint mail ^2^   +350 gp
-  59                                                                                                                       Banded mail ^2^   +400 gp
-  60                                                                                                                       Half-plate ^2^    +750 gp
-  61--100                                                                                                                  Full plate ^2^    +1,650 gp
-  All magic armor is masterwork armor (with an armor check penalty 1 lower than normal).                                                     
-  1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                                               
-  2 Roll d% to determine material: 01--70 steel; 71--90 mithral; 91--99 adamantine; 100 other. Adjust price accordingly.                     
-  ------------------------------------------------------------------------------------------------------------------------ ----------------- ----------------
+|                                                                                                                     |                          |                         |
+|---------------------------------------------------------------------------------------------------------------------|--------------------------|-------------------------|
+| d%                                                                                                                  | Armor                    | Armor Cost <sup>1</sup> |
+| 01                                                                                                                  | Padded                   | +155 gp                 |
+| 02                                                                                                                  | Leather                  | +160 gp                 |
+| 03–12                                                                                                               | Hide                     | +165 gp                 |
+| 13–27                                                                                                               | Studded leather          | +175 gp                 |
+| 28–42                                                                                                               | Chain shirt <sup>2</sup> | +250 gp                 |
+| 43                                                                                                                  | Scale mail <sup>2</sup>  | +200 gp                 |
+| 44                                                                                                                  | Chainmail <sup>2</sup>   | +300 gp                 |
+| 45–57                                                                                                               | Breastplate <sup>2</sup> | +350 gp                 |
+| 58                                                                                                                  | Splint mail <sup>2</sup> | +350 gp                 |
+| 59                                                                                                                  | Banded mail <sup>2</sup> | +400 gp                 |
+| 60                                                                                                                  | Half-plate <sup>2</sup>  | +750 gp                 |
+| 61–100                                                                                                              | Full plate <sup>2</sup>  | +1,650 gp               |
+| All magic armor is masterwork armor (with an armor check penalty 1 lower than normal).                              |                          |                         |
+| 1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                        |                          |                         |
+| 2 Roll d% to determine material: 01–70 steel; 71–90 mithral; 91–99 adamantine; 100 other. Adjust price accordingly. |                          |                         |
 
-  : Table: Random Armor Type
+Table: Random Armor Type
 
-  ----------------------------------------------------------------------------------------------------------------------- -------------------------- -----------------
-  d%                                                                                                                      Shield                     Shield Cost ^1^
-  01--10                                                                                                                  Buckler                    +165 gp
-  11--15                                                                                                                  Shield, light wooden ^2^   +153 gp
-  16--20                                                                                                                  Shield, light steel ^3^    +159 gp
-  21--30                                                                                                                  Shield, heavy wooden ^2^   +157 gp
-  31--95                                                                                                                  Shield, heavy steel ^3^    +170 gp
-  96--100                                                                                                                 Shield, tower ^2^          +180 gp
-  All magic shields are masterwork shields (with an armor check penalty 1 lower than normal).                                                        
-  1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                                                       
-  2Roll d% to determine material: 01--70 wood; 71--99 dark-wood; 100 other. Adjust price accordingly.                                                
-  3Roll d% to determine material: 01--70 steel; 71--90 mithral; 91--99 adamantine; 100 other. Adjust price accordingly.                              
-  ----------------------------------------------------------------------------------------------------------------------- -------------------------- -----------------
+|                                                                                                                    |                                   |                          |
+|--------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------------------------|
+| d%                                                                                                                 | Shield                            | Shield Cost <sup>1</sup> |
+| 01–10                                                                                                              | Buckler                           | +165 gp                  |
+| 11–15                                                                                                              | Shield, light wooden <sup>2</sup> | +153 gp                  |
+| 16–20                                                                                                              | Shield, light steel <sup>3</sup>  | +159 gp                  |
+| 21–30                                                                                                              | Shield, heavy wooden <sup>2</sup> | +157 gp                  |
+| 31–95                                                                                                              | Shield, heavy steel <sup>3</sup>  | +170 gp                  |
+| 96–100                                                                                                             | Shield, tower <sup>2</sup>        | +180 gp                  |
+| All magic shields are masterwork shields (with an armor check penalty 1 lower than normal).                        |                                   |                          |
+| 1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                       |                                   |                          |
+| 2Roll d% to determine material: 01–70 wood; 71–99 dark-wood; 100 other. Adjust price accordingly.                  |                                   |                          |
+| 3Roll d% to determine material: 01–70 steel; 71–90 mithral; 91–99 adamantine; 100 other. Adjust price accordingly. |                                   |                          |
 
-  : Table: Random Shield Type
+Table: Random Shield Type
 
-  ---------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ---------------------------
-  d%                                                                                                                                 Special Ability                                                                             Market Price Modifier ^1^
-  01--06                                                                                                                             Great invulnerability (10/magic)                                                            +4 bonus
-  07--11                                                                                                                             Great invulnerability (15/magic)                                                            +5 bonus
-  12--19                                                                                                                             Negating                                                                                    +5 bonus
-  20--26                                                                                                                             Acid warding                                                                                +6 bonus
-  27--33                                                                                                                             Cold warding                                                                                +6 bonus
-  34--40                                                                                                                             Fire warding                                                                                +6 bonus
-  41--44                                                                                                                             Great invulnerability (5/epic)                                                              +6 bonus
-  45--50                                                                                                                             Great spell resistance (SR 21)                                                              +6 bonus
-  51--57                                                                                                                             Lightning warding                                                                           +6 bonus
-  58--64                                                                                                                             Sonic warding                                                                               +6 bonus
-  65--67                                                                                                                             Great invulnerability (10/epic)                                                             +7 bonus
-  68--72                                                                                                                             Great spell resistance (SR 23)                                                              +7 bonus
-  73--76                                                                                                                             Great spell resistance (SR 25)                                                              +8 bonus
-  77--79                                                                                                                             Great spell resistance (SR 27)                                                              +9 bonus
-  80--87                                                                                                                             Roll on nonepic magic item Table: Armor Special Abilities, then roll again on this table.   
-  88--95                                                                                                                             Roll twice on nonepic magic item Table: Armor Special Abilities.                            
-  96--100                                                                                                                            Roll twice again ^2^                                                                        
-  1Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                                                                                                                                    
-  2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better.                                                                                               
-  ---------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------- ---------------------------
+|                                                                                                                                  |                                                                                           |                                    |
+|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------|
+| d%                                                                                                                               | Special Ability                                                                           | Market Price Modifier <sup>1</sup> |
+| 01–06                                                                                                                            | Great invulnerability (10/magic)                                                          | +4 bonus                           |
+| 07–11                                                                                                                            | Great invulnerability (15/magic)                                                          | +5 bonus                           |
+| 12–19                                                                                                                            | Negating                                                                                  | +5 bonus                           |
+| 20–26                                                                                                                            | Acid warding                                                                              | +6 bonus                           |
+| 27–33                                                                                                                            | Cold warding                                                                              | +6 bonus                           |
+| 34–40                                                                                                                            | Fire warding                                                                              | +6 bonus                           |
+| 41–44                                                                                                                            | Great invulnerability (5/epic)                                                            | +6 bonus                           |
+| 45–50                                                                                                                            | Great spell resistance (SR 21)                                                            | +6 bonus                           |
+| 51–57                                                                                                                            | Lightning warding                                                                         | +6 bonus                           |
+| 58–64                                                                                                                            | Sonic warding                                                                             | +6 bonus                           |
+| 65–67                                                                                                                            | Great invulnerability (10/epic)                                                           | +7 bonus                           |
+| 68–72                                                                                                                            | Great spell resistance (SR 23)                                                            | +7 bonus                           |
+| 73–76                                                                                                                            | Great spell resistance (SR 25)                                                            | +8 bonus                           |
+| 77–79                                                                                                                            | Great spell resistance (SR 27)                                                            | +9 bonus                           |
+| 80–87                                                                                                                            | Roll on nonepic magic item Table: Armor Special Abilities, then roll again on this table. |                                    |
+| 88–95                                                                                                                            | Roll twice on nonepic magic item Table: Armor Special Abilities.                          |                                    |
+| 96–100                                                                                                                           | Roll twice again <sup>2</sup>                                                             |                                    |
+| 1Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                                      |                                                                                           |                                    |
+| 2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better. |                                                                                           |                                    |
 
-  : Table: Armor Special Abilities
+Table: Armor Special Abilities
 
-  ------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------- ---------------------------
-  d%                                                                                                                              Shield Special Ability                                                                       Market Price Modifier ^1^
-  01--06                                                                                                                          Great invulnerability (10/magic)                                                             +4 bonus
-  07--12                                                                                                                          Great invulnerability (15/magic)                                                             +5 bonus
-  13--19                                                                                                                          Acid warding                                                                                 +6 bonus
-  20--26                                                                                                                          Cold warding                                                                                 +6 bonus
-  27--33                                                                                                                          Fire warding                                                                                 +6 bonus
-  34--37                                                                                                                          Great invulnerability (5/epic)                                                               +6 bonus
-  38--43                                                                                                                          Great spell resistance (SR 21)                                                               +6 bonus
-  44--46                                                                                                                          Infinite arrow deflection                                                                    +6 bonus
-  47--53                                                                                                                          Lightning warding                                                                            +6 bonus
-  54--60                                                                                                                          Sonic warding                                                                                +6 bonus
-  61--63                                                                                                                          Great invulnerability (10/epic)                                                              +7 bonus
-  64--68                                                                                                                          Great spell resistance (SR 23)                                                               +7 bonus
-  69--71                                                                                                                          Exceptional arrow deflection                                                                 +8 bonus
-  72--75                                                                                                                          Great spell resistance (SR 25)                                                               +8 bonus
-  76--78                                                                                                                          Great spell resistance (SR 27)                                                               +9 bonus
-  79                                                                                                                              Great reflection                                                                             +10 bonus
-  80--87                                                                                                                          Roll on nonepic magic item Table: Shield Special Abilities, then roll again on this table.   
-  88--95                                                                                                                          Roll twice on nonepic magic item Table: Shield Special Abilities.                            
-  96--100                                                                                                                         Roll twice again^2^                                                                          
-  1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                                                                                                                                 
-  2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better.                                                                                                
-  ------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------- ---------------------------
+|                                                                                                                               |                                                                                            |                                    |
+|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------|
+| d%                                                                                                                            | Shield Special Ability                                                                     | Market Price Modifier <sup>1</sup> |
+| 01–06                                                                                                                         | Great invulnerability (10/magic)                                                           | +4 bonus                           |
+| 07–12                                                                                                                         | Great invulnerability (15/magic)                                                           | +5 bonus                           |
+| 13–19                                                                                                                         | Acid warding                                                                               | +6 bonus                           |
+| 20–26                                                                                                                         | Cold warding                                                                               | +6 bonus                           |
+| 27–33                                                                                                                         | Fire warding                                                                               | +6 bonus                           |
+| 34–37                                                                                                                         | Great invulnerability (5/epic)                                                             | +6 bonus                           |
+| 38–43                                                                                                                         | Great spell resistance (SR 21)                                                             | +6 bonus                           |
+| 44–46                                                                                                                         | Infinite arrow deflection                                                                  | +6 bonus                           |
+| 47–53                                                                                                                         | Lightning warding                                                                          | +6 bonus                           |
+| 54–60                                                                                                                         | Sonic warding                                                                              | +6 bonus                           |
+| 61–63                                                                                                                         | Great invulnerability (10/epic)                                                            | +7 bonus                           |
+| 64–68                                                                                                                         | Great spell resistance (SR 23)                                                             | +7 bonus                           |
+| 69–71                                                                                                                         | Exceptional arrow deflection                                                               | +8 bonus                           |
+| 72–75                                                                                                                         | Great spell resistance (SR 25)                                                             | +8 bonus                           |
+| 76–78                                                                                                                         | Great spell resistance (SR 27)                                                             | +9 bonus                           |
+| 79                                                                                                                            | Great reflection                                                                           | +10 bonus                          |
+| 80–87                                                                                                                         | Roll on nonepic magic item Table: Shield Special Abilities, then roll again on this table. |                                    |
+| 88–95                                                                                                                         | Roll twice on nonepic magic item Table: Shield Special Abilities.                          |                                    |
+| 96–100                                                                                                                        | Roll twice again<sup>2</sup>                                                               |                                    |
+| 1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.                                  |                                                                                            |                                    |
+| 2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better. |                                                                                            |                                    |
 
-  : Table: Shield Special Abilities
+Table: Shield Special Abilities
 
 ### Epic Armor and Shield Special Ability Descriptions
 
@@ -304,7 +304,7 @@ attack, he or she can make a Reflex saving throw (DC 20). If the ranged
 attack has an enhancement bonus (or a spell level), the DC increases by
 that amount. If he or she succeeds, the shield deflects the attack. The
 bearer must be aware of the attack and not flat-footed. Attempting to
-deflect a ranged attack doesn't count as an action.
+deflect a ranged attack doesn’t count as an action.
 
 *Caster Level:* 23rd; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *shield, wall of force; Market Price: +*8
@@ -351,8 +351,8 @@ by a ranged weapon, he or she can make a Reflex saving throw (DC 20). If
 the ranged weapon has an enhancement bonus, the DC increases by that
 amount. If he or she succeeds, the shield deflects the weapon. The
 bearer must be aware of the attack and not flat-footed. Attempting to
-deflect a ranged weapon doesn't count as an action. Exceptional ranged
-weapons, such as boulders hurled by giants or ranged spells, can't be
+deflect a ranged weapon doesn’t count as an action. Exceptional ranged
+weapons, such as boulders hurled by giants or ranged spells, can’t be
 deflected.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
@@ -385,24 +385,24 @@ energy* spell).
 Epic Magic Arms and Armor, *protection from energy; Market Price: +*6
 bonus.
 
-  --------- ---------------------------------- --------------
-  d%        Specific Armor or Shield           Market Price
-  01--20    Shapeshifter's armor               400,165 gp
-  21--40    Warlord's breastplate              416,200 gp
-  41--57    Dragonskin armor                   564,550 gp
-  58--71    Armor of the celestial battalion   616,300 gp
-  72--82    Armor of the abyssal horde         768,260 gp
-  83--93    Antimagic armor                    871,500 gp
-  94--100   Bulwark of the great dragon        1,612,980 gp
-  --------- ---------------------------------- --------------
+|        |                                  |              |
+|--------|----------------------------------|--------------|
+| d%     | Specific Armor or Shield         | Market Price |
+| 01–20  | Shapeshifter’s armor             | 400,165 gp   |
+| 21–40  | Warlord’s breastplate            | 416,200 gp   |
+| 41–57  | Dragonskin armor                 | 564,550 gp   |
+| 58–71  | Armor of the celestial battalion | 616,300 gp   |
+| 72–82  | Armor of the abyssal horde       | 768,260 gp   |
+| 83–93  | Antimagic armor                  | 871,500 gp   |
+| 94–100 | Bulwark of the great dragon      | 1,612,980 gp |
 
-  : Table: Specific Epic Magic Armor and Shields
+Table: Specific Epic Magic Armor and Shields
 
 ### Specific Armors and Shields
 
 **Antimagic Armor:** This +*1 negating full plate armor of
 invulnerability* is crafted of adamantine (and thus has damage reduction
-3/--). The armor provides a --5 penalty on dispel checks made against it
+3/–). The armor provides a –5 penalty on dispel checks made against it
 or its wearer.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
@@ -410,8 +410,8 @@ Epic Magic Arms and Armor, *greater dispelling, stoneskin, wish* or
 *miracle; Market Price:* 871,500 gp; *Cost to Create:* 436,500 gp +
 18,700 XP.
 
-**Armor of the Abyssal Horde:** This+*6 full plate armor's* clawed
-gauntlets are effectively +4 keen weapons (1d10/19--20) that afflict the
+**Armor of the Abyssal Horde:** This+*6 full plate armor’s* clawed
+gauntlets are effectively +4 keen weapons (1d10/19–20) that afflict the
 target as if she had been struck by an *energy drain* spell (Fortitude
 negates DC 23). The armor bestows two negative levels on any nonevil
 creature wearing it. These negative levels persist as long as the armor
@@ -438,7 +438,7 @@ evil; Market Price:* 616,300 gp; *Cost to Create:* 308,300 gp + 16,160
 XP.
 
 **Bulwark of the Great Dragon:** This +*6 heavy shield* bears the image
-of a dragon's head. Three times per day, the bearer of the shield can
+of a dragon’s head. Three times per day, the bearer of the shield can
 command it to belch forth a breath weapon of the appropriate type. The
 range of this breath weapon is 80 feet (if a line) or 40 feet (if a
 cone). Regardless of the type, the breath weapon deals 20d6 points of
@@ -447,47 +447,47 @@ to the energy type that matches its breath weapon. To determine what
 type of *dragon shield* is found, roll d% and consult the following
 table:
 
-  --------- -------- ------------------------------
-  d%        Color    Breath
-  01--10    Black    Line of acid
-  11--20    Blue     Line of lightning
-  21--30    Brass    Line of fire
-  31--40    Bronze   Line of lightning
-  41--50    Copper   Line of acid
-  51--60    Gold     Cone of fire
-  61--70    Green    Cone of corrosive (acid) gas
-  71--80    Red      Cone of fire
-  81--90    Silver   Cone of cold
-  91--100   White    Cone of cold
-  --------- -------- ------------------------------
+|        |        |                              |
+|--------|--------|------------------------------|
+| d%     | Color  | Breath                       |
+| 01–10  | Black  | Line of acid                 |
+| 11–20  | Blue   | Line of lightning            |
+| 21–30  | Brass  | Line of fire                 |
+| 31–40  | Bronze | Line of lightning            |
+| 41–50  | Copper | Line of acid                 |
+| 51–60  | Gold   | Cone of fire                 |
+| 61–70  | Green  | Cone of corrosive (acid) gas |
+| 71–80  | Red    | Cone of fire                 |
+| 81–90  | Silver | Cone of cold                 |
+| 91–100 | White  | Cone of cold                 |
 
 *Caster Level:* 20th; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *protection from energy; Market Price:*
 1,612,970 gp; *Cost to Create:* 806,570 gp + 26,128 XP.
 
 **Dragonskin Armor:** This+*5 full plate armor* is crafted from the hide
-of a great wyrm dragon. At the wearer's command, the armor sprouts
+of a great wyrm dragon. At the wearer’s command, the armor sprouts
 enormous dragon wings, allowing the wearer to fly at a speed of 90 feet
 (clumsy) for a total of 4 hours each day. The armor also grants immunity
 to a specific type of energy, based on the color of dragon that supplied
 the armor. Roll d% on the following table to determine the color and
 immunity.
 
-  --------- -------- -----------
-  d%        Color    Immunity
-  01--10    Black    Acid
-  11--20    Blue     Lightning
-  21--30    Brass    Fire
-  31--40    Bronze   Lightning
-  41--50    Copper   Acid
-  51--60    Gold     Fire
-  61--70    Green    Acid
-  71--80    Red      Fire
-  81--90    Silver   Cold
-  91--100   White    Cold
-  --------- -------- -----------
+|        |        |           |
+|--------|--------|-----------|
+| d%     | Color  | Immunity  |
+| 01–10  | Black  | Acid      |
+| 11–20  | Blue   | Lightning |
+| 21–30  | Brass  | Fire      |
+| 31–40  | Bronze | Lightning |
+| 41–50  | Copper | Acid      |
+| 51–60  | Gold   | Fire      |
+| 61–70  | Green  | Acid      |
+| 71–80  | Red    | Fire      |
+| 81–90  | Silver | Cold      |
+| 91–100 | White  | Cold      |
 
-The wearer of the armor takes a --4 circumstance penalty on Diplomacy
+The wearer of the armor takes a –4 circumstance penalty on Diplomacy
 checks with dragons, but gains a +4 circumstance bonus on Intimidate
 checks against dragons.
 
@@ -495,7 +495,7 @@ checks against dragons.
 Epic Magic Arms and Armor, *protection from energy, shapechange; Market
 Price:* 564,550 gp; *Cost to Create:* 283,250 gp + 15,629 XP.
 
-**Shapeshifter's Armor:** This suit of +*6 hide armor* grants its full
+**Shapeshifter’s Armor:** This suit of +*6 hide armor* grants its full
 Armor Class bonus regardless of any form the wearer takes (with
 *polymorph, shapechange, wild shape,* or similar abilities).
 
@@ -503,12 +503,12 @@ Armor Class bonus regardless of any form the wearer takes (with
 Epic Magic Arms and Armor, *shapechange* or *wild shape* ability;
 *Market Price:* 400,165 gp; *Cost to Create:* 200,165 gp + 14,000 XP.
 
-**Warlord's Breastplate:** This +*6 mithral breastplate* has an armor
-check penalty of --1, a maximum Dexterity bonus of +5, and an arcane
+**Warlord’s Breastplate:** This +*6 mithral breastplate* has an armor
+check penalty of –1, a maximum Dexterity bonus of +5, and an arcane
 spell failure chance of 15%. It is considered light armor and weighs 15
 pounds. It grants the wearer a +4 enhancement bonus to Charisma and
 allows the wearer to attract and lead a number of followers as if he or
-she had the Leadership feat (though this power doesn't allow the wearer
+she had the Leadership feat (though this power doesn’t allow the wearer
 to attract a cohort). If the wearer already has the Leadership feat,
 this armor has no cumulative effect on his or her followers.
 
@@ -519,9 +519,9 @@ Epic Magic Arms and Armor, *charm monster, sympathy; Market Price:*
 ## Weapons
 
 Except when otherwise stated, epic magic weapons follow the rules for
-nonepic magic weapons. There is no limit to an epic magic weapon's
+nonepic magic weapons. There is no limit to an epic magic weapon’s
 enhancement bonus, to the market price modifier of an epic magic weapon
-special ability, or to the total of an epic magic weapon's enhancement
+special ability, or to the total of an epic magic weapon’s enhancement
 bonus and market price modifier.
 
 ### Epic Weapon Base Price
@@ -534,265 +534,328 @@ effective bonus of +6 to +10 but that have an enhancement bonus of +5 or
 less and special abilities whose individual market price modifiers are
 +5 or less use the table for nonepic magic weaponsto determine price.
 
-  ----------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------ -----------------
-  d%                                                                                                                            Enhancement Bonus                                      Market Price^1^
-  01--03                                                                                                                        +1                                                     +2,000 gp
-  04--07                                                                                                                        +2                                                     +8,000 gp
-  08--13                                                                                                                        +3                                                     +18,000 gp
-  14--20                                                                                                                        +4                                                     +32,000 gp
-  21--28                                                                                                                        +5                                                     +50,000 gp
-  29--36                                                                                                                        +6                                                     +720,000 gp
-  37--43                                                                                                                        +7                                                     +980,000 gp
-  44--49                                                                                                                        +8                                                     +1,280,000 gp
-  50--53                                                                                                                        +9                                                     +1,620,000 gp
-  54--56                                                                                                                        +10                                                    +2,000,000 gp
-  57--61                                                                                                                        Specific weapon^2^                                     
-  62--80                                                                                                                        Melee weapon with special ability and roll again^3^    
-  81--99                                                                                                                        Ranged weapon with special ability and roll again^3^   
-  100                                                                                                                           Roll on Table: Epic Weapons                            
-  1 This price is for 50 arrows, crossbow bolts, or sling bullets.                                                                                                                     
-  2 See Table: Specific Weapons.                                                                                                                                                       
-  3 See Table: Melee Weapon Special Abilities for melee weapons or Table: Ranged Weapon Special Abilities for ranged weapons.                                                          
-  ----------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------ -----------------
+|                                                                                                                             |                                                               |                          |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------|
+| d%                                                                                                                          | Enhancement Bonus                                             | Market Price<sup>1</sup> |
+| 01–03                                                                                                                       | +1                                                            | +2,000 gp                |
+| 04–07                                                                                                                       | +2                                                            | +8,000 gp                |
+| 08–13                                                                                                                       | +3                                                            | +18,000 gp               |
+| 14–20                                                                                                                       | +4                                                            | +32,000 gp               |
+| 21–28                                                                                                                       | +5                                                            | +50,000 gp               |
+| 29–36                                                                                                                       | +6                                                            | +720,000 gp              |
+| 37–43                                                                                                                       | +7                                                            | +980,000 gp              |
+| 44–49                                                                                                                       | +8                                                            | +1,280,000 gp            |
+| 50–53                                                                                                                       | +9                                                            | +1,620,000 gp            |
+| 54–56                                                                                                                       | +10                                                           | +2,000,000 gp            |
+| 57–61                                                                                                                       | Specific weapon<sup>2</sup>                                   |                          |
+| 62–80                                                                                                                       | Melee weapon with special ability and roll again<sup>3</sup>  |                          |
+| 81–99                                                                                                                       | Ranged weapon with special ability and roll again<sup>3</sup> |                          |
+| 100                                                                                                                         | Roll on Table: Epic Weapons                                   |                          |
+| 1 This price is for 50 arrows, crossbow bolts, or sling bullets.                                                            |                                                               |                          |
+| 2 See Table: Specific Weapons.                                                                                              |                                                               |                          |
+| 3 See Table: Melee Weapon Special Abilities for melee weapons or Table: Ranged Weapon Special Abilities for ranged weapons. |                                                               |                          |
 
-  : Table: Weapons
+Table: Weapons
 
-  ---------------------------------------------------------------------------------------------------------------------- ------------------------------------ ---------------
-  d%                                                                                                                     Enhancement Bonus                    Market Price
-  01--21                                                                                                                 +11                                  +2,420,000 gp
-  22--39                                                                                                                 +12                                  +2,880,000 gp
-  40--54                                                                                                                 +13                                  +3,380,000 gp
-  55--66                                                                                                                 +14                                  +3,920,000 gp
-  67--76                                                                                                                 +15                                  +4,500,000 gp
-  77--84                                                                                                                 +16                                  +5,120,000 gp
-  85--90                                                                                                                 +17                                  +5,780,000 gp
-  91--94                                                                                                                 +18                                  +6,480,000 gp
-  95--97                                                                                                                 +19                                  +7,220,000 gp
-  98--99                                                                                                                 +20                                  +8,000,000 gp
-  100                                                                                                                    Roll again and add +10 to bonus^1^   2
-  1This is cumulative if rolled multiple times.                                                                                                               
-  2 For enhancement bonuses higher than +20, the market price modifier is equal to the square of the bonus x20,000 gp.                                        
-  ---------------------------------------------------------------------------------------------------------------------- ------------------------------------ ---------------
+|                                                                                                                      |                                             |               |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------|
+| d%                                                                                                                   | Enhancement Bonus                           | Market Price  |
+| 01–21                                                                                                                | +11                                         | +2,420,000 gp |
+| 22–39                                                                                                                | +12                                         | +2,880,000 gp |
+| 40–54                                                                                                                | +13                                         | +3,380,000 gp |
+| 55–66                                                                                                                | +14                                         | +3,920,000 gp |
+| 67–76                                                                                                                | +15                                         | +4,500,000 gp |
+| 77–84                                                                                                                | +16                                         | +5,120,000 gp |
+| 85–90                                                                                                                | +17                                         | +5,780,000 gp |
+| 91–94                                                                                                                | +18                                         | +6,480,000 gp |
+| 95–97                                                                                                                | +19                                         | +7,220,000 gp |
+| 98–99                                                                                                                | +20                                         | +8,000,000 gp |
+| 100                                                                                                                  | Roll again and add +10 to bonus<sup>1</sup> | 2             |
+| 1This is cumulative if rolled multiple times.                                                                        |                                             |               |
+| 2 For enhancement bonuses higher than +20, the market price modifier is equal to the square of the bonus x20,000 gp. |                                             |               |
 
-  : Table: Epic Weapons
+Table: Epic Weapons
 
-  --------- ---------------------------------------
-  d%        Weapon Type
-  01--70    Roll on Table: Common Melee Weapon
-  71--80    Roll on Table: Uncommon Melee Weapons
-  81--100   Roll on Table: Ranged Weapons
-  --------- ---------------------------------------
+|        |                                       |
+|--------|---------------------------------------|
+| d%     | Weapon Type                           |
+| 01–70  | Roll on Table: Common Melee Weapon    |
+| 71–80  | Roll on Table: Uncommon Melee Weapons |
+| 81–100 | Roll on Table: Ranged Weapons         |
 
-  : Table: Weapon Type Determination
+Table: Weapon Type Determination
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------ ----------------
-  d%                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Weapon^1^          Weapon Cost^2^
-  01--04                                                                                                                                                                                                                                                                                                                                                                                                                                                              Dagger             +302 gp
-  05--14                                                                                                                                                                                                                                                                                                                                                                                                                                                              Greataxe           +320 gp
-  15--24                                                                                                                                                                                                                                                                                                                                                                                                                                                              Greatsword         +350 gp
-  25--28                                                                                                                                                                                                                                                                                                                                                                                                                                                              Kama               +302 gp
-  29--41                                                                                                                                                                                                                                                                                                                                                                                                                                                              Longsword          +315 gp
-  42--45                                                                                                                                                                                                                                                                                                                                                                                                                                                              Mace, light        +305 gp
-  46--50                                                                                                                                                                                                                                                                                                                                                                                                                                                              Mace, heavy        +312 gp
-  51--54                                                                                                                                                                                                                                                                                                                                                                                                                                                              Nunchaku           +302 gp
-  55--57                                                                                                                                                                                                                                                                                                                                                                                                                                                              Quarterstaff ^3^   +600 gp
-  58--61                                                                                                                                                                                                                                                                                                                                                                                                                                                              Rapier             +320 gp
-  62--66                                                                                                                                                                                                                                                                                                                                                                                                                                                              Scimitar           +315 gp
-  67--70                                                                                                                                                                                                                                                                                                                                                                                                                                                              Shortspear         +302 gp
-  71--74                                                                                                                                                                                                                                                                                                                                                                                                                                                              Siangham           +303 gp
-  75--84                                                                                                                                                                                                                                                                                                                                                                                                                                                              Sword, bastard     +335 gp
-  85--89                                                                                                                                                                                                                                                                                                                                                                                                                                                              Sword, short       +310 gp
-  90--100                                                                                                                                                                                                                                                                                                                                                                                                                                                             Waraxe, dwarven    +330 gp
-  All magic weapons are masterwork weapons.                                                                                                                                                                                                                                                                                                                                                                                                                                              
-  1 For weapons normally made of steel, roll d% to determine material: 01--85 steel; 86--99 adamantine; 100 other. Adjust price accordingly.                                                                                                                                                                                                                                                                                                                                             
-  2 Add to enhancement bonus on Table: Weapons to determine total market price.                                                                                                                                                                                                                                                                                                                                                                                                          
-  3 Masterwork double weapons incur double the masterwork cost to account for each head (+300 gp masterwork cost per head for a total of +600 gp). Double weapons have separate bonuses for their different heads. If randomly determined, the second head of a double weapon has the same enhancement bonus as the main head (01--50 on d%), doubling the cost of the bonus, or its enhancement bonus is one less (51--100 on d%) and it has no special abilities.                      
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------ ----------------
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                           |                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------------|
+| d%                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Weapon<sup>1</sup>        | Weapon Cost<sup>2</sup> |
+| 01–04                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Dagger                    | +302 gp                 |
+| 05–14                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Greataxe                  | +320 gp                 |
+| 15–24                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Greatsword                | +350 gp                 |
+| 25–28                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Kama                      | +302 gp                 |
+| 29–41                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Longsword                 | +315 gp                 |
+| 42–45                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Mace, light               | +305 gp                 |
+| 46–50                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Mace, heavy               | +312 gp                 |
+| 51–54                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Nunchaku                  | +302 gp                 |
+| 55–57                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Quarterstaff <sup>3</sup> | +600 gp                 |
+| 58–61                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Rapier                    | +320 gp                 |
+| 62–66                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Scimitar                  | +315 gp                 |
+| 67–70                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Shortspear                | +302 gp                 |
+| 71–74                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Siangham                  | +303 gp                 |
+| 75–84                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Sword, bastard            | +335 gp                 |
+| 85–89                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Sword, short              | +310 gp                 |
+| 90–100                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Waraxe, dwarven           | +330 gp                 |
+| All magic weapons are masterwork weapons.                                                                                                                                                                                                                                                                                                                                                                                                                       |                           |                         |
+| 1 For weapons normally made of steel, roll d% to determine material: 01–85 steel; 86–99 adamantine; 100 other. Adjust price accordingly.                                                                                                                                                                                                                                                                                                                        |                           |                         |
+| 2 Add to enhancement bonus on Table: Weapons to determine total market price.                                                                                                                                                                                                                                                                                                                                                                                   |                           |                         |
+| 3 Masterwork double weapons incur double the masterwork cost to account for each head (+300 gp masterwork cost per head for a total of +600 gp). Double weapons have separate bonuses for their different heads. If randomly determined, the second head of a double weapon has the same enhancement bonus as the main head (01–50 on d%), doubling the cost of the bonus, or its enhancement bonus is one less (51–100 on d%) and it has no special abilities. |                           |                         |
 
-  : Table: Common Melee Weapons
+Table: Common Melee Weapons
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------- -----------------
-  d%                                                                                                                                                                                                                                                                                                                                                                                                                                                            Weapon^1^                  Weapon Cost ^2^
-  01--03                                                                                                                                                                                                                                                                                                                                                                                                                                                        Axe, orc double^3^         +660 gp
-  04--07                                                                                                                                                                                                                                                                                                                                                                                                                                                        Battleaxe                  +310 gp
-  08--10                                                                                                                                                                                                                                                                                                                                                                                                                                                        Chain, spiked              +325 gp
-  11--12                                                                                                                                                                                                                                                                                                                                                                                                                                                        Club                       +300 gp
-  13--16                                                                                                                                                                                                                                                                                                                                                                                                                                                        Crossbow, hand             +400 gp
-  17--19                                                                                                                                                                                                                                                                                                                                                                                                                                                        Crossbow, repeating        +550 gp
-  20--21                                                                                                                                                                                                                                                                                                                                                                                                                                                        Dagger, punching           +302 gp
-  22--23                                                                                                                                                                                                                                                                                                                                                                                                                                                        Falchion                   +375 gp
-  24--26                                                                                                                                                                                                                                                                                                                                                                                                                                                        Flail, dire ^3^            +690 gp
-  27--31                                                                                                                                                                                                                                                                                                                                                                                                                                                        Flail, heavy               +315 gp
-  32--35                                                                                                                                                                                                                                                                                                                                                                                                                                                        Flail, light               +308 gp
-  36--37                                                                                                                                                                                                                                                                                                                                                                                                                                                        Gauntlet                   +302 gp
-  38--39                                                                                                                                                                                                                                                                                                                                                                                                                                                        Gauntlet, spiked           +305 gp
-  40--41                                                                                                                                                                                                                                                                                                                                                                                                                                                        Glaive                     +308 gp
-  42--43                                                                                                                                                                                                                                                                                                                                                                                                                                                        Greatclub                  +305 gp
-  44--45                                                                                                                                                                                                                                                                                                                                                                                                                                                        Guisarme                   +309 gp
-  46--48                                                                                                                                                                                                                                                                                                                                                                                                                                                        Halberd                    +310 gp
-  49--51                                                                                                                                                                                                                                                                                                                                                                                                                                                        Halfspear                  +301 gp
-  52--54                                                                                                                                                                                                                                                                                                                                                                                                                                                        Hammer, gnome hooked ^3^   +620 gp
-  55--56                                                                                                                                                                                                                                                                                                                                                                                                                                                        Hammer, light              +301 gp
-  57--58                                                                                                                                                                                                                                                                                                                                                                                                                                                        Handaxe                    +306 gp
-  59--61                                                                                                                                                                                                                                                                                                                                                                                                                                                        Kukri                      +308 gp
-  62--63                                                                                                                                                                                                                                                                                                                                                                                                                                                        Lance, heavy               +310 gp
-  64--65                                                                                                                                                                                                                                                                                                                                                                                                                                                        Lance, light               +306 gp
-  66--67                                                                                                                                                                                                                                                                                                                                                                                                                                                        Longspear                  +305 gp
-  68--70                                                                                                                                                                                                                                                                                                                                                                                                                                                        Morningstar                +308 gp
-  71--72                                                                                                                                                                                                                                                                                                                                                                                                                                                        Net                        +320 gp
-  73--74                                                                                                                                                                                                                                                                                                                                                                                                                                                        Pick, heavy                +308 gp
-  75--76                                                                                                                                                                                                                                                                                                                                                                                                                                                        Pick, light                +304 gp
-  77--78                                                                                                                                                                                                                                                                                                                                                                                                                                                        Ranseur                    +310 gp
-  79--80                                                                                                                                                                                                                                                                                                                                                                                                                                                        Sap                        +301 gp
-  81--82                                                                                                                                                                                                                                                                                                                                                                                                                                                        Scythe                     +318 gp
-  83--84                                                                                                                                                                                                                                                                                                                                                                                                                                                        Shuriken                   +301 gp
-  85--86                                                                                                                                                                                                                                                                                                                                                                                                                                                        Sickle                     +306 gp
-  87--89                                                                                                                                                                                                                                                                                                                                                                                                                                                        Sword, two-bladed ^3^      +700 gp
-  90--91                                                                                                                                                                                                                                                                                                                                                                                                                                                        Trident                    +315 gp
-  92--94                                                                                                                                                                                                                                                                                                                                                                                                                                                        Urgrosh, dwarven ^3^       +650 gp
-  95--97                                                                                                                                                                                                                                                                                                                                                                                                                                                        Warhammer                  +312 gp
-  98--100                                                                                                                                                                                                                                                                                                                                                                                                                                                       Whip                       +301 gp
-  All magic weapons are masterwork weapons.                                                                                                                                                                                                                                                                                                                                                                                                                                                
-  1 For weapons normally made of steel, roll d% to determine material: 01--85 steel; 86--99 adamantine; 100 other. Adjust price accordingly.                                                                                                                                                                                                                                                                                                                                               
-  2 Add to enhancement bonus on Table: Weapons to determine total market price.                                                                                                                                                                                                                                                                                                                                                                                                            
-  3 Masterwork double weapons incur double the masterwork cost to account for each head (+300 gp masterwork cost per head for a total of +600 gp). Double weapons have separate bonuses for their different heads. If randomly determined, the second head of a double weapon has the same enhancement bonus as the main head (01--50 on d%), doubling the cost of the bonus, or its enhancement bonus is one less (51--100) and it has no special abilities.                              
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------- -----------------
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                   |                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------------------------|
+| d%                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Weapon<sup>1</sup>                | Weapon Cost <sup>2</sup> |
+| 01–03                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Axe, orc double<sup>3</sup>       | +660 gp                  |
+| 04–07                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Battleaxe                         | +310 gp                  |
+| 08–10                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Chain, spiked                     | +325 gp                  |
+| 11–12                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Club                              | +300 gp                  |
+| 13–16                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Crossbow, hand                    | +400 gp                  |
+| 17–19                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Crossbow, repeating               | +550 gp                  |
+| 20–21                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Dagger, punching                  | +302 gp                  |
+| 22–23                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Falchion                          | +375 gp                  |
+| 24–26                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Flail, dire <sup>3</sup>          | +690 gp                  |
+| 27–31                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Flail, heavy                      | +315 gp                  |
+| 32–35                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Flail, light                      | +308 gp                  |
+| 36–37                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Gauntlet                          | +302 gp                  |
+| 38–39                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Gauntlet, spiked                  | +305 gp                  |
+| 40–41                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Glaive                            | +308 gp                  |
+| 42–43                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Greatclub                         | +305 gp                  |
+| 44–45                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Guisarme                          | +309 gp                  |
+| 46–48                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Halberd                           | +310 gp                  |
+| 49–51                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Halfspear                         | +301 gp                  |
+| 52–54                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Hammer, gnome hooked <sup>3</sup> | +620 gp                  |
+| 55–56                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Hammer, light                     | +301 gp                  |
+| 57–58                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Handaxe                           | +306 gp                  |
+| 59–61                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Kukri                             | +308 gp                  |
+| 62–63                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Lance, heavy                      | +310 gp                  |
+| 64–65                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Lance, light                      | +306 gp                  |
+| 66–67                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Longspear                         | +305 gp                  |
+| 68–70                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Morningstar                       | +308 gp                  |
+| 71–72                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Net                               | +320 gp                  |
+| 73–74                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Pick, heavy                       | +308 gp                  |
+| 75–76                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Pick, light                       | +304 gp                  |
+| 77–78                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Ranseur                           | +310 gp                  |
+| 79–80                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Sap                               | +301 gp                  |
+| 81–82                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Scythe                            | +318 gp                  |
+| 83–84                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Shuriken                          | +301 gp                  |
+| 85–86                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Sickle                            | +306 gp                  |
+| 87–89                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Sword, two-bladed <sup>3</sup>    | +700 gp                  |
+| 90–91                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Trident                           | +315 gp                  |
+| 92–94                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Urgrosh, dwarven <sup>3</sup>     | +650 gp                  |
+| 95–97                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Warhammer                         | +312 gp                  |
+| 98–100                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Whip                              | +301 gp                  |
+| All magic weapons are masterwork weapons.                                                                                                                                                                                                                                                                                                                                                                                                                 |                                   |                          |
+| 1 For weapons normally made of steel, roll d% to determine material: 01–85 steel; 86–99 adamantine; 100 other. Adjust price accordingly.                                                                                                                                                                                                                                                                                                                  |                                   |                          |
+| 2 Add to enhancement bonus on Table: Weapons to determine total market price.                                                                                                                                                                                                                                                                                                                                                                             |                                   |                          |
+| 3 Masterwork double weapons incur double the masterwork cost to account for each head (+300 gp masterwork cost per head for a total of +600 gp). Double weapons have separate bonuses for their different heads. If randomly determined, the second head of a double weapon has the same enhancement bonus as the main head (01–50 on d%), doubling the cost of the bonus, or its enhancement bonus is one less (51–100) and it has no special abilities. |                                   |                          |
 
-  : Table: Uncommon Melee Weapons
+Table: Uncommon Melee Weapons
 
-+-----------------------+-----------------------+-----------------------+
-| d%                    | Weapon                | Weapon Cost^1^        |
-+-----------------------+-----------------------+-----------------------+
-| 01--10                | Ammunition            |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | Arrows (50)           | +350 gp               |
-| "margin-left: 3.6em"} |                       |                       |
-| 01--50                |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | Bolts, crossbow (50)  | +350 gp               |
-| "margin-left: 3.6em"} |                       |                       |
-| 51--80                |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ::: {style=           | Bullets, sling (50)   | +350 gp               |
-| "margin-left: 3.6em"} |                       |                       |
-| 81--100               |                       |                       |
-| :::                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 11--15                | Axe, throwing         | +308 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 16--25                | Crossbow, heavy       | +350 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 26--35                | Crossbow, light       | +335 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 36--39                | Dart                  | +300 gp 5 sp          |
-+-----------------------+-----------------------+-----------------------+
-| 40--41                | Javelin               | +301 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 42--46                | Shortbow              | +330 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 47--51                | Shortbow, composite   | +375 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 52--56                | Shortbow, composite   | +450 gp               |
-|                       | (+1 Str bonus)        |                       |
-+-----------------------+-----------------------+-----------------------+
-| 57--61                | Shortbow, composite   | +525 gp               |
-|                       | (+2 Str bonus)        |                       |
-+-----------------------+-----------------------+-----------------------+
-| 62--65                | Sling                 | +300 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 66--75                | Longbow               | +375 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 76--80                | Longbow, composite    | +400 gp               |
-+-----------------------+-----------------------+-----------------------+
-| 81--85                | Longbow, composite    | +500 gp               |
-|                       | (+1 Str bonus)        |                       |
-+-----------------------+-----------------------+-----------------------+
-| 86--90                | Longbow, composite    | +600 gp               |
-|                       | (+2 Str bonus)        |                       |
-+-----------------------+-----------------------+-----------------------+
-| 91--95                | Longbow, composite    | +700 gp               |
-|                       | (+3 Str bonus)        |                       |
-+-----------------------+-----------------------+-----------------------+
-| 96--100               | Longbow, composite    | +800 gp               |
-|                       | (+4 Str bonus)        |                       |
-+-----------------------+-----------------------+-----------------------+
-| All magic weapons are |                       |                       |
-| masterwork weapons.   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| 1 Add to enhancement  |                       |                       |
-| bonus on Table:       |                       |                       |
-| Weapons to determine  |                       |                       |
-| total market price.   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+<table class="full-width-table">
+<caption>Table: Ranged Weapons</caption>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>d%</th>
+<th>Weapon</th>
+<th>Weapon Cost<sup>1</sup></th>
+</tr>
 
-: Table: Ranged Weapons
+<tr class="odd">
+<td>01–10</td>
+<td>Ammunition</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><div style="margin-left: 3.6em">
+01–50
+</div></td>
+<td>Arrows (50)</td>
+<td>+350 gp</td>
+</tr>
+<tr class="odd">
+<td><div style="margin-left: 3.6em">
+51–80
+</div></td>
+<td>Bolts, crossbow (50)</td>
+<td>+350 gp</td>
+</tr>
+<tr class="even">
+<td><div style="margin-left: 3.6em">
+81–100
+</div></td>
+<td>Bullets, sling (50)</td>
+<td>+350 gp</td>
+</tr>
+<tr class="odd">
+<td>11–15</td>
+<td>Axe, throwing</td>
+<td>+308 gp</td>
+</tr>
+<tr class="even">
+<td>16–25</td>
+<td>Crossbow, heavy</td>
+<td>+350 gp</td>
+</tr>
+<tr class="odd">
+<td>26–35</td>
+<td>Crossbow, light</td>
+<td>+335 gp</td>
+</tr>
+<tr class="even">
+<td>36–39</td>
+<td>Dart</td>
+<td>+300 gp 5 sp</td>
+</tr>
+<tr class="odd">
+<td>40–41</td>
+<td>Javelin</td>
+<td>+301 gp</td>
+</tr>
+<tr class="even">
+<td>42–46</td>
+<td>Shortbow</td>
+<td>+330 gp</td>
+</tr>
+<tr class="odd">
+<td>47–51</td>
+<td>Shortbow, composite</td>
+<td>+375 gp</td>
+</tr>
+<tr class="even">
+<td>52–56</td>
+<td>Shortbow, composite (+1 Str bonus)</td>
+<td>+450 gp</td>
+</tr>
+<tr class="odd">
+<td>57–61</td>
+<td>Shortbow, composite (+2 Str bonus)</td>
+<td>+525 gp</td>
+</tr>
+<tr class="even">
+<td>62–65</td>
+<td>Sling</td>
+<td>+300 gp</td>
+</tr>
+<tr class="odd">
+<td>66–75</td>
+<td>Longbow</td>
+<td>+375 gp</td>
+</tr>
+<tr class="even">
+<td>76–80</td>
+<td>Longbow, composite</td>
+<td>+400 gp</td>
+</tr>
+<tr class="odd">
+<td>81–85</td>
+<td>Longbow, composite (+1 Str bonus)</td>
+<td>+500 gp</td>
+</tr>
+<tr class="even">
+<td>86–90</td>
+<td>Longbow, composite (+2 Str bonus)</td>
+<td>+600 gp</td>
+</tr>
+<tr class="odd">
+<td>91–95</td>
+<td>Longbow, composite (+3 Str bonus)</td>
+<td>+700 gp</td>
+</tr>
+<tr class="even">
+<td>96–100</td>
+<td>Longbow, composite (+4 Str bonus)</td>
+<td>+800 gp</td>
+</tr>
+<tr class="odd">
+<td colspan="3">All magic weapons are masterwork weapons.</td>
+</tr>
+<tr class="even">
+<td colspan="3">1 Add to enhancement bonus on Table: Weapons to
+determine total market price.</td>
+</tr>
+</tbody>
+</table>
 
-  ---------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------- --------------------------
-  d%                                                                                                                                 Special Ability                                                                                    Market Price Modifier^1^
-  01--08                                                                                                                             Acidic blast                                                                                       +6 bonus
-  09--16                                                                                                                             Fiery blast                                                                                        +6 bonus
-  17--24                                                                                                                             Icy blast                                                                                          +6 bonus
-  25--32                                                                                                                             Lightning blast                                                                                    +6 bonus
-  33--40                                                                                                                             Mighty disruption                                                                                  +6 bonus
-  41--48                                                                                                                             Sonic blast                                                                                        +6 bonus
-  49--56                                                                                                                             Dread                                                                                              +7 bonus
-  57--61                                                                                                                             Anarchic power                                                                                     +8 bonus
-  62--66                                                                                                                             Everdancing                                                                                        +8 bonus
-  67--71                                                                                                                             Holy power                                                                                         +8 bonus
-  72--76                                                                                                                             Axiomatic power                                                                                    +8 bonus
-  77--81                                                                                                                             Unholy power                                                                                       +8 bonus
-  82--89                                                                                                                             Roll on nonepic magic item Table: Melee Weapon Special Abilities, then roll again on this table.   
-  90--97                                                                                                                             Roll twice on nonepic magic item Table: Melee Weapon Special Abilities.                            
-  98--100                                                                                                                            Roll twice again^2^                                                                                
-  1 Add to enhancement bonus on Table: Epic Weapons to determine total market price.                                                                                                                                                    
-  2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better.                                                                                                      
-  ---------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------- --------------------------
+Table: Ranged Weapons
 
-  : Table: Melee Weapon Special Abilities
+|                                                                                                                                  |                                                                                                  |                                   |
+|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------|
+| d%                                                                                                                               | Special Ability                                                                                  | Market Price Modifier<sup>1</sup> |
+| 01–08                                                                                                                            | Acidic blast                                                                                     | +6 bonus                          |
+| 09–16                                                                                                                            | Fiery blast                                                                                      | +6 bonus                          |
+| 17–24                                                                                                                            | Icy blast                                                                                        | +6 bonus                          |
+| 25–32                                                                                                                            | Lightning blast                                                                                  | +6 bonus                          |
+| 33–40                                                                                                                            | Mighty disruption                                                                                | +6 bonus                          |
+| 41–48                                                                                                                            | Sonic blast                                                                                      | +6 bonus                          |
+| 49–56                                                                                                                            | Dread                                                                                            | +7 bonus                          |
+| 57–61                                                                                                                            | Anarchic power                                                                                   | +8 bonus                          |
+| 62–66                                                                                                                            | Everdancing                                                                                      | +8 bonus                          |
+| 67–71                                                                                                                            | Holy power                                                                                       | +8 bonus                          |
+| 72–76                                                                                                                            | Axiomatic power                                                                                  | +8 bonus                          |
+| 77–81                                                                                                                            | Unholy power                                                                                     | +8 bonus                          |
+| 82–89                                                                                                                            | Roll on nonepic magic item Table: Melee Weapon Special Abilities, then roll again on this table. |                                   |
+| 90–97                                                                                                                            | Roll twice on nonepic magic item Table: Melee Weapon Special Abilities.                          |                                   |
+| 98–100                                                                                                                           | Roll twice again<sup>2</sup>                                                                     |                                   |
+| 1 Add to enhancement bonus on Table: Epic Weapons to determine total market price.                                               |                                                                                                  |                                   |
+| 2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better. |                                                                                                  |                                   |
 
-  ---------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------- --------------------------
-  d%                                                                                                                                 Special Ability                                                                                     Market Price Modifier^1^
-  01--07                                                                                                                             Acidic blast                                                                                        +6 bonus
-  08--14                                                                                                                             Distant shot                                                                                        +6 bonus
-  15--21                                                                                                                             Fiery blast                                                                                         +6 bonus
-  22--28                                                                                                                             Icy blast                                                                                           +6 bonus
-  29--35                                                                                                                             Lightning blast                                                                                     +6 bonus
-  36--41                                                                                                                             Sonic blast                                                                                         +6 bonus
-  42--48                                                                                                                             Triple-throw                                                                                        +6 bonus
-  49--53                                                                                                                             Unerring accuracy                                                                                   +6 bonus
-  54--60                                                                                                                             Dread                                                                                               +7 bonus
-  61--65                                                                                                                             Anarchic power                                                                                      +8 bonus
-  66--70                                                                                                                             Holy power                                                                                          +8 bonus
-  71--75                                                                                                                             Axiomatic power                                                                                     +8 bonus
-  76--80                                                                                                                             Unholy power                                                                                        +8 bonus
-  81--88                                                                                                                             Roll on nonepic magic item Table: Ranged Weapon Special Abilities, then roll again on this table.   
-  89--96                                                                                                                             Roll twice on nonepic magic item Table: Ranged Weapon Special Abilities.                            
-  97--100                                                                                                                            Roll twice again^2^                                                                                 
-  1 Add to enhancement bonus on Table: Weapons to determine total market price.                                                                                                                                                          
-  2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better.                                                                                                       
-  ---------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------- --------------------------
+Table: Melee Weapon Special Abilities
 
-  : Table: Ranged Weapon Special Abilities
+|                                                                                                                                  |                                                                                                   |                                   |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------|
+| d%                                                                                                                               | Special Ability                                                                                   | Market Price Modifier<sup>1</sup> |
+| 01–07                                                                                                                            | Acidic blast                                                                                      | +6 bonus                          |
+| 08–14                                                                                                                            | Distant shot                                                                                      | +6 bonus                          |
+| 15–21                                                                                                                            | Fiery blast                                                                                       | +6 bonus                          |
+| 22–28                                                                                                                            | Icy blast                                                                                         | +6 bonus                          |
+| 29–35                                                                                                                            | Lightning blast                                                                                   | +6 bonus                          |
+| 36–41                                                                                                                            | Sonic blast                                                                                       | +6 bonus                          |
+| 42–48                                                                                                                            | Triple-throw                                                                                      | +6 bonus                          |
+| 49–53                                                                                                                            | Unerring accuracy                                                                                 | +6 bonus                          |
+| 54–60                                                                                                                            | Dread                                                                                             | +7 bonus                          |
+| 61–65                                                                                                                            | Anarchic power                                                                                    | +8 bonus                          |
+| 66–70                                                                                                                            | Holy power                                                                                        | +8 bonus                          |
+| 71–75                                                                                                                            | Axiomatic power                                                                                   | +8 bonus                          |
+| 76–80                                                                                                                            | Unholy power                                                                                      | +8 bonus                          |
+| 81–88                                                                                                                            | Roll on nonepic magic item Table: Ranged Weapon Special Abilities, then roll again on this table. |                                   |
+| 89–96                                                                                                                            | Roll twice on nonepic magic item Table: Ranged Weapon Special Abilities.                          |                                   |
+| 97–100                                                                                                                           | Roll twice again<sup>2</sup>                                                                      |                                   |
+| 1 Add to enhancement bonus on Table: Weapons to determine total market price.                                                    |                                                                                                   |                                   |
+| 2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better. |                                                                                                   |                                   |
 
-  --------- -------------------------- --------------
-  d%        Specific Weapon            Market Price
-  01--18    Stormbrand                 235,350 gp
-  19--33    Quarterstaff of alacrity   462,600 gp
-  34--48    Souldrinker                478,335 gp
-  49--60    Backstabber                770,310 gp
-  61--68    Mace of ruin               1,000,312 gp
-  69--72    Gripsoul                   1,856,500 gp
-  73--78    Elven greatbow             2,900,400 gp
-  79--64    Finaldeath                 3,580,308 gp
-  85--90    Chaosbringer               4,025,350 gp
-  91--94    Holy devastator            4,620,315 gp
-  95--98    Unholy despoiler           4,620,315 gp
-  99--100   Everwhirling chain         5,220,325 gp
-  --------- -------------------------- --------------
+Table: Ranged Weapon Special Abilities
 
-  : Table: Specific Weapons
+|        |                          |              |
+|--------|--------------------------|--------------|
+| d%     | Specific Weapon          | Market Price |
+| 01–18  | Stormbrand               | 235,350 gp   |
+| 19–33  | Quarterstaff of alacrity | 462,600 gp   |
+| 34–48  | Souldrinker              | 478,335 gp   |
+| 49–60  | Backstabber              | 770,310 gp   |
+| 61–68  | Mace of ruin             | 1,000,312 gp |
+| 69–72  | Gripsoul                 | 1,856,500 gp |
+| 73–78  | Elven greatbow           | 2,900,400 gp |
+| 79–64  | Finaldeath               | 3,580,308 gp |
+| 85–90  | Chaosbringer             | 4,025,350 gp |
+| 91–94  | Holy devastator          | 4,620,315 gp |
+| 95–98  | Unholy despoiler         | 4,620,315 gp |
+| 99–100 | Everwhirling chain       | 5,220,325 gp |
+
+Table: Specific Weapons
 
 ### Epic Weapon Special Ability Descriptions
 
@@ -865,30 +928,30 @@ bonus damage against the foe, and if it scores a successful critical hit
 against the foe, that creature must make a Fortitude save (DC 27) or be
 destroyed instantly and turned to dust. (This even affects creatures
 immune to critical hits or death magic.) To randomly determine a dread
-weapon's designated foe, roll on the following table.
+weapon’s designated foe, roll on the following table.
 
 *Caster Level:* 22nd; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *summon monster IX; Market Price: +*7 bonus.
 
-  -------- ---------------------- --------- ---------------------
-  d%       Designated Foe         d%        Designated Foe
-  01--05   Aberrations            58--60    Humanoids, orc
-  06--09   Animals                61--65    Magical beasts
-  10--16   Constructs             66--70    Monstrous humanoids
-  17--22   Dragons                71--72    Oozes
-  23--27   Elementals             73        Outsiders, air
-  28--32   Fey                    74--76    Outsiders, chaotic
-  33--39   Giants                 77        Outsiders, earth
-  40       Humanoids, aquatic     78--80    Outsiders, evil
-  41--42   Humanoids, dwarf       81        Outsiders, fire
-  43--44   Humanoids, elf         82--84    Outsiders, good
-  45       Humanoids, gnoll       85--87    Outsiders, lawful
-  46       Humanoids, gnome       88        Outsiders, water
-  47--49   Humanoids, goblinoid   89--90    Plants
-  50       Humanoids, halfling    91--98    Undead
-  51--54   Humanoids, human       99--100   Vermin
-  55--57   Humanoids, reptilian             
-  -------- ---------------------- --------- ---------------------
+|       |                      |        |                     |
+|-------|----------------------|--------|---------------------|
+| d%    | Designated Foe       | d%     | Designated Foe      |
+| 01–05 | Aberrations          | 58–60  | Humanoids, orc      |
+| 06–09 | Animals              | 61–65  | Magical beasts      |
+| 10–16 | Constructs           | 66–70  | Monstrous humanoids |
+| 17–22 | Dragons              | 71–72  | Oozes               |
+| 23–27 | Elementals           | 73     | Outsiders, air      |
+| 28–32 | Fey                  | 74–76  | Outsiders, chaotic  |
+| 33–39 | Giants               | 77     | Outsiders, earth    |
+| 40    | Humanoids, aquatic   | 78–80  | Outsiders, evil     |
+| 41–42 | Humanoids, dwarf     | 81     | Outsiders, fire     |
+| 43–44 | Humanoids, elf       | 82–84  | Outsiders, good     |
+| 45    | Humanoids, gnoll     | 85–87  | Outsiders, lawful   |
+| 46    | Humanoids, gnome     | 88     | Outsiders, water    |
+| 47–49 | Humanoids, goblinoid | 89–90  | Plants              |
+| 50    | Humanoids, halfling  | 91–98  | Undead              |
+| 51–54 | Humanoids, human     | 99–100 | Vermin              |
+| 55–57 | Humanoids, reptilian |        |                     |
 
 **Everdancing:** An everdancing weapon is much like a dancing weapon,
 though it can be loosed with a free action and will fight as long as
@@ -983,15 +1046,15 @@ itself when thrown. Both the original and the duplicate weapons attack
 separately (at the same attack bonus). Regardless of the success of any
 of the attacks, the duplicates immediately disappear after the attack is
 completed. Any bonuses on damage due to accuracy or precision (including
-those from sneak attacks, the Precise Shot feat, or the ranger's favored
-enemy bonus) apply only to the original weapon's damage, not to the
+those from sneak attacks, the Precise Shot feat, or the ranger’s favored
+enemy bonus) apply only to the original weapon’s damage, not to the
 duplicates.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Magic Arms and Armor, Craft
 Epic Magic Arms and Armor, *shades; Market Price: +*6 bonus.
 
 **Unerring Accuracy:** Ranged attacks made with this weapon negate the
-AC bonus granted by any cover short of total cover. The weapon's ranged
+AC bonus granted by any cover short of total cover. The weapon’s ranged
 attacks also ignore any miss chance from concealment (including total
 concealment, but the must still aim his or her attacks at the correct
 square).
@@ -1021,7 +1084,7 @@ Epic Magic Arms and Armor, *unholy word; Market Price: +*8 bonus.
 
 ### Specific Weapons
 
-**Backstabber:** This +*6 short sword* adds +2d6 to the wielder's sneak
+**Backstabber:** This +*6 short sword* adds +2d6 to the wielder’s sneak
 attack damage. If the wielder does not have the sneak attack ability,
 this weapon does not grant it.
 
@@ -1030,7 +1093,7 @@ Epic Magic Arms and Armor, *inflict moderatewounds; Market Price:*
 770,310 gp; *Cost to Create:* 385,310 gp + 17,700 XP.
 
 **Chaosbringer:** This +*6 greataxe of anarchic power* grants its
-wielder the ability to fly into a rage (identical to a barbarian's rage)
+wielder the ability to fly into a rage (identical to a barbarian’s rage)
 once per day (or one additional time per day if the wielder already has
 the rage class feature). If the wielder has the greater rage class
 feature, the weapon also grants the wielder the Incite Rage epic feat.
@@ -1042,16 +1105,16 @@ Epic Magic Arms and Armor, *rage, mass charm monster; Market Price:*
 **Elven Greatbow:** In the hands of any nonelf, this bow performs only
 as a +*2 composite longbow.*In the hands of an elf, this weapon
 functions as a +*5 composite longbow of unerring accuracy*with a
-Strength bonus that matches its elven wielder's current Strength at all
+Strength bonus that matches its elven wielder’s current Strength at all
 times. Furthermore, any arrows loosed from the bow are considered keen,
 regardless of the enhancement bonus of the arrow fired.
 
 *Caster Level:* 23rd; *Prerequisites:* Craft Magic Arms and Armor, Craft
-Epic Magic Arms and Armor, *bull's strength, keen edge, true seeing;
+Epic Magic Arms and Armor, *bull’s strength, keen edge, true seeing;
 Market Price:* 2,900,400 gp; *Cost to Create:* 1,450,400 gp + 39,400 XP.
 
 **Everwhirling Chain:** This +*4 defending everdancing spiked chain of
-speed* continuously twitches in its wielder's hands. The wielder of the
+speed* continuously twitches in its wielder’s hands. The wielder of the
 *everwhirling chain* can use it to make any number of attacks of
 opportunity per round (as if he or she had the Improved Combat Reflexes
 feat).
@@ -1086,7 +1149,7 @@ to Create:* 934,500 gp + 28,440 XP.
 **Holy Devastator:** In the hands of any character other than a paladin,
 this sword performs as a +*3 holy longsword.*In the hands of a paladin,
 this weapon functions as a +*7 longsword of holy power* and grants a +5
-sacred bonus on the wielder's saving throws against spells with the evil
+sacred bonus on the wielder’s saving throws against spells with the evil
 descriptor or spells cast by evil characters. If the paladin wielder
 smites evil with the *holy devastator,* he or she adds twice his or her
 paladin level to damage (rather than his or her paladin level).
@@ -1120,7 +1183,7 @@ its target whenever it deals damage, just as if its target had been
 struck by the *energy drain* spell. Each negative level bestowed grants
 the wielder 5 temporary hit points. One day after being struck, the
 subject must make a Fortitude save (DC 25) for each negative level or
-lose a level. If this sword's power causes a character to have negative
+lose a level. If this sword’s power causes a character to have negative
 levels at least equal to his or her current level, the character is
 instantly slain and the wielder gains an additional 10 temporary hit
 points. Temporary hit points gained from this weapon last for a maximum
@@ -1144,7 +1207,7 @@ Price:* 235,350 gp; *Cost to Create:* 117,850 gp + 12,350 XP.
 **Unholy Despoiler:** In the hands of any character other than a
 blackguard, this sword performs as a +*3 unholy longsword.*In the hands
 of a blackguard, this weapon functions as a +*7 longsword of unholy
-power* and grants a +5 profane bonus on the wielder's saving throws
+power* and grants a +5 profane bonus on the wielder’s saving throws
 against spells with the good descriptor or spells cast by good
 characters. If a blackguard wielder smites good with the *unholy
 despoiler,*he or she adds twice his or her blackguard level to damage
@@ -1167,36 +1230,36 @@ applying. This is a nonepic magic item.
 *Caster Level:* 15th; *Prerequisites:* Forge Ring, *protection from
 energy; Market Price:* 84,000 gp.
 
-  -------- -------------------------------------- --------------
-  d%       Ring                                   Market Price
-  01--08   Universal energy resistance, greater   308,000 gp
-  09--13   Energy immunity (acid)                 240,000 gp
-  14--15   Energy immunity (cold)                 240,000 gp
-  19--23   Energy immunity (electricity)          240,000 gp
-  24--28   Energy immunity (fire)                 240,000 gp
-  29--33   Energy immunity (sonic)                240,000 gp
-  34--38   Adamant law                            250,000 gp
-  39--43   Chaotic fury                           250,000 gp
-  44--48   Epic wizardry (V)                      250,000 gp
-  49--53   Ineffable evil                         250,000 gp
-  54--58   Virtuous good                          250,000 gp
-  59--63   Rapid healing                          300,000 gp
-  64--68   Sequestering                           300,000 gp
-  69--72   Epic wizardry (VI)                     360,000 gp
-  73--76   Ironskin                               400,000 gp
-  77--80   Epic wizardry (VII)                    490,000 gp
-  81--83   Weaponbreaking                         600,000 gp
-  84--86   Epic wizardry (VIII)                   640,000 gp
-  87--89   Epic protection +6                     720,000 gp
-  90--92   Epic wizardry (IX)                     810,000 gp
-  93--95   Epic protection +7                     980,000 gp
-  96--97   Epic protection +8                     1,280,000 gp
-  98       Epic protection +9                     1,620,000 gp
-  99       Epic protection +10                    2,000,000 gp
-  100      Universal energy immunity              2,160,000 gp
-  -------- -------------------------------------- --------------
+|       |                                      |              |
+|-------|--------------------------------------|--------------|
+| d%    | Ring                                 | Market Price |
+| 01–08 | Universal energy resistance, greater | 308,000 gp   |
+| 09–13 | Energy immunity (acid)               | 240,000 gp   |
+| 14–15 | Energy immunity (cold)               | 240,000 gp   |
+| 19–23 | Energy immunity (electricity)        | 240,000 gp   |
+| 24–28 | Energy immunity (fire)               | 240,000 gp   |
+| 29–33 | Energy immunity (sonic)              | 240,000 gp   |
+| 34–38 | Adamant law                          | 250,000 gp   |
+| 39–43 | Chaotic fury                         | 250,000 gp   |
+| 44–48 | Epic wizardry (V)                    | 250,000 gp   |
+| 49–53 | Ineffable evil                       | 250,000 gp   |
+| 54–58 | Virtuous good                        | 250,000 gp   |
+| 59–63 | Rapid healing                        | 300,000 gp   |
+| 64–68 | Sequestering                         | 300,000 gp   |
+| 69–72 | Epic wizardry (VI)                   | 360,000 gp   |
+| 73–76 | Ironskin                             | 400,000 gp   |
+| 77–80 | Epic wizardry (VII)                  | 490,000 gp   |
+| 81–83 | Weaponbreaking                       | 600,000 gp   |
+| 84–86 | Epic wizardry (VIII)                 | 640,000 gp   |
+| 87–89 | Epic protection +6                   | 720,000 gp   |
+| 90–92 | Epic wizardry (IX)                   | 810,000 gp   |
+| 93–95 | Epic protection +7                   | 980,000 gp   |
+| 96–97 | Epic protection +8                   | 1,280,000 gp |
+| 98    | Epic protection +9                   | 1,620,000 gp |
+| 99    | Epic protection +10                  | 2,000,000 gp |
+| 100   | Universal energy immunity            | 2,160,000 gp |
 
-  : Table: Epic Rings
+Table: Epic Rings
 
 ### Epic Ring Descriptions
 
@@ -1233,12 +1296,12 @@ sonic. The wearer takes no damage from the energy of the specific type.
 form of a deflection bonus to Armor Class of +6 or higher.
 
 *Caster Level:* 20th: *Prerequisites:* Forge Ring, Forge Epic Ring,
-*shield of faith,* creator's caster level must be three times the ring's
+*shield of faith,* creator’s caster level must be three times the ring’s
 bonus; *Market Price:* 720,000 gp (+6), 980,000 gp (+7), 1,280,000 gp
 (+8), 1,620,000 gp (+9), 2,000,000 gp (+10).
 
 **Epic Wizardry:** Like the *ring of wizardry,* this ring comes in a
-variety of types useful only to arcane spellcasters. The wearer's arcane
+variety of types useful only to arcane spellcasters. The wearer’s arcane
 spells per day are doubled for one particular spell level. An *epic ring
 of wizardry V* doubles 5th-level spells, an *epic ring of wizardry VI*
 doubles 6th-level spells, an *epic ring of wizardry VII* doubles
@@ -1286,14 +1349,14 @@ does not become comatose as normal for the spell).
 *sequester; Market Price:* 300,000 gp.
 
 **Universal Energy Immunity:** This ring functions as a *ring of energy
-immunity* for all types of energy--- fire, cold, electricity, acid, and
+immunity* for all types of energy— fire, cold, electricity, acid, and
 sonic. The wearer takes no damage from energy of any of these types.
 
 *Caster Level:* 20th; *Prerequisites:* Forge Ring, Forge Epic Ring,
 *protection from energy; Market Price:* 2,160,000 gp.
 
 **Universal Energy Resistance, Greater:** This ring functions as a *ring
-of greater energy resistance* for all types of energy---fire, cold,
+of greater energy resistance* for all types of energy—fire, cold,
 electricity, acid, and sonic. When the wearer would normally take such
 damage, subtract 30 points of damage per round from the amount before
 applying.
@@ -1324,15 +1387,15 @@ shattered into pieces.
 
 **Epic Psionics:** This special crystal ring comes in a variety of types
 useful only to psionic characters (characters who have power points per
-day). The wearer's total power points per day are increased, depending
-on the ring. The points granted are not bonus points---while the ring is
-worn, it actually increases the wearer's points per day, but a night's
+day). The wearer’s total power points per day are increased, depending
+on the ring. The points granted are not bonus points—while the ring is
+worn, it actually increases the wearer’s points per day, but a night’s
 rest is required before gaining access to the increased power point per
 day total. (Power points are not actually stored in the ring, as would
 be the case for a crystal capacitor. Instead, the ring grants power
-points by magnifying the manifester's own power.)
+points by magnifying the manifester’s own power.)
 
-A *ring of epic psionics V* increases the wearer's daily power points by
+A *ring of epic psionics V* increases the wearer’s daily power points by
 43 points, a *ring of epic psionics VI* grants 63 power points, a *ring
 of epic psionics VII* grants 87 power points, a *ring of epic psionics
 VIII* grants 115 points, and a *ring of epic psionics IX* grants 147
@@ -1347,36 +1410,36 @@ gp *(epic psionics VIII*), 810,000 gp *(epic psionics IX).*
 
 ## Rods
 
-  --------- ------------------- --------------
-  d%        Rod                 Market Price
-  01--08    Epic spellcaster    245,000 gp
-  09--16    Nightmares          284,000 gp
-  17--24    Epic splendor       297,000 gp
-  25--31    The path            306,870 gp
-  32--38    Epic cancellation   330,000 gp
-  39--45    Epic negation       446,000 gp
-  46--51    Besiegement         447,745 gp
-  52--57    Fortification       465,665 gp
-  58--63    Epic rulership      575,000 gp
-  64--69    Invulnerability     600,000 gp
-  70--75    Paradise            610,000 gp
-  76--80    Restless death      625,000 gp
-  81--85    Excellent magic     650,000 gp
-  86        *Wyrm* (white)      1,458,200 gp
-  87        *Wyrm* (brass)      1,458,200 gp
-  88--90    Epic absorption     1,500,000 gp
-  91        *Wyrm* (copper)     1,562,600 gp
-  92        *Wyrm* (black)      1,562,600 gp
-  93        *Wyrm* (bronze)     1,670,600 gp
-  94        *Wyrm* (green)      1,670,600 gp
-  95        *Wyrm* (blue)       1,782,200 gp
-  96        *Wyrm* (silver)     1,782,200 gp
-  97        *Wyrm* (gold)       1,897,400 gp
-  98        *Wyrm* (red)        1,897,400 gp
-  99--100   Epic might          4,293,432 gp
-  --------- ------------------- --------------
+|        |                   |              |
+|--------|-------------------|--------------|
+| d%     | Rod               | Market Price |
+| 01–08  | Epic spellcaster  | 245,000 gp   |
+| 09–16  | Nightmares        | 284,000 gp   |
+| 17–24  | Epic splendor     | 297,000 gp   |
+| 25–31  | The path          | 306,870 gp   |
+| 32–38  | Epic cancellation | 330,000 gp   |
+| 39–45  | Epic negation     | 446,000 gp   |
+| 46–51  | Besiegement       | 447,745 gp   |
+| 52–57  | Fortification     | 465,665 gp   |
+| 58–63  | Epic rulership    | 575,000 gp   |
+| 64–69  | Invulnerability   | 600,000 gp   |
+| 70–75  | Paradise          | 610,000 gp   |
+| 76–80  | Restless death    | 625,000 gp   |
+| 81–85  | Excellent magic   | 650,000 gp   |
+| 86     | *Wyrm* (white)    | 1,458,200 gp |
+| 87     | *Wyrm* (brass)    | 1,458,200 gp |
+| 88–90  | Epic absorption   | 1,500,000 gp |
+| 91     | *Wyrm* (copper)   | 1,562,600 gp |
+| 92     | *Wyrm* (black)    | 1,562,600 gp |
+| 93     | *Wyrm* (bronze)   | 1,670,600 gp |
+| 94     | *Wyrm* (green)    | 1,670,600 gp |
+| 95     | *Wyrm* (blue)     | 1,782,200 gp |
+| 96     | *Wyrm* (silver)   | 1,782,200 gp |
+| 97     | *Wyrm* (gold)     | 1,897,400 gp |
+| 98     | *Wyrm* (red)      | 1,897,400 gp |
+| 99–100 | Epic might        | 4,293,432 gp |
 
-  : Table: Epic Rods
+Table: Epic Rods
 
 ### Epic Rod Descriptions
 
@@ -1416,11 +1479,11 @@ remaining potential it might have. The rod cannot be recharged.
 Empower Spell, Maximize Spell, empowered maximized *spell turning;
 Market Price:* 1,500,000 gp.
 
-**Epic Cancellation:** This rod's touch drains an item of all magical
+**Epic Cancellation:** This rod’s touch drains an item of all magical
 properties, including the magical energy in epic magic items (but not
 most artifacts). The item touched gets a Will saving throw (DC 26). If a
 creature is holding the magic item at the time, then the item can use
-the holder's Will save bonus in place of its own. In such cases, contact
+the holder’s Will save bonus in place of its own. In such cases, contact
 is established by making a melee touch attack roll. Upon draining three
 items, the rod becomes brittle and useless. Drained items can only be
 restored by *wish, miracle,* or epic spells specifically designed to
@@ -1472,7 +1535,7 @@ The following mundane uses of the rod also have no limits on their use.
     and hooks and can bear up to 10,000 pounds. The wielder can retract
     the pole by pushing button 5.
 -   The ladder function can be used to force open doors. The wielder
-    plants the rod's base 30 feet or less from the portal to be forced
+    plants the rod’s base 30 feet or less from the portal to be forced
     and in line with it, then pushes button 4. The force exerted has a
     Strength bonus of +24.
 -   When button 6 is pushed, the rod indicates magnetic north and gives
@@ -1481,7 +1544,7 @@ The following mundane uses of the rod also have no limits on their use.
 
 *Caster Level:* 30th; *Prerequisites:* Craft Rod, Craft Epic Rod, Craft
 Magic Arms and Armor, Craft Epic Magic Arms and Armor, *cure critical
-wounds, inflict critical wounds, bull's strength, fireball, dominate
+wounds, inflict critical wounds, bull’s strength, fireball, dominate
 person, power word stun; Market Price:* 4,293,432 gp; *Cost to Create:*
 2,151,372 gp + 52,841 XP.
 
@@ -1527,7 +1590,7 @@ Charisma for as long as he or she holds or carries the item. Three times
 per day, the rod creates and garbs him or her in clothing of the finest
 fabrics, plus adornments of fur and jewels. Apparel created by the rod
 can remain in existence up to 24 hours. The value of the garb ranges
-from 70,000 to 100,000 gp (1d4+6 x10,000 gp)---10,000 gp for the fabric,
+from 70,000 to 100,000 gp (1d4+6 x10,000 gp)—10,000 gp for the fabric,
 50,000 gp for the furs, and the rest for jewel trim (maximum of 40 gems,
 maximum value 1,000 gp each). In addition, the rod can, once per week,
 create a palatial mansion in any floor plan the user desires. The
@@ -1537,7 +1600,7 @@ for three days, after which time it, and everything originally in it
 (including items removed from the mansion), disappear.
 
 *Caster Level:* 21st; *Prerequisites:* Craft Rod, Craft Epic Rod,
-*fabricate, mage's magnificent mansion; Market Price:* 297,400 gp; *Cost
+*fabricate, mage’s magnificent mansion; Market Price:* 297,400 gp; *Cost
 to Create:* 191,200 gp + 12,124 XP.
 
 **Excellent Magic:** Once per day when casting a nonepic or epic spell
@@ -1601,7 +1664,7 @@ of the banshee* spell (DC 23).
 *nightmare, permanency, wail of the banshee; Market Price:* 284,000 gp.
 
 **Paradise:** This item creates a nondimensional space, similar in
-effect to a *rod of security.*However, the rod's possessor and up to 999
+effect to a *rod of security.*However, the rod’s possessor and up to 999
 other creatures can stay in complete safety for up to 1,000 days divided
 by the number of creatures affected. Natural healing takes place at five
 times the normal pace. The rod functions like its nonepic counterpart in
@@ -1643,13 +1706,13 @@ the path, freedom of movement, pass without trace, wall of stone; Market
 Price:* 306,870 gp.
 
 **Restless Death:** The holder of this rod can rebuke or control undead
-as if he or she were four levels higher. (The rod doesn't grant the
-ability to rebuke or control undead if the holder doesn't already have
+as if he or she were four levels higher. (The rod doesn’t grant the
+ability to rebuke or control undead if the holder doesn’t already have
 it.) In addition, the wielder may speak a command word to cast *animate
-dead*. Any skeletons or zombies animated by the rod's power are
-automatically controlled by the rod, up to the rod's maximum limit of 42
-HD, and they follow the orders of the rod's wielder. These undead don't
-count toward the wielder's limit of controlled undead. Finally, the
+dead*. Any skeletons or zombies animated by the rod’s power are
+automatically controlled by the rod, up to the rod’s maximum limit of 42
+HD, and they follow the orders of the rod’s wielder. These undead don’t
+count toward the wielder’s limit of controlled undead. Finally, the
 wielder can speak a second command word to cast *slay living*
 (heightened to 10th level; DC 25).
 

@@ -1,7 +1,7 @@
 # LEGAL INFORMATION
 
 Permission to copy, modify and distribute the files collectively known
-as the System Reference Document ("SRD") is granted solely through the
+as the System Reference Document (“SRD”) is granted solely through the
 use of the Open Gaming License, Version 1.0a.
 
 This material is being released using the Open Gaming License Version
@@ -15,7 +15,7 @@ itself.
 The following items are designated Product Identity, as defined in
 Section 1(e) of the Open Game License Version 1.0a, and are subject to
 the conditions set forth in Section 7 of the OGL, and are not Open
-Content: Dungeons & Dragons, D&D, Player's Handbook, Dungeon Master,
+Content: Dungeons & Dragons, D&D, Player’s Handbook, Dungeon Master,
 Monster Manual, d20 System, Wizards of the Coast, d20 (when used as a
 trademark), Forgotten Realms, Faerûn, proper names (including those used
 in the names of spells or items), places, Red Wizard of Thay, the City
@@ -27,59 +27,59 @@ Mechanus, Peaceable Kingdoms of Arcadia, Seven Mounting Heavens of
 Celestia, Twin Paradises of Bytopia, Blessed Fields of Elysium,
 Wilderness of the Beastlands, Olympian Glades of Arborea, Concordant
 Domain of the Outlands, Sigil, Lady of Pain, Book of Exalted Deeds, Book
-of Vile Darkness, beholder, gauth, carrion crawler, tanar'ri, baatezu,
+of Vile Darkness, beholder, gauth, carrion crawler, tanar’ri, baatezu,
 displacer beast, githyanki, githzerai, mind flayer, illithid, umber
 hulk, yuan-ti.
 
 All of the rest of the SRD is Open Game Content as described in Section
 1(d) of the License.
 
-More information on the Open Game License can be found at
-[www.wizards.com/d20]{href="http://www.wizards.com/d20"
-style="color: black"}.
+More information on the Open Game License can be found at <span
+href="http://www.wizards.com/d20"
+style="color: black">www.wizards.com/d20</span>.
 
 The terms of the Open Gaming License Version 1.0a are as follows:
 
 OPEN GAME LICENSE Version 1.0a
 
 The following text is the property of Wizards of the Coast, Inc. and is
-Copyright 2000 Wizards of the Coast, Inc (\"Wizards\"). All Rights
+Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights
 Reserved.
 
-1\. Definitions: (a)\"Contributors\" means the copyright and/or
-trademark owners who have contributed Open Game Content; (b)\"Derivative
-Material\" means copyrighted material including derivative works and
-translations (including into other computer languages), potation,
-modification, correction, addition, extension, upgrade, improvement,
-compilation, abridgment or other form in which an existing work may be
-recast, transformed or adapted; (c) \"Distribute\" means to reproduce,
-license, rent, lease, sell, broadcast, publicly display, transmit or
-otherwise distribute; (d)\"Open Game Content\" means the game mechanic
-and includes the methods, procedures, processes and routines to the
-extent such content does not embody the Product Identity and is an
-enhancement over the prior art and any additional content clearly
-identified as Open Game Content by the Contributor, and means any work
-covered by this License, including translations and derivative works
-under copyright law, but specifically excludes Product Identity. (e)
-\"Product Identity\" means product and product line names, logos and
-identifying marks including trade dress; artifacts; creatures
-characters; stories, storylines, plots, thematic elements, dialogue,
-incidents, language, artwork, symbols, designs, depictions, likenesses,
-formats, poses, concepts, themes and graphic, photographic and other
-visual or audio representations; names and descriptions of characters,
-spells, enchantments, personalities, teams, personas, likenesses and
-special abilities; places, locations, environments, creatures,
-equipment, magical or supernatural abilities or effects, logos, symbols,
-or graphic designs; and any other trademark or registered trademark
-clearly identified as Product identity by the owner of the Product
-Identity, and which specifically excludes the Open Game Content; (f)
-\"Trademark\" means the logos, names, mark, sign, motto, designs that
-are used by a Contributor to identify itself or its products or the
-associated products contributed to the Open Game License by the
-Contributor (g) \"Use\", \"Used\" or \"Using\" means to use, Distribute,
-copy, edit, format, modify, translate and otherwise create Derivative
-Material of Open Game Content. (h) \"You\" or \"Your\" means the
-licensee in terms of this agreement.
+1\. Definitions: (a)"Contributors" means the copyright and/or trademark
+owners who have contributed Open Game Content; (b)"Derivative Material"
+means copyrighted material including derivative works and translations
+(including into other computer languages), potation, modification,
+correction, addition, extension, upgrade, improvement, compilation,
+abridgment or other form in which an existing work may be recast,
+transformed or adapted; (c) "Distribute" means to reproduce, license,
+rent, lease, sell, broadcast, publicly display, transmit or otherwise
+distribute; (d)"Open Game Content" means the game mechanic and includes
+the methods, procedures, processes and routines to the extent such
+content does not embody the Product Identity and is an enhancement over
+the prior art and any additional content clearly identified as Open Game
+Content by the Contributor, and means any work covered by this License,
+including translations and derivative works under copyright law, but
+specifically excludes Product Identity. (e) "Product Identity" means
+product and product line names, logos and identifying marks including
+trade dress; artifacts; creatures characters; stories, storylines,
+plots, thematic elements, dialogue, incidents, language, artwork,
+symbols, designs, depictions, likenesses, formats, poses, concepts,
+themes and graphic, photographic and other visual or audio
+representations; names and descriptions of characters, spells,
+enchantments, personalities, teams, personas, likenesses and special
+abilities; places, locations, environments, creatures, equipment,
+magical or supernatural abilities or effects, logos, symbols, or graphic
+designs; and any other trademark or registered trademark clearly
+identified as Product identity by the owner of the Product Identity, and
+which specifically excludes the Open Game Content; (f) "Trademark" means
+the logos, names, mark, sign, motto, designs that are used by a
+Contributor to identify itself or its products or the associated
+products contributed to the Open Game License by the Contributor (g)
+"Use", "Used" or "Using" means to use, Distribute, copy, edit, format,
+modify, translate and otherwise create Derivative Material of Open Game
+Content. (h) "You" or "Your" means the licensee in terms of this
+agreement.
 
 2\. The License: This License applies to any Open Game Content that
 contains a notice indicating that the Open Game Content may only be Used
@@ -106,7 +106,7 @@ rights to grant the rights conveyed by this License.
 portion of this License to include the exact text of the COPYRIGHT
 NOTICE of any Open Game Content You are copying, modifying or
 distributing, and You must add the title, the copyright date, and the
-copyright holder\'s name to the COPYRIGHT NOTICE of any original Open
+copyright holder's name to the COPYRIGHT NOTICE of any original Open
 Game Content you Distribute.
 
 7\. Use of Product Identity: You agree not to Use any Product Identity,

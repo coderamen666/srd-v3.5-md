@@ -76,7 +76,7 @@ the terms of the Open Game License v1.0a.
 -   [Prevenom Weapon](#prevenom-weapon)
 -   [Prowess](#prowess)
 -   [Psionic Blast](#psionic-blast)
--   [Psionic Lion's Charge](#psionic-lions-charge)
+-   [Psionic Lion’s Charge](#psionic-lions-charge)
 -   [Psionic Lock](#psionic-lock)
 -   [Psionic Repair Damage](#psionic-repair-damage)
 -   [Psionic Revivify](#psionic-revivify)
@@ -108,7 +108,7 @@ Manifestation of this power creates a local density fluctuation that
 precipitates the creation of a demiplane. At first, the fledgling plane
 grows in radius at a rate of 1 foot per day to an initial maximum radius
 of 180 feet as it rapidly draws substance from the surrounding astral
-ectoplasm. Once the new demiplane reaches its maximum size, it doesn't
+ectoplasm. Once the new demiplane reaches its maximum size, it doesn’t
 really stop growing, but its growth rate decreases to only 1 foot per
 week (approximately a 50-foot increase in radius per year). Once your
 demiplane is created, you can travel to it using *astral caravan*,
@@ -121,10 +121,10 @@ factors such as atmosphere, water, temperature, and the general shape of
 the terrain. This power cannot create life (including vegetation), nor
 can it create construction (such as buildings, roads, wells, dungeons,
 and so forth). You must add these details in some other fashion if you
-desire. You can't create lingering psionic effects with this power; you
-have to add those separately, if desired. Similarly, you can't create a
-demiplane out of esoteric material, such as silver or uranium; you're
-limited to stone and dirt. You can't manipulate the time trait on your
+desire. You can’t create lingering psionic effects with this power; you
+have to add those separately, if desired. Similarly, you can’t create a
+demiplane out of esoteric material, such as silver or uranium; you’re
+limited to stone and dirt. You can’t manipulate the time trait on your
 demiplane; its time trait is as the Material Plane. Once your demiplane
 reaches 180 feet in radius, you can manifest this power again to
 gradually add another 180 feet of radius to it, and so on.
@@ -158,12 +158,12 @@ animals.
 -   **Duration:** 24 hours (D)
 -   **Power Points:** 5
 
-You attach any melee weapon you can use in one hand---mundane, psionic,
-or magical---onto the end of one of your arms. The weapon becomes a
-natural extension of your arm, and that hand blends seamlessly into the
-shaft, hilt, or head of the weapon. Now that the weapon and you are one,
-you gain a +1 competence bonus on all attack and damage rolls while
-using the weapon.
+You attach any melee weapon you can use in one hand—mundane, psionic, or
+magical—onto the end of one of your arms. The weapon becomes a natural
+extension of your arm, and that hand blends seamlessly into the shaft,
+hilt, or head of the weapon. Now that the weapon and you are one, you
+gain a +1 competence bonus on all attack and damage rolls while using
+the weapon.
 
 The grafted weapon is considered both a standard weapon and a natural
 weapon for the purpose of effects that distinguish between either weapon
@@ -180,7 +180,7 @@ damage of the weapon, instead of the claw upon which a psychic warrior
 normally relies.
 
 While your hand is grafted to a weapon, you lose the use of that hand
-and take a --2 penalty on all skill checks requiring the use of hands.
+and take a –2 penalty on all skill checks requiring the use of hands.
 Powers that temporarily polymorph or metamorph you can ignore the
 grafted weapon or alter it normally, at your discretion. If the weapon
 takes damage, you take damage as well. If you are healed, so is your
@@ -188,7 +188,7 @@ grafted weapon. If your weapon is destroyed, you permanently lose 2
 points of Constitution; the ability drain persists until you can restore
 your natural anatomy (by means of *regenerate* or a similar effect).
 
-When this power's duration expires, the grafted weapon falls to the
+When this power’s duration expires, the grafted weapon falls to the
 ground and your hand returns.
 
 ## Grease, Psionic
@@ -226,7 +226,7 @@ You can manifest this power with an instant thought, quickly enough to
 gain the benefit of the power in the current round. Manifesting this
 power is an immediate action, like manifesting a quickened power, and it
 counts toward the normal limit of one quickened power per round. You can
-manifest this power when it isn't your turn (if you are grappled).
+manifest this power when it isn’t your turn (if you are grappled).
 
 **Augment:** For every 4 additional power points you spend, the
 enhancement bonus on your grapple checks increases by 2.
@@ -258,7 +258,7 @@ space, it explodes upon arrival at the location you designated. Anyone
 within 20 feet of the explosion takes 9d4 points of slashing damage from
 the thousands of crystal shards that spray forth.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 damage from the explosion of the crystal increases by 1d4 points.
 
 ## Hammer
@@ -276,7 +276,7 @@ This power charges your touch with the force of a sledgehammer. A
 successful melee touch attack deals 1d8 points of bludgeoning damage.
 This damage is not increased or decreased by your Strength modifier.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 duration increases by 1 round.
 
 ## Hustle
@@ -291,14 +291,14 @@ duration increases by 1 round.
 -   **Power Points:** Egoist 5, psychic warrior 3
 
 You gain an additional move action in the current round. Taking a full
-round's worth of attacks and then using this power to move away from
+round’s worth of attacks and then using this power to move away from
 your foe does provoke attacks of opportunity.
 
 You can manifest this power with an instant thought, quickly enough to
 gain the benefit of the power before you move. Manifesting the power is
 a swift action, like manifesting a quickened power, and it counts toward
 the normal limit of one quickened power per round. You cannot manifest
-this power when it isn't your turn.
+this power when it isn’t your turn.
 
 ## Hypercognition
 
@@ -350,19 +350,19 @@ Swift tendrils of thought disrupt the unconscious mind of any one
 creature, sapping its might. As long as the manifester remains
 concentrating fully on this power, the subject is *confused*, making it
 unable to independently determine it will do. Roll on the following
-table at the beginning of each of the subject's turns to see what the
+table at the beginning of each of the subject’s turns to see what the
 subject does in that round.
 
-  --------- -------------------------------------------------------------------------------------------------------
-  d%        Behavior
-  01--10    Attack manifester with melee or ranged weapons (or move toward manifester if attack is not possible).
-  11--20    Act normally.
-  21--50    Do nothing but babble incoherently.
-  51--70    Flee from manifester at top possible speed.
-  71--100   Attack nearest creature (for this purpose, a psicrystal counts as part of the subject's self).
-  --------- -------------------------------------------------------------------------------------------------------
+|        |                                                                                                       |
+|--------|-------------------------------------------------------------------------------------------------------|
+| d%     | Behavior                                                                                              |
+| 01–10  | Attack manifester with melee or ranged weapons (or move toward manifester if attack is not possible). |
+| 11–20  | Act normally.                                                                                         |
+| 21–50  | Do nothing but babble incoherently.                                                                   |
+| 51–70  | Flee from manifester at top possible speed.                                                           |
+| 71–100 | Attack nearest creature (for this purpose, a psicrystal counts as part of the subject’s self).        |
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 save DC increases by 1, and the power can affect an additional target.
 Any additional target cannot be more than 15 feet from another target of
 the power.
@@ -399,11 +399,11 @@ You are almost impossible to move. Your weight does not vary; instead,
 you mentally attach yourself to the underlying fabric of the plane.
 Thus, you could conceivably anchor yourself in midair. Any creature
 attempting to physically move you must succeed on an opposed Strength
-check, and you gain a +20 bonus on the check. You can't voluntarily move
+check, and you gain a +20 bonus on the check. You can’t voluntarily move
 to a new location unless you stop concentrating, which ends the power.
 
 You cannot apply your Dexterity bonus to Armor Class; however, your
-anchored body gains damage reduction 15/--.
+anchored body gains damage reduction 15/–.
 
 You cannot make physical attacks or perform any other large-scale
 movements (you can make smallscale movements, such as breathing, turning
@@ -433,21 +433,21 @@ expend a number of XP.
 
 You can make the following powers permanent only in regard to yourself.
 
-  ----------------------------- -------------------------- ----------
-  Power                         Minimum Manifester Level   XP Cost
-  Aura sight                    15th                       2,000 XP
-  Conceal thoughts              9th                        500 XP
-  Danger sense                  13th                       1,500 XP
-  Detect psionics               9th                        500 XP
-  Detect remote viewing         15th                       2,000 XP
-  Detect teleportation          9th                        500 XP
-  Elfsight                      11th                       1,000 XP
-  Know direction and location   9th                        500 XP
-  My light                      9th                        500 XP
-  Psionic darkvision            13th                       1,500 XP
-  Psionic tongues               11th                       1,000 XP
-  Ubiquitous vision             13th                       1,500 XP
-  ----------------------------- -------------------------- ----------
+|                             |                          |          |
+|-----------------------------|--------------------------|----------|
+| Power                       | Minimum Manifester Level | XP Cost  |
+| Aura sight                  | 15th                     | 2,000 XP |
+| Conceal thoughts            | 9th                      | 500 XP   |
+| Danger sense                | 13th                     | 1,500 XP |
+| Detect psionics             | 9th                      | 500 XP   |
+| Detect remote viewing       | 15th                     | 2,000 XP |
+| Detect teleportation        | 9th                      | 500 XP   |
+| Elfsight                    | 11th                     | 1,000 XP |
+| Know direction and location | 9th                      | 500 XP   |
+| My light                    | 9th                      | 500 XP   |
+| Psionic darkvision          | 13th                     | 1,500 XP |
+| Psionic tongues             | 11th                     | 1,000 XP |
+| Ubiquitous vision           | 13th                     | 1,500 XP |
 
 You manifest the desired power and then follow it with the *incarnate*
 manifestation.
@@ -466,7 +466,7 @@ manifestation.
 Your mind generates a tangible field of force that provides a +4 armor
 bonus to Armor Class. Unlike mundane armor, *inertial armor* entails no
 armor check penalty or speed reduction. Because *inertial armor* is
-composed of psychokinetic force, incorporeal creatures can't bypass it
+composed of psychokinetic force, incorporeal creatures can’t bypass it
 the way they do normal armor.
 
 Your *inertial armor* can be invisible or can appear as a colored glow,
@@ -491,7 +491,7 @@ bonus to Armor Class increases by 1.
 
 You create a skin-tight psychokinetic barrier around yourself that
 resists blows, cuts, stabs, and slashes, as well as providing some
-protection against falling. You gain damage reduction 5/--. *Inertial
+protection against falling. You gain damage reduction 5/–. *Inertial
 barrier* also absorbs half the damage you take from any fall.
 
 ## Inflict Pain
@@ -508,11 +508,11 @@ barrier* also absorbs half the damage you take from any fall.
 -   **Power Points:** 3
 
 You telepathically stab the mind of your foe, causing horrible agony.
-The subject suffers wracking pain that imposes a --4 penalty on attack
+The subject suffers wracking pain that imposes a –4 penalty on attack
 rolls, skill checks, and ability checks. If the target makes its save,
-it takes only a --2 penalty.
+it takes only a –2 penalty.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 save DC increases by 1, and the power can affect an additional target.
 Any additional target cannot be more than 15 feet from another target of
 the power.
@@ -534,22 +534,22 @@ As the *confusion* spell, except as noted here.
 
 Creatures affected by this power are permanently *confused* and
 constantly behave randomly. Roll on the following table at the beginning
-the subject's turn each round to see what the subject does in that
+the subject’s turn each round to see what the subject does in that
 round.
 
-  --------- -------------------------------------------------------------------------------------------------------
-  d%        Behavior
-  01--10    Attack manifester with melee or ranged weapons (or move toward manifester if attack is not possible).
-  11--20    Act normally.
-  21--50    Do nothing but babble incoherently.
-  51--70    Flee from manifester at top possible speed.
-  71--100   Attack nearest creature (for this purpose, a psicrystal counts as part of the subject's self).
-  --------- -------------------------------------------------------------------------------------------------------
+|        |                                                                                                       |
+|--------|-------------------------------------------------------------------------------------------------------|
+| d%     | Behavior                                                                                              |
+| 01–10  | Attack manifester with melee or ranged weapons (or move toward manifester if attack is not possible). |
+| 11–20  | Act normally.                                                                                         |
+| 21–50  | Do nothing but babble incoherently.                                                                   |
+| 51–70  | Flee from manifester at top possible speed.                                                           |
+| 71–100 | Attack nearest creature (for this purpose, a psicrystal counts as part of the subject’s self).        |
 
 Only *psychic chirurgery*, *reality revision*, and other similarly
-extreme measures can restore the subject's sanity.
+extreme measures can restore the subject’s sanity.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 save DC increases by 1, and the power can affect an additional target.
 Any additional target cannot be more than 15 feet from another target of
 the power.
@@ -581,9 +581,9 @@ You can manifest this power instantly, quickly enough to gain its
 benefits in an emergency. Manifesting the power is an immediate action,
 like manifesting a quickened power, and it counts toward the normal
 limit of one quickened power per round. You can use this power even when
-it's not your turn.
+it’s not your turn.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 duration increases by 1 round.
 
 ## Iron Body, Psionic
@@ -666,7 +666,7 @@ Using this power prior to making a Knowledge (the planes) check with
 
 You raise a field of potentiality that drains the vitality from powers
 that you successfully save against. When you succeed on a saving throw
-to negate the effect of a foe's power on you, and the power is one that
+to negate the effect of a foe’s power on you, and the power is one that
 *leech field* is effective against (see below), your body erupts in a
 brief flash of crackling dark energy. You gain 1 power point for every 2
 power points your foe spent to manifest the power you just saved against
@@ -678,7 +678,7 @@ This power is effective against any power that targets a single creature
 and allows the target a saving throw to negate it, except those that are
 delivered by a touch attack or a ranged touch attack (including a ray).
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 duration increases by 1 minute.
 
 ## Levitate, Psionic
@@ -756,16 +756,16 @@ damage for those holding metallic objects). Skin burns and hair ignites
 
 You can weaken or strengthen the substance of an object or structure.
 You can affect both mundane and magical inanimate material. Weakening an
-object's substance decreases its hardness and hit points, and
+object’s substance decreases its hardness and hit points, and
 strengthening it increases its hardness and hit points. You can increase
-or decrease an object's hardness by up to 5 from its original hardness.
+or decrease an object’s hardness by up to 5 from its original hardness.
 When hardness increases, the object (or portion of an object) gains 3
 hit points per inch of thickness for every point of increased hardness.
 When hardness decreases, the object (or portion of an object) loses 2
 hit points per inch of thickness for every point of decreased hardness
 (to a minimum of 1 hit point per inch of thickness).
 
-You can't decrease the hardness of an object that already has hardness
+You can’t decrease the hardness of an object that already has hardness
 0.
 
 *Working Manipulated Metals:* An object or portion thereof whose
@@ -773,7 +773,7 @@ hardness is decreased or increased is permanently changed. Even
 hardening adamantine to 25 is possible. You can also harden or weaken a
 preforged weapon, a suit of armor, or some other finished item.
 
-*XP Cost:* 250 XP for each point by which the object's hardness is
+*XP Cost:* 250 XP for each point by which the object’s hardness is
 altered.
 
 ## Mental Barrier
@@ -795,8 +795,8 @@ You can manifest this power instantly, quickly enough to gain its
 benefits in an emergency. Manifesting the power is an immediate action,
 like manifesting a quickened power, and it counts toward the normal
 limit of one quickened power per round. You can use this power even when
-it's not your turn; however, you must manifest it prior to an opponent's
-attack roll in order to gain this power's benefit against that attack.
+it’s not your turn; however, you must manifest it prior to an opponent’s
+attack roll in order to gain this power’s benefit against that attack.
 
 **Augment:** You can augment this power in one or both of the following
 ways.
@@ -804,7 +804,7 @@ ways.
 1\. If you spend 4 additional power points, the deflection bonus to
 Armor Class increases by 1.
 
-2\. For every additional power point you spend, this power's duration
+2\. For every additional power point you spend, this power’s duration
 increases by 1 round.
 
 ## Mental Disruption
@@ -828,10 +828,10 @@ become dazed for 1 round.
 **Augment:** You can augment this power in one or both of the following
 ways.
 
-1\. For every 2 additional power points you spend, this power's save DC
+1\. For every 2 additional power points you spend, this power’s save DC
 increases by 1.
 
-2\. For every 2 additional power points you spend, this power's range
+2\. For every 2 additional power points you spend, this power’s range
 and the radius of its area both increase by 5 feet.
 
 ## Metaconcert
@@ -852,14 +852,14 @@ entity more powerful than the sum of its parts.
 When you manifest this power, a number of power points you designate
 flows from each participant into a collective pool. One individual is
 chosen as the *metaconcert* conductor by mutual consent of the other
-participants (this is usually the manifester, but doesn't have to be).
+participants (this is usually the manifester, but doesn’t have to be).
 Until the power ends, this conductor directs the efforts of the group.
 Misty strands of glowing power link the brows of all the participants in
 a complex and shifting pattern.
 
 All the powers of each participant are known to the mental entity
-ccreated with *metaconcert* (which is under the conductor's command).
-This entity can't take any more actions than a normal individual, but it
+ccreated with *metaconcert* (which is under the conductor’s command).
+This entity can’t take any more actions than a normal individual, but it
 manifests all its powers more effectively. Each participant contributing
 to the entity provides a cumulative +1 bonus to save DCs that apply when
 manifesting a power or using a psi-like ability. Likewise, each
@@ -871,7 +871,7 @@ total is divided among all the members as determined by the conductor.
 
 If the entity manifests a power that has an XP cost, all the
 participants pay an equal share (the conductor pays the remainder if the
-cost can't be divided evenly).
+cost can’t be divided evenly).
 
 Once linked, the participants must remain within a 20-foot-radius area,
 and as a group can move at a speed of 10 feet. If a participant moves
@@ -886,9 +886,9 @@ ends. That same number of points is removed from the power point pool.
 
 When a *metaconcert* ends normally or is dismissed, remaining power
 points in the pool are divided among all the participants (the conductor
-receives the remainder if the points can't be divided evenly).
+receives the remainder if the points can’t be divided evenly).
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 duration increases by 1 minute.
 
 ## Metafaculty
@@ -907,7 +907,7 @@ countless impressions and predictions involving any creature you have
 seen before, whether personally or by means of another power such as
 *remote viewing*.
 
-This process gives you an uncannily accurate vision of the creature's
+This process gives you an uncannily accurate vision of the creature’s
 nature, activities, and whereabouts. When you manifest the power, you
 learn the following facts about the creature.
 
@@ -954,7 +954,7 @@ or any other type except construct, elemental, outsider, and undead. The
 assumed form can have as many Hit Dice as your manifester level, to a
 maximum of 15.
 
-You can't assume a form smaller than Fine, nor can you assume an
+You can’t assume a form smaller than Fine, nor can you assume an
 incorporeal, ectoplasmic, or gaseous form. You cannot take the form of
 any creature that has a template. Your type and subtype (if applicable)
 change to match the new form.
@@ -992,12 +992,12 @@ extremities, and so forth). A body with extra limbs does not allow you
 to make more attacks (or more advantageous two-weapon attacks) than
 normal.
 
-You can freely designate the new form's minor physical qualities (such
+You can freely designate the new form’s minor physical qualities (such
 as hair color, hair texture, and skin color) within the normal ranges
-for a creature of that type. The new form's significant physical
+for a creature of that type. The new form’s significant physical
 qualities (such as height, weight, and gender) are also under your
-control, but they must fall within the norms for the new form's species.
-You are effectively disguised as an average member of the new form's
+control, but they must fall within the norms for the new form’s species.
+You are effectively disguised as an average member of the new form’s
 race. If you use this power to create a disguise, you get a +10 bonus on
 your Disguise check.
 
@@ -1007,14 +1007,14 @@ question) or melds into the new form and becomes nonfunctional. When you
 revert to your normal form, any objects previously melded into the new
 form reappear in the same location on your body they previously occupied
 and are once again functional. Any new items you wore in the assumed
-form and can't wear in your normal form fall off and land at your feet;
+form and can’t wear in your normal form fall off and land at your feet;
 any that you could wear in either form or carry in a body part common to
 both forms (mouth, hands, or the like) at the time of reversion are
 still held in the same way. Any part of the body or piece of equipment
 that is separated from the whole reverts to its normal form.
 
 You can also use this power to assume the form of an inanimate object.
-You gain the object's hardness and retain your own hit points. You can
+You gain the object’s hardness and retain your own hit points. You can
 take the shape of almost any simple object you can think of. If you
 attempt to take the form of a complex object, you must make an
 appropriate skill check.. If you fail the check, your manifestation of
@@ -1029,7 +1029,7 @@ As an inanimate object, you lose all mobility. You retain your normal
 senses and your ability to speak. You can manifest a power if you make a
 Concentration check (DC 20 + power level); however, doing so ends the
 duration of this power. If you take damage while in the form of an
-object, your actual body also takes damage (but the object's hardness,
+object, your actual body also takes damage (but the object’s hardness,
 if any, protects you).
 
 ## Metamorphosis, Greater
@@ -1089,11 +1089,11 @@ a natural bite attack or one you gain by means of the power *bite of the
 wolf* ), you can use this power to provide one of your natural weapons a
 +1 enhancement bonus on attack rolls and damage rolls.
 
-**Augment:** If you spend 4 additional power points, this power's
+**Augment:** If you spend 4 additional power points, this power’s
 duration increases to 1 hour per level.
 
 In addition, for every 4 additional power points you spend, this power
-improves the natural weapon's enhancement bonus on attack rolls and
+improves the natural weapon’s enhancement bonus on attack rolls and
 damage rolls by 1.
 
 ## Metaphysical Weapon
@@ -1111,7 +1111,7 @@ damage rolls by 1.
 
 *Metaphysical weapon* gives a weapon a +1 enhancement bonus on attack
 rolls and damage rolls. (An enhancement bonus does not stack with a
-masterwork weapon's +1 bonus on attack rolls.)
+masterwork weapon’s +1 bonus on attack rolls.)
 
 Alternatively, you can affect up to fifty arrows, bolts, or bullets. The
 projectiles must be of the same type, and they have to be together (such
@@ -1119,15 +1119,15 @@ as in the same quiver). Projectiles, but not thrown weapons, lose their
 enhancement when used. (Treat shuriken as projectiles, rather than
 thrown weapons, for the purpose of this power.)
 
-You can't manifest this power on most natural weapons, including a
-psychic warrior's claw strike. This power does work on a weapon brought
+You can’t manifest this power on most natural weapons, including a
+psychic warrior’s claw strike. This power does work on a weapon brought
 into being by the *graft weapon* power.
 
-**Augment:** If you spend 4 additional power points, this power's
+**Augment:** If you spend 4 additional power points, this power’s
 duration increases to 1 hour per level.
 
 In addition, for every 4 additional power points you spend, this power
-improves the weapon's enhancement bonus on attack rolls and damage rolls
+improves the weapon’s enhancement bonus on attack rolls and damage rolls
 by 1.
 
 ## Microcosm
@@ -1147,12 +1147,12 @@ by 1.
 This power enables you to warp the consciousness and senses of one or
 more creatures, sending the victim into a catatonic state. When
 *microcosm* is manifested, you can target either a single creature
-within range or a group of creatures all located within the power's
+within range or a group of creatures all located within the power’s
 area.
 
 *Single Target:* If *microcosm* targets a single creature, that
-creature's senses are pinched off from the real world if it currently
-has 100 or fewer hit points. The subject's senses are all completely
+creature’s senses are pinched off from the real world if it currently
+has 100 or fewer hit points. The subject’s senses are all completely
 fabricated from within its own mind, though it may not realize this. In
 reality, the subject sprawls limply, drooling and mewling, and
 eventually dies of thirst and starvation without care. The subject lives
@@ -1206,10 +1206,10 @@ detect, influence, or read emotions or thoughts. This power protects
 against powers with the mind-affecting or scrying descriptors. *Psionic
 mind blank* even foils *bend reality, limited wish, miracle, reality
 revision,* and *wish* when they are used in such a way as to affect the
-subject's mind or to gain information about it (however, *metafaculty*
+subject’s mind or to gain information about it (however, *metafaculty*
 can pierce the protective quality of *psionic mind blank*). In the case
 of *remote viewing* or scrying that scans an area the creature is in,
-the effect works but the creature simply isn't detected. *Remote
+the effect works but the creature simply isn’t detected. *Remote
 viewing* (scrying) attempts that are targeted specifically at the
 subject do not work at all.
 
@@ -1226,13 +1226,13 @@ subject do not work at all.
 -   **Power Resistance:** Yes
 -   **Power Points:** 9
 
-All the subject's memories and knowledge are accessible to you, from
+All the subject’s memories and knowledge are accessible to you, from
 memories deep below the surface to those still easily called to mind.
 You can learn the answer to one question per round, to the best of the
-subject's knowledge. If the subject succeeds on a Will save, it is not
+subject’s knowledge. If the subject succeeds on a Will save, it is not
 required to answer the question; however, making a save does not end the
 power. You can ask the subject a new question (or the same question) in
-subsequent rounds for as long as the power's duration persists.
+subsequent rounds for as long as the power’s duration persists.
 
 You can probe a sleeping subject and automatically get an answer to your
 question. If the subject then succeeds on a Will save, it wakes after
@@ -1240,7 +1240,7 @@ providing the answer and thereafter can resist answering by making Will
 saves as described above.
 
 Subjects that do not wish to be probed can attempt to move beyond the
-power's range, unless they are somehow hindered. You pose the questions
+power’s range, unless they are somehow hindered. You pose the questions
 telepathically, and the answers to those questions are imparted directly
 to your mind. You and the subject do not need to speak the same
 language, though less intelligent creatures may yield up only
@@ -1259,15 +1259,15 @@ appropriate visual images in answer to your questions.
 -   **Power Resistance:** Yes
 -   **Power Points:** 15, XP
 
-You impress the totality of your psyche into a subject's subconscious.
-If successfully implanted, the seed of your mind "germinates" over the
+You impress the totality of your psyche into a subject’s subconscious.
+If successfully implanted, the seed of your mind “germinates” over the
 period of one week. During this time, the subject begins to
 unconsciously take on your mannerisms.
 
 When integration is complete (after one week), the subject becomes you
-in mind as you were when you manifested the power, but the subject's
+in mind as you were when you manifested the power, but the subject’s
 level is eight lower than your own. (In effect, the subject has received
-eight negative levels---but these are negative levels that can't be
+eight negative levels—but these are negative levels that can’t be
 removed.) The subject does not have any of your physical ability scores
 or equipment, but does have the Intelligence, Wisdom, and Charisma
 scores you had when you were eight levels lower. The subject also knows
@@ -1275,7 +1275,7 @@ the powers you knew when you were eight levels lower.
 
 While the subject is initially your mental duplicate, the two
 personalities diverge over time. Although the subject starts off with
-memories of your experiences, it possesses its original "soul" and
+memories of your experiences, it possesses its original “soul” and
 physical body and is free to develop its own personality based on its
 own new experiences. Thus, the subject is not your slave or servant, but
 instead a nonplayer character in its own right that shares your earlier
@@ -1286,7 +1286,7 @@ implanting *mind seed,* or prevent a seed from germinating while the
 protective power lasts. Otherwise, a germinating seed can be removed
 (prior to germination) only by *psychic chirurgery, reality revision*,
 or similarly high-level effects. Manifesting *mind seed* again during
-the germination period also cleanses the subject's mind.
+the germination period also cleanses the subject’s mind.
 
 *XP Cost:* 3,000 XP.
 
@@ -1308,11 +1308,11 @@ your mind (and soul) into its body, and its mind into your body. You can
 target any creature whose Hit Dice are equal to or less than your
 manifester level.
 
-You possess the target's body and force the creature's mind into your
+You possess the target’s body and force the creature’s mind into your
 body unless it succeeds on a Will save. You can move your mind back into
-your own body whenever you desire, which returns the subject's mind to
+your own body whenever you desire, which returns the subject’s mind to
 its own body and ends the power. If the manifestation succeeds, your
-life force occupies the host body, and the host's life force takes over
+life force occupies the host body, and the host’s life force takes over
 yours.
 
 You can call on rudimentary or instinctive knowledge of the subject
@@ -1340,7 +1340,7 @@ Supernatural abilities that require a certain body part may be
 unavailable in your new form.
 
 If either body is killed while the power is in effect, the other
-participant also dies when the power ends. If one participant's body
+participant also dies when the power ends. If one participant’s body
 becomes petrified, imprisoned by *temporal stasis* or *imprisonment,* or
 incapacitated in some other way, the other participant will be
 incapacitated in that way when the power ends.
@@ -1351,7 +1351,7 @@ original bodies.
 
 *XP Cost:* 100 XP.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 save DC increases by 1.
 
 ## Mind Switch, True
@@ -1365,16 +1365,16 @@ save DC increases by 1.
 -   **Power Points:** 17, XP
 
 As *mind switch,* except as noted here. You permanently exchange bodies
-with the subject. Since this power's duration is instantaneous, you
+with the subject. Since this power’s duration is instantaneous, you
 cannot be forced to return to your natural body by means of *dispel
-psionics,* an *antimagic field,* or a similar effect. If the subject's
+psionics,* an *antimagic field,* or a similar effect. If the subject’s
 body dies while you are in it, you are dead. The subject immediately
 loses one level, but otherwise survives the experience in your natural
 body. If your natural body dies while the subject is in it, you
 immediately lose one level, but you likewise survive the experience in
 your new body.
 
-Your "natural" body is always considered to be the last one you switched
+Your “natural” body is always considered to be the last one you switched
 out of. If you exchange bodies with a chain of multiple subjects, you
 need worry only about the welfare of the last body you switched with. In
 other words, if your mind is expelled from your current body, your mind
@@ -1401,9 +1401,9 @@ body you inhabited immediately prior to your current body is killed.
 You instantly deliver a massive assault on the thought pathways of any
 one creature, dealing 1d10 points of damage to it.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 damage increases by 1d10 points. For each extra 2d10 points of damage,
-this power's save DC increases by 1.
+this power’s save DC increases by 1.
 
 ## Mind Trap
 
@@ -1420,14 +1420,14 @@ this power's save DC increases by 1.
 
 You set up a trap in your mind against psionic intruders. Anyone who
 attacks you with a telepathy power immediately loses 1d6 power points.
-This power's effect does not negate the power that is currently being
+This power’s effect does not negate the power that is currently being
 used against you. You can manifest this power instantly, quickly enough
 to gain its benefit in an emergency. Manifesting the power is an
 immediate action, like manifesting a quickened power, and it counts
 toward the normal limit of one quickened power per round. You can use
 this power even when it is not your turn.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 duration increases by 1 round.
 
 ## Mindlink
@@ -1474,19 +1474,19 @@ creature that knows powers, you can temporarily borrow a power of your
 choice (you are aware of what powers the subject knows, up to the
 highest level of power you can manifest).
 
-Borrowing the subject's power is a separate standard action that
+Borrowing the subject’s power is a separate standard action that
 provokes an attack of opportunity. If that attack succeeds, the mental
 communication provided by this power ends immediately. The borrowed
-power fades from the subject's awareness and appears within your own.
+power fades from the subject’s awareness and appears within your own.
 You can now spend power points to manifest the borrowed power just as if
 it were one of your powers known. You maintain knowledge of the borrowed
 power until the duration of your *thieving mindlink* expires, at which
 time you lose knowledge of the power and the power reappears in the mind
 of the subject, no matter how far from you the subject is. Even if the
 subject is slain, you lose knowledge of the borrowed power when this
-power's duration expires.
+power’s duration expires.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 save DC increases by 1.
 
 ## Mindwipe
@@ -1502,7 +1502,7 @@ save DC increases by 1.
 -   **Power Resistance:** Yes
 -   **Power Points:** 7
 
-You partially wipe your victim's mind of past experiences, bestowing two
+You partially wipe your victim’s mind of past experiences, bestowing two
 negative levels upon it. If the subject has at least as many negative
 levels as Hit Dice, it dies. For each negative level it gains, a psionic
 creature loses knowledge of one power from its highest available level,
@@ -1517,7 +1517,7 @@ level permanently.)
 **Augment:** You can manifest this power in one or both of the following
 ways.
 
-1\. For every 2 additional power points you spend, this power's save DC
+1\. For every 2 additional power points you spend, this power’s save DC
 increases by 1.
 
 2\. For every 3 additional power points you spend, this power bestows an
@@ -1554,10 +1554,10 @@ As the *minor creation* spell, except as noted here.
 
 You send a telepathic message of up to ten words to any living creature
 within range. *Missive* is strictly a one-way exchange from you to the
-subject. If you do not share a common language, the subject "hears"
+subject. If you do not share a common language, the subject “hears”
 meaningless mental syllables.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 range increases by 5 feet and its save DC increases by 1.
 
 ## Missive, Mass
@@ -1578,10 +1578,10 @@ You send a telepathic message of up to twenty-five words to all
 creatures within range. You can include or exclude from this broadcast
 any creature you can see, as well as any creature that you know or know
 of. *Mass missive* is strictly a one-way exchange from you to the
-subjects. If you do not share a common language, the subjects "hear"
+subjects. If you do not share a common language, the subjects “hear”
 meaningless mental syllables.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 range increases by 40 feet and its save DC increases by 1.
 
 ## Modify Memory, Psionic
@@ -1654,7 +1654,7 @@ the functioning of any psionic items or powers within its confines. A
 *null psionics field* suppresses any power or psionic effect used
 within, brought into, or manifested into its area, but does not negate
 it. Time spent within a *null psionics field* counts against a
-suppressed effect's duration.
+suppressed effect’s duration.
 
 Astral constructs and summoned creatures wink out if they enter a *null
 psionics field*. They reappear in the same spot once the field goes
@@ -1674,14 +1674,14 @@ magic during their creation process and are thereafter self-supporting
 (unless they have been summoned or have a limited duration, in which
 case they are treated like any other summoned creatures). Elementals,
 corporeal undead, and outsiders are likewise unaffected unless summoned.
-These creatures' spell-like or supernatural abilities, however, may be
+These creatures’ spell-like or supernatural abilities, however, may be
 temporarily nullified by the field.
 
 *Dispel psionics* does not remove the field. Two or more *null psionics
 fields* sharing any of the same space have no effect on each other.
 Certain powers may be unaffected by *null psionics field* (see the
 individual power descriptions). Artifacts and deities are unaffected by
-mortal power such as this. Should a creature's space extend across the
+mortal power such as this. Should a creature’s space extend across the
 boundary of the area enclosed by the field, any part of the creature
 that lies outside the effect is unaffected by the field.
 
@@ -1710,11 +1710,11 @@ You take only half damage from cold effects of all kinds. However, you
 become susceptible to all special attacks that affect wood, and you gain
 vulnerability to fire.
 
-You gain a +4 enhancement bonus to Strength, but you take a --2 penalty
+You gain a +4 enhancement bonus to Strength, but you take a –2 penalty
 to Dexterity (to a minimum Dexterity score of 1), and your speed is
-reduced to half normal. You can speak but cannot drink (and thus can't
+reduced to half normal. You can speak but cannot drink (and thus can’t
 use potions) or play wind instruments. You have an armor check penalty
-of --4 and an arcane spell failure chance of 25%.
+of –4 and an arcane spell failure chance of 25%.
 
 Your unarmed attacks deal damage equal to a club sized for you (1d4 for
 Small characters, 1d6 for Medium characters), and you are considered
@@ -1722,7 +1722,7 @@ armed when making unarmed attacks. When you make a full attack against
 an object or structure using your unarmed strike, you deal double
 damage.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 duration increases by 1 minute.
 
 ## Object Reading
@@ -1738,22 +1738,22 @@ duration increases by 1 minute.
 -   **Power Resistance:** Yes
 -   **Power Points:** 3
 
-You can learn details of an inanimate object's previous owner. Objects
+You can learn details of an inanimate object’s previous owner. Objects
 accumulate psychic impressions left by their previous owners, which can
 be read by use of this power. The amount of information revealed depends
 on how long you study a particular object.
 
-*1st Minute:* Last owner's race.
+*1st Minute:* Last owner’s race.
 
-*2nd Minute:* Last owner's gender.
+*2nd Minute:* Last owner’s gender.
 
-*3rd Minute:* Last owner's age.
+*3rd Minute:* Last owner’s age.
 
-*4th Minute:* Last owner's alignment.
+*4th Minute:* Last owner’s alignment.
 
 *5th Minute:* How last owner gained and lost the object.
 
-*6th+ Minute:* Next-to-last owner's race, and so on.
+*6th+ Minute:* Next-to-last owner’s race, and so on.
 
 The power always correctly identifies the last owner of the item, and
 the original owner (if you keep the power active long enough).
@@ -1768,11 +1768,11 @@ casual user.)
 
 An object without any previous owners reveals no information. You can
 continue to run through a list of previous owners and learn details
-about them as long as the power's duration lasts. If you use this power
+about them as long as the power’s duration lasts. If you use this power
 additional times on the same object, the information yielded is the same
 as if you were using the power on the object for the first time.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 maximum duration increases by 10 minutes.
 
 ## Overland Flight, Psionic
@@ -1827,14 +1827,14 @@ one standard action each round that is purely mental, such as
 manifesting a power, in the same turn that the subject takes its normal
 actions.
 
-The parasitic personality manifests powers using the subject's power
+The parasitic personality manifests powers using the subject’s power
 point reserve and known powers, but can only manifest powers three or
 more levels lower than the highest level of power the subject can
 normally manifest.
 
 The parasitic personality actively attempts to manifest powers that
 negatively impact the subject, using the highest-level powers possible
-(so as to deplete the subject's power point reserve), and the most
+(so as to deplete the subject’s power point reserve), and the most
 deadly to the subject. You do not have control over what the parasitic
 personality does, though it always works against the interest of the
 subject.
@@ -1932,14 +1932,14 @@ The creature gains power resistance equal to 12 + your manifester level.
 -   **Power Points:** 1
 
 *Precognition* allows your mind to glimpse fragments of potential future
-events---what you see will probably happen if no one takes action to
+events—what you see will probably happen if no one takes action to
 change it. However, your vision is incomplete, and it makes no real
-sense until the actual events you glimpsed begin to unfold. That's when
+sense until the actual events you glimpsed begin to unfold. That’s when
 everything begins to come together, and you can act, if you act swiftly,
 on the information you previously received when you manifested this
 power.
 
-In practice, manifesting this power grants you a "precognitive edge."
+In practice, manifesting this power grants you a “precognitive edge.”
 Normally, you can have only a single precognitive edge at one time. You
 must use your edge within a period of no more than 10 minutes per level,
 at which time your preknowledge fades and you lose your edge.
@@ -1962,10 +1962,10 @@ that your unmodified roll is lower than desired.
 -   **Power Points:** 1
 
 Your awareness extends a fraction of a second into the future, allowing
-you to better evade an opponent's blows.
+you to better evade an opponent’s blows.
 
 You gain a +1 insight bonus to AC and on all saving throws. If caught in
-a situation where your Dexterity bonus isn't applied to your Armor
+a situation where your Dexterity bonus isn’t applied to your Armor
 Class, this bonus to AC and saving throws does not apply.
 
 **Augment:** You can augment this power in one or both of the following
@@ -2059,7 +2059,7 @@ damage. A target struck by the poison can make a Fortitude save (DC 10 +
 1/2 your manifester level + your key ability modifier) to negate the
 damage.
 
-**Augment:** For every 6 additional power points you spend, this power's
+**Augment:** For every 6 additional power points you spend, this power’s
 Constitution damage increases by 2 points.
 
 ## Prevenom Weapon
@@ -2085,7 +2085,7 @@ remains in your grip.
 -   **Power Points:** 3
 
 If an enemy provokes an attack of opportunity from you, you can make the
-attack even if you've already taken your allotted number of attacks of
+attack even if you’ve already taken your allotted number of attacks of
 opportunity this round (usually one).
 
 You can manifest this power instantly, quickly enough to gain an extra
@@ -2113,7 +2113,7 @@ creatures for 1 round.
 **Augment:** For every 2 additional power points you spend, the duration
 of the stun effect increases by 1 round.
 
-## Psionic Lion's Charge
+## Psionic Lion’s Charge
 
 -   Psychometabolism
 -   **Level:** Psychic warrior 2
@@ -2131,7 +2131,7 @@ You can manifest this power with an instant thought, quickly enough to
 gain the benefit of the power as you charge. Manifesting the power is a
 swift action, like manifesting a quickened power, and it counts toward
 the normal limit of one quickened power per round. You cannot manifest
-this power when it isn't your turn.
+this power when it isn’t your turn.
 
 **Augment:** For every additional power point you spend, each of your
 attacks after a charge in the current round gains a circumstance bonus
@@ -2191,9 +2191,9 @@ repairs an additional 1d8 points of damage.
 -   **Power Resistance:** Yes (harmless)
 -   **Power Points:** 9, XP
 
-*Psionic revivify* lets a manifester reconnect a corpse's psyche with
+*Psionic revivify* lets a manifester reconnect a corpse’s psyche with
 its body, restoring life to a recently deceased creature. The power must
-be manifested within 1 round of the victim's death. Before the psyche of
+be manifested within 1 round of the victim’s death. Before the psyche of
 the deceased has completely left the body, this power halts its journey
 while repairing somewhat the damage to the body.
 
@@ -2201,7 +2201,7 @@ This power functions like the *raisedead* spell, except that the
 affected creature receives no level loss, no Constitution loss, and no
 loss of powers.
 
-The creature has --1 hit points (but is stable) after being restored to
+The creature has –1 hit points (but is stable) after being restored to
 life.
 
 *XP Cost:* 200 XP.
@@ -2235,14 +2235,14 @@ as skunk musk or troglodyte stench, can be detected at triple normal
 range.
 
 When you detect a scent, the exact location of the source is not
-revealed---only its presence somewhere within range. You can take a move
+revealed—only its presence somewhere within range. You can take a move
 action to note the direction of the scent. Whenever you come within 5
-feet of the source, you pinpoint the source's location.
+feet of the source, you pinpoint the source’s location.
 
 If you have the Track feat, you can follow tracks by smell, making a
 Wisdom (or Survival) check to find or follow a track. The typical DC for
 a fresh trail is 10 (no matter what kind of surface holds the scent).
-This DC increases or decreases depending on how strong the quarry's odor
+This DC increases or decreases depending on how strong the quarry’s odor
 is, the number of creatures, and the age of the trail. For each hour
 that the trail is cold, the DC increases by 2. The ability otherwise
 follows the rules for the Track feat. If you are tracking with *psionic
@@ -2277,7 +2277,7 @@ previously attained. Also, you can restore levels lost to energy drain
 or a similar effect if the level drain occurred within a number of hours
 equal to your manifester level.
 
-You can also remove all psionic effects penalizing the subject's ability
+You can also remove all psionic effects penalizing the subject’s ability
 scores, heal all ability damage, and remove any ability drain affecting
 the subject. *Psychic chirurgery*negates all forms of insanity,
 confusion, the effect of such powers as *microcosm,* and so on, but it
@@ -2286,7 +2286,7 @@ does not restore levels or Constitution points lost due to death.
 *Transfer Knowledge:* If desired, you can use this power to directly
 transfer knowledge of a power you know to another psionic character. You
 can give a character knowledge of a power of any level that she can
-manifest, even if the power is not normally on the character's power
+manifest, even if the power is not normally on the character’s power
 list. Knowledge of powers gained through *psychic chirurgery* does not
 count toward the maximum number of powers a character can know per
 level.
@@ -2311,10 +2311,10 @@ do so, you can split this cost evenly.
 
 Your will abruptly and brutally crushes the mental essence of any one
 creature, debilitating its acumen. The target must make a Will save with
-a +4 bonus or collapse unconscious and dying at --1 hit points. If the
+a +4 bonus or collapse unconscious and dying at –1 hit points. If the
 target succeeds on the save, it takes 3d6 points of damage.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 damage increases by 1d6 points.
 
 ## Psychic Reformation
@@ -2343,7 +2343,7 @@ The subject can undo decisions of these sorts that were made at lower
 levels, if both the subject and the manifester agree to pay the
 necessary XP before this power is manifested (see below). The subject
 must abide by the standard rules for selecting skills and feats, and so
-it cannot take feats for which it doesn't qualify or take crossclass
+it cannot take feats for which it doesn’t qualify or take crossclass
 skills as class skills.
 
 *XP Cost:* This power costs 50 XP to manifest to reformat choices made
@@ -2365,7 +2365,7 @@ additional 50 XP. The manifester and subject split all XP costs evenly.
 -   **Power Points:** 7
 
 This power shrouds your hand or a natural weapon you possess with
-darkness that you can use to drain an opponent's power.
+darkness that you can use to drain an opponent’s power.
 
 If you manifest this power to affect your hand, the next successful
 melee touch attack you make (if the victim fails its Fortitude save)
@@ -2374,7 +2374,7 @@ The drained points simply dissipate. Your touch attack, charged with
 psionic power, is treated as an armed attack.
 
 If you manifest this power to affect a natural weapon you possess, you
-must make a successful melee attack with the weapon to gain the power's
+must make a successful melee attack with the weapon to gain the power’s
 benefit.
 
 Against a psionic being that has no power points or a nonpsionic foe,
@@ -2397,7 +2397,7 @@ expense of one or more other scores. Select one ability score you would
 like to boost, and increase it by the same amount that you decrease one
 or more other scores. All score decreases are treated as a special form
 of ability damage, called ability burn, which cannot be magically or
-psionically healed---it goes away only through natural healing.
+psionically healed—it goes away only through natural healing.
 
 You can boost your Strength, Dexterity or Constitution score by an
 amount equal to your manifester level (or any lesser amount), assuming
