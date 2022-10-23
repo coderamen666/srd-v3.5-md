@@ -60,8 +60,8 @@ the terms of the Open Game License v1.0a.
 -   [Dominate Person](#dominate-person)
 -   [Doom](#doom)
 -   [Dream](#dream)
--   [Eagle's Splendor](#eagles-splendor)
--   [Eagle's Splendor, Mass](#eagles-splendor-mass)
+-   [Eagle’s Splendor](#eagles-splendor)
+-   [Eagle’s Splendor, Mass](#eagles-splendor-mass)
 -   [Earthquake](#earthquake)
 -   [Elemental Swarm](#elemental-swarm)
 -   [Endure Elements](#endure-elements)
@@ -93,13 +93,13 @@ the terms of the Open Game License v1.0a.
 
 Depending on the version selected, you create up to four lights that
 resemble lanterns or torches (and cast that amount of light), or up to
-four glowing spheres of light (which look like will-o'-wisps), or one
+four glowing spheres of light (which look like will-o’-wisps), or one
 faintly glowing, vaguely humanoid shape. The *dancing lights* must stay
 within a 10-foot-radius area in relation to each other but otherwise
 move as you desire (no concentration required): forward or back, up or
 down, straight or turning corners, or the like. The lights can move up
 to 100 feet per round. A light winks out if the distance between you and
-it exceeds the spell's range.
+it exceeds the spell’s range.
 
 *Dancing lights* can be made permanent with a *permanency* spell.
 
@@ -126,7 +126,7 @@ of brightening the area, as are light spells of lower level. Higher
 level light spells are not affected by *darkness.*
 
 If *darkness* is cast on a small object that is then placed inside or
-under a lightproof covering, the spell's effect is blocked until the
+under a lightproof covering, the spell’s effect is blocked until the
 covering is removed.
 
 *Darkness* counters or dispels any light spell of equal or lower spell
@@ -175,7 +175,7 @@ equivalent of daylight for the purposes of creatures that are damaged or
 destroyed by bright light.
 
 If *daylight* is cast on a small object that is then placed inside or
-under a light- proof covering, the spell's effects are blocked until the
+under a light- proof covering, the spell’s effects are blocked until the
 covering is removed.
 
 *Daylight* brought into an area of magical darkness (or vice versa) is
@@ -228,7 +228,7 @@ living creature of any type. Creatures of 7 or more HD are not affected.
 
 You draw forth the ebbing life force of a creature and use it to fuel
 your own power. Upon casting this spell, you touch a living creature
-that has --1 or fewer hit points. If the subject fails its saving throw,
+that has –1 or fewer hit points. If the subject fails its saving throw,
 it dies, and you gain 1d8 temporary hit points and a +2 bonus to
 Strength. Additionally, your effective caster level goes up by +1,
 improving spell effects dependent on caster level. (This increase in
@@ -250,7 +250,7 @@ effects last for 10 minutes per HD of the subject creature.
 The subject is immune to all death spells, magical death effects, energy
 drain, and any negative energy effects.
 
-This spell doesn't remove negative levels that the subject has already
+This spell doesn’t remove negative levels that the subject has already
 gained, nor does it affect the saving throw necessary 24 hours after
 gaining a negative level.
 
@@ -270,7 +270,7 @@ those attacks might be lethal.
 -   **Spell Resistance:** No
 
 Using the foul sight granted by the powers of unlife, you can determine
-the condition of creatures near death within the spell's range. You
+the condition of creatures near death within the spell’s range. You
 instantly know whether each creature within the area is dead, fragile
 (alive and wounded, with 3 or fewer hit points left), fighting off death
 (alive with 4 or more hit points), undead, or neither alive nor dead
@@ -318,8 +318,8 @@ level, including *daylight* and *light.*
 -   **Spell Resistance:** Yes (harmless)
 
 The subject becomes temporarily immune to poison. Any poison in its
-system or any poison to which it is exposed during the spell's duration
-does not affect the subject until the spell's duration has expired.
+system or any poison to which it is exposed during the spell’s duration
+does not affect the subject until the spell’s duration has expired.
 *Delay poison* does not cure any damage that poison may have already
 done.
 
@@ -354,17 +354,17 @@ This spell functions like *sending,* but the message can also contain a
 *suggestion* (see the *suggestion* spell), which the subject does its
 best to carry out. A successful Will save negates the *suggestion*
 effect but not the contact itself. The *demand,* if received, is
-understood even if the subject's Intelligence score is as low as 1. If
+understood even if the subject’s Intelligence score is as low as 1. If
 the message is impossible or meaningless according to the circumstances
 that exist for the subject at the time the *demand* is issued, the
 message is understood but the *suggestion* is ineffective.
 
-The *demand*'s message to the creature must be twenty-five words or
+The *demand*’s message to the creature must be twenty-five words or
 less, including the *suggestion.* The creature can also give a short
 reply immediately.
 
 *Material Component:* A short piece of copper wire and some small part
-of the subject---a hair, a bit of nail, or the like.
+of the subject—a hair, a bit of nail, or the like.
 
 ## Desecrate
 
@@ -379,14 +379,14 @@ of the subject---a hair, a bit of nail, or the like.
 -   **Spell Resistance:** Yes
 
 This spell imbues an area with negative energy. Each Charisma check made
-to turn undead within this area takes a --3 profane penalty, and every
+to turn undead within this area takes a –3 profane penalty, and every
 undead creature entering a *desecrated* area gains a +1 profane bonus on
 attack rolls, damage rolls, and saving throws. An undead creature
 created within or summoned into such an area gains +1 hit points per HD.
 
 If the *desecrated* area contains an altar, shrine, or other permanent
 fixture dedicated to your deity or aligned higher power, the modifiers
-given above are doubled (--6 profane penalty on turning checks, +2
+given above are doubled (–6 profane penalty on turning checks, +2
 profane bonus and +2 hit points per HD for undead in the area).
 
 Furthermore, anyone who casts *animate dead* within this area may create
@@ -417,7 +417,7 @@ of silver dust, all of which must be sprinkled around the area.
 -   **Spell Resistance:** Yes
 
 This spell instantly slays the subject and consumes its remains (but not
-its equipment and possessions) utterly. If the target's Fortitude saving
+its equipment and possessions) utterly. If the target’s Fortitude saving
 throw succeeds, it instead takes 10d6 points of damage. The only way to
 restore life to a character who has failed to save against this spell is
 to use *true resurrection*, a carefully worded *wish* spell followed by
@@ -505,8 +505,8 @@ depends on how long you study a particular area or subject.
 *2nd Round:* Number of evil auras (creatures, objects, or spells) in the
 area and the power of the most potent evil aura present.
 
-If you are of good alignment, and the strongest evil aura's power is
-overwhelming (see below), and the HD or level of the aura's source is at
+If you are of good alignment, and the strongest evil aura’s power is
+overwhelming (see below), and the HD or level of the aura’s source is at
 least twice your character level, you are stunned for 1 round and the
 spell ends.
 
@@ -514,30 +514,30 @@ spell ends.
 your line of sight, then you discern its direction but not its exact
 location.
 
-*Aura Power:* An evil aura's power depends on the type of evil creature
-or object that you're detecting and its HD, caster level, or (in the
+*Aura Power:* An evil aura’s power depends on the type of evil creature
+or object that you’re detecting and its HD, caster level, or (in the
 case of a cleric) class level; see the accompanying table. If an aura
 falls into more than one strength category, the spell indicates the
 stronger of the two.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------- ---------- ----------- ----------------
-                                                                                                                                                                                                           []{style="                                                                                      
-                                                                                                                                                                                                                display: block;                                                                            
-                                                                                                                                                                                                              position: absolute;                                                                          
-                                                                                                                                                                                                                   right: 0;                                                                               
-                                                                                                                                                                                                                   top: 50%;                                                                               
-                                                                                                                                                                                                                   left: 0px;                                                                              
-                                                                                                                                                                                                      border-top: 1px solid currentColor;                                                                  
-                                                                                                                                                            "}[Aura Power ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                         
-  Creature/Object                                                                                                                                                                                            Faint                                                                   Moderate    Strong      Overwhelming
-  Evil creature^1^(HD)                                                                                                                                                                                    10 or lower                                                                 11--25     26--50      51 or higher
-  Undead (HD)                                                                                                                                                                                              2 or lower                                                                  3--8       9--20      21 or higher
-  Evil outsider (HD)                                                                                                                                                                                       1 or lower                                                                  2--4       5--10      11 or higher
-  Cleric of an evil deity ^2^(class levels)                                                                                                                                                                    1                                                                       2--4       5--10      11 or higher
-  Evil magic item or spell (caster level)                                                                                                                                                                 2nd or lower                                                               3rd--8th   9th--20th   21st or higher
-  1 Except for undead and outsiders, which have their own entries on the table.                                                                                                                                                                                                                            
-  2 Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.                                                                                                                                                                 
-  ------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------- ---------- ----------- ----------------
+|                                                                                                                                          |                                                                                                                                                       |          |          |                |
+|------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:--------:|:--------------:|
+|                                                                                                                                          |                                                                     <span style="                                                                     
+                                                                                                                                                                                                                        display: block;                                                            
+                                                                                                                                                                                                                      position: absolute;                                                          
+                                                                                                                                                                                                                           right: 0;                                                               
+                                                                                                                                                                                                                           top: 50%;                                                               
+                                                                                                                                                                                                                          left: 0px;                                                               
+                                                                                                                                                                                                              border-top: 1px solid currentColor;                                                  
+                                                                                                                                                          "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Aura Power </span>  |          |          |                |
+| Creature/Object                                                                                                                          |                                                                         Faint                                                                         | Moderate |  Strong  |  Overwhelming  |
+| Evil creature<sup>1</sup>(HD)                                                                                                            |                                                                      10 or lower                                                                      |  11–25   |  26–50   |  51 or higher  |
+| Undead (HD)                                                                                                                              |                                                                      2 or lower                                                                       |   3–8    |   9–20   |  21 or higher  |
+| Evil outsider (HD)                                                                                                                       |                                                                      1 or lower                                                                       |   2–4    |   5–10   |  11 or higher  |
+| Cleric of an evil deity <sup>2</sup>(class levels)                                                                                       |                                                                           1                                                                           |   2–4    |   5–10   |  11 or higher  |
+| Evil magic item or spell (caster level)                                                                                                  |                                                                     2nd or lower                                                                      | 3rd–8th  | 9th–20th | 21st or higher |
+| 1 Except for undead and outsiders, which have their own entries on the table.                                                            |                                                                                                                                                       |          |          |                |
+| 2 Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies. |                                                                                                                                                       |          |          |                |
 
 *Lingering Aura:* An evil aura lingers after its original source
 dissipates (in the case of a spell) or is destroyed (in the case of a
@@ -546,13 +546,13 @@ location, the spell indicates an aura strength of dim (even weaker than
 a faint aura). How long the aura lingers at this dim level depends on
 its original power:
 
-  ------------------- ----------------------------
-  Original Strength   Duration of Lingering Aura
-  Faint               1d6 rounds
-  Moderate            1d6 minutes
-  Strong              1d6x10 minutes
-  Overwhelming        1d6 days
-  ------------------- ----------------------------
+|                   |                            |
+|-------------------|----------------------------|
+| Original Strength | Duration of Lingering Aura |
+| Faint             | 1d6 rounds                 |
+| Moderate          | 1d6 minutes                |
+| Strong            | 1d6x10 minutes             |
+| Overwhelming      | 1d6 days                   |
 
 Animals, traps, poisons, and other potential perils are not evil, and as
 such this spell does not detect them.
@@ -611,23 +611,23 @@ level for a nonspell effect.)
 Magical areas, multiple types of magic, or strong local magical
 emanations may distort or conceal weaker auras.
 
-*Aura Strength:* An aura's power depends on a spell's functioning spell
-level or an item's caster level. If an aura falls into more than one
+*Aura Strength:* An aura’s power depends on a spell’s functioning spell
+level or an item’s caster level. If an aura falls into more than one
 category, *detect magic* indicates the stronger of the two.
 
-  --------------------------------- -------------------------------------------------------------------------------------------------------------------------------------- ----------- ------------ ---------------------
-                                                                                                  []{style="                                                                                        
-                                                                                                       display: block;                                                                              
-                                                                                                     position: absolute;                                                                            
-                                                                                                          right: 0;                                                                                 
-                                                                                                          top: 50%;                                                                                 
-                                                                                                          left: 0px;                                                                                
-                                                                                             border-top: 1px solid currentColor;                                                                    
-                                                   "}[Aura Power ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                           
-  Spell or Object                                                                                   Faint                                                                   Moderate      Strong        Overwhelming
-  Functioning spell (spell level)                                                                3rd or lower                                                               4th--6th     7th--9th    10th+ (deity-level)
-  Magic item (caster level)                                                                      5th or lower                                                               6th--11th   12th--20th    21st+ (artifact)
-  --------------------------------- -------------------------------------------------------------------------------------------------------------------------------------- ----------- ------------ ---------------------
+|                                 |                                                                                                                                                       |          |           |                     |
+|---------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:---------:|:-------------------:|
+|                                 |                                                                     <span style="                                                                     
+                                                                                                               display: block;                                                            
+                                                                                                             position: absolute;                                                          
+                                                                                                                  right: 0;                                                               
+                                                                                                                  top: 50%;                                                               
+                                                                                                                 left: 0px;                                                               
+                                                                                                     border-top: 1px solid currentColor;                                                  
+                                                 "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Aura Power </span>  |          |           |                     |
+| Spell or Object                 |                                                                         Faint                                                                         | Moderate |  Strong   |    Overwhelming     |
+| Functioning spell (spell level) |                                                                     3rd or lower                                                                      | 4th–6th  |  7th–9th  | 10th+ (deity-level) |
+| Magic item (caster level)       |                                                                     5th or lower                                                                      | 6th–11th | 12th–20th |  21st+ (artifact)   |
 
 *Lingering Aura:* A magical aura lingers after its original source
 dissipates (in the case of a spell) or is destroyed (in the case of a
@@ -636,13 +636,13 @@ the spell indicates an aura strength of dim (even weaker than a faint
 aura). How long the aura lingers at this dim level depends on its
 original power:
 
-  ------------------- ----------------------------
-  Original Strength   Duration of Lingering Aura
-  Faint               1d6 rounds
-  Moderate            1d6 minutes
-  Strong              1d6x10 minutes
-  Overwhelming        1d6 days
-  ------------------- ----------------------------
+|                   |                            |
+|-------------------|----------------------------|
+| Original Strength | Duration of Lingering Aura |
+| Faint             | 1d6 rounds                 |
+| Moderate          | 1d6 minutes                |
+| Strong            | 1d6x10 minutes             |
+| Overwhelming      | 1d6 days                   |
 
 Outsiders and elementals are not magical in themselves, but if they are
 summoned, the conjuration spell registers.
@@ -687,13 +687,13 @@ metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 -   **Spell Resistance:** No
 
 You immediately become aware of any attempt to observe you by means of a
-divination (scrying) spell or effect. The spell's area radiates from you
+divination (scrying) spell or effect. The spell’s area radiates from you
 and moves as you move. You know the location of every magical sensor
-within the spell's area.
+within the spell’s area.
 
 If the scrying attempt originates within the area, you also know its
 location; otherwise, you and the scrier immediately make opposed caster
-level checks (1d20 + caster level). If you at least match the scrier's
+level checks (1d20 + caster level). If you at least match the scrier’s
 result, you get a visual image of the scrier and an accurate sense of
 his or her direction and distance from you.
 
@@ -745,7 +745,7 @@ You can detect simple pits, deadfalls, and snares as well as mechanical
 traps constructed of natural materials. The spell does not detect
 complex traps, including trapdoor traps.
 
-*Detect snares and pits* does detect certain natural hazards---quicksand
+*Detect snares and pits* does detect certain natural hazards—quicksand
 (a snare), a sinkhole (a pit), or unsafe walls of natural rock (a
 deadfall). However, it does not reveal other potentially dangerous
 conditions. The spell does not detect magic traps (except those that
@@ -791,10 +791,10 @@ with Intelligence scores of 1 or higher).
 each. If the highest Intelligence is 26 or higher (and at least 10
 points higher than your own Intelligence score), you are stunned for 1
 round and the spell ends. This spell does not let you determine the
-location of the thinking minds if you can't see the creatures whose
+location of the thinking minds if you can’t see the creatures whose
 thoughts you are detecting.
 
-*3rd Round:* Surface thoughts of any mind in the area. A target's Will
+*3rd Round:* Surface thoughts of any mind in the area. A target’s Will
 save prevents you from reading its thoughts, and you must cast *detect
 thoughts* again to have another chance. Creatures of animal intelligence
 (Int 1 or 2) have simple, instinctual thoughts that you can pick up.
@@ -824,7 +824,7 @@ information revealed depends on how long you study a particular area.
 
 *2nd Round:* Number of undead auras in the area and the strength of the
 strongest undead aura present. If you are of good alignment, and the
-strongest undead aura's strength is overwhelming (see below), and the
+strongest undead aura’s strength is overwhelming (see below), and the
 creature has HD of at least twice your character level, you are stunned
 for 1 round and the spell ends.
 
@@ -835,13 +835,13 @@ its exact location.
 *Aura Strength:* The strength of an undead aura is determined by the HD
 of the undead creature, as given on the following table:
 
-  -------------- --------------
-  HD             Strength
-  1 or lower     Faint
-  2--4           Moderate
-  5--10          Strong
-  11 or higher   Overwhelming
-  -------------- --------------
+|              |              |
+|--------------|--------------|
+| HD           | Strength     |
+| 1 or lower   | Faint        |
+| 2–4          | Moderate     |
+| 5–10         | Strong       |
+| 11 or higher | Overwhelming |
 
 *Lingering Aura:* An undead aura lingers after its original source is
 destroyed. If *detect undead* is cast and directed at such a location,
@@ -849,13 +849,13 @@ the spell indicates an aura strength of dim (even weaker than a faint
 aura). How long the aura lingers at this dim level depends on its
 original power:
 
-  ------------------- ----------------------------
-  Original Strength   Duration of Lingering Aura
-  Faint               1d6 rounds
-  Moderate            1d6 minutes
-  Strong              1d6x10 minutes
-  Overwhelming        1d6 days
-  ------------------- ----------------------------
+|                   |                            |
+|-------------------|----------------------------|
+| Original Strength | Duration of Lingering Aura |
+| Faint             | 1d6 rounds                 |
+| Moderate          | 1d6 minutes                |
+| Strong            | 1d6x10 minutes             |
+| Overwhelming      | 1d6 days                   |
 
 Each round, you can turn to detect undead in a new area. The spell can
 penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin
@@ -879,13 +879,13 @@ sheet of lead, or 3 feet of wood or dirt blocks it.
 Any nonlawful creature within the area of a *dictum* spell suffers the
 following ill effects.
 
-  ------------------------- ---------------------------------------
-  HD                        Effect
-  Equal to caster level     Deafened
-  Up to caster level --1    *Slowed,* deafened
-  Up to caster level --5    Paralyzed, *slowed,* deafened
-  Up to caster level --10   Killed, paralyzed, *slowed*, deafened
-  ------------------------- ---------------------------------------
+|                        |                                       |
+|------------------------|---------------------------------------|
+| HD                     | Effect                                |
+| Equal to caster level  | Deafened                              |
+| Up to caster level –1  | *Slowed,* deafened                    |
+| Up to caster level –5  | Paralyzed, *slowed,* deafened         |
+| Up to caster level –10 | Killed, paralyzed, *slowed*, deafened |
 
 The effects are cumulative and concurrent. No saving throw is allowed
 against these effects.
@@ -904,7 +904,7 @@ nonlawful extraplanar creatures within the area are instantly banished
 back to their home planes. Creatures so banished cannot return for at
 least 24 hours. This effect takes place regardless of whether the
 creatures hear the *dictum.* The banishment effect allows a Will save
-(at a --4 penalty) to negate.
+(at a –4 penalty) to negate.
 
 Creatures whose HD exceed your caster level are unaffected by *dictum.*
 
@@ -922,17 +922,17 @@ Creatures whose HD exceed your caster level are unaffected by *dictum.*
 -   **Spell Resistance:** No and Yes (object)
 
 You instantly transfer yourself from your current location to any other
-spot within range. You always arrive at exactly the spot
-desired---whether by simply visualizing the area or by stating
-direction. After using this spell, you can't take any other actions
-until your next turn. You can bring along objects as long as their
-weight doesn't exceed your maximum load. You may also bring one
-additional willing Medium or smaller creature (carrying gear or objects
-up to its maximum load) or its equivalent per three caster levels. A
-Large creature counts as two Medium creatures, a Huge creature counts as
-two Large creatures, and so forth. All creatures to be transported must
-be in contact with one another, and at least one of those creatures must
-be in contact with you.
+spot within range. You always arrive at exactly the spot desired—whether
+by simply visualizing the area or by stating direction. After using this
+spell, you can’t take any other actions until your next turn. You can
+bring along objects as long as their weight doesn’t exceed your maximum
+load. You may also bring one additional willing Medium or smaller
+creature (carrying gear or objects up to its maximum load) or its
+equivalent per three caster levels. A Large creature counts as two
+Medium creatures, a Huge creature counts as two Large creatures, and so
+forth. All creatures to be transported must be in contact with one
+another, and at least one of those creatures must be in contact with
+you.
 
 If you arrive in a place that is already occupied by a solid body, you
 and each creature traveling with you take 1d6 points of damage and are
@@ -1067,7 +1067,7 @@ creatures or objects. Nothing short of a *mind blank* spell or the
 direct intervention of a deity keeps you from learning the exact
 location of a single individual or object. *Discern location*
 circumvents normal means of protection from scrying or location. The
-spell reveals the name of the creature or object's location (place,
+spell reveals the name of the creature or object’s location (place,
 name, business name, building name, or the like), community, county (or
 similar political division), country, continent, and the plane of
 existence where the target lies.
@@ -1086,11 +1086,11 @@ have touched it at least once.
 -   **Target:** You
 -   **Duration:** 10 min./level (D)
 
-You make yourself---including clothing, armor, weapons, and
-equipment---look different. You can seem 1 foot shorter or taller, thin,
-fat, or in between. You cannot change your body type. Otherwise, the
-extent of the apparent change is up to you. You could add or obscure a
-minor feature or look like an entirely different person.
+You make yourself—including clothing, armor, weapons, and equipment—look
+different. You can seem 1 foot shorter or taller, thin, fat, or in
+between. You cannot change your body type. Otherwise, the extent of the
+apparent change is up to you. You could add or obscure a minor feature
+or look like an entirely different person.
 
 The spell does not provide the abilities or mannerisms of the chosen
 form, nor does it alter the perceived tactile (touch) or audible (sound)
@@ -1119,7 +1119,7 @@ successful ranged touch attack to hit. Any creature struck by the ray
 takes 2d6 points of damage per caster level (to a maximum of 40d6). Any
 creature reduced to 0 or fewer hit points by this spell is entirely
 disintegrated, leaving behind only a trace of fine dust. A disintegrated
-creature's equipment is unaffected.
+creature’s equipment is unaffected.
 
 When used against an object, the ray simply disintegrates as much as one
 10- foot cube of nonliving matter. Thus, the spell disintegrates only
@@ -1151,7 +1151,7 @@ ray affects only one target per casting.
 -   **Spell Resistance:** Yes
 
 This spell forces an extraplanar creature back to its proper plane if it
-fails a special Will save (DC = spell's save DC -- creature's HD + your
+fails a special Will save (DC = spell’s save DC – creature’s HD + your
 caster level). If the spell is successful, the creature is instantly
 whisked away, but there is a 20% chance of actually sending the subject
 to a plane other than its own.
@@ -1194,7 +1194,7 @@ spell.
 
 Third, with a touch you can automatically dispel any one enchantment
 spell cast by an evil creature or any one evil spell. *Exception:*
-Spells that can't be dispelled by *dispel magic* also can't be dispelled
+Spells that can’t be dispelled by *dispel magic* also can’t be dispelled
 by *dispel evil*. Saving throws and spell resistance do not apply to
 this effect. This use discharges and ends the spell.
 
@@ -1232,12 +1232,12 @@ creatures and spells rather than evil ones.
 You can use *dispel magic* to end ongoing spells that have been cast on
 a creature or object, to temporarily suppress the magical abilities of a
 magic item, to end ongoing spells (or at least their effects) within an
-area, or to counter another spellcaster's spell. A dispelled spell ends
+area, or to counter another spellcaster’s spell. A dispelled spell ends
 as if its duration had expired. Some spells, as detailed in their
-descriptions, can't be defeated by *dispel magic*. *Dispel magic* can
+descriptions, can’t be defeated by *dispel magic*. *Dispel magic* can
 dispel (but not counter) spell-like effects just as it does spells.
 
-*Note:* The effect of a spell with an instantaneous duration can't be
+*Note:* The effect of a spell with an instantaneous duration can’t be
 dispelled, because the magical effect is already over before the *dispel
 magic* can take effect.
 
@@ -1248,7 +1248,7 @@ dispel, an area dispel, or a counterspell:
 *dispel magic* spell. You make a dispel check (1d20 + your caster level,
 maximum +10) against the spell or against each ongoing spell currently
 in effect on the object or creature. The DC for this dispel check is
-11 + the spell's caster level. If you succeed on a particular check,
+11 + the spell’s caster level. If you succeed on a particular check,
 that spell is dispelled; if you fail, that spell remains in effect.
 
 If you target an object or creature that is the effect of an ongoing
@@ -1256,11 +1256,11 @@ spell (such as a monster summoned by *monster summoning*), you make a
 dispel check to end the spell that conjured the object or creature.
 
 If the object that you target is a magic item, you make a dispel check
-against the item's caster level. If you succeed, all the item's magical
+against the item’s caster level. If you succeed, all the item’s magical
 properties are suppressed for 1d4 rounds, after which the item recovers
 on its own. A suppressed item becomes nonmagical for the duration of the
 effect. An interdimensional interface (such as a *bag of holding*) is
-temporarily closed. A magic item's physical properties are unchanged: A
+temporarily closed. A magic item’s physical properties are unchanged: A
 suppressed magic sword is still a sword (a masterwork sword, in fact).
 Artifacts and deities are unaffected by mortal magic such as this.
 
@@ -1275,7 +1275,7 @@ spells, you make a dispel check against the spell with the highest
 caster level. If that check fails, you make dispel checks against
 progressively weaker spells until you dispel one spell (which discharges
 the *dispel magic* spell so far as that target is concerned) or until
-you fail all your checks. The creature's magic items are not affected.
+you fail all your checks. The creature’s magic items are not affected.
 
 For each object within the area that is the target of one or more
 spells, you make dispel checks as with creatures. Magic items are not
@@ -1301,7 +1301,7 @@ spell that you have cast.
 *Counterspell:* When *dispel magic* is used in this way, the spell
 targets a spellcaster and is cast as a counterspell. Unlike a true
 counterspell, however, *dispel magic* may not work; you must make a
-dispel check to counter the other spellcaster's spell.
+dispel check to counter the other spellcaster’s spell.
 
 ## Dispel Magic, Greater
 
@@ -1312,7 +1312,7 @@ This spell functions like *dispel magic*, except that the maximum caster
 level on your dispel check is +20 instead of +10.
 
 Additionally, *greater dispel magic* has a chance to dispel any effect
-that *remove curse* can remove, even if *dispel magic* can't dispel that
+that *remove curse* can remove, even if *dispel magic* can’t dispel that
 effect.
 
 ## Displacement
@@ -1382,7 +1382,7 @@ Similar to *augury* but more powerful, a *divination* spell can provide
 you with a useful piece of advice in reply to a question concerning a
 specific goal, event, or activity that is to occur within one week. The
 advice can be as simple as a short phrase, or it might take the form of
-a cryptic rhyme or omen. If your party doesn't act on the information,
+a cryptic rhyme or omen. If your party doesn’t act on the information,
 the conditions may change so that the information is no longer useful.
 The base chance for a correct *divination* is 70% + 1% per caster level,
 to a maximum of 90%. If the dice roll fails, you know the spell failed,
@@ -1407,7 +1407,7 @@ your religion, together worth at least 25 gp.
 
 Calling upon the strength and wisdom of a deity, you gain a +1 luck
 bonus on attack and weapon damage rolls for every three caster levels
-you have (at least +1, maximum +6). The bonus doesn't apply to spell
+you have (at least +1, maximum +6). The bonus doesn’t apply to spell
 damage.
 
 ## Divine Power
@@ -1439,7 +1439,7 @@ caster level.
 -   **Spell Resistance:** Yes
 
 You can enchant an animal and direct it with simple commands such as
-"Attack," "Run," and "Fetch." Suicidal or self-destructive commands
+“Attack,” “Run,” and “Fetch.” Suicidal or self-destructive commands
 (including an order to attack a creature two or more size categories
 larger than the *dominated* animal) are simply ignored.
 
@@ -1451,7 +1451,7 @@ is experiencing. Because you are directing the animal with your own
 intelligence, it may be able to undertake actions normally beyond its
 own comprehension. You need not concentrate exclusively on controlling
 the creature unless you are trying to direct it to do something it
-normally couldn't do. Changing your instructions or giving a *dominated*
+normally couldn’t do. Changing your instructions or giving a *dominated*
 creature a new command is the equivalent of redirecting a spell, so it
 is a move action.
 
@@ -1477,12 +1477,12 @@ not restricted by creature type.
 -   **Spell Resistance:** Yes
 
 You can control the actions of any humanoid creature through a
-telepathic link that you establish with the subject's mind.
+telepathic link that you establish with the subject’s mind.
 
 If you and the subject have a common language, you can generally force
 the subject to perform as you desire, within the limits of its
 abilities. If no common language exists, you can communicate only basic
-commands, such as "Come here," "Go there," "Fight," and "Stand still."
+commands, such as “Come here,” “Go there,” “Fight,” and “Stand still.”
 You know what the subject is experiencing, but you do not receive direct
 sensory input from it, nor can it communicate with you telepathically.
 
@@ -1491,7 +1491,7 @@ attempt to carry out that command to the exclusion of all other
 activities except those necessary for day-to-day survival (such as
 sleeping, eating, and so forth). Because of this limited range of
 activity, a Sense Motive check against DC 15 (rather than DC 25) can
-determine that the subject's behavior is being influenced by an
+determine that the subject’s behavior is being influenced by an
 enchantment effect (see the Sense Motive skill description).
 
 Changing your instructions or giving a *dominated* creature a new
@@ -1500,9 +1500,9 @@ action.
 
 By concentrating fully on the spell (a standard action), you can receive
 full sensory input as interpreted by the mind of the subject, though it
-still can't communicate with you. You can't actually see through the
-subject's eyes, so it's not as good as being there yourself, but you
-still get a good idea of what's going on.
+still can’t communicate with you. You can’t actually see through the
+subject’s eyes, so it’s not as good as being there yourself, but you
+still get a good idea of what’s going on.
 
 Subjects resist this control, and any subject forced to take actions
 against its nature receives a new saving throw with a +2 bonus.
@@ -1511,7 +1511,7 @@ established, the range at which it can be exercised is unlimited, as
 long as you and the subject are on the same plane. You need not see the
 subject to control it.
 
-If you don't spend at least 1 round concentrating on the spell each day,
+If you don’t spend at least 1 round concentrating on the spell each day,
 the subject receives a new saving throw to throw off the domination.
 
 *Protection from evil* or a similar spell can prevent you from
@@ -1550,31 +1550,31 @@ You, or a messenger touched by you, sends a phantasmal message to others
 in the form of a dream. At the beginning of the spell, you must name the
 recipient or identify him or her by some title that leaves no doubt as
 to identity. The messenger then enters a trance, appears in the intended
-recipient's dream, and delivers the message. The message can be of any
+recipient’s dream, and delivers the message. The message can be of any
 length, and the recipient remembers it perfectly upon waking. The
 communication is one-way. The recipient cannot ask questions or offer
 information, nor can the messenger gain any information by observing the
 dreams of the recipient.
 
-Once the message is delivered, the messenger's mind returns instantly to
+Once the message is delivered, the messenger’s mind returns instantly to
 its body. The duration of the spell is the time required for the
-messenger to enter the recipient's dream and deliver the message.
+messenger to enter the recipient’s dream and deliver the message.
 
 If the recipient is awake when the spell begins, the messenger can
 choose to wake up (ending the spell) or remain in the trance. The
 messenger can remain in the trance until the recipient goes to sleep,
-then enter the recipient's dream and deliver the message as normal. A
+then enter the recipient’s dream and deliver the message as normal. A
 messenger that is disturbed during the trance comes awake, ending the
 spell.
 
-Creatures who don't sleep (such as elves, but not half-elves) or don't
+Creatures who don’t sleep (such as elves, but not half-elves) or don’t
 dream cannot be contacted by this spell.
 
 The messenger is unaware of its own surroundings or of the activities
 around it while in the trance. It is defenseless both physically and
 mentally (always fails any saving throw) while in the trance.
 
-## Eagle's Splendor
+## Eagle’s Splendor
 
 -   Transmutation
 -   **Level:** Brd 2, Clr 2, Pal 2, Sor/Wiz 2
@@ -1592,12 +1592,12 @@ the usual benefits to Charisma-based skill checks and other uses of the
 Charisma modifier. Sorcerers and bards (and other spellcasters who rely
 on Charisma) affected by this spell do not gain any additional bonus
 spells for the increased Charisma, but the save DCs for spells they cast
-while under this spell's effect do increase.
+while under this spell’s effect do increase.
 
 *Arcane Material Component:* A few feathers or a pinch of droppings from
 an eagle.
 
-## Eagle's Splendor, Mass
+## Eagle’s Splendor, Mass
 
 -   Transmutation
 -   **Level:** Brd 6, Clr 6, Sor/Wiz 6
@@ -1605,7 +1605,7 @@ an eagle.
 -   **Target:** One creature/level, no two of which can be more than 30
     ft. apart
 
-This spell functions like *eagle's splendor*, except that it affects
+This spell functions like *eagle’s splendor*, except that it affects
 multiple creatures.
 
 ## Earthquake
@@ -1623,7 +1623,7 @@ multiple creatures.
 When you cast *earthquake,* an intense but highly localized tremor rips
 the ground. The shock knocks creatures down, collapses structures, opens
 cracks in the ground, and more. The effect lasts for 1 round, during
-which time creatures on the ground can't move or attack. A spellcaster
+which time creatures on the ground can’t move or attack. A spellcaster
 on the ground must make a Concentration check (DC 20 + spell level) or
 lose any spell he or she tries to cast. The earthquake affects all
 terrain, vegetation, structures, and creatures in the area. The specific
@@ -1714,10 +1714,10 @@ creature, it is a spell of that type.
 
 A creature protected by *endure elements* suffers no harm from being in
 a hot or cold environment. It can exist comfortably in conditions
-between --50 and 140 degrees Fahrenheit without having to make Fortitude
-saves). The creature's equipment is likewise protected.
+between –50 and 140 degrees Fahrenheit without having to make Fortitude
+saves). The creature’s equipment is likewise protected.
 
-*Endure elements* doesn't provide any protection from fire or cold
+*Endure elements* doesn’t provide any protection from fire or cold
 damage, nor does it protect against other environmental hazards such as
 smoke, lack of air, and so forth.
 
@@ -1732,9 +1732,9 @@ gains 2d4 negative levels, and the negative levels last longer.
 
 There is no saving throw to avoid gaining the negative levels, but 24
 hours after gaining them, the subject must make a Fortitude saving throw
-(DC = *energy drain* spell's save DC) for each negative level. If the
+(DC = *energy drain* spell’s save DC) for each negative level. If the
 save succeeds, that negative level is removed. If it fails, the negative
-level also goes away, but one of the subject's character levels is
+level also goes away, but one of the subject’s character levels is
 permanently drained.
 
 An undead creature struck by the ray gains 2d4x5 temporary hit points
@@ -1758,7 +1758,7 @@ living creature it strikes. You must make a ranged touch attack to hit.
 If the attack succeeds, the subject gains 1d4 negative levels.
 
 If the subject has at least as many negative levels as HD, it dies. Each
-negative level gives a creature a --1 penalty on attack rolls, saving
+negative level gives a creature a –1 penalty on attack rolls, saving
 throws, skill checks, ability checks, and effective level (for
 determining the power, duration, DC, and other details of spells or
 special abilities).
@@ -1768,8 +1768,8 @@ her highest available level. Negative levels stack.
 
 Assuming the subject survives, it regains lost levels after a number of
 hours equal to your caster level (maximum 15 hours). Usually, negative
-levels have a chance of permanently draining the victim's levels, but
-the negative levels from *enervation* don't last long enough to do so.
+levels have a chance of permanently draining the victim’s levels, but
+the negative levels from *enervation* don’t last long enough to do so.
 
 An undead creature struck by the ray gains 1d4x5 temporary hit points
 for 1 hour.
@@ -1788,24 +1788,24 @@ for 1 hour.
 
 This spell causes instant growth of a humanoid creature, doubling its
 height and multiplying its weight by 8. This increase changes the
-creature's size category to the next larger one. The target gains a +2
-size bonus to Strength, a --2 size penalty to Dexterity (to a minimum of
-1), and a --1 penalty on attack rolls and AC due to its increased size.
+creature’s size category to the next larger one. The target gains a +2
+size bonus to Strength, a –2 size penalty to Dexterity (to a minimum of
+1), and a –1 penalty on attack rolls and AC due to its increased size.
 
 A humanoid creature whose size increases to Large has a space of 10 feet
-and a natural reach of 10 feet. This spell does not change the target's
+and a natural reach of 10 feet. This spell does not change the target’s
 speed.
 
 If insufficient room is available for the desired growth, the creature
 attains the maximum possible size and may make a Strength check (using
 its increased Strength) to burst any enclosures in the process. If it
-fails, it is constrained without harm by the materials enclosing it---
-the spell cannot be used to crush a creature by increasing its size.
+fails, it is constrained without harm by the materials enclosing it— the
+spell cannot be used to crush a creature by increasing its size.
 
 All equipment worn or carried by a creature is similarly enlarged by the
 spell. Melee and projectile weapons affected by this spell deal more
 damage. Other magical properties are not affected by this spell. Any
-*enlarged* item that leaves an *enlarged* creature's possession
+*enlarged* item that leaves an *enlarged* creature’s possession
 (including a projectile or thrown weapon) instantly returns to its
 normal size. This means that thrown weapons deal their normal damage,
 and projectiles deal damage based on the size of the weapon that fired
@@ -1966,7 +1966,7 @@ the Material Plane are limited to 60 feet.
 
 Force effects and abjurations affect an ethereal creature normally.
 Their effects extend onto the Ethereal Plane from the Material Plane,
-but not vice versa. An ethereal creature can't attack material
+but not vice versa. An ethereal creature can’t attack material
 creatures, and spells you cast while ethereal affect only other ethereal
 things. Certain material creatures or objects have attacks or effects
 that work on the Ethereal Plane.
@@ -2056,20 +2056,20 @@ or 28 for *explosive runes*.
 -   **Spell Resistance:** Yes
 
 Each round, you may target a single living creature, striking it with
-waves of evil power. Depending on the target's HD, this attack has as
+waves of evil power. Depending on the target’s HD, this attack has as
 many as three effects.
 
-  ------------ ------------------------------
-  HD           Effect
-  10 or more   Sickened
-  5--9         Panicked, sickened
-  4 or less    Comatose, panicked, sickened
-  ------------ ------------------------------
+|            |                              |
+|------------|------------------------------|
+| HD         | Effect                       |
+| 10 or more | Sickened                     |
+| 5–9        | Panicked, sickened           |
+| 4 or less  | Comatose, panicked, sickened |
 
 The effects are cumulative and concurrent.
 
-*Sickened:* Sudden pain and fever sweeps over the subject's body. A
-sickened creature takes a --2 penalty on attack rolls, weapon damage
+*Sickened:* Sudden pain and fever sweeps over the subject’s body. A
+sickened creature takes a –2 penalty on attack rolls, weapon damage
 rolls, saving throws, skill checks, and ability checks. A creature
 affected by this spell remains sickened for 10 minutes per caster level.
 The effects cannot be negated by a *remove disease* or *heal* spell, but

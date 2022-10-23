@@ -30,8 +30,8 @@ encounter.
 suit of armor. Weapons fashioned from adamantine have a natural ability
 to bypass hardness when sundering weapons or attacking objects, ignoring
 hardness less than 20. Armor made from adamantine grants its wearer
-damage reduction of 1/-- if it's light armor, 2/-- if it's medium armor,
-and 3/-- if it's heavy armor. Adamantine is so costly that weapons and
+damage reduction of 1/– if it’s light armor, 2/– if it’s medium armor,
+and 3/– if it’s heavy armor. Adamantine is so costly that weapons and
 armor made from it are always of masterwork quality; the masterwork cost
 is included in the prices given below. Thus, adamantine weapons and
 ammunition have a +1 enhancement bonus on attack rolls, and the armor
@@ -45,14 +45,14 @@ from adamantine. Weapons, armor and shields normally made of steel that
 are made of adamantine have one-third more hit points than normal.
 Adamantine has 40 hit points per inch of thickness and hardness 20.
 
-  ------------------------- --------------------
-  Type of Adamantine Item   Item Cost Modifier
-  Ammunition                +60 gp
-  Light armor               +5,000 gp
-  Medium armor              +10,000 gp
-  Heavy armor               +15,000 gp
-  Weapon                    +3,000 gp
-  ------------------------- --------------------
+|                         |                    |
+|-------------------------|--------------------|
+| Type of Adamantine Item | Item Cost Modifier |
+| Ammunition              | +60 gp             |
+| Light armor             | +5,000 gp          |
+| Medium armor            | +10,000 gp         |
+| Heavy armor             | +15,000 gp         |
+| Weapon                  | +3,000 gp          |
 
 **Darkwood:** This rare magic wood is as hard as normal wood but very
 light. Any wooden or mostly wooden item (such as a bow, an arrow, or a
@@ -80,7 +80,7 @@ smaller. In each case, enough hide is available to produce a small or
 large masterwork shield in addition to the armor, provided that the
 dragon is Large or larger.
 
-Because dragonhide armor isn't made of metal, druids can wear it without
+Because dragonhide armor isn’t made of metal, druids can wear it without
 penalty.
 
 Dragonhide armor costs double what masterwork armor of that type
@@ -116,7 +116,7 @@ minimum of 0).
 
 An item made from mithral weighs half as much as the same item made from
 other metals. In the case of weapons, this lighter weight does not
-change a weapon's size category or the ease with which it can be wielded
+change a weapon’s size category or the ease with which it can be wielded
 (whether it is light, one-handed, or two-handed). Items not primarily of
 metal are not meaningfully affected by being partially made of mithral.
 (A longsword can be a mithral weapon, while a scythe cannot be.)
@@ -126,32 +126,32 @@ well; the masterwork cost is included in the prices given below.
 
 Mithral has 30 hit points per inch of thickness and hardness 15.
 
-  ---------------------- --------------------
-  Type of Mithral Item   Item Cost Modifier
-  Light armor            +1,000 gp
-  Medium armor           +4,000 gp
-  Heavy armor            +9,000 gp
-  Shield                 +1,000 gp
-  Other items            +500 gp/lb.
-  ---------------------- --------------------
+|                      |                    |
+|----------------------|--------------------|
+| Type of Mithral Item | Item Cost Modifier |
+| Light armor          | +1,000 gp          |
+| Medium armor         | +4,000 gp          |
+| Heavy armor          | +9,000 gp          |
+| Shield               | +1,000 gp          |
+| Other items          | +500 gp/lb.        |
 
 **Silver, Alchemical:** A complex process involving metallurgy and
 alchemy can bond silver to a weapon made of steel so that it bypasses
 the damage reduction of creatures such as lycanthropes.
 
-On a successful attack with a silvered weapon, the wielder takes a --1
+On a successful attack with a silvered weapon, the wielder takes a –1
 penalty on the damage roll (with the usual minimum of 1 point of
-damage). The alchemical silvering process can't be applied to nonmetal
-items, and it doesn't work on rare metals such as adamantine, cold iron,
+damage). The alchemical silvering process can’t be applied to nonmetal
+items, and it doesn’t work on rare metals such as adamantine, cold iron,
 and mithral.
 
 Alchemical silver has 10 hit points per inch of thickness and hardness
 8.
 
-  ----------------------------------------------------- --------------------
-  Type of Alchemical Silver Item                        Item Cost Modifier
-  Ammunition                                            +2 gp
-  Light weapon                                          +20 gp
-  One-handed weapon, or one head of a double weapon     +90 gp
-  Two-handed weapon, or both heads of a double weapon   +180 gp
-  ----------------------------------------------------- --------------------
+|                                                     |                    |
+|-----------------------------------------------------|--------------------|
+| Type of Alchemical Silver Item                      | Item Cost Modifier |
+| Ammunition                                          | +2 gp              |
+| Light weapon                                        | +20 gp             |
+| One-handed weapon, or one head of a double weapon   | +90 gp             |
+| Two-handed weapon, or both heads of a double weapon | +180 gp            |

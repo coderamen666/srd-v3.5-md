@@ -33,8 +33,8 @@ the terms of the Open Game License v1.0a.
 -   [Forcecage](#forcecage)
 -   [Forceful Hand](#forceful-hand)
 -   [Foresight](#foresight)
--   [Fox's Cunning](#foxs-cunning)
--   [Fox's Cunning, Mass](#foxs-cunning-mass)
+-   [Fox’s Cunning](#foxs-cunning)
+-   [Fox’s Cunning, Mass](#foxs-cunning-mass)
 -   [Freedom](#freedom)
 -   [Freedom of Movement](#freedom-of-movement)
 -   [Freezing Sphere](#freezing-sphere)
@@ -144,7 +144,7 @@ sigils cannot be seen once the alcohol or spirits evaporate.
 Any divination (scrying) spell used to view anything within the area of
 this spell instead receives a false image (as the *major image* spell),
 as defined by you at the time of casting. As long as the duration lasts,
-you can concentrate to change the image as desired. While you aren't
+you can concentrate to change the image as desired. While you aren’t
 concentrating, the image remains static.
 
 *Arcane Material Component:* The ground dust of a piece of jade worth at
@@ -189,7 +189,7 @@ no damage upon landing while the spell is in effect. However, when the
 spell duration expires, a normal rate of falling resumes.
 
 The spell affects one or more Medium or smaller creatures (including
-gear and carried objects up to each creature's maximum load) or objects,
+gear and carried objects up to each creature’s maximum load) or objects,
 or the equivalent in larger creatures: A Large creature or object counts
 as two Medium creatures or objects, a Huge creature or object counts as
 two Large creatures or objects, and so forth.
@@ -198,7 +198,7 @@ You can cast this spell with an instant utterance, quickly enough to
 save yourself if you unexpectedly fall. Casting the spell is a free
 action, like casting a quickened spell, and it counts toward the normal
 limit of one quickened spell per round. You may even cast this spell
-when it isn't your turn.
+when it isn’t your turn.
 
 This spell has no special effect on ranged weapons unless they are
 falling quite a distance. If the spell is cast on a falling item the
@@ -227,8 +227,8 @@ language, or communicate coherently. Still, it knows who its friends are
 and can follow them and even protect them. The subject remains in this
 state until a *heal*, *limited wish*, *miracle*, or *wish* spell is used
 to cancel the effect of the *feeblemind*. A creature that can cast
-arcane spells, such as a sorcerer or a wizard, takes a --4 penalty on
-its saving throw.
+arcane spells, such as a sorcerer or a wizard, takes a –4 penalty on its
+saving throw.
 
 *Material Component:* A handful of clay, crystal, glass, or mineral
 spheres.
@@ -371,7 +371,7 @@ if they attack you.
 When casting this spell, you appear to immolate yourself, but the flames
 are thin and wispy, giving off light equal to only half the illumination
 of a normal torch (10 feet). The color of the flames is determined
-randomly (50% chance of either color)---blue or green if the *chill
+randomly (50% chance of either color)—blue or green if the *chill
 shield* is cast, violet or blue if the *warm shield* is employed. The
 special powers of each version are as follows.
 
@@ -422,8 +422,8 @@ that the trap protects. A *fire trap* can ward any object that can be
 opened and closed.
 
 When casting *fire trap,* you select a point on the object as the
-spell's center. When someone other than you opens the object, a fiery
-explosion fills the area within a 5-foot radius around the spell's
+spell’s center. When someone other than you opens the object, a fiery
+explosion fills the area within a 5-foot radius around the spell’s
 center. The flames deal 1d4 points of fire damage +1 point per caster
 level (maximum +20). The item protected by the trap is not harmed by
 this explosion.
@@ -445,7 +445,7 @@ setting a password that you can share with friends.
 *Note:* Magic traps such as *fire trap* are hard to detect and disable.
 A rogue (only) can use the Search skill to find a *fire trap* and
 Disable Device to thwart it. The DC in each case is 25 + spell level (DC
-27 for a druid's *fire trap* or DC 29 for the arcane version).
+27 for a druid’s *fire trap* or DC 29 for the arcane version).
 
 *Material Component:* A half-pound of gold dust (cost 25 gp) sprinkled
 on the warded object.
@@ -473,7 +473,7 @@ the pointing digit and, unless it impacts upon a material body or solid
 barrier prior to attaining the prescribed range, blossoms into the
 *fireball* at that point. (An early impact results in an early
 detonation.) If you attempt to send the bead through a narrow passage,
-such as through an arrow slit, you must "hit" the opening with a ranged
+such as through an arrow slit, you must “hit” the opening with a ranged
 touch attack, or else the bead strikes the barrier and detonates
 prematurely.
 
@@ -502,7 +502,7 @@ barrier just as any other spell effect does.
 You turn ammunition (such as arrows, bolts, shuriken, and stones) into
 fiery projectiles. Each piece of ammunition deals an extra 1d6 points of
 fire damage to any target it hits. A flaming projectile can easily
-ignite a flammable object or structure, but it won't ignite a creature
+ignite a flammable object or structure, but it won’t ignite a creature
 it strikes.
 
 *Material Component:* A drop of oil and a small piece of flint.
@@ -574,7 +574,7 @@ extinguished by any means that would put out a normal fire of its size.
 The surface of the sphere has a spongy, yielding consistency and so does
 not cause damage except by its flame. It cannot push aside unwilling
 creatures or batter down large obstacles. A *flaming sphere* winks out
-if it exceeds the spell's range.
+if it exceeds the spell’s range.
 
 *Arcane Material Component:* A bit of tallow, a pinch of brimstone, and
 a dusting of powdered iron.
@@ -691,7 +691,7 @@ beneath it.
 A bank of fog billows out from the point you designate. The fog obscures
 all sight, including darkvision, beyond 5 feet. A creature within 5 feet
 has concealment (attacks have a 20% miss chance). Creatures farther away
-have total concealment (50% miss chance, and the attacker can't use
+have total concealment (50% miss chance, and the attacker can’t use
 sight to locate the target).
 
 A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind
@@ -740,9 +740,9 @@ speaking the password as they enter the area. You must select this
 option (and the password) at the time of casting.
 
 *Dispel magic* does not dispel a *forbiddance* effect unless the
-dispeller's level is at least as high as your caster level.
+dispeller’s level is at least as high as your caster level.
 
-You can't have multiple overlapping *forbiddance* effects. In such a
+You can’t have multiple overlapping *forbiddance* effects. In such a
 case, the more recent effect stops at the boundary of the older effect.
 
 *Material Component:* A sprinkling of holy water and rare incenses worth
@@ -780,7 +780,7 @@ it is vulnerable to a *disintegrate* spell, and it can be destroyed by a
 bands of force (similar to a *wall of force* spell) for bars. The bands
 are a half-inch wide, with half-inch gaps between them. Any creature
 capable of passing through such a small space can escape; others are
-confined. You can't attack a creature in a barred cage with a weapon
+confined. You can’t attack a creature in a barred cage with a weapon
 unless the weapon can fit between the gaps. Even against such weapons
 (including arrows and similar ranged attacks), a creature in the barred
 cage has cover. All spells and breath weapons can pass through the gaps
@@ -842,9 +842,9 @@ spell) can all be accomplished before some danger befalls the subject,
 provided you act on the warning without delay. The subject, however,
 does not gain the insight bonus to AC and Reflex saves.
 
-*Arcane Material Component:* A hummingbird's feather.
+*Arcane Material Component:* A hummingbird’s feather.
 
-## Fox's Cunning
+## Fox’s Cunning
 
 -   Transmutation
 -   **Level:** Brd 2, Sor/Wiz 2
@@ -862,13 +862,13 @@ Intelligence-based skill checks and other uses of the Intelligence
 modifier. Wizards (and other spellcasters who rely on Intelligence)
 affected by this spell do not gain any additional bonus spells for the
 increased Intelligence, but the save DCs for spells they cast while
-under this spell's effect do increase. This spell doesn't grant extra
+under this spell’s effect do increase. This spell doesn’t grant extra
 skill points.
 
 *Arcane Material Component:* A few hairs, or a pinch of dung, from a
 fox.
 
-## Fox's Cunning, Mass
+## Fox’s Cunning, Mass
 
 -   Transmutation
 -   **Level:** Brd 6, Sor/Wiz 6
@@ -876,7 +876,7 @@ fox.
 -   **Target:** One creature/level, no two of which can be more than 30
     ft. apart
 
-This spell functions like *fox's cunning*, except that it affects
+This spell functions like *fox’s cunning*, except that it affects
 multiple creatures.
 
 ## Freedom
@@ -980,7 +980,7 @@ translucent. Its material armor (including natural armor) becomes
 worthless, though its size, Dexterity, deflection bonuses, and armor
 bonuses from force effects still apply. The subject gains damage
 reduction 10/magic and becomes immune to poison and critical hits. It
-can't attack or cast spells with verbal, somatic, material, or focus
+can’t attack or cast spells with verbal, somatic, material, or focus
 components while in gaseous form. (This does not rule out the use of
 certain spells that the subject may have prepared using the feats Silent
 Spell, Still Spell, and Eschew Materials.) The subject also loses
@@ -988,11 +988,11 @@ supernatural abilities while in gaseous form. If it has a touch spell
 ready to use, that spell is discharged harmlessly when the *gaseous
 form* spell takes effect.
 
-A gaseous creature can't run, but it can fly at a speed of 10 feet
+A gaseous creature can’t run, but it can fly at a speed of 10 feet
 (maneuverability perfect). It can pass through small holes or narrow
 openings, even mere cracks, with all it was wearing or holding in its
 hands, as long as the spell persists. The creature is subject to the
-effects of wind, and it can't enter water or other liquid. It also can't
+effects of wind, and it can’t enter water or other liquid. It also can’t
 manipulate objects or activate items, even those carried along with its
 gaseous form. Continuously active items remain active, though in some
 cases their effects may be moot.
@@ -1021,7 +1021,7 @@ Second, you may then call a particular individual or kind of being
 through the *gate.*
 
 The *gate* itself is a circular hoop or disk from 5 to 20 feet in
-diameter (caster's choice), oriented in the direction you desire when it
+diameter (caster’s choice), oriented in the direction you desire when it
 comes into existence (typically vertical and facing you). It is a
 two-dimensional window looking into the plane you specified when casting
 the spell, and anyone or anything that moves through is shunted
@@ -1036,7 +1036,7 @@ much like a *plane shift* spell, except that the *gate* opens precisely
 at the point you desire (a creation effect). Deities and other beings
 who rule a planar realm can prevent a *gate* from opening in their
 presence or personal demesnes if they so desire. Travelers need not join
-hands with you---anyone who chooses to step through the portal is
+hands with you—anyone who chooses to step through the portal is
 transported. A *gate* cannot be opened to another point on the same
 plane; the spell works only for interplanar travel.
 
@@ -1059,7 +1059,7 @@ you may call either a single creature (of any HD) or several creatures.
 You can call and control several creatures as long as their HD total
 does not exceed your caster level. In the case of a single creature, you
 can control it if its HD do not exceed twice your caster level. A single
-creature with more HD than twice your caster level can't be controlled.
+creature with more HD than twice your caster level can’t be controlled.
 Deities and unique beings cannot be controlled in any event. An
 uncontrolled being acts as it pleases, making the calling of such
 creatures rather dangerous. An uncontrolled being may return to its home
@@ -1070,14 +1070,14 @@ Such services fall into two categories: immediate tasks and contractual
 service. Fighting for you in a single battle or taking any other actions
 that can be accomplished within 1 round per caster level counts as an
 immediate task; you need not make any agreement or pay any reward for
-the creature's help. The creature departs at the end of the spell.
+the creature’s help. The creature departs at the end of the spell.
 
 If you choose to exact a longer or more involved form of service from a
 called creature, you must offer some fair trade in return for that
 service. The service exacted must be reasonable with respect to the
 promised favor or reward; see the *lesser planar ally* spell for
 appropriate rewards. (Some creatures may want their payment in
-"livestock" rather than in coin, which could involve complications.)
+“livestock” rather than in coin, which could involve complications.)
 Immediately upon completion of the service, the being is transported to
 your vicinity, and you must then and there turn over the promised
 reward. After this is done, the creature is instantly freed to return to
@@ -1093,7 +1093,7 @@ a spell of that type.
 
 *XP Cost:* 1,000 XP (only for the *calling creatures* function).
 
-## Geas/Quest {#geas-quest}
+## Geas/Quest
 
 -   Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]
 -   **Level:** Brd 6, Clr 6, Sor/Wiz 6
@@ -1146,8 +1146,8 @@ a maximum of one day per caster level. A clever recipient can subvert
 some instructions:
 
 If the subject is prevented from obeying the *lesser geas* for 24 hours,
-it takes a --2 penalty to each of its ability scores. Each day, another
---2 penalty accumulates, up to a total of --8. No ability score can be
+it takes a –2 penalty to each of its ability scores. Each day, another
+–2 penalty accumulates, up to a total of –8. No ability score can be
 reduced to less than 1 by this effect. The ability score penalties are
 removed 24 hours after the subject resumes obeying the *lesser geas.*
 
@@ -1170,7 +1170,7 @@ enchantment*, *limited wish*, *remove curse*, *miracle*, or *wish*.
 You preserve the remains of a dead creature so that they do not decay.
 Doing so effectively extends the time limit on raising that creature
 from the dead (see *raise dead*). Days spent under the influence of this
-spell don't count against the time limit. Additionally, this spell makes
+spell don’t count against the time limit. Additionally, this spell makes
 transporting a fallen comrade more pleasant.
 
 The spell also works on severed body parts and the like.
@@ -1193,7 +1193,7 @@ each eye the corpse has (or had).
 *Ghost sound* allows you to create a volume of sound that rises,
 recedes, approaches, or remains at a fixed place. You choose what type
 of sound *ghost sound* creates when casting it and cannot thereafter
-change the sound's basic character.
+change the sound’s basic character.
 
 The volume of sound created depends on your level. You can produce as
 much noise as four normal humans per caster level (maximum twenty
@@ -1233,7 +1233,7 @@ effect from a sickened creature, and creatures immune to poison are
 unaffected by the stench.
 
 *Material Component:* A small scrap of cloth taken from clothing worn by
-a ghoul, or a pinch of earth from a ghoul's lair.
+a ghoul, or a pinch of earth from a ghoul’s lair.
 
 ## Giant Vermin
 
@@ -1255,20 +1255,20 @@ and a spider), and all must be grown to the same size. The size to which
 the vermin can be grown depends on your level; see the table below.
 
 Any giant vermin created by this spell do not attempt to harm you, but
-your control of such creatures is limited to simple commands ("Attack,"
-"Defend," "Stop," and so forth). Orders to attack a certain creature
+your control of such creatures is limited to simple commands (“Attack,”
+“Defend,” “Stop,” and so forth). Orders to attack a certain creature
 when it appears or guard against a particular occurrence are too complex
 for the vermin to understand. Unless commanded to do otherwise, the
 giant vermin attack whoever or whatever is near them.
 
-  ---------------- -------------
-  Caster Level     Vermin Size
-  9th or lower     Medium
-  10th--13th       Large
-  14th--17th       Huge
-  18th--19th       Gargantuan
-  20th or higher   Colossal
-  ---------------- -------------
+|                |             |
+|----------------|-------------|
+| Caster Level   | Vermin Size |
+| 9th or lower   | Medium      |
+| 10th–13th      | Large       |
+| 14th–17th      | Huge        |
+| 18th–19th      | Gargantuan  |
+| 20th or higher | Colossal    |
 
 ## Glibness
 
@@ -1282,7 +1282,7 @@ giant vermin attack whoever or whatever is near them.
 
 Your speech becomes fluent and more believable. You gain a +30 bonus on
 Bluff checks made to convince another of the truth of your words. (This
-bonus doesn't apply to other uses of the Bluff skill, such as feinting
+bonus doesn’t apply to other uses of the Bluff skill, such as feinting
 in combat, creating a diversion to hide, or communicating a hidden
 message via innuendo.)
 
@@ -1310,7 +1310,7 @@ things for the duration of the spell. All within the area are covered by
 the dust, which cannot be removed and continues to sparkle until it
 fades.
 
-Any creature covered by the dust takes a --40 penalty on Hide checks.
+Any creature covered by the dust takes a –40 penalty on Hide checks.
 
 *Material Component:* Ground mica.
 
@@ -1393,7 +1393,7 @@ is completed, the *glyph* and tracery become nearly invisible.
 *Glyphs* cannot be affected or bypassed by such means as physical or
 magical probing, though they can be dispelled. *Mislead*, *polymorph*,
 and *nondetection* (and similar magical effects) can fool a *glyph*,
-though nonmagical disguises and the like can't. *Read magic* allows you
+though nonmagical disguises and the like can’t. *Read magic* allows you
 to identify a *glyph of warding* with a DC 13 Spellcraft check.
 Identifying the *glyph* does not discharge it and allows you to know the
 basic nature of the *glyph* (version, type of damage caused, what spell
@@ -1409,7 +1409,7 @@ or activates a spell.
 
 *Blast Glyph:* A *blast glyph* deals 1d8 points of damage per two caster
 levels (maximum 5d8) to the intruder and to all within 5 feet of him or
-her. This damage is acid, cold, fire, electricity, or sonic (caster's
+her. This damage is acid, cold, fire, electricity, or sonic (caster’s
 choice, made at time of casting). Each creature affected can attempt a
 Reflex save to take half damage. Spell resistance applies against this
 effect.
@@ -1489,10 +1489,10 @@ grapple attack per round.
 
 Its attack bonus to make contact equals your caster level + your
 Intelligence, Wisdom, or Charisma modifier (for wizards, clerics, and
-sorcerers, respectively), +10 for the hand's Strength score (31), --1
-for being Large. Its grapple bonus is this same figure, except with a +4
-modifier for being Large instead of --1. The hand holds but does not
-harm creatures it grapples.
+sorcerers, respectively), +10 for the hand’s Strength score (31), –1 for
+being Large. Its grapple bonus is this same figure, except with a +4
+modifier for being Large instead of –1. The hand holds but does not harm
+creatures it grapples.
 
 Directing the spell to a new target is a move action.
 
@@ -1522,7 +1522,7 @@ Any creature in the area when the spell is cast must make a successful
 Reflex save or fall. This save is repeated on your turn each round that
 the creature remains within the area. A creature can walk within or
 through the area of grease at half normal speed with a DC 10 Balance
-check. Failure means it can't move that round (and must then make a
+check. Failure means it can’t move that round (and must then make a
 Reflex save or fall), while failure by 5 or more means it falls (see the
 Balance skill for details).
 
@@ -1538,7 +1538,7 @@ escape a grapple or to escape a pin.
 
 *Material Component:* A bit of pork rind or butter.
 
-## Greater (Spell Name) {#greater}
+## Greater (Spell Name)
 
 -   Any spell whose name begins with *greater* is alphabetized in this
     chapter according to the second word of the spell name. Thus, the
@@ -1584,8 +1584,8 @@ in 10 minutes if they are burned or torn away while the *guards and
 wards* spell lasts. Saving Throw: Reflex negates; see text for *web*.
 Spell Resistance: No.
 
-*Confusion:* Where there are choices in direction---such as a corridor
-intersection or side passage---a minor *confusion*-type effect functions
+*Confusion:* Where there are choices in direction—such as a corridor
+intersection or side passage—a minor *confusion*-type effect functions
 so as to make it 50% probable that intruders believe they are going in
 the opposite direction from the one they actually chose. This is an
 enchantment, mind-affecting effect. Saving Throw: None. Spell
@@ -1620,7 +1620,7 @@ Yes.
 
 The whole warded area radiates strong magic of the abjuration school. A
 *dispel magic* cast on a specific effect, if successful, removes only
-that effect. A successful *Mage's disjunction* destroys the entire
+that effect. A successful *Mage’s disjunction* destroys the entire
 *guards and wards* effect.
 
 *Material Component:* Burning incense, a small measure of brimstone and
@@ -1675,9 +1675,9 @@ wind, or if flying are blown back 1d6x5 feet.
 Large or larger creatures may move normally within a *gust of wind*
 effect.
 
-A *gust of wind* can't move a creature beyond the limit of its range.
+A *gust of wind* can’t move a creature beyond the limit of its range.
 
-Any creature, regardless of size, takes a --4 penalty on ranged attacks
+Any creature, regardless of size, takes a –4 penalty on ranged attacks
 and Listen checks in the area of a *gust of wind*.
 
 The force of the *gust* automatically extinguishes candles, torches, and

@@ -15,65 +15,65 @@ the terms of the Open Game License v1.0a.
 In addition to the standard types of wall, walls in dungeons can be made
 of mithral, adamantine, or even pure force.
 
-  ------------------------------------------------------------------------------ ------------------- ---------- ---------- -------------- ----------
-  Wall Type                                                                      Typical Thickness   Break DC   Hardness   Hit Points\*   Climb DC
-  Paper                                                                          Paper-thin          1          ---        1hp            30
-  Wood                                                                           6in.                20         5          60hp           21
-  Masonry                                                                        1ft.                35         8          90hp           15
-  Masonry, superior                                                              1ft.                35         8          90hp           20
-  Masonry, reinforced                                                            1ft.                45         8          180hp          15
-  Stone, hewn                                                                    3ft.                50         8          540hp          22
-  Stone, unworked                                                                5ft.                65         8          900hp          20
-  Iron                                                                           3in.                30         10         90hp           25
-  Mithral                                                                        3in.                46         15         90hp           70
-  Adamantine                                                                     3in.                66         20         120hp          70
-  Magically treated\*\*                                                          ---                 20         x2         x2†            ---
-  Wall of force                                                                  1in.                n/a        n/a        n/a            70
-  Wall of ice                                                                    1in./lvl            15+1/in.   0          3hp/in.        25
-  Wall of iron                                                                   1in./4lvls          25+2/in.   10         30hp/in.       25
-  Wall of stone                                                                  1in./4lvls          20+2/in.   8          15hp/in.       22
-  \*Per 10-ft.-by-10-ft. section.                                                                                                         
-  \*\*These modifiers can be applied to any of the other categories and types.                                                            
-  †Or 50, whichever is greater.                                                                                                           
-  ------------------------------------------------------------------------------ ------------------- ---------- ---------- -------------- ----------
+|                                                                              |                   |          |          |              |          |
+|------------------------------------------------------------------------------|-------------------|----------|----------|--------------|----------|
+| Wall Type                                                                    | Typical Thickness | Break DC | Hardness | Hit Points\* | Climb DC |
+| Paper                                                                        | Paper-thin        | 1        | —        | 1hp          | 30       |
+| Wood                                                                         | 6in.              | 20       | 5        | 60hp         | 21       |
+| Masonry                                                                      | 1ft.              | 35       | 8        | 90hp         | 15       |
+| Masonry, superior                                                            | 1ft.              | 35       | 8        | 90hp         | 20       |
+| Masonry, reinforced                                                          | 1ft.              | 45       | 8        | 180hp        | 15       |
+| Stone, hewn                                                                  | 3ft.              | 50       | 8        | 540hp        | 22       |
+| Stone, unworked                                                              | 5ft.              | 65       | 8        | 900hp        | 20       |
+| Iron                                                                         | 3in.              | 30       | 10       | 90hp         | 25       |
+| Mithral                                                                      | 3in.              | 46       | 15       | 90hp         | 70       |
+| Adamantine                                                                   | 3in.              | 66       | 20       | 120hp        | 70       |
+| Magically treated\*\*                                                        | —                 | 20       | x2       | x2†          | —        |
+| Wall of force                                                                | 1in.              | n/a      | n/a      | n/a          | 70       |
+| Wall of ice                                                                  | 1in./lvl          | 15+1/in. | 0        | 3hp/in.      | 25       |
+| Wall of iron                                                                 | 1in./4lvls        | 25+2/in. | 10       | 30hp/in.     | 25       |
+| Wall of stone                                                                | 1in./4lvls        | 20+2/in. | 8        | 15hp/in.     | 22       |
+| \*Per 10-ft.-by-10-ft. section.                                              |                   |          |          |              |          |
+| \*\*These modifiers can be applied to any of the other categories and types. |                   |          |          |              |          |
+| †Or 50, whichever is greater.                                                |                   |          |          |              |          |
 
 ## Doors
 
-  --------------------------------------------------------- ------------------- ---------- ------------ ---------- --------
-                                                                                                        Break DC   
-  Door Type                                                 Typical Thickness   Hardness   Hit Points   Stuck      Locked
-  Simple wooden                                             1 in.               5          10 hp        13         15
-  Good wooden                                               1 1/2 in.           5          15 hp        16         18
-  Strong wooden                                             2 in.               5          20 hp        23         25
-  Stone                                                     4 in.               8          60 hp        28         28
-  Iron                                                      2 in.               10         60 hp        28         28
-  Mithral                                                   2 in.               15         60 hp        40         40
-  Adamantine                                                2 in.               20         80 hp        60         60
-  Force                                                     1 in.               n/a        n/a          n/a        n/a
-  Portcullis, wodden                                        3 in.               5          30 hp        25\*       25\*
-  Portcullis, iron                                          2 in.               10         60 hp        25\*       25\*
-  Portcullis, mithral                                       2 in.               15         60 hp        30\*       30\*
-  Portcullis, adamatine                                     2 in.               20         80 hp        40\*       40\*
-  Portcullis, force                                         1 in.               10         n/a          n/a        50\*
-  \*DC to lift. Use appropriate door figure for breaking.                                                          
-  --------------------------------------------------------- ------------------- ---------- ------------ ---------- --------
+|                                                         |                   |          |            |          |        |
+|---------------------------------------------------------|-------------------|----------|------------|----------|--------|
+|                                                         |                   |          |            | Break DC |        |
+| Door Type                                               | Typical Thickness | Hardness | Hit Points | Stuck    | Locked |
+| Simple wooden                                           | 1 in.             | 5        | 10 hp      | 13       | 15     |
+| Good wooden                                             | 1 1/2 in.         | 5        | 15 hp      | 16       | 18     |
+| Strong wooden                                           | 2 in.             | 5        | 20 hp      | 23       | 25     |
+| Stone                                                   | 4 in.             | 8        | 60 hp      | 28       | 28     |
+| Iron                                                    | 2 in.             | 10       | 60 hp      | 28       | 28     |
+| Mithral                                                 | 2 in.             | 15       | 60 hp      | 40       | 40     |
+| Adamantine                                              | 2 in.             | 20       | 80 hp      | 60       | 60     |
+| Force                                                   | 1 in.             | n/a      | n/a        | n/a      | n/a    |
+| Portcullis, wodden                                      | 3 in.             | 5        | 30 hp      | 25\*     | 25\*   |
+| Portcullis, iron                                        | 2 in.             | 10       | 60 hp      | 25\*     | 25\*   |
+| Portcullis, mithral                                     | 2 in.             | 15       | 60 hp      | 30\*     | 30\*   |
+| Portcullis, adamatine                                   | 2 in.             | 20       | 80 hp      | 40\*     | 40\*   |
+| Portcullis, force                                       | 1 in.             | 10       | n/a        | n/a      | 50\*   |
+| \*DC to lift. Use appropriate door figure for breaking. |                   |          |            |          |        |
 
 ## Obstacles and Hazards
 
-  ------------------------------ -----------------------------------------------------------------------------------------------------------------
-  Obstacle/Hazard                Effect
-  Acid tank                      1d6 damage per round, or 10d6 per round for total immersion; plus poison fumes.
-  Antimagic field                Negates all spells or magical effects.
-  *Dimensional anchor* trap      Blocks bodily extradimensional travel.
-  Hurricane-force winds          Ranged attacks impossible, flight virtually impossible.
-  Lava pit                       2d6 damage per round, or 20d6 per round for total immersion; plus continuing damage.
-  Permanent *prismatic sphere*   Requires seven different spells to bypass.
-  Permanent *solid fog*          Move at one-tenth normal speed, --2 penalty on attack and damage (good when coupled with incorporeal monsters).
-  Permanent *wall of force*      Blocks most spells and ethereal travel, can't be *dispelled*.
-  Three-dimensional dungeons     Levitation/flying required to move between areas.
-  Unconnected rooms              Teleportation required to move between areas.
-  Variable gravity               As *reverse gravity*, but direction random each round.
-  ------------------------------ -----------------------------------------------------------------------------------------------------------------
+|                              |                                                                                                                |
+|------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Obstacle/Hazard              | Effect                                                                                                         |
+| Acid tank                    | 1d6 damage per round, or 10d6 per round for total immersion; plus poison fumes.                                |
+| Antimagic field              | Negates all spells or magical effects.                                                                         |
+| *Dimensional anchor* trap    | Blocks bodily extradimensional travel.                                                                         |
+| Hurricane-force winds        | Ranged attacks impossible, flight virtually impossible.                                                        |
+| Lava pit                     | 2d6 damage per round, or 20d6 per round for total immersion; plus continuing damage.                           |
+| Permanent *prismatic sphere* | Requires seven different spells to bypass.                                                                     |
+| Permanent *solid fog*        | Move at one-tenth normal speed, –2 penalty on attack and damage (good when coupled with incorporeal monsters). |
+| Permanent *wall of force*    | Blocks most spells and ethereal travel, can’t be *dispelled*.                                                  |
+| Three-dimensional dungeons   | Levitation/flying required to move between areas.                                                              |
+| Unconnected rooms            | Teleportation required to move between areas.                                                                  |
+| Variable gravity             | As *reverse gravity*, but direction random each round.                                                         |
 
 ## Slimes, Molds, and Fungi
 
@@ -102,7 +102,7 @@ through the origin point in one direction in exchange for the residue on
 the far side. The *antimagic field* a flux slime generates is actually
 the byproduct of the consumption of magical energy.
 
-In addition to the *antimagic field's*effects, magic items that come
+In addition to the *antimagic field’s*effects, magic items that come
 into contact with flux slime permanently lose their magical abilities;
 creatures with spell-like or super-natural abilities that come into
 contact with it take 2d6 points of temporary Constitution damage per
@@ -121,22 +121,22 @@ transmutation effect, as generated on the table below. Each burst
 generates one of these effects. Creatures may resist this effect with a
 Fortitude saving throw (DC 29).
 
-  -------- --------------------------------------------------------------------------------------------------------------------------
-  d%       Result
-  01--10   Blindness (as blindness/deafness spell)
-  11--16   Cursed (as bestow curse spell; --4 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks)
-  17--26   Deafness (as blindness/deafness spell)
-  27--32   Disintegrate (subject is destroyed by a disintegrate spell)
-  33--40   Etherealness (as etherealness spell)
-  41--48   Gaseous (as gaseous form spell)
-  49--54   Iron body (as iron body spell)
-  55--60   Petrification (as flesh to stone spell)
-  61--68   Plane shift (subject instantly transports to a random plane)
-  69--74   Polymorph (as polymorph other spell; choose form randomly)
-  75--80   Reverse gravity (flux slime becomes the center of a reverse gravity spell).
-  81--88   Teleport (each subject teleports to a different, random location)
-  89--94   Temporal stasis (as temporal stasis spell)
-  95--00   Reverse aging (subject gets younger each year, disappearing at moment of "birth")
-  -------- --------------------------------------------------------------------------------------------------------------------------
+|       |                                                                                                                         |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+| d%    | Result                                                                                                                  |
+| 01–10 | Blindness (as blindness/deafness spell)                                                                                 |
+| 11–16 | Cursed (as bestow curse spell; –4 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks) |
+| 17–26 | Deafness (as blindness/deafness spell)                                                                                  |
+| 27–32 | Disintegrate (subject is destroyed by a disintegrate spell)                                                             |
+| 33–40 | Etherealness (as etherealness spell)                                                                                    |
+| 41–48 | Gaseous (as gaseous form spell)                                                                                         |
+| 49–54 | Iron body (as iron body spell)                                                                                          |
+| 55–60 | Petrification (as flesh to stone spell)                                                                                 |
+| 61–68 | Plane shift (subject instantly transports to a random plane)                                                            |
+| 69–74 | Polymorph (as polymorph other spell; choose form randomly)                                                              |
+| 75–80 | Reverse gravity (flux slime becomes the center of a reverse gravity spell).                                             |
+| 81–88 | Teleport (each subject teleports to a different, random location)                                                       |
+| 89–94 | Temporal stasis (as temporal stasis spell)                                                                              |
+| 95–00 | Reverse aging (subject gets younger each year, disappearing at moment of “birth”)                                       |
 
 After the burst, the extradimensional origin point is sealed.

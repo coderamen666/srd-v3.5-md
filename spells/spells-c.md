@@ -9,8 +9,8 @@ the terms of the Open Game License v1.0a.
 -   [Call Lightning Storm](#call-lightning-storm)
 -   [Calm Animals](#calm-animals)
 -   [Calm Emotions](#calm-emotions)
--   [Cat's Grace](#cats-grace)
--   [Cat's Grace, Mass](#cats-grace-mass)
+-   [Cat’s Grace](#cats-grace)
+-   [Cat’s Grace, Mass](#cats-grace-mass)
 -   [Cause Fear](#cause-fear)
 -   [Chain Lightning](#chain-lightning)
 -   [Changestaff](#changestaff)
@@ -82,7 +82,7 @@ Immediately upon completion of the spell, and once per round thereafter,
 you may call down a 5-foot-wide, 30-foot-long, vertical bolt of
 lightning that deals 3d6 points of electricity damage. The bolt of
 lightning flashes down in a vertical stroke at whatever target point you
-choose within the spell's range (measured from your position at the
+choose within the spell’s range (measured from your position at the
 time). Any creature in the target square or in the path of the bolt is
 affected.
 
@@ -92,11 +92,10 @@ may use a standard action (concentrating on the spell) to call a bolt.
 You may call a total number of bolts equal to your caster level (maximum
 10 bolts).
 
-If you are outdoors and in a stormy area---a rain shower, clouds and
-wind, hot and cloudy conditions, or even a tornado (including a
-whirlwind formed by a djinni or an air elemental of at least Large
-size)---each bolt deals 3d10 points of electricity damage instead of
-3d6.
+If you are outdoors and in a stormy area—a rain shower, clouds and wind,
+hot and cloudy conditions, or even a tornado (including a whirlwind
+formed by a djinni or an air elemental of at least Large size)—each bolt
+deals 3d10 points of electricity damage instead of 3d6.
 
 This spell functions indoors or underground but not underwater.
 
@@ -155,14 +154,14 @@ creature immediately breaks the spell on all calmed creatures.
 
 This spell automatically suppresses (but does not dispel) any morale
 bonuses granted by spells such as *bless, good hope,* and *rage,* as
-well as negating a bard's ability to inspire courage or a barbarian's
+well as negating a bard’s ability to inspire courage or a barbarian’s
 rage ability. It also suppresses any fear effects and removes the
 *confused* condition from all targets. While the spell lasts, a
 suppressed spell or effect has no effect. When the *calm emotions* spell
 ends, the original spell or effect takes hold of the creature again,
 provided that its duration has not expired in the meantime.
 
-## Cat's Grace
+## Cat’s Grace
 
 -   Transmutation
 -   **Level:** Brd 2, Drd 2, Rgr 2, Sor/Wiz 2
@@ -180,7 +179,7 @@ benefits to AC, Reflex saves, and other uses of the Dexterity modifier.
 
 *Material Component:* A pinch of cat fur.
 
-## Cat's Grace, Mass
+## Cat’s Grace, Mass
 
 -   Transmutation
 -   **Level:** Brd 6, Drd 6, Sor/Wiz 6
@@ -188,7 +187,7 @@ benefits to AC, Reflex saves, and other uses of the Dexterity modifier.
 -   **Targets:** One creature/level, no two of which can be more than 30
     ft. apart
 
-This spell functions like *cat's grace*, except that it affects multiple
+This spell functions like *cat’s grace*, except that it affects multiple
 creatures.
 
 ## Cause Fear
@@ -348,19 +347,19 @@ time until you choose a creature with too many HD.
 -   **Spell Resistance:** Yes
 
 This charm makes a humanoid creature regard you as its trusted friend
-and ally (treat the target's attitude as friendly). If the creature is
+and ally (treat the target’s attitude as friendly). If the creature is
 currently being threatened or attacked by you or your allies, however,
 it receives a +5 bonus on its saving throw.
 
 The spell does not enable you to control the *charmed* person as if it
 were an automaton, but it perceives your words and actions in the most
 favorable way. You can try to give the subject orders, but you must win
-an opposed Charisma check to convince it to do anything it wouldn't
+an opposed Charisma check to convince it to do anything it wouldn’t
 ordinarily do. (Retries are not allowed.) An affected creature never
 obeys suicidal or obviously harmful orders, but it might be convinced
 that something very dangerous is worth doing. Any act by you or your
 apparent allies that threatens the *charmed* person breaks the spell.
-You must speak the person's language to communicate your commands, or
+You must speak the person’s language to communicate your commands, or
 else be good at pantomiming.
 
 ## Chill Metal
@@ -379,31 +378,31 @@ else be good at pantomiming.
 
 *Chill metal* makes metal extremely cold. Unattended, nonmagical metal
 gets no saving throw. Magical metal is allowed a saving throw against
-the spell. An item in a creature's possession uses the creature's saving
+the spell. An item in a creature’s possession uses the creature’s saving
 throw bonus unless its own is higher.
 
 A creature takes cold damage if its equipment is chilled. It takes full
 damage if its armor is affected or if it is holding, touching, wearing,
 or carrying metal weighing one-fifth of its weight. The creature takes
-minimum damage (1 point or 2 points; see the table) if it's not wearing
-metal armor and the metal that it's carrying weighs less than one-fifth
+minimum damage (1 point or 2 points; see the table) if it’s not wearing
+metal armor and the metal that it’s carrying weighs less than one-fifth
 of its weight.
 
 On the first round of the spell, the metal becomes chilly and
 uncomfortable to touch but deals no damage. The same effect also occurs
-on the last round of the spell's duration. During the second (and also
+on the last round of the spell’s duration. During the second (and also
 the next-to-last) round, icy coldness causes pain and damage. In the
 third, fourth, and fifth rounds, the metal is freezing cold, causing
 more damage, as shown on the table below.
 
-  ------- ------------------- ------------
-  Round   Metal Temperature   Damage
-  1       Cold                None
-  2       Icy                 1d4 points
-  3--5    Freezing            2d4 points
-  6       Icy                 1d4 points
-  7       Cold                None
-  ------- ------------------- ------------
+|       |                   |            |
+|-------|-------------------|------------|
+| Round | Metal Temperature | Damage     |
+| 1     | Cold              | None       |
+| 2     | Icy               | 1d4 points |
+| 3–5   | Freezing          | 2d4 points |
+| 6     | Icy               | 1d4 points |
+| 7     | Cold              | None       |
 
 Any heat intense enough to damage the creature negates cold damage from
 the spell (and vice versa) on a point-for-point basis. Underwater,
@@ -451,14 +450,14 @@ killing them instantly.
 
 The spell slays 1d4 HD worth of living creatures per caster level
 (maximum 20d4). Creatures with the fewest HD are affected first; among
-creatures with equal HD, those who are closest to the burst's point of
+creatures with equal HD, those who are closest to the burst’s point of
 origin are affected first. No creature of 9 or more HD can be affected,
 and Hit Dice that are not sufficient to affect a creature are wasted.
 
 *Material Component:* The powder of a crushed black pearl with a minimum
 value of 500 gp.
 
-## Clairaudience/Clairvoyance {#clairaudience-clairvoyance}
+## Clairaudience/Clairvoyance
 
 -   Divination (Scrying)
 -   **Level:** Brd 3, Knowledge 3, Sor/Wiz 3
@@ -472,14 +471,14 @@ value of 500 gp.
 
 *Clairaudience/clairvoyance* creates an invisible magical sensor at a
 specific location that enables you to hear or see (your choice) almost
-as if you were there. You don't need line of sight or line of effect,
-but the locale must be known---a place familiar to you or an obvious
-one. Once you have selected the locale, the sensor doesn't move, but you
-can rotate it in all directions to view the area as desired. Unlike
-other scrying spells, this spell does not allow magically or
-supernaturally enhanced senses to work through it. If the chosen locale
-is magically dark, you see nothing. If it is naturally pitch black, you
-can see in a 10- foot radius around the center of the spell's effect.
+as if you were there. You don’t need line of sight or line of effect,
+but the locale must be known—a place familiar to you or an obvious one.
+Once you have selected the locale, the sensor doesn’t move, but you can
+rotate it in all directions to view the area as desired. Unlike other
+scrying spells, this spell does not allow magically or supernaturally
+enhanced senses to work through it. If the chosen locale is magically
+dark, you see nothing. If it is naturally pitch black, you can see in a
+10- foot radius around the center of the spell’s effect.
 *Clairaudience/clairvoyance* functions only on the plane of existence
 you are currently occupying.
 
@@ -499,11 +498,11 @@ attack invisible or concealed creatures is no better than yours.
 
 The hand attacks once per round, and its attack bonus equals your caster
 level + your Intelligence, Wisdom, or Charisma modifier (for a wizard,
-cleric, or sorcerer, respectively), +11 for the hand's Strength score
-(33), --1 for being Large. The hand deals 1d8+11 points of damage on
-each attack, and any creature struck must make a Fortitude save (against
-this spell's save DC) or be stunned for 1 round. Directing the spell to
-a new target is a move action.
+cleric, or sorcerer, respectively), +11 for the hand’s Strength score
+(33), –1 for being Large. The hand deals 1d8+11 points of damage on each
+attack, and any creature struck must make a Fortitude save (against this
+spell’s save DC) or be stunned for 1 round. Directing the spell to a new
+target is a move action.
 
 The *clenched fist* can also interpose itself as *interposing hand*
 does, or it can bull rush an opponent as *forceful hand* does, but at a
@@ -565,18 +564,18 @@ of parchment from a chaotic text. The reliquary costs at least 500 gp.
 This spell makes an inert duplicate of a creature. If the original
 individual has been slain, its soul immediately transfers to the clone,
 creating a replacement (provided that the soul is free and willing to
-return). The original's physical remains, should they still exist,
+return). The original’s physical remains, should they still exist,
 become inert and cannot thereafter be restored to life. If the original
 creature has reached the end of its natural life span (that is, it has
 died of natural causes), any cloning attempt fails.
 
 To create the duplicate, you must have a piece of flesh (not hair,
 nails, scales, or the like) with a volume of at least 1 cubic inch that
-was taken from the original creature's living body. The piece of flesh
+was taken from the original creature’s living body. The piece of flesh
 need not be fresh, but it must be kept from rotting. Once the spell is
 cast, the duplicate must be grown in a laboratory for 2d4 months.
 
-When the clone is completed, the original's soul enters it immediately,
+When the clone is completed, the original’s soul enters it immediately,
 if that creature is already dead. The clone is physically identical with
 the original and possesses the same personality and memories as the
 original. In other respects, treat the clone as if it were the original
@@ -588,7 +587,7 @@ the flesh sample was taken and died at a lower level than the clone
 would otherwise be, the clone is one level below the level at which the
 original died.
 
-The spell duplicates only the original's body and mind, not its
+The spell duplicates only the original’s body and mind, not its
 equipment.
 
 A duplicate can be grown while the original still lives, or when the
@@ -621,13 +620,13 @@ on your turn each round while in the cloud).
 
 A living creature with 6 or more HD takes 1d4 points of Constitution
 damage on your turn each round while in the cloud (a successful
-Fortitude save halves this damage). Holding one's breath doesn't help,
+Fortitude save halves this damage). Holding one’s breath doesn’t help,
 but creatures immune to poison are unaffected by the spell.
 
 Unlike a *fog cloud*, the *cloudkill* moves away from you at 10 feet per
 round, rolling along the surface of the ground.
 
-Figure out the cloud's new spread each round based on its new point of
+Figure out the cloud’s new spread each round based on its new point of
 origin, which is 10 feet farther away from the point of origin where you
 cast the spell.
 
@@ -688,7 +687,7 @@ directly as possible for 1 round. The creature may do nothing but move
 during its turn, and it provokes attacks of opportunity for this
 movement as normal.
 
-*Drop:* On its turn, the subject drops whatever it is holding. It can't
+*Drop:* On its turn, the subject drops whatever it is holding. It can’t
 pick up any dropped item until its next turn.
 
 *Fall:* On its turn, the subject falls to the ground and remains prone
@@ -702,7 +701,7 @@ provokes attacks of opportunity for this movement as normal.
 *Halt:* The subject stands in place for 1 round. It may not take any
 actions but is not considered helpless.
 
-If the subject can't carry out your command on its next turn, the spell
+If the subject can’t carry out your command on its next turn, the spell
 automatically fails.
 
 ## Command, Greater
@@ -715,7 +714,7 @@ automatically fails.
 
 This spell functions like *command,* except that up to one creature per
 level may be affected, and the activities continue beyond 1 round. At
-the start of each commanded creature's action after the first, it gets
+the start of each commanded creature’s action after the first, it gets
 another Will save to attempt to break free from the spell. Each creature
 must receive the same command.
 
@@ -737,7 +736,7 @@ creatures. Affected plant creatures can understand you, and they
 perceive your words and actions in the most favorable way (treat their
 attitude as friendly). They will not attack you while the spell lasts.
 You can try to give a subject orders, but you must win an opposed
-Charisma check to convince it to do anything it wouldn't ordinarily do.
+Charisma check to convince it to do anything it wouldn’t ordinarily do.
 (Retries are not allowed.) A commanded plant never obeys suicidal or
 obviously harmful orders, but it might be convinced that something very
 dangerous is worth doing.
@@ -762,15 +761,15 @@ Assuming the subject is intelligent, it perceives your words and actions
 in the most favorable way (treat its attitude as friendly). It will not
 attack you while the spell lasts. You can try to give the subject
 orders, but you must win an opposed Charisma check to convince it to do
-anything it wouldn't ordinarily do. (Retries are not allowed.) An
+anything it wouldn’t ordinarily do. (Retries are not allowed.) An
 intelligent commanded undead never obeys suicidal or obviously harmful
 orders, but it might be convinced that something very dangerous is worth
 doing.
 
 A nonintelligent undead creature gets no saving throw against this
 spell. When you control a mindless being, you can communicate only basic
-commands, such as "come here," "go there," "fight," "stand still," and
-so on. Nonintelligent undead won't resist suicidal or obviously harmful
+commands, such as “come here,” “go there,” “fight,” “stand still,” and
+so on. Nonintelligent undead won’t resist suicidal or obviously harmful
 orders.
 
 Any act by you or your apparent allies that threatens the commanded
@@ -791,14 +790,14 @@ hear you.
 -   **Target:** You
 -   **Duration:** 1 round/level
 
-You contact your deity---or agents thereof ---and ask questions that can
-be answered by a simple yes or no. (A cleric of no particular deity
+You contact your deity—or agents thereof —and ask questions that can be
+answered by a simple yes or no. (A cleric of no particular deity
 contacts a philosophically allied deity.) You are allowed one such
 question per caster level. The answers given are correct within the
-limits of the entity's knowledge. "Unclear" is a legitimate answer,
+limits of the entity’s knowledge. “Unclear” is a legitimate answer,
 because powerful beings of the Outer Planes are not necessarily
 omniscient. In cases where a one-word answer would be misleading or
-contrary to the deity's interests, a short phrase (five words or less)
+contrary to the deity’s interests, a short phrase (five words or less)
 may be given as an answer instead.
 
 The spell, at best, provides information to aid character decisions. The
@@ -828,10 +827,10 @@ creatures, presence of powerful unnatural creatures, or even the general
 state of the natural setting.
 
 In outdoor settings, the spell operates in a radius of 1 mile per caster
-level. In natural underground settings---caves, caverns, and the
-like---the radius is limited to 100 feet per caster level. The spell
-does not function where nature has been replaced by construction or
-settlement, such as in dungeons and towns.
+level. In natural underground settings—caves, caverns, and the like—the
+radius is limited to 100 feet per caster level. The spell does not
+function where nature has been replaced by construction or settlement,
+such as in dungeons and towns.
 
 ## Comprehend Languages
 
@@ -892,19 +891,19 @@ cold damage per caster level (maximum 15d6).
 This spell causes the targets to become *confused,* making them unable
 to independently determine what they will do.
 
-Roll on the following table at the beginning of each subject's turn each
+Roll on the following table at the beginning of each subject’s turn each
 round to see what the subject does in that round.
 
-  --------- ----------------------------------------------------------------------------------------------
-  d%        Behavior
-  01--10    Attack caster with melee or ranged weapons (or close with caster if attack is not possible).
-  11--20    Act normally.
-  21--50    Do nothing but babble incoherently.
-  51--70    Flee away from caster at top possible speed.
-  71--100   Attack nearest creature (for this purpose, a familiar counts as part of the subject's self).
-  --------- ----------------------------------------------------------------------------------------------
+|        |                                                                                              |
+|--------|----------------------------------------------------------------------------------------------|
+| d%     | Behavior                                                                                     |
+| 01–10  | Attack caster with melee or ranged weapons (or close with caster if attack is not possible). |
+| 11–20  | Act normally.                                                                                |
+| 21–50  | Do nothing but babble incoherently.                                                          |
+| 51–70  | Flee away from caster at top possible speed.                                                 |
+| 71–100 | Attack nearest creature (for this purpose, a familiar counts as part of the subject’s self). |
 
-A *confused* character who can't carry out the indicated action does
+A *confused* character who can’t carry out the indicated action does
 nothing but babble incoherently. Attackers are not at any special
 advantage when attacking a *confused* character. Any *confused*
 character who is attacked automatically attacks its attackers on its
@@ -943,14 +942,14 @@ subject.
 This spell blesses an area with positive energy. Each Charisma check
 made to turn undead within this area gains a +3 sacred bonus. Every
 undead creature entering a *consecrated* area suffers minor disruption,
-giving it a --1 penalty on attack rolls, damage rolls, and saves. Undead
+giving it a –1 penalty on attack rolls, damage rolls, and saves. Undead
 cannot be created within or summoned into a *consecrated* area.
 
 If the *consecrated* area contains an altar, shrine, or other permanent
 fixture dedicated to your deity, pantheon, or aligned higher power, the
-modifiers given above are doubled (+6 sacred bonus on turning checks,
---2 penalties for undead in the area). You cannot consecrate an area
-with a similar fixture of a deity other than your own patron.
+modifiers given above are doubled (+6 sacred bonus on turning checks, –2
+penalties for undead in the area). You cannot consecrate an area with a
+similar fixture of a deity other than your own patron.
 
 If the area does contain an altar, shrine, or other permanent fixture of
 a deity, pantheon, or higher power other than your patron, the
@@ -979,8 +978,8 @@ some plane farther removed) in order to receive advice and information
 from powers there. (See the accompanying table for possible consequences
 and results of the attempt.) The powers reply in a language you
 understand, but they resent such contact and give only brief answers to
-your questions. (All questions are answered with "yes," "no," "maybe,"
-"never," "irrelevant," or some other one-word answer.)
+your questions. (All questions are answered with “yes,” “no,” “maybe,”
+“never,” “irrelevant,” or some other one-word answer.)
 
 You must concentrate on maintaining the spell (a standard action) in
 order to ask questions at the rate of one per round. A question is
@@ -1000,50 +999,94 @@ subject to the personalities of individual deities.)
 On rare occasions, this divination may be blocked by an act of certain
 deities or forces.
 
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Plane     | Avoid     | True      | Don't     | Lie       | Random    |
-| Contacted | Int/Cha   | Answer    | Know      |           | Answer    |
-|           | Decrease  |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Elemental | DC 7/1    | 01--34    | 35--62    | 63--83    | 84--100   |
-| Plane     | week      |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| ::: {     | (DC 7/1   | (01--68)  | (69--75)  | (76--98)  | (99--100) |
-| style="ma | week)     |           |           |           |           |
-| rgin-left |           |           |           |           |           |
-| : 0.9em"} |           |           |           |           |           |
-| (app      |           |           |           |           |           |
-| ropriate) |           |           |           |           |           |
-| :::       |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Positive  | DC 8/1    | 01--39    | 40--65    | 66--86    | 87--100   |
-| /Negative | week      |           |           |           |           |
-| Energy    |           |           |           |           |           |
-| Plane     |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Astral    | DC 9/1    | 01--44    | 45--67    | 68--88    | 89--100   |
-| Plane     | week      |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Outer     | DC 10/2   | 01--49    | 50--70    | 71--91    | 92--100   |
-| Plane,    | weeks     |           |           |           |           |
-| demideity |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Outer     | DC 12/3   | 01--60    | 61--75    | 76--95    | 96--100   |
-| Plane,    | weeks     |           |           |           |           |
-| lesser    |           |           |           |           |           |
-| deity     |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Outer     | DC 14/4   | 01--73    | 74--81    | 82--98    | 99--100   |
-| Plane,    | weeks     |           |           |           |           |
-| int       |           |           |           |           |           |
-| ermediate |           |           |           |           |           |
-| deity     |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Outer     | DC 16/5   | 01--88    | 89--90    | 91--99    | 100       |
-| Plane,    | weeks     |           |           |           |           |
-| greater   |           |           |           |           |           |
-| deity     |           |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
+<table class="full-width-table" style="width:100%;"
+data-debug="no-caption">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Plane Contacted</th>
+<th>Avoid Int/Cha Decrease</th>
+<th>True Answer</th>
+<th>Don’t Know</th>
+<th>Lie</th>
+<th>Random Answer</th>
+</tr>
+
+<tr class="odd">
+<td>Elemental Plane</td>
+<td>DC 7/1 week</td>
+<td>01–34</td>
+<td>35–62</td>
+<td>63–83</td>
+<td>84–100</td>
+</tr>
+<tr class="even">
+<td><div style="margin-left: 0.9em">
+(appropriate)
+</div></td>
+<td>(DC 7/1 week)</td>
+<td>(01–68)</td>
+<td>(69–75)</td>
+<td>(76–98)</td>
+<td>(99–100)</td>
+</tr>
+<tr class="odd">
+<td>Positive/Negative Energy Plane</td>
+<td>DC 8/1 week</td>
+<td>01–39</td>
+<td>40–65</td>
+<td>66–86</td>
+<td>87–100</td>
+</tr>
+<tr class="even">
+<td>Astral Plane</td>
+<td>DC 9/1 week</td>
+<td>01–44</td>
+<td>45–67</td>
+<td>68–88</td>
+<td>89–100</td>
+</tr>
+<tr class="odd">
+<td>Outer Plane, demideity</td>
+<td>DC 10/2 weeks</td>
+<td>01–49</td>
+<td>50–70</td>
+<td>71–91</td>
+<td>92–100</td>
+</tr>
+<tr class="even">
+<td>Outer Plane, lesser deity</td>
+<td>DC 12/3 weeks</td>
+<td>01–60</td>
+<td>61–75</td>
+<td>76–95</td>
+<td>96–100</td>
+</tr>
+<tr class="odd">
+<td>Outer Plane, intermediate deity</td>
+<td>DC 14/4 weeks</td>
+<td>01–73</td>
+<td>74–81</td>
+<td>82–98</td>
+<td>99–100</td>
+</tr>
+<tr class="even">
+<td>Outer Plane, greater deity</td>
+<td>DC 16/5 weeks</td>
+<td>01–88</td>
+<td>89–90</td>
+<td>91–99</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
 
 *Avoid Int/Cha Decrease:* You must succeed on an Intelligence check
 against this DC to avoid a decrease in Intelligence and Charisma. If the
@@ -1060,11 +1103,11 @@ on the table:
 *True Answer:* You get a true, one-word answer. Questions that cannot be
 answered in this way are answered randomly.
 
-*Don't Know:* The entity tells you that it doesn't know.
+*Don’t Know:* The entity tells you that it doesn’t know.
 
 *Lie:* The entity intentionally lies to you.
 
-*Random Answer:* The entity tries to lie but doesn't know the answer, so
+*Random Answer:* The entity tries to lie but doesn’t know the answer, so
 it makes one up.
 
 ## Contagion
@@ -1081,20 +1124,20 @@ it makes one up.
 
 The subject contracts a disease selected from the table below, which
 strikes immediately (no incubation period). The DC noted is for the
-subsequent saves (use *contagion*'s normal save DC for the initial
+subsequent saves (use *contagion*’s normal save DC for the initial
 saving throw).
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---- ---------------------
-  Disease                                                                                                                                                                                      DC   Damage
-  Blinding sickness                                                                                                                                                                            16   1d4 Str^1^
-  Cackle fever                                                                                                                                                                                 16   1d6 Wis
-  Filth fever                                                                                                                                                                                  12   1d3 Dex and 1d3 Con
-  Mindfire                                                                                                                                                                                     12   1d4 Int
-  Red ache                                                                                                                                                                                     15   1d6 Str
-  Shakes                                                                                                                                                                                       13   1d8 Dex
-  Slimy doom                                                                                                                                                                                   14   1d4 Con
-  1 Each time a victim takes 2 or more points of Strength damage from blinding sickness, he or she must make another Fortitude save (using the disease's save DC) or be permanently blinded.        
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---- ---------------------
+|                                                                                                                                                                                            |     |                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|---------------------|
+| Disease                                                                                                                                                                                    | DC  | Damage              |
+| Blinding sickness                                                                                                                                                                          | 16  | 1d4 Str<sup>1</sup> |
+| Cackle fever                                                                                                                                                                               | 16  | 1d6 Wis             |
+| Filth fever                                                                                                                                                                                | 12  | 1d3 Dex and 1d3 Con |
+| Mindfire                                                                                                                                                                                   | 12  | 1d4 Int             |
+| Red ache                                                                                                                                                                                   | 15  | 1d6 Str             |
+| Shakes                                                                                                                                                                                     | 13  | 1d8 Dex             |
+| Slimy doom                                                                                                                                                                                 | 14  | 1d4 Con             |
+| 1 Each time a victim takes 2 or more points of Strength damage from blinding sickness, he or she must make another Fortitude save (using the disease’s save DC) or be permanently blinded. |     |                     |
 
 ## Contingency
 
@@ -1120,7 +1163,7 @@ one-third your caster level (rounded down, maximum 6th level).
 The conditions needed to bring the spell into effect must be clear,
 although they can be general. In all cases, the *contingency*
 immediately brings into effect the companion spell, the latter being
-"cast" instantaneously when the prescribed circumstances occur. If
+“cast” instantaneously when the prescribed circumstances occur. If
 complicated or convoluted conditions are prescribed, the whole spell
 combination (*contingency* and the companion magic) may fail when called
 on. The companion spell occurs based solely on the stated conditions,
@@ -1151,7 +1194,7 @@ with gems (worth at least 1,500 gp). You must carry the focus for the
 
 A flame, equivalent in brightness to a torch, springs forth from an
 object that you touch. The effect looks like a regular flame, but it
-creates no heat and doesn't use oxygen. A *continual flame* can be
+creates no heat and doesn’t use oxygen. A *continual flame* can be
 covered and hidden but not smothered or quenched.
 
 Light spells counter and dispel darkness spells of an equal or lower
@@ -1262,19 +1305,19 @@ the spell and an additional 10 minutes for the effects to manifest.You
 can call forth weather appropriate to the climate and season of the area
 you are in.
 
-  ------------- ------------------------------------------------------
-  Season        Possible Weather
-  Spring        Tornado, thunderstorm, sleet storm, or hot weather
-  Summer        Torrential rain, heat wave, or hailstorm
-  Autumn        Hot or cold weather, fog, or sleet
-  Winter        Frigid cold, blizzard, or thaw
-  Late winter   Hurricane-force winds or early spring (coastal area)
-  ------------- ------------------------------------------------------
+|             |                                                      |
+|-------------|------------------------------------------------------|
+| Season      | Possible Weather                                     |
+| Spring      | Tornado, thunderstorm, sleet storm, or hot weather   |
+| Summer      | Torrential rain, heat wave, or hailstorm             |
+| Autumn      | Hot or cold weather, fog, or sleet                   |
+| Winter      | Frigid cold, blizzard, or thaw                       |
+| Late winter | Hurricane-force winds or early spring (coastal area) |
 
 You control the general tendencies of the weather, such as the direction
 and intensity of the wind. You cannot control specific applications of
-the weather---where lightning strikes, for example, or the exact path of
-a tornado. When you select a certain weather condition to occur, the
+the weather—where lightning strikes, for example, or the exact path of a
+tornado. When you select a certain weather condition to occur, the
 weather assumes that condition 10 minutes later (changing gradually, not
 abruptly). The weather continues as you left it for the duration, or
 until you use a standard action to designate a new kind of weather
@@ -1303,13 +1346,13 @@ You alter wind force in the area surrounding you. You can make the wind
 blow in a certain direction or manner, increase its strength, or
 decrease its strength. The new wind direction and strength persist until
 the spell ends or until you choose to alter your handiwork, which
-requires concentration. You may create an "eye" of calm air up to 80
+requires concentration. You may create an “eye” of calm air up to 80
 feet in diameter at the center of the area if you so desire, and you may
 choose to limit the area to any cylindrical area less than your full
 limit.
 
 *Wind Direction:* You may choose one of four basic wind patterns to
-function over the spell's area.
+function over the spell’s area.
 
 -   A downdraft blows from the center outward in equal strength in all
     directions.
@@ -1353,11 +1396,11 @@ uproots large trees.
 -   **Saving Throw:** None
 -   **Spell Resistance:** No
 
-The food that this spell creates is simple fare of your choice---highly
+The food that this spell creates is simple fare of your choice—highly
 nourishing, if rather bland. Food so created decays and becomes inedible
 within 24 hours, although it can be kept fresh for another 24 hours by
 casting a *purify food and water* spell on it. The water created by this
-spell is just like clean rain water, and it doesn't go bad as the food
+spell is just like clean rain water, and it doesn’t go bad as the food
 does.
 
 ## Create Greater Undead
@@ -1370,13 +1413,13 @@ powerful and intelligent sorts of undead: shadows, wraiths, spectres,
 and devourers. The type or types of undead you can create is based on
 your caster level, as shown on the table below.
 
-  ---------------- ----------------
-  Caster Level     Undead Created
-  15th or lower    Shadow
-  16th--17th       Wraith
-  18th--19th       Spectre
-  20th or higher   Devourer
-  ---------------- ----------------
+|                |                |
+|----------------|----------------|
+| Caster Level   | Undead Created |
+| 15th or lower  | Shadow         |
+| 16th–17th      | Wraith         |
+| 18th–19th      | Spectre        |
+| 20th or higher | Devourer       |
 
 ## Create Undead
 
@@ -1395,13 +1438,13 @@ to create more powerful sorts of undead: ghouls, ghasts, mummies, and
 mohrgs. The type or types of undead you can create is based on your
 caster level, as shown on the table below.
 
-  ---------------- ----------------
-  Caster Level     Undead Created
-  11th or lower    Ghoul
-  12th--14th       Ghast
-  15th--17th       Mummy
-  18th or higher   Mohrg
-  ---------------- ----------------
+|                |                |
+|----------------|----------------|
+| Caster Level   | Undead Created |
+| 11th or lower  | Ghoul          |
+| 12th–14th      | Ghast          |
+| 15th–17th      | Mummy          |
+| 18th or higher | Mohrg          |
 
 You may create less powerful undead than your level would allow if you
 choose. Created undead are not automatically under the control of their
@@ -1430,10 +1473,10 @@ spell turns these gems into worthless shells.
 
 This spell generates wholesome, drinkable water, just like clean rain
 water. Water can be created in an area as small as will actually contain
-the liquid, or in an area three times as large---possibly creating a
+the liquid, or in an area three times as large—possibly creating a
 downpour or filling many small receptacles.
 
-*Note:* Conjuration spells can't create substances or objects within a
+*Note:* Conjuration spells can’t create substances or objects within a
 creature. Water weighs about 8 pounds per gallon. One cubic foot of
 water contains roughly 8 gallons and weighs about 60 pounds.
 
@@ -1476,7 +1519,7 @@ within 100 feet).
 -   **Spell Resistance:** Yes
 
 An invisible cone of despair causes great sadness in the subjects. Each
-affected creature takes a --2 penalty on attack rolls, saving throws,
+affected creature takes a –2 penalty on attack rolls, saving throws,
 ability checks, skill checks, and weapon damage rolls.
 
 *Crushing despair* counters and dispels *good hope*.
@@ -1495,7 +1538,7 @@ interpose itself, push, or crush one opponent that you select.
 The *crushing hand* can grapple an opponent like *grasping hand* does.
 Its grapple bonus equals your caster level + your Intelligence, Wisdom,
 or Charisma modifier (for a wizard, cleric, or sorcerer, respectively),
-+12 for the hand's Strength score (35), +4 for being Large. The hand
++12 for the hand’s Strength score (35), +4 for being Large. The hand
 deals 2d6+12 points of damage (lethal, not nonlethal) on each successful
 grapple check against an opponent.
 

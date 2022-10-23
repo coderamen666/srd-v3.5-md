@@ -12,7 +12,7 @@ the terms of the Open Game License v1.0a.
 -   [Psi-Like Abilities](#psi-like-abilities)
     -   [Psionic Focus](#psionic-focus)
     -   [Psi-Like Abilities and Feats](#psi-like-abilities-and-feats)
-    -   [Creatures with "Psionics"
+    -   [Creatures with “Psionics”
         Entries](#creatures-with-psionics-entries)
     -   [Psionic Spells](#psionic-spells)
     -   [Psionic Versions of Creatures](#psionic-versions-of-creatures)
@@ -115,7 +115,7 @@ subtype:
     or creatures who have the Wild Talent feat.
 -   Creatures with psi-like abilities, including characters who have
     racial psi-like abilities.
--   Creatures that have spell-like abilities described as "psionics."
+-   Creatures that have spell-like abilities described as “psionics.”
 
 *Traits:* Other than the fact that all psionic creatures have psionic
 powers, power points, or psi-like abilities, psionic creatures have no
@@ -129,7 +129,7 @@ The psionic subtype applies to creatures that can use psionic powers or
 abilities or that have the ability to manifest powers. (In other words,
 a creature with the psionic subtype either has a power point reserve or
 has psi-like abilities.) It also applies to creatures from other sources
-that have spell-like abilities labeled as "psionics."
+that have spell-like abilities labeled as “psionics.”
 
 Characters who have levels in any class that grants the use of psionics,
 or who have psi-like abilities as racial traits, gain the psionic
@@ -209,12 +209,12 @@ power points for its psi-like abilities, even if it has a power point
 reserve due to racial abilities, class levels, or some other psionic
 ability.
 
-The DC of a saving throw (if applicable) against a creature's psi-like
+The DC of a saving throw (if applicable) against a creature’s psi-like
 ability is 10 + the level of the power or spell the ability duplicates +
-the creature's Cha modifier. Remember to check the power's Augment entry
-to see if the creature's manifester level (and thus the effective power
+the creature’s Cha modifier. Remember to check the power’s Augment entry
+to see if the creature’s manifester level (and thus the effective power
 point expenditure) increases the DC of the saving throw. Changes to the
-effect's save DC, damage, and so on are noted in the psi-like ability
+effect’s save DC, damage, and so on are noted in the psi-like ability
 entry.
 
 ### Psionic Focus
@@ -236,20 +236,20 @@ its manifester level (round down) minus 2, and can quicken only a
 psi-like ability with a level less than or equal to half its manifester
 level (round down) minus 4.
 
-### Creatures with "Psionics" Entries
+### Creatures with “Psionics” Entries
 
 Psionic monsters often possess spell-like abilities that are identified
-as "psionics," instead of "spell-like abilities." For all intents and
+as “psionics,” instead of “spell-like abilities.” For all intents and
 purposes, creatures with spell-like abilities described as psionics are
 considered to possess psi-like abilities, and they manifest their powers
 as described above.
 
 ### Psionic Spells
 
-In some cases, a creature's psi-like abilities (or abilities listed
-under a creature's psionics entry) may include an effect that does not
+In some cases, a creature’s psi-like abilities (or abilities listed
+under a creature’s psionics entry) may include an effect that does not
 duplicate any listed power. For such abilities, simply use the existing
-spell description. Treat the creature's
+spell description. Treat the creature’s
 
 manifester level as the caster level for the spell. The ability is still
 psionic in origin, so spells and powers that specifically affect psionic
@@ -270,17 +270,17 @@ the creature remain the same.
 
 ### Creatures with Psi-Like Abilities
 
-Each of a creature's psi-like abilities has a manifester level. Each
+Each of a creature’s psi-like abilities has a manifester level. Each
 ability that allows a saving throw also gives a save DC in parentheses
 following the power name.
 
 Powers that have increased effects due to augmentation include
 information about the effect. An asterisk indicates that the power has
-already been augmented by the creature's innate ability.
+already been augmented by the creature’s innate ability.
 
-Powers that can't be augmented, or that are manifested at their normal
+Powers that can’t be augmented, or that are manifested at their normal
 minimum level, do not contain any special notations. Resolve the effect
-of manifesting the power without augmentation at the creature's given
+of manifesting the power without augmentation at the creature’s given
 manifester level.
 
 Some creatures may have particular powers that are manifested at a
@@ -296,53 +296,53 @@ Huge Aberration (Aquatic, Psionic)
 
 **Feats:** Alertness, Combat Manifestation, Iron Will
 
-### Combat {#aboleth-psionic--combat}
+### Combat
 
 A psionic aboleth does not possess spell-like abilities or the enslave
 ability of the standard aboleth. Instead, it has psi-like abilities,
 including *psionic dominate.*
 
-**Psi-Like Abilities:** At will---*disable* (30-ft. cone, 12 HD, DC
-20\*), *false sensory input* (five targets, DC 16\*), *mental
-disruption* (20-ft. radius, DC 18\*), *mindlink* (unwilling, nine
-targets, DC 14\*); 3/day---*ego whip* (ML 7th, 2d4, DC 17\*)*, id
-insinuation* (ML 7th, three targets, DC 17\*)*, psionic dominate* (any
-target, 24 hours, DC 20\*), *thought shield* (power resistance 21, 3
-rounds\*); 1/day---*psionic modify memory* (DC 17)*, remote viewing* (DC
-17)*, wall of ectoplasm* (DC 17).
+**Psi-Like Abilities:** At will—*disable* (30-ft. cone, 12 HD, DC 20\*),
+*false sensory input* (five targets, DC 16\*), *mental disruption*
+(20-ft. radius, DC 18\*), *mindlink* (unwilling, nine targets, DC 14\*);
+3/day—*ego whip* (ML 7th, 2d4, DC 17\*)*, id insinuation* (ML 7th, three
+targets, DC 17\*)*, psionic dominate* (any target, 24 hours, DC 20\*),
+*thought shield* (power resistance 21, 3 rounds\*); 1/day—*psionic
+modify memory* (DC 17)*, remote viewing* (DC 17)*, wall of ectoplasm*
+(DC 17).
 
 Manifester level 13th. The save DCs are Charisma-based.
 
-\*Includes augmentation for the aboleth's manifester level.
+\*Includes augmentation for the aboleth’s manifester level.
 
 ## Astral Construct
 
 Astral constructs are brought into being by the metacreativity power
 *astral construct*. They are formed from raw ectoplasm (a portion of the
 astral medium drawn into the Material Plane). The power points spent by
-the construct's creator during the manifestation of the power determine
+the construct’s creator during the manifestation of the power determine
 the level of the astral construct created. However, even astral
 constructs of the same level vary somewhat from each other, depending on
 the whims of their creators.
 
-### Combat {#astral-construct--combat}
+### Combat
 
 Astral constructs act as directed by their creators. As a free action, a
-construct's manifester can direct the construct to attack particular
+construct’s manifester can direct the construct to attack particular
 enemies, use specific tactics or powers, perform other actions, or do
 nothing at all. The construct does exactly what its creator directs it
 to do.
 
 An astral construct generally appears as an animate clump of ectoplasm
 with a vaguely humanoid shape, but the manifester can mold or sculpt one
-according to his or her whim within the limits imposed by the creature's
-size. The quality of such "construct sculpture" is determined by a Craft
+according to his or her whim within the limits imposed by the creature’s
+size. The quality of such “construct sculpture” is determined by a Craft
 (sculpting) check. A result of 10 to 19 creates a creature that is
 recognizably similar to the desired creature shape; a result of 20 to 29
 creates a construct that looks like an accurate portrayal of that
 creature type; a result of 30 or higher creates a construct that looks
 like a specific individual. No matter how high the Craft (sculpting)
-check result, though, an astral construct's appearance can't hide the
+check result, though, an astral construct’s appearance can’t hide the
 otherworldly material from which it is formed.
 
 **Construct Traits:** An astral construct has immunity to poison,
@@ -364,7 +364,7 @@ appropriate to that level of astral construct.
 
 When manifesting the *astral construct* power, the manifester assembles
 the desired creature from a menu of choices, as specified in the
-construct's statistics block. A manifester can always substitute two
+construct’s statistics block. A manifester can always substitute two
 choices from a lesser menu for one of its given abilities. Multiple
 selections of the same menu choice do not stack unless the ability
 specifically notes that stacking is allowed.
@@ -373,8 +373,8 @@ Some menu choices grant an astral construct the ability to manifest
 specific powers as psi-like abilities. Unless using the ability is a
 free action, an astral construct manifesting such a power does so as a
 standard action that provokes attacks of opportunity. All such powers
-have a manifester level equal to the astral construct's Hit Dice or the
-creator's manifester level, whichever is lower.
+have a manifester level equal to the astral construct’s Hit Dice or the
+creator’s manifester level, whichever is lower.
 
 An astral construct does not need to meet the prerequisites for a feat
 granted by a menu choice.
@@ -386,7 +386,7 @@ construct can choose one special ability from this menu.
 
 **Buff (Ex):** The astral construct gains an extra 5 hit points.
 
-**Celerity (Ex):** The astral construct's land speed is increased by 10
+**Celerity (Ex):** The astral construct’s land speed is increased by 10
 feet.
 
 **Cleave (Ex):** The astral construct gains the Cleave feat.
@@ -425,7 +425,7 @@ A manifester creating a 4th-level, 5th-level, or 6th-level astral
 construct can choose one special ability from this menu. Alternatively,
 the construct can have two special abilities from Menu A.
 
-**Energy Touch (Ex):** If you are a kineticist, the astral construct's
+**Energy Touch (Ex):** If you are a kineticist, the astral construct’s
 physical attacks are wreathed in your energy type, dealing an extra 1d6
 points of energy damage. If you are not a kineticist, the astral
 construct deals an extra 1d4 points of damage of an energy type you
@@ -451,7 +451,7 @@ points.
 **Improved Critical (Ex):** The astral construct gains the Improved
 Critical feat with its slam attacks.
 
-**Improved Damage Reduction (Ex):** The astral construct's surface forms
+**Improved Damage Reduction (Ex):** The astral construct’s surface forms
 a hard carapace and provides an additional 3 points of damage reduction
 (or damage reduction 3/magic if it does not already have damage
 reduction).
@@ -471,7 +471,7 @@ score.
 
 **Poison Touch (Ex):** If the astral construct hits with a melee attack,
 the target must make an initial Fortitude save (DC 10 + 1/2 astral
-construct's HD + astral construct's Cha modifier) or take 1 point of
+construct’s HD + astral construct’s Cha modifier) or take 1 point of
 Constitution damage. One minute later, the target must save again or
 take 1d2 points of Constitution damage.
 
@@ -485,9 +485,9 @@ that deals extra damage equal to its Hit Dice.
 Large or larger astral construct can literally run over an opponent at
 least one size smaller than itself. It merely has to move over the
 opponent to deal bludgeoning damage equal to 1d8 + its Str modifier. The
-target can attempt a Reflex save (DC 10 + 1/2 astral construct's Hit
-Dice + astral construct's Str modifier) to negate the damage, or it can
-instead choose to make an attack of opportunity at a --4 penalty.
+target can attempt a Reflex save (DC 10 + 1/2 astral construct’s Hit
+Dice + astral construct’s Str modifier) to negate the damage, or it can
+instead choose to make an attack of opportunity at a –4 penalty.
 
 ### Astral Construct Menu C
 
@@ -516,7 +516,7 @@ creates it.
 
 **Extra Buff (Ex):** The astral construct gains an extra 30 hit points.
 
-**Extreme Damage Reduction (Ex):** The astral construct's surface forms
+**Extreme Damage Reduction (Ex):** The astral construct’s surface forms
 hard, armor-like plates and provides an additional 6 points of damage
 reduction.
 
@@ -543,277 +543,277 @@ feat.
 **Whirlwind Attack (Ex):** The astral construct gains the Whirlwind
 Attack feat.
 
-## 1st-Level Astral Construct {#1st-level-astral-construct}
+## 1st-Level Astral Construct
 
-  ---------------------- --------------------------------------------------------------------------------
-                         Small Construct
-  Hit Dice:              1d10+10 (15 hp)
-  Initiative:            +2
-  Speed:                 30 ft. (6 squares)
-  Armor Class:           18 (+2 Dex, +5 natural, +1 size), touch 13, flatfooted 16
-  Base Attack/Grapple:   +2/--1
-  Attack:                Slam +3 melee (1d4+3)
-  Full Attack:           Slam +3 melee (1d4+3)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       ---
-  Special Qualities:     One ability from Menu A, construct traits, darkvision 60 ft., low-light vision
-  Saves:                 Fort +0, Ref +2, Will +0
-  Abilities:             Str 15, Dex 15, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      1/2
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- --------------------------------------------------------------------------------
+|                      |                                                                                |
+|----------------------|--------------------------------------------------------------------------------|
+|                      | Small Construct                                                                |
+| Hit Dice:            | 1d10+10 (15 hp)                                                                |
+| Initiative:          | +2                                                                             |
+| Speed:               | 30 ft. (6 squares)                                                             |
+| Armor Class:         | 18 (+2 Dex, +5 natural, +1 size), touch 13, flatfooted 16                      |
+| Base Attack/Grapple: | +2/–1                                                                          |
+| Attack:              | Slam +3 melee (1d4+3)                                                          |
+| Full Attack:         | Slam +3 melee (1d4+3)                                                          |
+| Space/Reach:         | 5 ft./5 ft.                                                                    |
+| Special Attacks:     | —                                                                              |
+| Special Qualities:   | One ability from Menu A, construct traits, darkvision 60 ft., low-light vision |
+| Saves:               | Fort +0, Ref +2, Will +0                                                       |
+| Abilities:           | Str 15, Dex 15, Con —, Int —, Wis 11, Cha 10                                   |
+| Skills:              | —                                                                              |
+| Feats:               | —                                                                              |
+| Environment:         | Any                                                                            |
+| Organization:        | Solitary                                                                       |
+| Challenge Rating:    | 1/2                                                                            |
+| Treasure:            | None                                                                           |
+| Alignment:           | Always neutral                                                                 |
+| Advancement:         | —                                                                              |
+| Level Adjustment:    | —                                                                              |
 
-## 2nd-Level Astral Construct {#2nd-level-astral-construct}
+## 2nd-Level Astral Construct
 
-  ---------------------- ---------------------------------------------------
-                         Medium Construct
-  Hit Dice:              2d10+20 (31 hp)
-  Initiative:            +2
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           18 (+2 Dex, +6 natural), touch 12, flat-footed 16
-  Base Attack/Grapple:   +3/+4
-  Attack:                Slam +4 melee (1d6+4)
-  Full Attack:           Slam +4 melee (1d6+4)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       ---
-  Special Qualities:     traits, darkvision 60 ft., low-light vision
-  Saves:                 Fort +0, Ref +2, Will +0
-  Abilities:             Str 17, Dex 15, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      1
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ---------------------------------------------------
+|                      |                                                   |
+|----------------------|---------------------------------------------------|
+|                      | Medium Construct                                  |
+| Hit Dice:            | 2d10+20 (31 hp)                                   |
+| Initiative:          | +2                                                |
+| Speed:               | 40 ft. (8 squares)                                |
+| Armor Class:         | 18 (+2 Dex, +6 natural), touch 12, flat-footed 16 |
+| Base Attack/Grapple: | +3/+4                                             |
+| Attack:              | Slam +4 melee (1d6+4)                             |
+| Full Attack:         | Slam +4 melee (1d6+4)                             |
+| Space/Reach:         | 5 ft./5 ft.                                       |
+| Special Attacks:     | —                                                 |
+| Special Qualities:   | traits, darkvision 60 ft., low-light vision       |
+| Saves:               | Fort +0, Ref +2, Will +0                          |
+| Abilities:           | Str 17, Dex 15, Con —, Int —, Wis 11, Cha 10      |
+| Skills:              | —                                                 |
+| Feats:               | —                                                 |
+| Environment:         | Any                                               |
+| Organization:        | Solitary                                          |
+| Challenge Rating:    | 1                                                 |
+| Treasure:            | None                                              |
+| Alignment:           | Always neutral                                    |
+| Advancement:         | —                                                 |
+| Level Adjustment:    | —                                                 |
 
-## 3rd-Level Astral Construct {#3rd-level-astral-construct}
+## 3rd-Level Astral Construct
 
-  ---------------------- --------------------------------------------------------------------------------
-                         Medium Construct
-  Hit Dice:              3d10+20 (36 hp)
-  Initiative:            +2
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           20 (+2 Dex, +8 natural), touch 12, flatfooted 18
-  Base Attack/Grapple:   +4/+7
-  Attack:                Slam +7 melee (1d6+7)
-  Full Attack:           Slam +7 melee (1d6+7)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       ---
-  Special Qualities:     One ability from Menu A, construct traits, darkvision 60 ft., low-light vision
-  Saves:                 Fort +1, Ref +3, Will +1
-  Abilities:             Str 21, Dex 15, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      2
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- --------------------------------------------------------------------------------
+|                      |                                                                                |
+|----------------------|--------------------------------------------------------------------------------|
+|                      | Medium Construct                                                               |
+| Hit Dice:            | 3d10+20 (36 hp)                                                                |
+| Initiative:          | +2                                                                             |
+| Speed:               | 40 ft. (8 squares)                                                             |
+| Armor Class:         | 20 (+2 Dex, +8 natural), touch 12, flatfooted 18                               |
+| Base Attack/Grapple: | +4/+7                                                                          |
+| Attack:              | Slam +7 melee (1d6+7)                                                          |
+| Full Attack:         | Slam +7 melee (1d6+7)                                                          |
+| Space/Reach:         | 5 ft./5 ft.                                                                    |
+| Special Attacks:     | —                                                                              |
+| Special Qualities:   | One ability from Menu A, construct traits, darkvision 60 ft., low-light vision |
+| Saves:               | Fort +1, Ref +3, Will +1                                                       |
+| Abilities:           | Str 21, Dex 15, Con —, Int —, Wis 11, Cha 10                                   |
+| Skills:              | —                                                                              |
+| Feats:               | —                                                                              |
+| Environment:         | Any                                                                            |
+| Organization:        | Solitary                                                                       |
+| Challenge Rating:    | 2                                                                              |
+| Treasure:            | None                                                                           |
+| Alignment:           | Always neutral                                                                 |
+| Advancement:         | —                                                                              |
+| Level Adjustment:    | —                                                                              |
 
-## 4th-Level Astral Construct {#4th-level-astral-construct}
+## 4th-Level Astral Construct
 
-  ---------------------- --------------------------------------------------------------------------------
-                         Medium Construct
-  Hit Dice:              5d10+20 (47 hp)
-  Initiative:            +2
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           22 (+2 Dex, +10 natural), touch 12, flatfooted 20
-  Base Attack/Grapple:   +5/+10
-  Attack:                Slam +10 melee (1d6+10)
-  Full Attack:           Slam +10 melee (1d6+10)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       ---
-  Special Qualities:     One ability from Menu B, construct traits, darkvision 60 ft., low-light vision
-  Saves:                 Fort +1, Ref +3, Will +1
-  Abilities:             Str 25, Dex 15, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      3
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- --------------------------------------------------------------------------------
+|                      |                                                                                |
+|----------------------|--------------------------------------------------------------------------------|
+|                      | Medium Construct                                                               |
+| Hit Dice:            | 5d10+20 (47 hp)                                                                |
+| Initiative:          | +2                                                                             |
+| Speed:               | 40 ft. (8 squares)                                                             |
+| Armor Class:         | 22 (+2 Dex, +10 natural), touch 12, flatfooted 20                              |
+| Base Attack/Grapple: | +5/+10                                                                         |
+| Attack:              | Slam +10 melee (1d6+10)                                                        |
+| Full Attack:         | Slam +10 melee (1d6+10)                                                        |
+| Space/Reach:         | 5 ft./5 ft.                                                                    |
+| Special Attacks:     | —                                                                              |
+| Special Qualities:   | One ability from Menu B, construct traits, darkvision 60 ft., low-light vision |
+| Saves:               | Fort +1, Ref +3, Will +1                                                       |
+| Abilities:           | Str 25, Dex 15, Con —, Int —, Wis 11, Cha 10                                   |
+| Skills:              | —                                                                              |
+| Feats:               | —                                                                              |
+| Environment:         | Any                                                                            |
+| Organization:        | Solitary                                                                       |
+| Challenge Rating:    | 3                                                                              |
+| Treasure:            | None                                                                           |
+| Alignment:           | Always neutral                                                                 |
+| Advancement:         | —                                                                              |
+| Level Adjustment:    | —                                                                              |
 
-## 5th-Level Astral Construct {#5th-level-astral-construct}
+## 5th-Level Astral Construct
 
-  ---------------------- ---------------------------------------------------------------------------------------------------------
-                         Large Construct
-  Hit Dice:              7d10+30 (68 hp)
-  Initiative:            +1
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           23 (+1 Dex, +13 natural, --1 size), touch 10, flat-footed 22
-  Base Attack/Grapple:   +7/+18
-  Attack:                Slam +13 melee (1d8+9)
-  Full Attack:           2 slams +13 melee (1d8+9)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       ---
-  Special Qualities:     One ability from Menu B, construct traits, damage reduction 5/magic, darkvision 60 ft., lowlight vision
-  Saves:                 Fort +2, Ref +3, Will +2
-  Abilities:             Str 29, Dex 13, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      5
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ---------------------------------------------------------------------------------------------------------
+|                      |                                                                                                         |
+|----------------------|---------------------------------------------------------------------------------------------------------|
+|                      | Large Construct                                                                                         |
+| Hit Dice:            | 7d10+30 (68 hp)                                                                                         |
+| Initiative:          | +1                                                                                                      |
+| Speed:               | 40 ft. (8 squares)                                                                                      |
+| Armor Class:         | 23 (+1 Dex, +13 natural, –1 size), touch 10, flat-footed 22                                             |
+| Base Attack/Grapple: | +7/+18                                                                                                  |
+| Attack:              | Slam +13 melee (1d8+9)                                                                                  |
+| Full Attack:         | 2 slams +13 melee (1d8+9)                                                                               |
+| Space/Reach:         | 10 ft./10 ft.                                                                                           |
+| Special Attacks:     | —                                                                                                       |
+| Special Qualities:   | One ability from Menu B, construct traits, damage reduction 5/magic, darkvision 60 ft., lowlight vision |
+| Saves:               | Fort +2, Ref +3, Will +2                                                                                |
+| Abilities:           | Str 29, Dex 13, Con —, Int —, Wis 11, Cha 10                                                            |
+| Skills:              | —                                                                                                       |
+| Feats:               | —                                                                                                       |
+| Environment:         | Any                                                                                                     |
+| Organization:        | Solitary                                                                                                |
+| Challenge Rating:    | 5                                                                                                       |
+| Treasure:            | None                                                                                                    |
+| Alignment:           | Always neutral                                                                                          |
+| Advancement:         | —                                                                                                       |
+| Level Adjustment:    | —                                                                                                       |
 
-## 6th-Level Astral Construct {#6th-level-astral-construct}
+## 6th-Level Astral Construct
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------
-                         Large Construct
-  Hit Dice:              10d10+30 (85 hp)
-  Initiative:            +1
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           25 (+1 Dex, +15 natural, --1 size), touch 10, flat-footed 24
-  Base Attack/Grapple:   +9/+22
-  Attack:                Slam +17 melee (1d8+11)
-  Full Attack:           2 slams +17 melee (1d8+11)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       ---
-  Special Qualities:     One ability from Menu B, construct traits, damage reduction 10/magic, darkvision 60 ft., lowlight vision
-  Saves:                 Fort +3, Ref +4, Will +3
-  Abilities:             Str 33, Dex 13, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      7
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ----------------------------------------------------------------------------------------------------------
+|                      |                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------|
+|                      | Large Construct                                                                                          |
+| Hit Dice:            | 10d10+30 (85 hp)                                                                                         |
+| Initiative:          | +1                                                                                                       |
+| Speed:               | 40 ft. (8 squares)                                                                                       |
+| Armor Class:         | 25 (+1 Dex, +15 natural, –1 size), touch 10, flat-footed 24                                              |
+| Base Attack/Grapple: | +9/+22                                                                                                   |
+| Attack:              | Slam +17 melee (1d8+11)                                                                                  |
+| Full Attack:         | 2 slams +17 melee (1d8+11)                                                                               |
+| Space/Reach:         | 10 ft./10 ft.                                                                                            |
+| Special Attacks:     | —                                                                                                        |
+| Special Qualities:   | One ability from Menu B, construct traits, damage reduction 10/magic, darkvision 60 ft., lowlight vision |
+| Saves:               | Fort +3, Ref +4, Will +3                                                                                 |
+| Abilities:           | Str 33, Dex 13, Con —, Int —, Wis 11, Cha 10                                                             |
+| Skills:              | —                                                                                                        |
+| Feats:               | —                                                                                                        |
+| Environment:         | Any                                                                                                      |
+| Organization:        | Solitary                                                                                                 |
+| Challenge Rating:    | 7                                                                                                        |
+| Treasure:            | None                                                                                                     |
+| Alignment:           | Always neutral                                                                                           |
+| Advancement:         | —                                                                                                        |
+| Level Adjustment:    | —                                                                                                        |
 
-## 7th-Level Astral Construct {#7th-level-astral-construct}
+## 7th-Level Astral Construct
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------
-                         Large Construct
-  Hit Dice:              13d10+30 (101 hp)
-  Initiative:            +1
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           27 (+1 Dex, +17 natural, --1 size), touch 10, flat-footed 26
-  Base Attack/Grapple:   +11/+25
-  Attack:                Slam +20 melee (1d8+12)
-  Full Attack:           2 slams +20 melee (1d8+12)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       ---
-  Special Qualities:     One ability from Menu C, construct traits, damage reduction 10/magic, darkvision 60 ft., lowlight vision
-  Saves:                 Fort +4, Ref +5, Will +4
-  Abilities:             Str 35, Dex 13, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      8
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ----------------------------------------------------------------------------------------------------------
+|                      |                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------|
+|                      | Large Construct                                                                                          |
+| Hit Dice:            | 13d10+30 (101 hp)                                                                                        |
+| Initiative:          | +1                                                                                                       |
+| Speed:               | 40 ft. (8 squares)                                                                                       |
+| Armor Class:         | 27 (+1 Dex, +17 natural, –1 size), touch 10, flat-footed 26                                              |
+| Base Attack/Grapple: | +11/+25                                                                                                  |
+| Attack:              | Slam +20 melee (1d8+12)                                                                                  |
+| Full Attack:         | 2 slams +20 melee (1d8+12)                                                                               |
+| Space/Reach:         | 10 ft./10 ft.                                                                                            |
+| Special Attacks:     | —                                                                                                        |
+| Special Qualities:   | One ability from Menu C, construct traits, damage reduction 10/magic, darkvision 60 ft., lowlight vision |
+| Saves:               | Fort +4, Ref +5, Will +4                                                                                 |
+| Abilities:           | Str 35, Dex 13, Con —, Int —, Wis 11, Cha 10                                                             |
+| Skills:              | —                                                                                                        |
+| Feats:               | —                                                                                                        |
+| Environment:         | Any                                                                                                      |
+| Organization:        | Solitary                                                                                                 |
+| Challenge Rating:    | 8                                                                                                        |
+| Treasure:            | None                                                                                                     |
+| Alignment:           | Always neutral                                                                                           |
+| Advancement:         | —                                                                                                        |
+| Level Adjustment:    | —                                                                                                        |
 
-## 8th-Level Astral Construct {#8th-level-astral-construct}
+## 8th-Level Astral Construct
 
-  ---------------------- ----------------------------------------------------------------------------------------------------------
-                         Large Construct
-  Hit Dice:              16d10+30 (118 hp)
-  Initiative:            +1
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           29 (+1 Dex, +19 natural, --1 size), touch 10, flat-footed 28
-  Base Attack/Grapple:   +14/+30
-  Attack:                Slam +25 melee (1d8+14)
-  Full Attack:           2 slams +25 melee (1d8+14)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       ---
-  Special Qualities:     One ability from Menu C, construct traits, damage reduction 15/magic, darkvision 60 ft., lowlight vision
-  Saves:                 Fort +5, Ref +6, Will +5
-  Abilities:             Str 39, Dex 13, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      9
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ----------------------------------------------------------------------------------------------------------
+|                      |                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------|
+|                      | Large Construct                                                                                          |
+| Hit Dice:            | 16d10+30 (118 hp)                                                                                        |
+| Initiative:          | +1                                                                                                       |
+| Speed:               | 40 ft. (8 squares)                                                                                       |
+| Armor Class:         | 29 (+1 Dex, +19 natural, –1 size), touch 10, flat-footed 28                                              |
+| Base Attack/Grapple: | +14/+30                                                                                                  |
+| Attack:              | Slam +25 melee (1d8+14)                                                                                  |
+| Full Attack:         | 2 slams +25 melee (1d8+14)                                                                               |
+| Space/Reach:         | 10 ft./10 ft.                                                                                            |
+| Special Attacks:     | —                                                                                                        |
+| Special Qualities:   | One ability from Menu C, construct traits, damage reduction 15/magic, darkvision 60 ft., lowlight vision |
+| Saves:               | Fort +5, Ref +6, Will +5                                                                                 |
+| Abilities:           | Str 39, Dex 13, Con —, Int —, Wis 11, Cha 10                                                             |
+| Skills:              | —                                                                                                        |
+| Feats:               | —                                                                                                        |
+| Environment:         | Any                                                                                                      |
+| Organization:        | Solitary                                                                                                 |
+| Challenge Rating:    | 9                                                                                                        |
+| Treasure:            | None                                                                                                     |
+| Alignment:           | Always neutral                                                                                           |
+| Advancement:         | —                                                                                                        |
+| Level Adjustment:    | —                                                                                                        |
 
-## 9th-Level Astral Construct {#9th-level-astral-construct}
+## 9th-Level Astral Construct
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------
-                         Huge Construct
-  Hit Dice:              19d10+40 (144 hp)
-  Initiative:            +0
-  Speed:                 50 ft. (10 squares)
-  Armor Class:           33 (+25 natural, --2 size), touch 8, flatfooted 33
-  Base Attack/Grapple:   +16/+38
-  Attack:                Slam +28 melee (2d6+16)
-  Full Attack:           2 slams +28 melee (2d6+16)
-  Space/Reach:           15 ft./15 ft.
-  Special Attacks:       ---
-  Special Qualities:     Two abilities from Menu C, construct traits, damage reduction 15/magic, darkvision 60 ft., lowlight vision
-  Saves:                 Fort +6, Ref +6, Will +6
-  Abilities:             Str 43, Dex 11, Con ---, Int ---, Wis 11, Cha 10
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      10
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------|
+|                      | Huge Construct                                                                                             |
+| Hit Dice:            | 19d10+40 (144 hp)                                                                                          |
+| Initiative:          | +0                                                                                                         |
+| Speed:               | 50 ft. (10 squares)                                                                                        |
+| Armor Class:         | 33 (+25 natural, –2 size), touch 8, flatfooted 33                                                          |
+| Base Attack/Grapple: | +16/+38                                                                                                    |
+| Attack:              | Slam +28 melee (2d6+16)                                                                                    |
+| Full Attack:         | 2 slams +28 melee (2d6+16)                                                                                 |
+| Space/Reach:         | 15 ft./15 ft.                                                                                              |
+| Special Attacks:     | —                                                                                                          |
+| Special Qualities:   | Two abilities from Menu C, construct traits, damage reduction 15/magic, darkvision 60 ft., lowlight vision |
+| Saves:               | Fort +6, Ref +6, Will +6                                                                                   |
+| Abilities:           | Str 43, Dex 11, Con —, Int —, Wis 11, Cha 10                                                               |
+| Skills:              | —                                                                                                          |
+| Feats:               | —                                                                                                          |
+| Environment:         | Any                                                                                                        |
+| Organization:        | Solitary                                                                                                   |
+| Challenge Rating:    | 10                                                                                                         |
+| Treasure:            | None                                                                                                       |
+| Alignment:           | Always neutral                                                                                             |
+| Advancement:         | —                                                                                                          |
+| Level Adjustment:    | —                                                                                                          |
 
 ## Blue
 
-  ------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                  Blue, 1st-Level Psion (Telepath)
-                                  Small Humanoid (Goblinoid, Psionic)
-  Hit Dice:                       1d4+1 (3 hp)
-  Initiative:                     +0
-  Speed:                          30 ft. (6 squares)
-  Armor Class:                    15 (+1 size, +4 *inertial armor*), touch 11, flatfooted 15
-  Base Attack/Grapple:            +0/--6
-  Attack:                         Quarterstaff --2 melee (1d4--2) or light crossbow +0 ranged (1d6/19--20)
-  Full Attack:                    Quarterstaff --2 melee (1d4--2) or light crossbow +0 ranged (1d6/19--20)
-  Space/Reach:                    5 ft./5 ft.
-  Special Attacks:                Psionic powers
-  Special Qualities:              Darkvision 60 ft.
-  Saves:                          Fort +1, Ref +0, Will +2
-  Abilities:                      Str 6, Dex 11, Con 12, Int 15, Wis 10, Cha 7
-  Skills:                         Concentration +5, Hide +6, Move Silently +4,
-  Psicraft +6, Ride +4, Spot +2   
-  Feats:                          Psionic Body, Wild Talent^B^
-  Environment:                    Temperate plains
-  Organization:                   Solitary, gang (1 plus 4--9 goblin warriors), band (2d10 plus 10--100 goblin warriors plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th--6th level), warband (2d4 plus 10--24 goblin warriors with worg mounts), or tribe (4d10 plus 40--400 goblin warriors plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th--8th level, 10--24 worgs, and 2--4 dire wolves)
-  Challenge Rating:               1
-  Treasure:                       Standard
-  Alignment:                      Usually neutral evil
-  Advancement:                    By character class (usually psion)
-  Level Adjustment:               +0
-  ------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                               | Blue, 1st-Level Psion (Telepath)                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                               | Small Humanoid (Goblinoid, Psionic)                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Hit Dice:                     | 1d4+1 (3 hp)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Initiative:                   | +0                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Speed:                        | 30 ft. (6 squares)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Armor Class:                  | 15 (+1 size, +4 *inertial armor*), touch 11, flatfooted 15                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Base Attack/Grapple:          | +0/–6                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Attack:                       | Quarterstaff –2 melee (1d4–2) or light crossbow +0 ranged (1d6/19–20)                                                                                                                                                                                                                                                                                                                                                                                           |
+| Full Attack:                  | Quarterstaff –2 melee (1d4–2) or light crossbow +0 ranged (1d6/19–20)                                                                                                                                                                                                                                                                                                                                                                                           |
+| Space/Reach:                  | 5 ft./5 ft.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Special Attacks:              | Psionic powers                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Special Qualities:            | Darkvision 60 ft.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Saves:                        | Fort +1, Ref +0, Will +2                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Abilities:                    | Str 6, Dex 11, Con 12, Int 15, Wis 10, Cha 7                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Skills:                       | Concentration +5, Hide +6, Move Silently +4,                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Psicraft +6, Ride +4, Spot +2 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Feats:                        | Psionic Body, Wild Talent<sup>B</sup>                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Environment:                  | Temperate plains                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Organization:                 | Solitary, gang (1 plus 4–9 goblin warriors), band (2d10 plus 10–100 goblin warriors plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), warband (2d4 plus 10–24 goblin warriors with worg mounts), or tribe (4d10 plus 40–400 goblin warriors plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 10–24 worgs, and 2–4 dire wolves) |
+| Challenge Rating:             | 1                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Treasure:                     | Standard                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Alignment:                    | Usually neutral evil                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Advancement:                  | By character class (usually psion)                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Level Adjustment:             | +0                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 Blues are a subrace of goblins with an innate knack for psionics. A blue
 is often smaller than an average goblin, standing just about 3 feet tall
@@ -827,7 +827,7 @@ Blues speak Goblin and Common.
 Most blues encountered outside their homes are psions; the information
 in the statistics block is for a psion of 1st level.
 
-### Combat {#blue--combat}
+### Combat
 
 Blues support goblin warriors in combat and are often called upon to
 lead a gang of goblins (from the rear) into battle.
@@ -835,7 +835,7 @@ lead a gang of goblins (from the rear) into battle.
 **Psionic Powers:** The blue described here is a 1st-level psion.
 
 *Typical Psion Powers Known* (power points 3\*; save DC 12 + power
-level): 1st---*inertial armor, mind thrust* (DC 13), *psionic charm* (DC
+level): 1st—*inertial armor, mind thrust* (DC 13), *psionic charm* (DC
 13).
 
 Manifester level 1st. The save DCs are Intelligence-based.
@@ -856,62 +856,62 @@ their kind are rare may choose the path of the wilder.
 
 Blue characters possess the following racial traits.
 
---- --2 Strength, +2 Intelligence, --2 Charisma.
+— –2 Strength, +2 Intelligence, –2 Charisma.
 
----Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4
-bonus on Hide checks, --4 penalty on grapple checks, lifting and
-carrying limits 3/4 of those of Medium characters.
+—Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus
+on Hide checks, –4 penalty on grapple checks, lifting and carrying
+limits 3/4 of those of Medium characters.
 
----Blue base land speed is 30 feet.
+—Blue base land speed is 30 feet.
 
----Darkvision out to 60 feet.
+—Darkvision out to 60 feet.
 
----Naturally Psionic: Blues gain 1 bonus power point at 1st level.
+—Naturally Psionic: Blues gain 1 bonus power point at 1st level.
 
---- Racial Skills: A blue character has a +4 racial bonus on Move
-Silently checks and Ride checks.
+— Racial Skills: A blue character has a +4 racial bonus on Move Silently
+checks and Ride checks.
 
----Automatic Languages: Common, Goblin. Bonus Languages: Draconic,
-Elven, Giant, Gnoll, Orc.
+—Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven,
+Giant, Gnoll, Orc.
 
----Favored Class: Psion.
+—Favored Class: Psion.
 
----Level Adjustment: +1.
+—Level Adjustment: +1.
 
 ## Brain Mole
 
-  ---------------------- ------------------------------------------------
-                         Tiny Magical Beast (Psionic)
-  Hit Dice:              1d10--2 (3 hp)
-  Initiative:            +2
-  Speed:                 15 ft. (3 squares), burrow 15 ft.
-  Armor Class:           14 (+2 size, +2 Dex), touch 14, flat-footed 12
-  Base Attack/Grapple:   +1/--11
-  Attack:                Bite +5 melee (1d3--4)
-  Full Attack:           Bite +5 melee (1d3--4)
-  Space/Reach:           2-1/2 ft./0 ft.
-  Special Attacks:       Cascade flu, psi-like abilities
-  Special Qualities:     Low-light vision, power conversion, scent
-  Saves:                 Fort +0, Ref +4, Will +2
-  Abilities:             Str 2, Dex 14, Con 7, Int 2, Wis 14, Cha 11
-  Skills:                Hide +15, Move Silently +7, Listen +6, Spot +2
-  Feats:                 Alertness, Weapon Finesse^B^
-  Environment:           Temperate forest
-  Organization:          Nest (3--8)
-  Challenge Rating:      1/2
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ------------------------------------------------
+|                      |                                                |
+|----------------------|------------------------------------------------|
+|                      | Tiny Magical Beast (Psionic)                   |
+| Hit Dice:            | 1d10–2 (3 hp)                                  |
+| Initiative:          | +2                                             |
+| Speed:               | 15 ft. (3 squares), burrow 15 ft.              |
+| Armor Class:         | 14 (+2 size, +2 Dex), touch 14, flat-footed 12 |
+| Base Attack/Grapple: | +1/–11                                         |
+| Attack:              | Bite +5 melee (1d3–4)                          |
+| Full Attack:         | Bite +5 melee (1d3–4)                          |
+| Space/Reach:         | 2-1/2 ft./0 ft.                                |
+| Special Attacks:     | Cascade flu, psi-like abilities                |
+| Special Qualities:   | Low-light vision, power conversion, scent      |
+| Saves:               | Fort +0, Ref +4, Will +2                       |
+| Abilities:           | Str 2, Dex 14, Con 7, Int 2, Wis 14, Cha 11    |
+| Skills:              | Hide +15, Move Silently +7, Listen +6, Spot +2 |
+| Feats:               | Alertness, Weapon Finesse<sup>B</sup>          |
+| Environment:         | Temperate forest                               |
+| Organization:        | Nest (3–8)                                     |
+| Challenge Rating:    | 1/2                                            |
+| Treasure:            | None                                           |
+| Alignment:           | Always neutral                                 |
+| Advancement:         | —                                              |
+| Level Adjustment:    | —                                              |
 
 Brain moles are burrowing animals that use psionic powers to overcome
 large psionic prey. Small, furry, and nearly blind, brain moles are
 almost indistinguishable from their common animal cousins.
 
-Brain moles eat small insects when they can't get psionic energy.
+Brain moles eat small insects when they can’t get psionic energy.
 
-### Combat {#brain-mole--combat}
+### Combat
 
 Brain moles hunger for psionic energy. They hide in loose dirt and
 detritus on forest floors, watching for the approach of psionic
@@ -921,15 +921,15 @@ ability. The moles remain hidden as long as possible. If threatened,
 they use *aversion* and *mind thrust* to discourage attackers, using
 their bite only as a last resort.
 
-**Cascade Flu (Ex):** Disease---bite; Fortitude DC 9, incubation period
+**Cascade Flu (Ex):** Disease—bite; Fortitude DC 9, incubation period
 one day, damage psionic cascade (every time an afflicted character
 manifests a power, she must make a DC 16 Concentration check; on a
 failed check, a psionic cascade is triggered \[see Psionic Maladies\]).
 The save DC is Constitution-based.
 
-**Psi-Like Abilities:** At will---*detect psionics, power leech* (ML
-5th, DC 14); 3/day---*aversion* (DC 12)*, mind thrust* (DC 11).
-Manifester level 1st. The save DCs are Charisma-based.
+**Psi-Like Abilities:** At will—*detect psionics, power leech* (ML 5th,
+DC 14); 3/day—*aversion* (DC 12)*, mind thrust* (DC 11). Manifester
+level 1st. The save DCs are Charisma-based.
 
 **Hide Mind (Su):** A brain mole cannot be identified as psionic by
 divination spells or clairsentience powers.
@@ -940,34 +940,34 @@ it is already at full normal hit points, it instead gains psionic
 sustenance sufficient to supply its need for nourishment for 24 hours.
 
 **Skills:** Brain moles have a +4 racial bonus on Hide and Move Silently
-checks and a --2 racial penalty on Spot checks.
+checks and a –2 racial penalty on Spot checks.
 
 ## Caller in Darkness
 
-  ---------------------- ---------------------------------------------------------------------------------------------------------------------
-                         Large Undead (Incorporeal, Psionic)
-  Hit Dice:              11d12 (71 hp)
-  Initiative:            +7
-  Speed:                 30 ft. (6 squares), fly 60 ft. (good)
-  Armor Class:           14 (--1 size, +3 Dex, +2 deflection), touch 14, flat-footed 11
-  Base Attack/Grapple:   +5/---
-  Attack:                Incorporeal touch +7 melee (2d6)
-  Full Attack:           4 incorporeal touches +7 melee (2d6)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Psi-like abilities, steal essence
-  Special Qualities:     Incorporeal traits, undead traits, unnatural aura, vulnerability to sunlight
-  Saves:                 Fort +3, Ref +6, Will +9
-  Abilities:             Str ---, Dex 16, Con ---, Int 14, Wis 14, Cha 15
-  Skills:                Hide +9, Intimidate +12, Knowledge (psionics) +12, Listen +14, Psicraft +12, Search +12, Sense Motive +12, Spot +14
-  Feats:                 Blind-Fight, Combat Reflexes, Improved Initiative, Weapon Finesse
-  Environment:           Underground
-  Organization:          Solitary
-  Challenge Rating:      9
-  Treasure:              None
-  Alignment:             Always chaotic evil
-  Advancement:           12--22 HD (Large); 23--33 HD (Huge)
-  Level Adjustment:      ---
-  ---------------------- ---------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                     |
+|----------------------|---------------------------------------------------------------------------------------------------------------------|
+|                      | Large Undead (Incorporeal, Psionic)                                                                                 |
+| Hit Dice:            | 11d12 (71 hp)                                                                                                       |
+| Initiative:          | +7                                                                                                                  |
+| Speed:               | 30 ft. (6 squares), fly 60 ft. (good)                                                                               |
+| Armor Class:         | 14 (–1 size, +3 Dex, +2 deflection), touch 14, flat-footed 11                                                       |
+| Base Attack/Grapple: | +5/—                                                                                                                |
+| Attack:              | Incorporeal touch +7 melee (2d6)                                                                                    |
+| Full Attack:         | 4 incorporeal touches +7 melee (2d6)                                                                                |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                       |
+| Special Attacks:     | Psi-like abilities, steal essence                                                                                   |
+| Special Qualities:   | Incorporeal traits, undead traits, unnatural aura, vulnerability to sunlight                                        |
+| Saves:               | Fort +3, Ref +6, Will +9                                                                                            |
+| Abilities:           | Str —, Dex 16, Con —, Int 14, Wis 14, Cha 15                                                                        |
+| Skills:              | Hide +9, Intimidate +12, Knowledge (psionics) +12, Listen +14, Psicraft +12, Search +12, Sense Motive +12, Spot +14 |
+| Feats:               | Blind-Fight, Combat Reflexes, Improved Initiative, Weapon Finesse                                                   |
+| Environment:         | Underground                                                                                                         |
+| Organization:        | Solitary                                                                                                            |
+| Challenge Rating:    | 9                                                                                                                   |
+| Treasure:            | None                                                                                                                |
+| Alignment:           | Always chaotic evil                                                                                                 |
+| Advancement:         | 12–22 HD (Large); 23–33 HD (Huge)                                                                                   |
+| Level Adjustment:    | —                                                                                                                   |
 
 A caller in darkness is an incorporeal creature composed of the minds of
 dozens of victims who died together in terror. It seeks to draw others
@@ -975,30 +975,30 @@ into its fearwracked, hellish existence.
 
 Callers in darkness rarely speak, but when they do, they speak Common.
 
-### Combat {#caller-in-darkness--combat}
+### Combat
 
-**Psi-Like Abilities:** At will---*clairvoyant sense, concussion blast*
+**Psi-Like Abilities:** At will—*clairvoyant sense, concussion blast*
 (two targets, 3d6\*)*, detect psionics, ego whip* (2d4, DC 16\*), *mind
-thrust* (7d10, DC 16\*); 3/day---*death urge* (DC 16), *psychic crush*
-(DC 13\*\*), *psionic suggestion* (three targets, DC 14\*); 1/
-day---*co-opt concentration* (DC 18). Manifester level 7th. The save DCs
-are Charisma-based.
+thrust* (7d10, DC 16\*); 3/day—*death urge* (DC 16), *psychic crush* (DC
+13\*\*), *psionic suggestion* (three targets, DC 14\*); 1/ day—*co-opt
+concentration* (DC 18). Manifester level 7th. The save DCs are
+Charisma-based.
 
-\*Includes augmentation for the caller's manifester level.
+\*Includes augmentation for the caller’s manifester level.
 
 \*\*Includes the inherent +4 save adjustment described in the power.
 
 **Steal Essence (Su):** Any living, intelligent creature slain by a
-caller in darkness's touch attack is mentally absorbed into the
-monster's consciousness. (The physical body of the victim remains
-intact). Stealing a victim's essence is a free action; it grants the
+caller in darkness’s touch attack is mentally absorbed into the
+monster’s consciousness. (The physical body of the victim remains
+intact). Stealing a victim’s essence is a free action; it grants the
 caller 12 temporary hit points, and a permanent new screaming face
 appears within its cloud.
 
 A caller in darkness can also steal the essence of living, intelligent
 creatures within 30 feet that are paralyzed or sleeping, or that are
 helpless due to having a mental ability score reduced to 0 (often by the
-caller's *ego whip* attack). Doing so is a standard action that provokes
+caller’s *ego whip* attack). Doing so is a standard action that provokes
 attacks of opportunity. The victim dies, and the caller gains 12
 temporary hit points.
 
@@ -1010,7 +1010,7 @@ touch weapons. It can pass through solid objects, but not force effects,
 at will. Its attacks ignore natural armor, armor, and shields, but
 deflection bonuses and force effects work normally against them. The
 creature always moves silently and cannot be heard with Listen checks if
-it doesn't wish to be.
+it doesn’t wish to be.
 
 **Undead Traits:** A caller in darkness is immune to mind-affecting
 effects, poison, *sleep,* paralysis, stunning, disease, death effects,
@@ -1035,32 +1035,32 @@ it take full-round actions).
 
 ## Cerebrilith
 
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Large Outsider (Chaotic, Evil, Extraplanar, Psionic)
-  Hit Dice:              9d8+63 (103 hp)
-  Initiative:            +1
-  Speed:                 30 ft. (6 squares)
-  Armor Class:           25 (--1 size, +1 Dex, +15 natural), touch 10, flat-footed 24
-  Base Attack/Grapple:   +9/+19
-  Attack:                Bite +14 melee (1d8+6)
-  Full Attack:           Bite +14 melee (1d8+6) and 2 claws +9 melee (1d6+3)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Psi-like abilities, spell-like abilities, *summon demon*
-  Special Qualities:     Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, outsider traits, psionic traits, resistance to acid 10, cold 10, and fire 10, power resistance 20, telepathy 100 ft.
-  Saves:                 Fort +13, Ref +7, Will +10
-  Abilities:             Str 22, Dex 13, Con 25, Int 15, Wis 18, Cha 21
-  Skills:                Concentration +17, Hide +7, Jump +16, Knowledge (arcana) +12, Knowledge (psionics) +12, Knowledge (planes) +12, Listen +22, Move Silently +11, Psicraft +12, Search +12, Sense Motive +14, Spot +22
-  Feats:                 Power Attack, Psionic Meditation, Psionic Fist, Unavoidable Strike, Wild Talent^B^
-  Environment:           Chaotic evil planes
-  Organization:          Solitary or gang (2--4)
-  Challenge Rating:      10
-  Treasure:              Standard
-  Alignment:             Always chaotic evil
-  Advancement:           10--18 HD (Large); 19--27 HD (Huge)
-  Level Adjustment:      +9
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                       |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Large Outsider (Chaotic, Evil, Extraplanar, Psionic)                                                                                                                                                  |
+| Hit Dice:            | 9d8+63 (103 hp)                                                                                                                                                                                       |
+| Initiative:          | +1                                                                                                                                                                                                    |
+| Speed:               | 30 ft. (6 squares)                                                                                                                                                                                    |
+| Armor Class:         | 25 (–1 size, +1 Dex, +15 natural), touch 10, flat-footed 24                                                                                                                                           |
+| Base Attack/Grapple: | +9/+19                                                                                                                                                                                                |
+| Attack:              | Bite +14 melee (1d8+6)                                                                                                                                                                                |
+| Full Attack:         | Bite +14 melee (1d8+6) and 2 claws +9 melee (1d6+3)                                                                                                                                                   |
+| Space/Reach:         | 10 ft./10 ft.                                                                                                                                                                                         |
+| Special Attacks:     | Psi-like abilities, spell-like abilities, *summon demon*                                                                                                                                              |
+| Special Qualities:   | Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, outsider traits, psionic traits, resistance to acid 10, cold 10, and fire 10, power resistance 20, telepathy 100 ft. |
+| Saves:               | Fort +13, Ref +7, Will +10                                                                                                                                                                            |
+| Abilities:           | Str 22, Dex 13, Con 25, Int 15, Wis 18, Cha 21                                                                                                                                                        |
+| Skills:              | Concentration +17, Hide +7, Jump +16, Knowledge (arcana) +12, Knowledge (psionics) +12, Knowledge (planes) +12, Listen +22, Move Silently +11, Psicraft +12, Search +12, Sense Motive +14, Spot +22   |
+| Feats:               | Power Attack, Psionic Meditation, Psionic Fist, Unavoidable Strike, Wild Talent<sup>B</sup>                                                                                                           |
+| Environment:         | Chaotic evil planes                                                                                                                                                                                   |
+| Organization:        | Solitary or gang (2–4)                                                                                                                                                                                |
+| Challenge Rating:    | 10                                                                                                                                                                                                    |
+| Treasure:            | Standard                                                                                                                                                                                              |
+| Alignment:           | Always chaotic evil                                                                                                                                                                                   |
+| Advancement:         | 10–18 HD (Large); 19–27 HD (Huge)                                                                                                                                                                     |
+| Level Adjustment:    | +9                                                                                                                                                                                                    |
 
-### Combat {#cerebrilith--combat}
+### Combat
 
 Cerebriliths favor telepathic attacks, usually beginning a battle by
 launching a furious barrage of *ego whip* and *id insinuation* attacks.
@@ -1068,20 +1068,20 @@ In melee, cerebriliths often use their Concentration skill to gain
 psionic focus, so that they can use Psionic Fist or Unavoidable Strike
 (the latter in conjunction with Power Attack).
 
-A cerebrilith's natural weapons, as well as any weapons it wields, are
+A cerebrilith’s natural weapons, as well as any weapons it wields, are
 treated as chaotic-aligned and evil-aligned for the purpose of
 overcoming damage reduction.
 
-**Psi-Like Abilities:** At will---*brain lock* (any nonmindless, DC
-17\*), *detect psionics, ego whip* (2d4, DC 19\*)*, id insinuation*
-(four targets, DC 20\*)*, mind trap* (5 rounds\*); 3/day---*psionic
-dominate* (24 hours, DC 20\*), *ectoplasmic form*, *mind probe* (DC 20);
-1/day---*mind thrust* (9d10, DC 20\*). Manifester level 9th. The save
-DCs are Charisma-based.
+**Psi-Like Abilities:** At will—*brain lock* (any nonmindless, DC 17\*),
+*detect psionics, ego whip* (2d4, DC 19\*)*, id insinuation* (four
+targets, DC 20\*)*, mind trap* (5 rounds\*); 3/day—*psionic dominate*
+(24 hours, DC 20\*), *ectoplasmic form*, *mind probe* (DC 20);
+1/day—*mind thrust* (9d10, DC 20\*). Manifester level 9th. The save DCs
+are Charisma-based.
 
-\*Includes augmentation for the cerebrilith's manifester level.
+\*Includes augmentation for the cerebrilith’s manifester level.
 
-**Spell-Like Abilities:** At will---*deeper darkness, desecrate, detect
+**Spell-Like Abilities:** At will—*deeper darkness, desecrate, detect
 good, dispel good* (DC 20)*, greater teleport* (self plus 50 pounds of
 objects only), *magic circle against good* (DC 18)*, unholy blight* (DC
 19). Caster level 9th. The save DCs are Charisma-based.
@@ -1104,44 +1104,44 @@ Large Outsider (Native, Psionic)
 **Special Attacks:** Constrict 2d8+6, improved grab, poison, psi-like
 abilities, spells
 
-### Combat {#couatl-psionic--combat}
+### Combat
 
 The psionic couatl does not possess the psionic spell-like abilities of
 the standard couatl. Instead, it has psi-like abilities.
 
-**Psi-Like Abilities:** At will---*aura sight, cloud mind* (DC 15),
-*detect psionics, read thoughts* (DC 15); 3/day---*mental barrier* (2
+**Psi-Like Abilities:** At will—*aura sight, cloud mind* (DC 15),
+*detect psionics, read thoughts* (DC 15); 3/day—*mental barrier* (2
 rounds\*)*, metamorphosis, psionic plane shift, thought shield* (power
 resistance 19\*). Manifester level 9th. The save DCs are Charisma-based.
 
-\*Includes augmentation for the psionic couatl's manifester level.
+\*Includes augmentation for the psionic couatl’s manifester level.
 
 ## Crysmal
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------
-                         Small Elemental (Earth, Psionic)
-  Hit Dice:              6d8+6 (33 hp)
-  Initiative:            +2
-  Speed:                 30 ft. (6 squares), burrow 20 ft.
-  Armor Class:           21 (+1 size, +2 Dex, +8 natural), touch 13, flat-footed 19
-  Base Attack/Grapple:   +4/+2
-  Attack:                Sting +7 melee (1d3+3)
-  Full Attack:           Sting +7 melee (1d3+3)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Psi-like abilities
-  Special Qualities:     Damage reduction 5/ bludgeoning, elemental traits, immunity to fire and cold, resistance to electricity 15
-  Saves:                 Fort +8, Ref +6, Will +2
-  Abilities:             Str 15, Dex 14, Con 12, Int 6, Wis 10, Cha 14
-  Skills:                Appraise +9, Climb +5, Jump +5, Listen +2, Spot +10
-  Feats:                 Alertness, Great Fortitude, Lightning Reflexes
-  Environment:           Underground
-  Organization:          Solitary or facet (2--5)
-  Challenge Rating:      3
-  Treasure:              Double goods (gems only)
-  Alignment:             Any lawful
-  Advancement:           7--12 HD (Medium); 13--18 HD (Large)
-  Level Adjustment:      ---
-  ---------------------- ------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------|
+|                      | Small Elemental (Earth, Psionic)                                                                           |
+| Hit Dice:            | 6d8+6 (33 hp)                                                                                              |
+| Initiative:          | +2                                                                                                         |
+| Speed:               | 30 ft. (6 squares), burrow 20 ft.                                                                          |
+| Armor Class:         | 21 (+1 size, +2 Dex, +8 natural), touch 13, flat-footed 19                                                 |
+| Base Attack/Grapple: | +4/+2                                                                                                      |
+| Attack:              | Sting +7 melee (1d3+3)                                                                                     |
+| Full Attack:         | Sting +7 melee (1d3+3)                                                                                     |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                |
+| Special Attacks:     | Psi-like abilities                                                                                         |
+| Special Qualities:   | Damage reduction 5/ bludgeoning, elemental traits, immunity to fire and cold, resistance to electricity 15 |
+| Saves:               | Fort +8, Ref +6, Will +2                                                                                   |
+| Abilities:           | Str 15, Dex 14, Con 12, Int 6, Wis 10, Cha 14                                                              |
+| Skills:              | Appraise +9, Climb +5, Jump +5, Listen +2, Spot +10                                                        |
+| Feats:               | Alertness, Great Fortitude, Lightning Reflexes                                                             |
+| Environment:         | Underground                                                                                                |
+| Organization:        | Solitary or facet (2–5)                                                                                    |
+| Challenge Rating:    | 3                                                                                                          |
+| Treasure:            | Double goods (gems only)                                                                                   |
+| Alignment:           | Any lawful                                                                                                 |
+| Advancement:         | 7–12 HD (Medium); 13–18 HD (Large)                                                                         |
+| Level Adjustment:    | —                                                                                                          |
 
 A conglomerate of stone and crystal, a crysmal above all else seeks to
 perpetuate its kind.
@@ -1153,44 +1153,44 @@ value or more.
 
 Crysmals understand Terran but do not speak.
 
-### Combat {#crysmal--combat}
+### Combat
 
-**Psi-Like Abilities:** At will---*control object, control sound, detect
-psionics, empty mind, mind thrust* (2d10, DC 13\*); 3/day---*psionic
+**Psi-Like Abilities:** At will—*control object, control sound, detect
+psionics, empty mind, mind thrust* (2d10, DC 13\*); 3/day—*psionic
 dimension door.* Manifester level 2nd. The save DCs are Charisma-based.
 
-\*Includes augmentation for the crysmal's manifester level.
+\*Includes augmentation for the crysmal’s manifester level.
 
 **Skills:** Crysmals have a +8 racial bonus on Appraise checks and Spot
 checks.
 
 ## Dromite
 
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Dromite, 1st-Level Warrior
-                         Small Monstrous Humanoid (Psionic)
-  Hit Dice:              1d8+1 (5 hp)
-  Initiative:            +0
-  Speed:                 20 ft. (4 squares)
-  Armor Class:           18 (+1 size, +3 natural armor, +3 studded leather, +1 light shield), touch 11, flat-footed 18
-  Base Attack/Grapple:   +1/--3
-  Attack:                Longsword +3 melee (1d6/19--20) or light crossbow +2 ranged (1d6/19--20)
-  Full Attack:           Longsword +3 melee (1d6/19--20) or light crossbow +2 ranged (1d6/19--20)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Psi-like abilities
-  Special Qualities:     Darkvision 60 ft., resistance to fire 5, scent
-  Saves:                 Fort +3, Ref +0, Will --2
-  Abilities:             Str 11, Dex 11, Con 12, Int 10, Wis 7, Cha 10
-  Skills:                Climb +2, Spot +4
-  Feats:                 Weapon Focus (longsword), Blind-Fight^B^
-  Environment:           Underground
-  Organization:          Squad (2--4), company (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 100% noncombatants plus 1 3rdlevel sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6--10 giant beetles, and 2--5 riding giant beetles)
-  Challenge Rating:      1/2
-  Treasure:              Standard
-  Alignment:             Usually neutral
-  Advancement:           By character class
-  Level Adjustment:      +1
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                                                                         |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Dromite, 1st-Level Warrior                                                                                                                                                                                                                                              |
+|                      | Small Monstrous Humanoid (Psionic)                                                                                                                                                                                                                                      |
+| Hit Dice:            | 1d8+1 (5 hp)                                                                                                                                                                                                                                                            |
+| Initiative:          | +0                                                                                                                                                                                                                                                                      |
+| Speed:               | 20 ft. (4 squares)                                                                                                                                                                                                                                                      |
+| Armor Class:         | 18 (+1 size, +3 natural armor, +3 studded leather, +1 light shield), touch 11, flat-footed 18                                                                                                                                                                           |
+| Base Attack/Grapple: | +1/–3                                                                                                                                                                                                                                                                   |
+| Attack:              | Longsword +3 melee (1d6/19–20) or light crossbow +2 ranged (1d6/19–20)                                                                                                                                                                                                  |
+| Full Attack:         | Longsword +3 melee (1d6/19–20) or light crossbow +2 ranged (1d6/19–20)                                                                                                                                                                                                  |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                                                                             |
+| Special Attacks:     | Psi-like abilities                                                                                                                                                                                                                                                      |
+| Special Qualities:   | Darkvision 60 ft., resistance to fire 5, scent                                                                                                                                                                                                                          |
+| Saves:               | Fort +3, Ref +0, Will –2                                                                                                                                                                                                                                                |
+| Abilities:           | Str 11, Dex 11, Con 12, Int 10, Wis 7, Cha 10                                                                                                                                                                                                                           |
+| Skills:              | Climb +2, Spot +4                                                                                                                                                                                                                                                       |
+| Feats:               | Weapon Focus (longsword), Blind-Fight<sup>B</sup>                                                                                                                                                                                                                       |
+| Environment:         | Underground                                                                                                                                                                                                                                                             |
+| Organization:        | Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 100% noncombatants plus 1 3rdlevel sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6–10 giant beetles, and 2–5 riding giant beetles) |
+| Challenge Rating:    | 1/2                                                                                                                                                                                                                                                                     |
+| Treasure:            | Standard                                                                                                                                                                                                                                                                |
+| Alignment:           | Usually neutral                                                                                                                                                                                                                                                         |
+| Advancement:         | By character class                                                                                                                                                                                                                                                      |
+| Level Adjustment:    | +1                                                                                                                                                                                                                                                                      |
 
 Dromites stand about 3 feet tall and usually weigh slightly more than 30
 pounds. They have iridescent compound eyes. Dromites wear heavy boots
@@ -1202,7 +1202,7 @@ Dromites speak Common.
 Most dromites encountered outside their homes are warriors; the
 information in the statistics block is for a warrior of 1st level.
 
-### Combat {#dromite--combat}
+### Combat
 
 **Psi-Like Abilities:** 1/day: *energy ray* (fire, 1d6+1). Manifester
 level 1st. The save DC is Charisma-based. (Other dromites may manifest
@@ -1216,35 +1216,34 @@ before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 Dromite characters possess the following racial traits.
 
---- +2 Charisma, --2 Strength, --2 Wisdom.
+— +2 Charisma, –2 Strength, –2 Wisdom.
 
----Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4
-bonus on Hide checks, --4 penalty on grapple checks, lifting and
-carrying limits 3/4 of those of Medium characters.
+—Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus
+on Hide checks, –4 penalty on grapple checks, lifting and carrying
+limits 3/4 of those of Medium characters.
 
----Dromite base land speed is 20 feet.
+—Dromite base land speed is 20 feet.
 
---- +3 natural armor bonus.
+— +3 natural armor bonus.
 
----Naturally Psionic: Dromites gain 1 bonus power point at 1st level.
+—Naturally Psionic: Dromites gain 1 bonus power point at 1st level.
 
----Special Attacks (see above): Psi-like abilities.
+—Special Attacks (see above): Psi-like abilities.
 
----Special Qualities (see above): Resistance to fire 5 (other dromites
-may have resistance to cold, electricity, or sonics instead of fire),
-scent.
+—Special Qualities (see above): Resistance to fire 5 (other dromites may
+have resistance to cold, electricity, or sonics instead of fire), scent.
 
---- Racial Skills: Dromites have a +2 racial bonus on Spot checks due to
+— Racial Skills: Dromites have a +2 racial bonus on Spot checks due to
 their compound eyes.
 
---- Racial Feats: Dromites gain Blind-fight as a bonus feat.
+— Racial Feats: Dromites gain Blind-fight as a bonus feat.
 
----Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin,
+—Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin,
 Terran.
 
----Favored Class: Wilder.
+—Favored Class: Wilder.
 
----Level Adjustment: +1.
+—Level Adjustment: +1.
 
 ## Duergar, Psionic
 
@@ -1254,111 +1253,111 @@ Medium Humanoid (Dwarf, Psionic)
 
 **Special Attacks:** Duergar traits, psi-like abilities
 
-### Combat {#duergar-psionic--combat}
+### Combat
 
 A psionic duergar does not possess the spell-like abilities of standard
 duergars. Instead, it has psi-like abilities.
 
-**Psi-Like Abilities:** 1/day---*expansion, invisibility.* These
-abilities are as the power (or spell) manifested by a psion (or
-sorcerer) of the duergar's Hit Dice (minimum 3rd level) and affect only
-the duergar and whatever he carries.
+**Psi-Like Abilities:** 1/day—*expansion, invisibility.* These abilities
+are as the power (or spell) manifested by a psion (or sorcerer) of the
+duergar’s Hit Dice (minimum 3rd level) and affect only the duergar and
+whatever he carries.
 
 ### Duergar as Characters
 
 Duergar characters possess the following racial traits.
 
---- +2 Constitution, --4 Charisma.
+— +2 Constitution, –4 Charisma.
 
----Medium size.
+—Medium size.
 
----Duergar base land speed is 20 feet. However, gray dwarves can move at
+—Duergar base land speed is 20 feet. However, gray dwarves can move at
 this speed even when wearing medium or heavy armor or when carrying a
 medium or heavy load (unlike other creatures, whose speed is reduced in
 such situations).
 
----Darkvision out to 120 feet.
+—Darkvision out to 120 feet.
 
----Immunity to paralysis, phantasms, and poison.
+—Immunity to paralysis, phantasms, and poison.
 
---- +2 racial bonus on saves against spells and spell-like effects.
+— +2 racial bonus on saves against spells and spell-like effects.
 
----Stability: Duergar are exceptionally stable on their feet. A duergar
+—Stability: Duergar are exceptionally stable on their feet. A duergar
 receives a +4 bonus on ability checks made to resist being bull rushed
 or tripped when standing on the ground (but not when climbing, flying,
 riding or otherwise not standing firmly on the ground).
 
----Stonecunning: This ability grants a duergar a +2 racial bonus on
-Search checks to notice unusual stonework, such as sliding walls,
-stonework, traps, new construction (even when built to match the old),
-unsafe stone surfaces, shaky stone ceilings, and the like. Something
-that isn't stone but that is disguised as stone also counts as unusual
-stonework. A gray dwarf who merely comes within 10 feet of unusual
-stonework can make a Search check as if he were actively searching, and
-a duergar can use the Search skill to find stonework traps as a rogue
-can. A duergar can also intuit depth, sensing his approximate depth
-underground as naturally as a human can sense which way is up.
+—Stonecunning: This ability grants a duergar a +2 racial bonus on Search
+checks to notice unusual stonework, such as sliding walls, stonework,
+traps, new construction (even when built to match the old), unsafe stone
+surfaces, shaky stone ceilings, and the like. Something that isn’t stone
+but that is disguised as stone also counts as unusual stonework. A gray
+dwarf who merely comes within 10 feet of unusual stonework can make a
+Search check as if he were actively searching, and a duergar can use the
+Search skill to find stonework traps as a rogue can. A duergar can also
+intuit depth, sensing his approximate depth underground as naturally as
+a human can sense which way is up.
 
 Duergar have a sixth sense about stonework, an innate ability that they
 get plenty of opportunity to practice and hone in their underground
 homes.
 
----Psi-Like Abilities: 1/day---expansion, invisibility. These abilities
+—Psi-Like Abilities: 1/day—expansion, invisibility. These abilities
 affect only the duergar and whatever he carries. Manifester level is
 equal to Hit Dice (minimum 3rd).
 
----Naturally Psionic: Duergar gain 3 bonus power points at 1st level.
-This benefit does not grant them the ability to manifest powers unless
-they gain that ability through another source, such as levels in a
-psionic class.
+—Naturally Psionic: Duergar gain 3 bonus power points at 1st level. This
+benefit does not grant them the ability to manifest powers unless they
+gain that ability through another source, such as levels in a psionic
+class.
 
---- +1 racial bonus on attack rolls against orcs (including half-orcs)
-and goblinoids (including goblins, hobgoblins, and bugbears).
+— +1 racial bonus on attack rolls against orcs (including half-orcs) and
+goblinoids (including goblins, hobgoblins, and bugbears).
 
---- +4 dodge bonus to Armor Class against creatures of the giant type
+— +4 dodge bonus to Armor Class against creatures of the giant type
 (such as ogres, trolls, and hill giants).
 
----Light Sensitivity (Ex): Duergar are dazzled in sunlight or within the
+—Light Sensitivity (Ex): Duergar are dazzled in sunlight or within the
 radius of a daylight spell.
 
----Duergar have a +4 racial bonus on Move Silently checks and a +1
-racial bonus on Listen and Spot checks. They have a +2 racial bonus on
-Appraise and Craft checks that are related to stone or metal.
+—Duergar have a +4 racial bonus on Move Silently checks and a +1 racial
+bonus on Listen and Spot checks. They have a +2 racial bonus on Appraise
+and Craft checks that are related to stone or metal.
 
----Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages:
+—Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages:
 Draconic, Giant, Goblin, Orc, Terran.
 
----Favored Class: Fighter.
+—Favored Class: Fighter.
 
----Level Adjustment: +1.
+—Level Adjustment: +1.
 
 ## Elan
 
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Elan, 1st-Level Warrior
-                         Medium Aberration (Psionic)
-  Hit Dice:              1d8+1 (5 hp)
-  Initiative:            +0
-  Speed:                 30 ft. (6 squares)
-  Armor Class:           14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14
-  Base Attack/Grapple:   +1/+2
-  Attack:                Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)
-  Full Attack:           Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       ---
-  Special Qualities:     Repletion, resilience, resistance
-  Saves:                 Fort +3, Ref +0, Will --1
-  Abilities:             Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 6
-  Skills:                Climb +3, Jump +3
-  Feats:                 Weapon Focus (warhammer)
-  Environment:           Any
-  Organization:          Congregate (2--4), squad (11--20 plus 2 3rdlevel sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5thlevel lieutenants, and 3 7thlevel captains)
-  Challenge Rating:      1/2
-  Treasure:              Standard
-  Alignment:             Usually neutral
-  Advancement:           By character class
-  Level Adjustment:      +0
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                            |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Elan, 1st-Level Warrior                                                                                                                                                                                                    |
+|                      | Medium Aberration (Psionic)                                                                                                                                                                                                |
+| Hit Dice:            | 1d8+1 (5 hp)                                                                                                                                                                                                               |
+| Initiative:          | +0                                                                                                                                                                                                                         |
+| Speed:               | 30 ft. (6 squares)                                                                                                                                                                                                         |
+| Armor Class:         | 14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14                                                                                                                                                         |
+| Base Attack/Grapple: | +1/+2                                                                                                                                                                                                                      |
+| Attack:              | Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)                                                                                                                                                                |
+| Full Attack:         | Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)                                                                                                                                                                |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                                |
+| Special Attacks:     | —                                                                                                                                                                                                                          |
+| Special Qualities:   | Repletion, resilience, resistance                                                                                                                                                                                          |
+| Saves:               | Fort +3, Ref +0, Will –1                                                                                                                                                                                                   |
+| Abilities:           | Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 6                                                                                                                                                                               |
+| Skills:              | Climb +3, Jump +3                                                                                                                                                                                                          |
+| Feats:               | Weapon Focus (warhammer)                                                                                                                                                                                                   |
+| Environment:         | Any                                                                                                                                                                                                                        |
+| Organization:        | Congregate (2–4), squad (11–20 plus 2 3rdlevel sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5thlevel lieutenants, and 3 7thlevel captains) |
+| Challenge Rating:    | 1/2                                                                                                                                                                                                                        |
+| Treasure:            | Standard                                                                                                                                                                                                                   |
+| Alignment:           | Usually neutral                                                                                                                                                                                                            |
+| Advancement:         | By character class                                                                                                                                                                                                         |
+| Level Adjustment:    | +0                                                                                                                                                                                                                         |
 
 Elans typically stand just under 6 feet tall and weigh in the
 neighborhood of 180 pounds, with men sometimes taller and heavier than
@@ -1368,7 +1367,7 @@ Elans speak Common.
 
 Most elans are psions or psychic warriors.
 
-### Combat {#elan--combat}
+### Combat
 
 **Repletion (Su):** By expending 1 power point, an elan does not need to
 eat or drink for 24 hours.
@@ -1387,52 +1386,52 @@ racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 Elan characters possess the following racial traits.
 
---- --2 Charisma.
+— –2 Charisma.
 
----Medium size.
+—Medium size.
 
----Elan base land speed is 30 feet.
+—Elan base land speed is 30 feet.
 
----No darkvision.
+—No darkvision.
 
----Naturally Psionic: Elans gain 1 bonus power point at 1st level.
+—Naturally Psionic: Elans gain 1 bonus power point at 1st level.
 
----Special Qualities (see above): Repletion, resilience, resistance.
+—Special Qualities (see above): Repletion, resilience, resistance.
 
----Automatic Languages: Common.
+—Automatic Languages: Common.
 
----Favored Class: Psion.
+—Favored Class: Psion.
 
----Level Adjustment: +0.
+—Level Adjustment: +0.
 
 ## Folugub
 
-  ---------------------- -----------------------------------------------------------------
-                         Medium-Size Aberration
-  Hit Dice:              4d8+12 (30 hp)
-  Initiative:            +3
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           18 (+3 Dex, +5 natural), touch 13, flatfooted 15
-  Base Attack/Grapple:   +3/+3
-  Attack:                Tongue +6 melee touch (liquefy crystal)
-  Full Attack:           Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Liquefy crystal
-  Special Qualities:     Darkvision 60 ft., scent
-  Saves:                 Fort +4, Ref +4, Will +5
-  Abilities:             Str 10, Dex 17, Con 17, Int 2, Wis 13, Cha 11
-  Skills:                Listen +6, Move Silently +4, Spot +6
-  Feats:                 Alertness, Weapon Finesse
-  Environment:           Underground
-  Organization:          Solitary or pair
-  Challenge Rating:      2
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           5--6 HD (Medium); 7--14 HD (Large)
-  Level Adjustment:      ---
-  ---------------------- -----------------------------------------------------------------
+|                      |                                                                 |
+|----------------------|-----------------------------------------------------------------|
+|                      | Medium-Size Aberration                                          |
+| Hit Dice:            | 4d8+12 (30 hp)                                                  |
+| Initiative:          | +3                                                              |
+| Speed:               | 40 ft. (8 squares)                                              |
+| Armor Class:         | 18 (+3 Dex, +5 natural), touch 13, flatfooted 15                |
+| Base Attack/Grapple: | +3/+3                                                           |
+| Attack:              | Tongue +6 melee touch (liquefy crystal)                         |
+| Full Attack:         | Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4) |
+| Space/Reach:         | 5 ft./5 ft.                                                     |
+| Special Attacks:     | Liquefy crystal                                                 |
+| Special Qualities:   | Darkvision 60 ft., scent                                        |
+| Saves:               | Fort +4, Ref +4, Will +5                                        |
+| Abilities:           | Str 10, Dex 17, Con 17, Int 2, Wis 13, Cha 11                   |
+| Skills:              | Listen +6, Move Silently +4, Spot +6                            |
+| Feats:               | Alertness, Weapon Finesse                                       |
+| Environment:         | Underground                                                     |
+| Organization:        | Solitary or pair                                                |
+| Challenge Rating:    | 2                                                               |
+| Treasure:            | None                                                            |
+| Alignment:           | Always neutral                                                  |
+| Advancement:         | 5–6 HD (Medium); 7–14 HD (Large)                                |
+| Level Adjustment:    | —                                                               |
 
-### Combat {#folugub--combat}
+### Combat
 
 A folugub can scent a crystal object up to 90 feet away, and once it has
 the scent, little deters it from its goal. It usually ceases attacking
@@ -1452,36 +1451,36 @@ immediately.
 
 ## Gray Glutton
 
-  ---------------------- -----------------------------------------------------------------
-                         Huge Magical Beast
-  Hit Dice:              9d10+36 (85 hp)
-  Initiative:            --1
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           20 (--2 size, --1 Dex, +13 natural), touch 7, flatfooted 20
-  Base Attack/Grapple:   +9/+25
-  Attack:                Bite +15 melee (2d8+8)
-  Full Attack:           Bite +15 melee (2d8+8) and 2 claws +10 melee (2d6+4)
-  Space/Reach:           15 ft./10 ft.
-  Special Attacks:       Null psionic exhalation
-  Special Qualities:     Darkvision 60 ft., low-light vision, power resistance 20, scent
-  Saves:                 Fort +10, Ref +5, Will +7
-  Abilities:             Str 27, Dex 9, Con 19, Int 2, Wis 15, Cha 20
-  Skills:                Jump +14, Listen +7, Spot +3
-  Feats:                 Closed Mind, Hostile Mind, Iron Will, Psionic Hole, Track^B^
-  Environment:           Underground
-  Organization:          Solitary, pair, or cluster (3--5)
-  Challenge Rating:      7
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           10--20 HD (Huge); 21--27 HD (Gargantuan)
-  Level Adjustment:      ---
-  ---------------------- -----------------------------------------------------------------
+|                      |                                                                       |
+|----------------------|-----------------------------------------------------------------------|
+|                      | Huge Magical Beast                                                    |
+| Hit Dice:            | 9d10+36 (85 hp)                                                       |
+| Initiative:          | –1                                                                    |
+| Speed:               | 40 ft. (8 squares)                                                    |
+| Armor Class:         | 20 (–2 size, –1 Dex, +13 natural), touch 7, flatfooted 20             |
+| Base Attack/Grapple: | +9/+25                                                                |
+| Attack:              | Bite +15 melee (2d8+8)                                                |
+| Full Attack:         | Bite +15 melee (2d8+8) and 2 claws +10 melee (2d6+4)                  |
+| Space/Reach:         | 15 ft./10 ft.                                                         |
+| Special Attacks:     | Null psionic exhalation                                               |
+| Special Qualities:   | Darkvision 60 ft., low-light vision, power resistance 20, scent       |
+| Saves:               | Fort +10, Ref +5, Will +7                                             |
+| Abilities:           | Str 27, Dex 9, Con 19, Int 2, Wis 15, Cha 20                          |
+| Skills:              | Jump +14, Listen +7, Spot +3                                          |
+| Feats:               | Closed Mind, Hostile Mind, Iron Will, Psionic Hole, Track<sup>B</sup> |
+| Environment:         | Underground                                                           |
+| Organization:        | Solitary, pair, or cluster (3–5)                                      |
+| Challenge Rating:    | 7                                                                     |
+| Treasure:            | None                                                                  |
+| Alignment:           | Always neutral                                                        |
+| Advancement:         | 10–20 HD (Huge); 21–27 HD (Gargantuan)                                |
+| Level Adjustment:    | —                                                                     |
 
-### Combat {#gray-glutton--combat}
+### Combat
 
 A gray glutton attacks anything psionic, or anything that stands in its
 way of tracking down new psionic prey. Of course, a gray glutton has to
-eat---and eat a lot to feed its bulk---so when not on the scent it will
+eat—and eat a lot to feed its bulk—so when not on the scent it will
 attack any living creature. It always breaks off attacks against
 nonpsionic foes if psionic prey is an option. The only creatures it
 refuses to eat are elves (and it dislikes the taste of dwarves). No
@@ -1502,31 +1501,31 @@ before it can exhale again.
 
 ## Half-Giant
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Half-Giant, 1st-Level Warrior
-                         Medium Giant (Psionic)
-  Hit Dice:              1d8+2 (6 hp)
-  Initiative:            --1
-  Speed:                 30 ft. (6 squares)
-  Armor Class:           13 (--1 Dex, +4 scale mail), touch 9, flat-footed 13
-  Base Attack/Grapple:   +1/+7
-  Attack:                Large greatsword +4 melee (3d6+3/19--20) or Large javelin +0 ranged (1d8+2)
-  Full Attack:           Large greatsword +4 melee (3d6+3/19--20) or Large javelin +0 ranged (1d8+2)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Psi-like abilities
-  Special Qualities:     Fire acclimated, giant's stature, low-light vision
-  Saves:                 Fort +4, Ref --1, Will --1
-  Abilities:             Str 15, Dex 9, Con 14, Int 10, Wis 9, Cha 8
-  Skills:                Listen +1, Spot +1
-  Feats:                 Weapon Focus (greatsword)
-  Environment:           Warm desert
-  Organization:          Team (2--4), squad (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
-  Challenge Rating:      1
-  Treasure:              Standard
-  Alignment:             Usually neutral good
-  Advancement:           By character class
-  Level Adjustment:      +1
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                         |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Half-Giant, 1st-Level Warrior                                                                                                                                                                                           |
+|                      | Medium Giant (Psionic)                                                                                                                                                                                                  |
+| Hit Dice:            | 1d8+2 (6 hp)                                                                                                                                                                                                            |
+| Initiative:          | –1                                                                                                                                                                                                                      |
+| Speed:               | 30 ft. (6 squares)                                                                                                                                                                                                      |
+| Armor Class:         | 13 (–1 Dex, +4 scale mail), touch 9, flat-footed 13                                                                                                                                                                     |
+| Base Attack/Grapple: | +1/+7                                                                                                                                                                                                                   |
+| Attack:              | Large greatsword +4 melee (3d6+3/19–20) or Large javelin +0 ranged (1d8+2)                                                                                                                                              |
+| Full Attack:         | Large greatsword +4 melee (3d6+3/19–20) or Large javelin +0 ranged (1d8+2)                                                                                                                                              |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                             |
+| Special Attacks:     | Psi-like abilities                                                                                                                                                                                                      |
+| Special Qualities:   | Fire acclimated, giant’s stature, low-light vision                                                                                                                                                                      |
+| Saves:               | Fort +4, Ref –1, Will –1                                                                                                                                                                                                |
+| Abilities:           | Str 15, Dex 9, Con 14, Int 10, Wis 9, Cha 8                                                                                                                                                                             |
+| Skills:              | Listen +1, Spot +1                                                                                                                                                                                                      |
+| Feats:               | Weapon Focus (greatsword)                                                                                                                                                                                               |
+| Environment:         | Warm desert                                                                                                                                                                                                             |
+| Organization:        | Team (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |
+| Challenge Rating:    | 1                                                                                                                                                                                                                       |
+| Treasure:            | Standard                                                                                                                                                                                                                |
+| Alignment:           | Usually neutral good                                                                                                                                                                                                    |
+| Advancement:         | By character class                                                                                                                                                                                                      |
+| Level Adjustment:    | +1                                                                                                                                                                                                                      |
 
 Half-giants typically stand from 7 feet to nearly 8 feet tall and weigh
 from 250 to 400 pounds, with men noticeably taller and heavier than
@@ -1534,7 +1533,7 @@ women.
 
 Half-giants speak Common. Many also learn Giant.
 
-### Combat {#half-giant--combat}
+### Combat
 
 Because of their giant ancestry, half-giants are able to use weapons
 sized for creatures larger than normal humans. They gain considerable
@@ -1552,12 +1551,12 @@ a half-giant is subject to a size modifier or special size modifier for
 an opposed check (such as during grapple checks, bull rush attempts, and
 trip attempts), the half-giant is treated as one size larger if doing so
 is advantageous to him. A half-giant is also considered to be one size
-larger when determining whether a creature's special attacks based on
+larger when determining whether a creature’s special attacks based on
 size (such as improved grab or swallow whole) can affect him. A
 half-giant can use weapons designed for a creature one size larger
 without penalty. However, his space and reach remain those of a creature
 of his actual size. The benefits of this racial trait stack with the
-effects of powers, abilities, and spells that change the subject's size
+effects of powers, abilities, and spells that change the subject’s size
 category.
 
 The half-giant warrior presented here had the following ability scores
@@ -1567,66 +1566,66 @@ before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 Half-giant characters possess the following racial traits.
 
---- +2 Constitution, +2 Strength, --2 Dexterity.
+— +2 Constitution, +2 Strength, –2 Dexterity.
 
----Medium size.
+—Medium size.
 
----Half-giant base land speed is 30 feet.
+—Half-giant base land speed is 30 feet.
 
----Low-light vision.
+—Low-light vision.
 
----Naturally Psionic: Half-giants gain 2 bonus power points at 1st
-level, regardless of whether they choose a psionic class.
+—Naturally Psionic: Half-giants gain 2 bonus power points at 1st level,
+regardless of whether they choose a psionic class.
 
----Fire Acclimated: Half-giants have a +2 racial bonus on saving throws
+—Fire Acclimated: Half-giants have a +2 racial bonus on saving throws
 against all fire spells and effects.
 
----Powerful build (see above).
+—Powerful build (see above).
 
----Special Attacks (see above): Psi-like abilities.
+—Special Attacks (see above): Psi-like abilities.
 
----Automatic Language: Common. Bonus Language: Draconic, Giant, Gnoll,
+—Automatic Language: Common. Bonus Language: Draconic, Giant, Gnoll,
 Ignan.
 
----Favored Class: Psychic warrior.
+—Favored Class: Psychic warrior.
 
----Level adjustment: +1.
+—Level adjustment: +1.
 
 ## Intellect Devourer
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Small Aberration (Evil, Psionic)
-  Hit Dice:              6d8+15 (42 hp)
-  Initiative:            +5
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           21 (+1 size, +5 Dex, +5 natural), touch 16, flat-footed 16
-  Base Attack/Grapple:   +4/+1
-  Attack:                Claw +6 melee (1d3+1)
-  Full Attack:           4 claws +6 melee (1d3+1)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Body thief, psi-like abilities
-  Special Qualities:     Blindsight 60 ft., damage reduction 10/adamantine, immunity to fire, power resistance 23, resistance to electricity 15, vulnerability to *protection from evil*
-  Saves:                 Fort +4, Ref +7, Will +6
-  Abilities:             Str 13, Dex 21, Con 15, Int 12, Wis 12, Cha 14
-  Skills:                Bluff + 15, Concentration +11 (+15 when manifesting defensively), Hide +14, Listen +14, Move Silently +16
-  Feats:                 Combat Manifestation, Toughness, Up the Walls, Wild Talent^B^
-  Environment:           Underground
-  Organization:          Solitary or pod (2--4)
-  Challenge Rating:      7
-  Treasure:              1/2 coins; double goods; standard items
-  Alignment:             Always chaotic evil
-  Advancement:           7--8 HD (Small); 9--15 HD (Medium); 16--18 HD (Large)
-  Level Adjustment:      +6
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Small Aberration (Evil, Psionic)                                                                                                                                |
+| Hit Dice:            | 6d8+15 (42 hp)                                                                                                                                                  |
+| Initiative:          | +5                                                                                                                                                              |
+| Speed:               | 40 ft. (8 squares)                                                                                                                                              |
+| Armor Class:         | 21 (+1 size, +5 Dex, +5 natural), touch 16, flat-footed 16                                                                                                      |
+| Base Attack/Grapple: | +4/+1                                                                                                                                                           |
+| Attack:              | Claw +6 melee (1d3+1)                                                                                                                                           |
+| Full Attack:         | 4 claws +6 melee (1d3+1)                                                                                                                                        |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                     |
+| Special Attacks:     | Body thief, psi-like abilities                                                                                                                                  |
+| Special Qualities:   | Blindsight 60 ft., damage reduction 10/adamantine, immunity to fire, power resistance 23, resistance to electricity 15, vulnerability to *protection from evil* |
+| Saves:               | Fort +4, Ref +7, Will +6                                                                                                                                        |
+| Abilities:           | Str 13, Dex 21, Con 15, Int 12, Wis 12, Cha 14                                                                                                                  |
+| Skills:              | Bluff + 15, Concentration +11 (+15 when manifesting defensively), Hide +14, Listen +14, Move Silently +16                                                       |
+| Feats:               | Combat Manifestation, Toughness, Up the Walls, Wild Talent<sup>B</sup>                                                                                          |
+| Environment:         | Underground                                                                                                                                                     |
+| Organization:        | Solitary or pod (2–4)                                                                                                                                           |
+| Challenge Rating:    | 7                                                                                                                                                               |
+| Treasure:            | 1/2 coins; double goods; standard items                                                                                                                         |
+| Alignment:           | Always chaotic evil                                                                                                                                             |
+| Advancement:         | 7–8 HD (Small); 9–15 HD (Medium); 16–18 HD (Large)                                                                                                              |
+| Level Adjustment:    | +6                                                                                                                                                              |
 
 Intellect devourers understand Common but must be in possession of a
 body to speak. An intellect devourer in possession of a body also knows
 the languages known by that victim.
 
-### Combat {#intellect-devourer--combat}
+### Combat
 
 **Body Thief (Su):** When an intellect devourer overcomes a lone victim,
-it consumes the victim's brain and enters the skull. As a full-round
+it consumes the victim’s brain and enters the skull. As a full-round
 action that provokes attacks of opportunity, the devourer can merge its
 form with that of a helpless or dead creature of Small size or larger.
 The devourer cannot merge its body with that of a creature immune to
@@ -1635,26 +1634,26 @@ extra damage from critical hits.
 When an intellect devourer completes its merging, it psionically
 consumes the brain of the victim (which kills it if it is not already
 dead). The devourer can exit the body at any time as a standard action,
-bursting the victim's skull and resuming its normal form.
+bursting the victim’s skull and resuming its normal form.
 
-After consuming its victim's brain, an intellect devourer can instead
+After consuming its victim’s brain, an intellect devourer can instead
 choose to animate the body for up to seven days as if it were the
-victim's original brain. The devourer retains its hit points, saving
+victim’s original brain. The devourer retains its hit points, saving
 throws, and mental ability scores, as well as its psi-like abilities. It
 assumes the physical qualities and ability scores of the victim, as if
-it had used *polymorph* to assume the victim's form. As long as the
+it had used *polymorph* to assume the victim’s form. As long as the
 intellect devourer occupies the body, it knows the languages spoken by
-the victim and very basic information about the victim's identity and
-personality, but none of the victim's specific memories or knowledge.
+the victim and very basic information about the victim’s identity and
+personality, but none of the victim’s specific memories or knowledge.
 
-**Psi-Like Abilities:** At will---*cloud mind, compression, detect
+**Psi-Like Abilities:** At will—*cloud mind, compression, detect
 psionics, ego whip* (2d4, DC 16\*), *empty mind* (+5 on Will saves\*),
-*id insinuation* (three targets, DC 16\*); 3/day---*body adjustment*
+*id insinuation* (three targets, DC 16\*); 3/day—*body adjustment*
 (2d12\*), *intellect fortress, painful strike.* Manifester level 7th.
 
 The save DCs are Charisma-based.
 
-\*Includes augmentation for the intellect devourer's manifester level.
+\*Includes augmentation for the intellect devourer’s manifester level.
 
 **Blindsight (Ex):** An intellect devourer can use nonvisual means to
 ascertain all foes within 60 feet as a sighted creature would.
@@ -1669,31 +1668,31 @@ have a +8 racial bonus on Move Silently checks and Listen checks.
 
 ## Maenad
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Maenad, 1st-Level Warrior
-                         Medium Humanoid (Maenad, Psionic)
-  Hit Dice:              1d8+1 (5 hp)
-  Initiative:            +0
-  Speed:                 30 ft. (6 squares)
-  Armor Class:           14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14
-  Base Attack/Grapple:   +1/+2
-  Attack:                Longsword +3 melee (1d8+1/19--20) or longbow +1 ranged (1d8/x3)
-  Full Attack:           Longsword +3 melee (1d8+1/19--20) or longbow +1 ranged (1d8/x3)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Psi-like abilities
-  Special Qualities:     Outburst
-  Saves:                 Fort +3, Ref +0, Will --1
-  Abilities:             Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8
-  Skills:                Climb +3, Jump +3
-  Feats:                 Weapon Focus (longsword)
-  Environment:           Warm hills
-  Organization:          Party (2--4), squad (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
-  Challenge Rating:      1/2
-  Treasure:              Standard
-  Alignment:             Usually neutral
-  Advancement:           By character class
-  Level Adjustment:      +0
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                          |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Maenad, 1st-Level Warrior                                                                                                                                                                                                |
+|                      | Medium Humanoid (Maenad, Psionic)                                                                                                                                                                                        |
+| Hit Dice:            | 1d8+1 (5 hp)                                                                                                                                                                                                             |
+| Initiative:          | +0                                                                                                                                                                                                                       |
+| Speed:               | 30 ft. (6 squares)                                                                                                                                                                                                       |
+| Armor Class:         | 14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14                                                                                                                                                       |
+| Base Attack/Grapple: | +1/+2                                                                                                                                                                                                                    |
+| Attack:              | Longsword +3 melee (1d8+1/19–20) or longbow +1 ranged (1d8/x3)                                                                                                                                                           |
+| Full Attack:         | Longsword +3 melee (1d8+1/19–20) or longbow +1 ranged (1d8/x3)                                                                                                                                                           |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                              |
+| Special Attacks:     | Psi-like abilities                                                                                                                                                                                                       |
+| Special Qualities:   | Outburst                                                                                                                                                                                                                 |
+| Saves:               | Fort +3, Ref +0, Will –1                                                                                                                                                                                                 |
+| Abilities:           | Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8                                                                                                                                                                             |
+| Skills:              | Climb +3, Jump +3                                                                                                                                                                                                        |
+| Feats:               | Weapon Focus (longsword)                                                                                                                                                                                                 |
+| Environment:         | Warm hills                                                                                                                                                                                                               |
+| Organization:        | Party (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |
+| Challenge Rating:    | 1/2                                                                                                                                                                                                                      |
+| Treasure:            | Standard                                                                                                                                                                                                                 |
+| Alignment:           | Usually neutral                                                                                                                                                                                                          |
+| Advancement:         | By character class                                                                                                                                                                                                       |
+| Level Adjustment:    | +0                                                                                                                                                                                                                       |
 
 Maenads typically stand more than 6 feet tall and weigh about 200
 pounds; males are the same height as and only marginally heavier than
@@ -1702,69 +1701,69 @@ heavier clothing and armor if possible.
 
 Maenads speak their own language and Common.
 
-### Combat {#maenad--combat}
+### Combat
 
-**Psi-Like Abilities:** 1/day---*energy ray*. A maenad can deal only
-sonic damage with this ability. Manifester level equal to 1/2 Hit Dice
+**Psi-Like Abilities:** 1/day—*energy ray*. A maenad can deal only sonic
+damage with this ability. Manifester level equal to 1/2 Hit Dice
 (minimum 1st). The save DC is Charisma-based.
 
 **Outburst (Ex):** Once per day for up to 4 rounds a maenad can
-subjugate his mentality. He takes a --2 penalty to Intelligence and
+subjugate his mentality. He takes a –2 penalty to Intelligence and
 Wisdom but gains a +2 bonus to Strength.
 
 ### Maenads as Characters
 
 Maenad characters possess the following racial traits.
 
----Medium size.
+—Medium size.
 
----Maenad base land speed is 30 feet.
+—Maenad base land speed is 30 feet.
 
----Naturally Psionic: Maenads gain 2 bonus power points at 1st level.
+—Naturally Psionic: Maenads gain 2 bonus power points at 1st level.
 
---- Special Attacks (see above): Psi-like abilities.
+— Special Attacks (see above): Psi-like abilities.
 
----Special Qualities (see above): Outburst.
+—Special Qualities (see above): Outburst.
 
----Automatic Languages: Common, Maenad. Bonus Languages: Aquan,
-Draconic, Dwarven, Elven, Goblin.
+—Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic,
+Dwarven, Elven, Goblin.
 
----Favored Class: Wilder.
+—Favored Class: Wilder.
 
----Level Adjustment: +0.
+—Level Adjustment: +0.
 
 ## Neothelid
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Gargantuan Aberration (Psionic)
-  Hit Dice:              25d8+200 (312 hp)
-  Initiative:            +2
-  Speed:                 20 ft. (4 squares)
-  Armor Class:           28 (--4 size, --2 Dex, +24 natural), touch 4, flatfooted 28
-  Base Attack/Grapple:   +18/+40
-  Attack:                Tentacle rake +24 melee (2d6+10/19--20)
-  Full Attack:           4 tentacle rakes +24 melee (2d6+10/19--20)
-  Space/Reach:           30 ft./30 ft.
-  Special Attacks:       Breath weapon, improved grab, psi-like abilities, swallow whole
-  Special Qualities:     Blindsight 100 ft., damage reduction 5/--, power resistance 25
-  Saves:                 Fort +16, Ref +6, Will +16
-  Abilities:             Str 30, Dex 7, Con 27, Int 16, Wis 15, Cha 20
-  Skills:                Climb +38, Knowledge (psionics) +31, Listen +30, Psicraft +31, Spot +30
-  Feats:                 Cleave, Improved Critical (tentacle rake), Improved Initiative, Power Attack, Psionic Endowment, Psionic Fist, Psionic Meditation, Speed of Thought, Wild Talent
-  Environment:           Underground
-  Organization:          Solitary
-  Challenge Rating:      15
-  Treasure:              Standard
-  Alignment:             Always lawful evil
-  Advancement:           26--45 HD (Colossal)
-  Level Adjustment:      ---
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                  |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Gargantuan Aberration (Psionic)                                                                                                                                  |
+| Hit Dice:            | 25d8+200 (312 hp)                                                                                                                                                |
+| Initiative:          | +2                                                                                                                                                               |
+| Speed:               | 20 ft. (4 squares)                                                                                                                                               |
+| Armor Class:         | 28 (–4 size, –2 Dex, +24 natural), touch 4, flatfooted 28                                                                                                        |
+| Base Attack/Grapple: | +18/+40                                                                                                                                                          |
+| Attack:              | Tentacle rake +24 melee (2d6+10/19–20)                                                                                                                           |
+| Full Attack:         | 4 tentacle rakes +24 melee (2d6+10/19–20)                                                                                                                        |
+| Space/Reach:         | 30 ft./30 ft.                                                                                                                                                    |
+| Special Attacks:     | Breath weapon, improved grab, psi-like abilities, swallow whole                                                                                                  |
+| Special Qualities:   | Blindsight 100 ft., damage reduction 5/–, power resistance 25                                                                                                    |
+| Saves:               | Fort +16, Ref +6, Will +16                                                                                                                                       |
+| Abilities:           | Str 30, Dex 7, Con 27, Int 16, Wis 15, Cha 20                                                                                                                    |
+| Skills:              | Climb +38, Knowledge (psionics) +31, Listen +30, Psicraft +31, Spot +30                                                                                          |
+| Feats:               | Cleave, Improved Critical (tentacle rake), Improved Initiative, Power Attack, Psionic Endowment, Psionic Fist, Psionic Meditation, Speed of Thought, Wild Talent |
+| Environment:         | Underground                                                                                                                                                      |
+| Organization:        | Solitary                                                                                                                                                         |
+| Challenge Rating:    | 15                                                                                                                                                               |
+| Treasure:            | Standard                                                                                                                                                         |
+| Alignment:           | Always lawful evil                                                                                                                                               |
+| Advancement:         | 26–45 HD (Colossal)                                                                                                                                              |
+| Level Adjustment:    | —                                                                                                                                                                |
 
 A mature neothelid is a gigantic worm scores of feet long and weighing
 tens of thousands of pounds. Although they understand Undercommon, they
 rarely communicate in a meaningful way.
 
-### Combat {#neothelid--combat}
+### Combat
 
 **Breath Weapon (Su):** Cone of acid 50 feet long, once every 1d4
 rounds; damage 14d10 acid, Reflex half DC 30.
@@ -1774,16 +1773,16 @@ creature with two tentacles during the same attack. If it gets a hold,
 it automatically deals tentacle damage and can attempt to swallow the
 foe.
 
-**Psi-Like Abilities:** At will---*body equilibrium, psionic charm* (all
+**Psi-Like Abilities:** At will—*body equilibrium, psionic charm* (all
 targets, duration 15 days, DC 21\*), *clairvoyant sense, psionic
 levitate, read thoughts* (DC 17\*), *psionic suggestion* (seven targets,
 DC 17\*), *telekinetic force* (500 lb., DC 18\*), *telekinetic maneuver*
 (+4 bonus, DC 19\*), *telekinetic thrust* (500 lb., DC 18\*), *psionic
-teleport, trace teleport, truevenom* (DC 19); 3/day---*mind thrust*
+teleport, trace teleport, truevenom* (DC 19); 3/day—*mind thrust*
 (15d10, DC 23\*), *psychic thrust* (6d6, DC 16\*\*). Manifester level
 15th. The save DCs are Charisma-based.
 
-\*Includes augmentation for the neothelid's manifester level.
+\*Includes augmentation for the neothelid’s manifester level.
 
 \*\*Includes the inherent +4 save adjustment described in the power.
 
@@ -1794,7 +1793,7 @@ plus 2d6 points of acid damage per round from stomach secretions. A
 swallowed creature can cut its way out by using a light slashing or
 piercing weapon to deal 25 points of damage to the stomach (AC 22). Once
 the creature exits, muscular action closes the hole; another swallowed
-opponent must cut its own way out. A neothelid's interior can hold 1
+opponent must cut its own way out. A neothelid’s interior can hold 1
 Huge, 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or
 smaller opponents.
 
@@ -1810,39 +1809,39 @@ Monsters who naturally possess psionic ability are not found as phrenic
 creatures. Phrenic creatures are freaks among their kind, otherwise
 normal creatures whose minds are more powerful than those of their
 fellows. Similarly, creatures who advance by character class are usually
-not phrenic creatures---they simply take levels in a psionic class to
-hone their mental powers.
+not phrenic creatures—they simply take levels in a psionic class to hone
+their mental powers.
 
 ### Creating a Phrenic Creature
 
-"Phrenic" is an inherited template that can be added to any nonmindless
+“Phrenic” is an inherited template that can be added to any nonmindless
 creature that does not already have the psionic subtype (referred to
-hereafter as the "base creature"). A phrenic creature uses all the base
-creature's statistics and special abilities except as noted here.
+hereafter as the “base creature”). A phrenic creature uses all the base
+creature’s statistics and special abilities except as noted here.
 
-**Size and Type:** The creature's type does not change, unless it is an
+**Size and Type:** The creature’s type does not change, unless it is an
 animal (in which case it becomes a magical beast \[augmented animal\]).
 It gains the psionic subtype.
 
 **Psi-Like Abilities (Sp):** A phrenic creature possesses the psi-like
 abilities indicated below, depending on its Hit Dice. The abilities are
 cumulative. Unless otherwise noted, an ability is usable once per day.
-Manifester level is equal to the creature's HD. The save DCs for a
-phrenic creature's psi-like abilities are Charisma-based.
+Manifester level is equal to the creature’s HD. The save DCs for a
+phrenic creature’s psi-like abilities are Charisma-based.
 
-  -------- ----------------------------------------------------------
-  HD       Abilities
-  1--2     3/day---*defensive precognition;* 1/day---*force screen*
-  3--4     3/day---*empty mind, mind thrust*
-  5--6     1/day---*body adjustment, brain lock*
-  7--8     1/day---*aversion, blast*
-  9--10    3/day---*intellect fortress;* 1/day---*psychic crush*
-  11--12   1/day---*psionic dominate*
-  13--14   1/day---*energy current, tower of iron will*
-  15--16   3/day---*psionic teleport*
-  17--18   1/day---*fission*
-  19--20   1/day---*ultrablast*
-  -------- ----------------------------------------------------------
+|       |                                                      |
+|-------|------------------------------------------------------|
+| HD    | Abilities                                            |
+| 1–2   | 3/day—*defensive precognition;* 1/day—*force screen* |
+| 3–4   | 3/day—*empty mind, mind thrust*                      |
+| 5–6   | 1/day—*body adjustment, brain lock*                  |
+| 7–8   | 1/day—*aversion, blast*                              |
+| 9–10  | 3/day—*intellect fortress;* 1/day—*psychic crush*    |
+| 11–12 | 1/day—*psionic dominate*                             |
+| 13–14 | 1/day—*energy current, tower of iron will*           |
+| 15–16 | 3/day—*psionic teleport*                             |
+| 17–18 | 1/day—*fission*                                      |
+| 19–20 | 1/day—*ultrablast*                                   |
 
 **Special Qualities:** A phrenic creature has all the special qualities
 of the base creature, plus the following special qualities.
@@ -1858,37 +1857,37 @@ Int is 3 or greater), Wis +2, Cha +4.
 **Feats:** A phrenic creature can take psionic feats, if it meets the
 prerequisites for such feats.
 
-**Challenge Rating:** Up to 5 HD, same as base creature +1; 6--10 HD,
+**Challenge Rating:** Up to 5 HD, same as base creature +1; 6–10 HD,
 same as base creature +2; 11+ HD, same as base creature +3.
 
 **Level Adjustment:** Same as base creature +2.
 
 ## Phthisic
 
-  ---------------------- --------------------------------------------------------------------------------------------
-                         Large Monstrous Humanoid (Psionic)
-  Hit Dice:              6d8+30 (57 hp)
-  Initiative:            +5
-  Speed:                 30 ft. (6 squares)
-  Armor Class:           18 (--1 size, +1 Dex, +8 natural), touch 10, flat-footed 17
-  Base Attack/Grapple:   +6/+16
-  Attack:                Claw +11 melee (1d6+6)
-  Full Attack:           2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind feed)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Mind feed, psi-like abilities
-  Special Qualities:     Damage reduction 10/magic, darkvision 60 ft., regeneration 5, resistance to cold 10, scent
-  Saves:                 Fort +9, Ref +6, Will +8
-  Abilities:             Str 23, Dex 12, Con 21, Int 10, Wis 16, Cha 16
-  Skills:                Listen +11, Move Silently +7, Spot +11
-  Feats:                 Alertness, Great Fortitude, Improved Initiative
-  Environment:           Any
-  Organization:          Solitary or gang (2--4)
-  Challenge Rating:      6
-  Treasure:              Standard
-  Alignment:             Always chaotic evil
-  Advancement:           7--12 HD (Large); 13--18 HD (Huge)
-  Level Adjustment:      ---
-  ---------------------- --------------------------------------------------------------------------------------------
+|                      |                                                                                            |
+|----------------------|--------------------------------------------------------------------------------------------|
+|                      | Large Monstrous Humanoid (Psionic)                                                         |
+| Hit Dice:            | 6d8+30 (57 hp)                                                                             |
+| Initiative:          | +5                                                                                         |
+| Speed:               | 30 ft. (6 squares)                                                                         |
+| Armor Class:         | 18 (–1 size, +1 Dex, +8 natural), touch 10, flat-footed 17                                 |
+| Base Attack/Grapple: | +6/+16                                                                                     |
+| Attack:              | Claw +11 melee (1d6+6)                                                                     |
+| Full Attack:         | 2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind feed)                         |
+| Space/Reach:         | 10 ft./10 ft.                                                                              |
+| Special Attacks:     | Mind feed, psi-like abilities                                                              |
+| Special Qualities:   | Damage reduction 10/magic, darkvision 60 ft., regeneration 5, resistance to cold 10, scent |
+| Saves:               | Fort +9, Ref +6, Will +8                                                                   |
+| Abilities:           | Str 23, Dex 12, Con 21, Int 10, Wis 16, Cha 16                                             |
+| Skills:              | Listen +11, Move Silently +7, Spot +11                                                     |
+| Feats:               | Alertness, Great Fortitude, Improved Initiative                                            |
+| Environment:         | Any                                                                                        |
+| Organization:        | Solitary or gang (2–4)                                                                     |
+| Challenge Rating:    | 6                                                                                          |
+| Treasure:            | Standard                                                                                   |
+| Alignment:           | Always chaotic evil                                                                        |
+| Advancement:         | 7–12 HD (Large); 13–18 HD (Huge)                                                           |
+| Level Adjustment:    | —                                                                                          |
 
 A phthisic stands 10 feet tall and weighs 600 pounds. It vaguely
 resembles the person whose mind the phthisic escaped from, but is
@@ -1898,59 +1897,59 @@ phthisic sprung can make a DC 25 Spot check to note the resemblance).
 A phthisic speaks the primary language of the mind that birthed it,
 usually Common.
 
-### Combat {#phthisic--combat}
+### Combat
 
 **Mind Feed (Ex):** A phthisic that hits with its bite attack deals 1d4
-points of Intelligence damage. If this effect reduces the opponent's
+points of Intelligence damage. If this effect reduces the opponent’s
 Intelligence score to 0, the ability damage becomes ability drain.
 
-**Psi-Like Abilities:** 3/day---*brain lock* (affects animals, fey,
+**Psi-Like Abilities:** 3/day—*brain lock* (affects animals, fey,
 giants, humanoids, magical beasts, and monstrous humanoids, DC 15\*),
 *dimension slide*, *ego whip* (1d4, DC 15\*)*, mental barrier, mind
-thrust* (ML 4th, 4d10, DC 15\*), *skate;* 1/day---*body adjustment*
-(heal 1d12\*), *catapsi* (DC 18). Manifester level 6th. The save DCs are
+thrust* (ML 4th, 4d10, DC 15\*), *skate;* 1/day—*body adjustment* (heal
+1d12\*), *catapsi* (DC 18). Manifester level 6th. The save DCs are
 Charisma-based.
 
-\*Includes augmentation for the phthisic's manifester level.
+\*Includes augmentation for the phthisic’s manifester level.
 
 **Regeneration (Ex):** Fire and acid deal normal damage to a phthisic.
 
 ## Psicrystal
 
-  ------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------
-                                              Diminutive Construct
-  Hit Dice:                                   As master's HD (hp 1/2 master's)
-  Initiative:                                 +2
-  Speed:                                      30 ft. (6 squares), climb 20 ft.\*
-  Armor Class:                                16 (+4 size, +2 Dex\*), touch 16, flatfooted 14
-  Base Attack/Grapple:                        +0/--17
-  Attack:                                     ---
-  Full Attack:                                ---
-  Space/Reach:                                1 ft./0 ft.
-  Special Attacks:                            ---
-  Special Qualities:                          Construct traits, hardness 8, psicrystal granted abilities (improved evasion, personality, self-propulsion, share powers, sighted, telepathic link)
-  Saves:                                      As master's saves
-  Abilities:                                  Str 1\*, Dex 15\*, Con ---, Int 6, Wis 10, Cha 10
-  Skills:                                     Climb +14\*, Listen +6, Move Silently +6, Search +2, Spot +6
-  Feats:                                      Alertness
-  Environment:                                Any
-  Organization:                               Solitary
-  Challenge Rating:                           Included with master
-  Treasure:                                   None
-  Alignment:                                  As master
-  Advancement:                                ---
-  Level Adjustment:                           ---
-  \*With self-propulsion ability activated.   
-  ------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------
+|                                           |                                                                                                                                                     |
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                           | Diminutive Construct                                                                                                                                |
+| Hit Dice:                                 | As master’s HD (hp 1/2 master’s)                                                                                                                    |
+| Initiative:                               | +2                                                                                                                                                  |
+| Speed:                                    | 30 ft. (6 squares), climb 20 ft.\*                                                                                                                  |
+| Armor Class:                              | 16 (+4 size, +2 Dex\*), touch 16, flatfooted 14                                                                                                     |
+| Base Attack/Grapple:                      | +0/–17                                                                                                                                              |
+| Attack:                                   | —                                                                                                                                                   |
+| Full Attack:                              | —                                                                                                                                                   |
+| Space/Reach:                              | 1 ft./0 ft.                                                                                                                                         |
+| Special Attacks:                          | —                                                                                                                                                   |
+| Special Qualities:                        | Construct traits, hardness 8, psicrystal granted abilities (improved evasion, personality, self-propulsion, share powers, sighted, telepathic link) |
+| Saves:                                    | As master’s saves                                                                                                                                   |
+| Abilities:                                | Str 1\*, Dex 15\*, Con —, Int 6, Wis 10, Cha 10                                                                                                     |
+| Skills:                                   | Climb +14\*, Listen +6, Move Silently +6, Search +2, Spot +6                                                                                        |
+| Feats:                                    | Alertness                                                                                                                                           |
+| Environment:                              | Any                                                                                                                                                 |
+| Organization:                             | Solitary                                                                                                                                            |
+| Challenge Rating:                         | Included with master                                                                                                                                |
+| Treasure:                                 | None                                                                                                                                                |
+| Alignment:                                | As master                                                                                                                                           |
+| Advancement:                              | —                                                                                                                                                   |
+| Level Adjustment:                         | —                                                                                                                                                   |
+| \*With self-propulsion ability activated. |                                                                                                                                                     |
 
 The psicrystal described here is that of a 1st-level manifester.
 
-### Combat {#psicrystal--combat}
+### Combat
 
-A psicrystal's characteristics depend on its master. Its Hit Dice are
-equal to its master's Hit Dice (counting only levels in psion or
-wilder), its hit points are equal to half its master's, and its saving
-throw bonuses are the same as its master's.
+A psicrystal’s characteristics depend on its master. Its Hit Dice are
+equal to its master’s Hit Dice (counting only levels in psion or
+wilder), its hit points are equal to half its master’s, and its saving
+throw bonuses are the same as its master’s.
 
 **Construct Traits:** A psicrystal has immunity to poison, *sleep,*
 paralysis, stunning, disease, death effects, necromancy effects,
@@ -1975,43 +1974,43 @@ to take 10, even if rushed or threatened.
 
 ## Psion-Killer
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------
-                         Large Construct
-  Hit Dice:              15d10+30 (112 hp)
-  Initiative:            +0
-  Speed:                 20 ft. (4 squares)
-  Armor Class:           28 (--1 size, +19 natural), touch 9, flat-footed 28
-  Base Attack/Grapple:   +11/+25
-  Attack:                Slam +20 melee (2d10+10)
-  Full Attack:           2 slams +20 melee (2d10+10)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Dispel psionics
-  Special Qualities:     Construct traits, damage reduction 10/adamantine, darkvision 60 ft., immunity to psionics, lowlight vision
-  Saves:                 Fort +5, Ref +5, Will +5
-  Abilities:             Str 31, Dex 10, Con ---, Int ---, Wis 11, Cha 1
-  Skills:                ---
-  Feats:                 ---
-  Environment:           Any
-  Organization:          Solitary or gang (2--4)
-  Challenge Rating:      12
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           16--21 HD (Large); 22--45 (Huge)
-  Level Adjustment:      ---
-  ---------------------- ------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------|
+|                      | Large Construct                                                                                            |
+| Hit Dice:            | 15d10+30 (112 hp)                                                                                          |
+| Initiative:          | +0                                                                                                         |
+| Speed:               | 20 ft. (4 squares)                                                                                         |
+| Armor Class:         | 28 (–1 size, +19 natural), touch 9, flat-footed 28                                                         |
+| Base Attack/Grapple: | +11/+25                                                                                                    |
+| Attack:              | Slam +20 melee (2d10+10)                                                                                   |
+| Full Attack:         | 2 slams +20 melee (2d10+10)                                                                                |
+| Space/Reach:         | 10 ft./10 ft.                                                                                              |
+| Special Attacks:     | Dispel psionics                                                                                            |
+| Special Qualities:   | Construct traits, damage reduction 10/adamantine, darkvision 60 ft., immunity to psionics, lowlight vision |
+| Saves:               | Fort +5, Ref +5, Will +5                                                                                   |
+| Abilities:           | Str 31, Dex 10, Con —, Int —, Wis 11, Cha 1                                                                |
+| Skills:              | —                                                                                                          |
+| Feats:               | —                                                                                                          |
+| Environment:         | Any                                                                                                        |
+| Organization:        | Solitary or gang (2–4)                                                                                     |
+| Challenge Rating:    | 12                                                                                                         |
+| Treasure:            | None                                                                                                       |
+| Alignment:           | Always neutral                                                                                             |
+| Advancement:         | 16–21 HD (Large); 22–45 (Huge)                                                                             |
+| Level Adjustment:    | —                                                                                                          |
 
 A psion-killer (also called a crystal golem) is 9-1/2 feet tall and
 weighs around 2,500 pounds. Its body is composed of sharply faceted
 crystal.
 
-### Combat {#psion-killer--combat}
+### Combat
 
 A psion-killer does nothing without explicit orders from its creator. It
 follows instructions literally and is incapable of any strategy or
-tactics. Psion-killers don't use weapons, even if ordered to, but always
+tactics. Psion-killers don’t use weapons, even if ordered to, but always
 strike with their fists.
 
-A psion-killer's creator can command it if the psion-killer is within 60
+A psion-killer’s creator can command it if the psion-killer is within 60
 feet and can see and hear its creator. If uncommanded, a psion-killer
 usually follows its last instruction to the best of its ability, though
 if attacked it returns the attack. Its creator can give a psion-killer a
@@ -2033,9 +2032,9 @@ be repaired.
 **Immunity to Psionics (Ex):** Psion-killers completely resist psionic
 effects that are subject to power resistance.
 
-### Construction {#psion-killer--construction}
+### Construction
 
-A psion-killer's body is constructed from massive blocks of quartz
+A psion-killer’s body is constructed from massive blocks of quartz
 crystal with a total weight of at least 5,000 pounds and costing at
 least 8,000 gp. Assembling the body requires a DC 20 Craft (sculpting)
 check or a DC 20 Craft (stonemasonry) check.
@@ -2046,54 +2045,53 @@ ML 16th; Craft Construct, *bend reality*, *dispel psionics*,
 
 ## Puppeteer
 
-  ---------------------- ------------------------------------------------------
-                         Fine Magical Beast (Psionic)
-  Hit Dice:              1/4 d10 (1 hp)
-  Initiative:            +2
-  Speed:                 5 ft. (1 square)
-  Armor Class:           20 (+8 size, +2 Dex), touch 20, flat-footed 18
-  Base Attack/Grapple:   +1/--20
-  Attack:                Bite +4 melee (1d2--5)
-  Full Attack:           Bite +4 melee (1d2--5)
-  Space/Reach:           1/2 ft./0 ft.
-  Special Attacks:       Enthrall, psi-like abilities
-  Special Qualities:     Blindsight 60 ft., host protection, telepathy 20 ft.
-  Saves:                 Fort +2, Ref +4, Will +5
-  Abilities:             Str 1, Dex 15, Con 11, Int 14, Wis 16, Cha 14
-  Skills:                Hide +22, Listen +7, Sense Motive +7, Spot +7
-  Feats:                 Iron Will
-  Environment:           Underground
-  Organization:          Solitary or pack (2--8)
-  Challenge Rating:      1
-  Treasure:              None
-  Alignment:             Usually lawful evil
-  Advancement:           ---
-  Level Adjustment:      ---
-  ---------------------- ------------------------------------------------------
+|                      |                                                      |
+|----------------------|------------------------------------------------------|
+|                      | Fine Magical Beast (Psionic)                         |
+| Hit Dice:            | 1/4 d10 (1 hp)                                       |
+| Initiative:          | +2                                                   |
+| Speed:               | 5 ft. (1 square)                                     |
+| Armor Class:         | 20 (+8 size, +2 Dex), touch 20, flat-footed 18       |
+| Base Attack/Grapple: | +1/–20                                               |
+| Attack:              | Bite +4 melee (1d2–5)                                |
+| Full Attack:         | Bite +4 melee (1d2–5)                                |
+| Space/Reach:         | 1/2 ft./0 ft.                                        |
+| Special Attacks:     | Enthrall, psi-like abilities                         |
+| Special Qualities:   | Blindsight 60 ft., host protection, telepathy 20 ft. |
+| Saves:               | Fort +2, Ref +4, Will +5                             |
+| Abilities:           | Str 1, Dex 15, Con 11, Int 14, Wis 16, Cha 14        |
+| Skills:              | Hide +22, Listen +7, Sense Motive +7, Spot +7        |
+| Feats:               | Iron Will                                            |
+| Environment:         | Underground                                          |
+| Organization:        | Solitary or pack (2–8)                               |
+| Challenge Rating:    | 1                                                    |
+| Treasure:            | None                                                 |
+| Alignment:           | Usually lawful evil                                  |
+| Advancement:         | —                                                    |
+| Level Adjustment:    | —                                                    |
 
 Puppeteers do not speak, though they can speak indirectly using a host
-body's vocal cords, in whatever language the host knows (usually
+body’s vocal cords, in whatever language the host knows (usually
 Common).
 
-### Combat {#puppeteer--combat}
+### Combat
 
 Puppeteers use their psionic powers in conjunction with their enthrall
 ability to gain control over potential hosts. Once it is in control, a
-puppeteer almost exclusively relies on the host's mental and physical
+puppeteer almost exclusively relies on the host’s mental and physical
 abilities, although it can use its own powers to enhance their
 effectiveness in a particularly dangerous situation.
 
 **Enthrall (Ex):** If a puppeteer is in physical contact with a person
 it has charmed (the puppeteer establishes a physical hold by means of
 slender infiltrating tendrils), the subject acts as if dominated.
-(Puppeteers often seek to charm victims first and then "ask" to be
+(Puppeteers often seek to charm victims first and then “ask” to be
 picked up.) So long as the puppeteer remains in contact with the victim,
 the domination remains in effect, even if a check would normally
 indicate that the effect is broken.
 
-**Psi-Like Abilities:** 3/day--- *detect psionics, mental barrier,
-psionic charm* (DC 13). Manifester level 1st. The save DCs are
-Charisma-based.
+**Psi-Like Abilities:** 3/day— *detect psionics, mental barrier, psionic
+charm* (DC 13). Manifester level 1st. The save DCs are Charisma-based.
 
 **Blindsight (Ex):** A puppeteer can ascertain creatures by nonvisual
 means within 60 feet.
@@ -2113,68 +2111,68 @@ creature within 20 feet that has a language.
 
 ## Puppeteer, Flesh Harrower
 
-  ---------------------- ----------------------------------------------------------
-                         Small Magical Beast (Psionic)
-  Hit Dice:              3d10+15 (31 hp)
-  Initiative:            +3
-  Speed:                 20 ft. (4 squares)
-  Armor Class:           16 (+3 Dex, +3 natural), touch 13, flat-footed 13
-  Base Attack/Grapple:   +3/+1
-  Attack:                Bite +6 melee (1d6+2)
-  Full Attack:           Bite +6 melee (1d6+2) and 2 tail blades +1 melee (1d4+1)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Psi-like abilities
-  Special Qualities:     Blindsight 60 ft., telepathy 20 ft.
-  Saves:                 Fort +8, Ref +6, Will +4
-  Abilities:             Str 14, Dex 17, Con 21, Int 11, Wis 12, Cha 12
-  Skills:                Hide +10, Move Silently +6, Listen +6, Spot +6
-  Feats:                 Alertness, Iron Will
-  Environment:           Underground
-  Organization:          Solitary or cluster (2--5)
-  Challenge Rating:      2
-  Treasure:              None
-  Alignment:             Always neutral
-  Advancement:           4--6 HD (Small); 7--9 HD (Medium)
-  Level Adjustment:      ---
-  ---------------------- ----------------------------------------------------------
+|                      |                                                          |
+|----------------------|----------------------------------------------------------|
+|                      | Small Magical Beast (Psionic)                            |
+| Hit Dice:            | 3d10+15 (31 hp)                                          |
+| Initiative:          | +3                                                       |
+| Speed:               | 20 ft. (4 squares)                                       |
+| Armor Class:         | 16 (+3 Dex, +3 natural), touch 13, flat-footed 13        |
+| Base Attack/Grapple: | +3/+1                                                    |
+| Attack:              | Bite +6 melee (1d6+2)                                    |
+| Full Attack:         | Bite +6 melee (1d6+2) and 2 tail blades +1 melee (1d4+1) |
+| Space/Reach:         | 5 ft./5 ft.                                              |
+| Special Attacks:     | Psi-like abilities                                       |
+| Special Qualities:   | Blindsight 60 ft., telepathy 20 ft.                      |
+| Saves:               | Fort +8, Ref +6, Will +4                                 |
+| Abilities:           | Str 14, Dex 17, Con 21, Int 11, Wis 12, Cha 12           |
+| Skills:              | Hide +10, Move Silently +6, Listen +6, Spot +6           |
+| Feats:               | Alertness, Iron Will                                     |
+| Environment:         | Underground                                              |
+| Organization:        | Solitary or cluster (2–5)                                |
+| Challenge Rating:    | 2                                                        |
+| Treasure:            | None                                                     |
+| Alignment:           | Always neutral                                           |
+| Advancement:         | 4–6 HD (Small); 7–9 HD (Medium)                          |
+| Level Adjustment:    | —                                                        |
 
-### Combat {#puppeteer-flesh-harrower--combat}
+### Combat
 
-**Psi-Like Abilities:** 3/day---*concealing amorpha*, *hustle*, *mental
-barrier;* 1/day---*vigor* (+15 hp\*). Manifester level 3rd.
+**Psi-Like Abilities:** 3/day—*concealing amorpha*, *hustle*, *mental
+barrier;* 1/day—*vigor* (+15 hp\*). Manifester level 3rd.
 
-\*Includes augmentation for the flesh harrower's manifester level.
+\*Includes augmentation for the flesh harrower’s manifester level.
 
 ## Temporal Filcher
 
-  ---------------------- --------------------------------------------------------------------------
-                         Large Aberration (Psionic)
-  Hit Dice:              8d8+16 (52 hp)
-  Initiative:            +7
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           15 (--1 size, +3 Dex, +3 natural), touch 12, flat-footed 12
-  Base Attack/Grapple:   +6/+11
-  Attack:                Claw +6 melee (1d6+1)
-  Full Attack:           4 claws +6 melee (1d6+1) and bite +1 melee (1d8) and horn +1 melee (1d4)
-  Space/Reach:           10 ft./10 ft.
-  Special Attacks:       Improved grab, psi-like abilities, time filch
-  Special Qualities:     Darkvision 60 ft.
-  Saves:                 Fort +4, Ref +5, Will +7
-  Abilities:             Str 13, Dex 17, Con 14, Int 7, Wis 12, Cha 14
-  Skills:                Listen +7, Spot +7, Tumble +6
-  Feats:                 Alertness, Dodge, Improved Initiative
-  Environment:           Any
-  Organization:          Solitary
-  Challenge Rating:      3
-  Treasure:              Standard
-  Alignment:             Usually evil (any)
-  Advancement:           9--15 HD (Large)
-  Level Adjustment:      ---
-  ---------------------- --------------------------------------------------------------------------
+|                      |                                                                          |
+|----------------------|--------------------------------------------------------------------------|
+|                      | Large Aberration (Psionic)                                               |
+| Hit Dice:            | 8d8+16 (52 hp)                                                           |
+| Initiative:          | +7                                                                       |
+| Speed:               | 40 ft. (8 squares)                                                       |
+| Armor Class:         | 15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12               |
+| Base Attack/Grapple: | +6/+11                                                                   |
+| Attack:              | Claw +6 melee (1d6+1)                                                    |
+| Full Attack:         | 4 claws +6 melee (1d6+1) and bite +1 melee (1d8) and horn +1 melee (1d4) |
+| Space/Reach:         | 10 ft./10 ft.                                                            |
+| Special Attacks:     | Improved grab, psi-like abilities, time filch                            |
+| Special Qualities:   | Darkvision 60 ft.                                                        |
+| Saves:               | Fort +4, Ref +5, Will +7                                                 |
+| Abilities:           | Str 13, Dex 17, Con 14, Int 7, Wis 12, Cha 14                            |
+| Skills:              | Listen +7, Spot +7, Tumble +6                                            |
+| Feats:               | Alertness, Dodge, Improved Initiative                                    |
+| Environment:         | Any                                                                      |
+| Organization:        | Solitary                                                                 |
+| Challenge Rating:    | 3                                                                        |
+| Treasure:            | Standard                                                                 |
+| Alignment:           | Usually evil (any)                                                       |
+| Advancement:         | 9–15 HD (Large)                                                          |
+| Level Adjustment:    | —                                                                        |
 
 Temporal filchers do not speak.
 
-### Combat {#temporal-filcher--combat}
+### Combat
 
 **Improved Grab (Ex):** To use this ability, a temporal filcher must hit
 a creature of Large size or smaller with two claw attacks. It can then
@@ -2182,13 +2180,13 @@ attempt to start a grapple as a free action without provoking attacks of
 opportunity. If it wins the grapple check, it establishes a hold and
 uses its time filch ability.
 
-**Psi-Like Abilities:** At will---*chameleon*, *distract* (DC 13),
+**Psi-Like Abilities:** At will—*chameleon*, *distract* (DC 13),
 *psionic dimension door*, *psionic levitate*, *wall walker;* 3/
-day---*mental barrier*. Manifester level 8th. The save DC is
+day—*mental barrier*. Manifester level 8th. The save DC is
 Charisma-based.
 
 **Time Filch (Su):** If a temporal filcher successfully grapples a Large
-or smaller creature, it latches onto the opponent's body and shifts 7
+or smaller creature, it latches onto the opponent’s body and shifts 7
 minutes forward in time as a free action. Observers (if any) see the
 temporal filcher and its prey disappear in a shimmer, then reappear 7
 minutes later in exactly the orientation and condition they left. For
@@ -2199,34 +2197,34 @@ manifested by an 8th-level manifester.
 
 ## Thought Eater
 
-  ---------------------- -----------------------------------------------------------
-                         Small Aberration (Psionic)
-  Hit Dice:              3d8 (13 hp)
-  Initiative:            +8
-  Speed:                 40 ft. (8 squares)
-  Armor Class:           17 (+1 size, +4 Dex, +2 natural), touch 15, flatfooted 13
-  Base Attack/Grapple:   +2/--1
-  Attack:                +4 melee touch (eat thoughts)
-  Full Attack:           +4 melee touch (eat thoughts)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Eat thoughts, psi-like abilities
-  Special Qualities:     Darkvision 60 ft., ethereal jaunt
-  Saves:                 Fort +1, Ref +5, Will +4
-  Abilities:             Str 12, Dex 18, Con 11, Int 7, Wis 12, Cha 14
-  Skills:                Hide +10, Listen +5, Spot +5
-  Feats:                 Alertness, Improved Initiative
-  Environment:           Ethereal Plane
-  Organization:          Solitary or group (1--3)
-  Challenge Rating:      2
-  Treasure:              None
-  Alignment:             Usually neutral
-  Advancement:           4--6 HD (Small)
-  Level Adjustment:      ---
-  ---------------------- -----------------------------------------------------------
+|                      |                                                           |
+|----------------------|-----------------------------------------------------------|
+|                      | Small Aberration (Psionic)                                |
+| Hit Dice:            | 3d8 (13 hp)                                               |
+| Initiative:          | +8                                                        |
+| Speed:               | 40 ft. (8 squares)                                        |
+| Armor Class:         | 17 (+1 size, +4 Dex, +2 natural), touch 15, flatfooted 13 |
+| Base Attack/Grapple: | +2/–1                                                     |
+| Attack:              | +4 melee touch (eat thoughts)                             |
+| Full Attack:         | +4 melee touch (eat thoughts)                             |
+| Space/Reach:         | 5 ft./5 ft.                                               |
+| Special Attacks:     | Eat thoughts, psi-like abilities                          |
+| Special Qualities:   | Darkvision 60 ft., ethereal jaunt                         |
+| Saves:               | Fort +1, Ref +5, Will +4                                  |
+| Abilities:           | Str 12, Dex 18, Con 11, Int 7, Wis 12, Cha 14             |
+| Skills:              | Hide +10, Listen +5, Spot +5                              |
+| Feats:               | Alertness, Improved Initiative                            |
+| Environment:         | Ethereal Plane                                            |
+| Organization:        | Solitary or group (1–3)                                   |
+| Challenge Rating:    | 2                                                         |
+| Treasure:            | None                                                      |
+| Alignment:           | Usually neutral                                           |
+| Advancement:         | 4–6 HD (Small)                                            |
+| Level Adjustment:    | —                                                         |
 
 Thought eaters do not speak.
 
-### Combat {#thought-eater--combat}
+### Combat
 
 A thought eater can spend a maximum of 10 continuous rounds on the
 Material Plane before its wispy flesh finally dissipates and it falls
@@ -2244,12 +2242,12 @@ points.
 A thought eater requires 12 power points per day to survive but will
 gorge itself on weak prey.
 
-**Psi-Like Abilities:** At will---*detect psionics*, *distract* (DC 13),
-*precognition, psionic daze* (DC 13\*); 3/day---*thought shield.*
+**Psi-Like Abilities:** At will—*detect psionics*, *distract* (DC 13),
+*precognition, psionic daze* (DC 13\*); 3/day—*thought shield.*
 
 Manifester level 3rd. The save DCs are Charisma-based.
 
-\*Includes augmentation for the thought eater's manifester level.
+\*Includes augmentation for the thought eater’s manifester level.
 
 **Ethereal Jaunt (Su):** A thought eater can shift from the Ethereal
 Plane to the Material Plane as part of any move action, and then shift
@@ -2258,35 +2256,35 @@ back again as a free action. The ability is otherwise identical to the
 
 ## Thought Slayer
 
-  ---------------------- ------------------------------------------------------------
-                         Huge Aberration (Psionic)
-  Hit Dice:              14d8+70 (133 hp)
-  Initiative:            +1
-  Speed:                 50 ft. (10 squares)
-  Armor Class:           23 (--2 size, +1 Dex, +14 natural), touch 9, flatfooted 22
-  Base Attack/Grapple:   +10/+26
-  Attack:                Bite +17 melee (3d6+12)
-  Full Attack:           Bite +17 melee (3d6+12)
-  Space/Reach:           15 ft./15 ft.
-  Special Attacks:       Mind-consuming gaze, psi-like abilities
-  Special Qualities:     Darkvision 60 ft., ethereal jaunt, power resistance 21
-  Saves:                 Fort +11, Ref +5, Will +10
-  Abilities:             Str 26, Dex 13, Con 21, Int 7, Wis 12, Cha 15
-  Skills:                Climb +12, Jump +20, Listen +7, Spot +8
-  Feats:                 Alertness, Cleave, Great Fortitude, Power Attack,
-  Weapon Focus (bite)    
-  Environment:           Ethereal Plane
-  Organization:          Solitary or pack (2--4)
-  Challenge Rating:      13
-  Treasure:              Standard
-  Alignment:             Often chaotic neutral
-  Advancement:           15--28 HD (Huge)
-  Level Adjustment:      ---
-  ---------------------- ------------------------------------------------------------
+|                      |                                                           |
+|----------------------|-----------------------------------------------------------|
+|                      | Huge Aberration (Psionic)                                 |
+| Hit Dice:            | 14d8+70 (133 hp)                                          |
+| Initiative:          | +1                                                        |
+| Speed:               | 50 ft. (10 squares)                                       |
+| Armor Class:         | 23 (–2 size, +1 Dex, +14 natural), touch 9, flatfooted 22 |
+| Base Attack/Grapple: | +10/+26                                                   |
+| Attack:              | Bite +17 melee (3d6+12)                                   |
+| Full Attack:         | Bite +17 melee (3d6+12)                                   |
+| Space/Reach:         | 15 ft./15 ft.                                             |
+| Special Attacks:     | Mind-consuming gaze, psi-like abilities                   |
+| Special Qualities:   | Darkvision 60 ft., ethereal jaunt, power resistance 21    |
+| Saves:               | Fort +11, Ref +5, Will +10                                |
+| Abilities:           | Str 26, Dex 13, Con 21, Int 7, Wis 12, Cha 15             |
+| Skills:              | Climb +12, Jump +20, Listen +7, Spot +8                   |
+| Feats:               | Alertness, Cleave, Great Fortitude, Power Attack,         |
+| Weapon Focus (bite)  |                                                           |
+| Environment:         | Ethereal Plane                                            |
+| Organization:        | Solitary or pack (2–4)                                    |
+| Challenge Rating:    | 13                                                        |
+| Treasure:            | Standard                                                  |
+| Alignment:           | Often chaotic neutral                                     |
+| Advancement:         | 15–28 HD (Huge)                                           |
+| Level Adjustment:    | —                                                         |
 
 Thought slayers do not speak.
 
-### Combat {#thought-slayer--combat}
+### Combat
 
 A thought slayer can spend a maximum of 10 continuous minutes on the
 Material Plane before its wispy flesh finally dissipates and it falls
@@ -2296,7 +2294,7 @@ continuing the fight.
 **Mind-Consuming Gaze (Su):** Instantly kill (by draining the mind
 away), range 30 feet, Fortitude DC 19 negates. The save DC is
 Charisma-based. This is considered a mind-affecting death effect. If a
-thought slayer's gaze is met indirectly (such as through a mirror or a
+thought slayer’s gaze is met indirectly (such as through a mirror or a
 reflection in water), the opponent does not die on a failed save but
 instead is dazed for 14 rounds. This otherwise is a gaze effect.
 
@@ -2304,13 +2302,13 @@ The gaze cannot affect creatures on the Material Plane while the thought
 slayer remains ethereal, but it can affect ethereal creatures while the
 thought slayer is on the Material Plane.
 
-**Psi-Like Abilities:** At will---*brain lock* (any nonmindless, DC
-14\*), *chameleon*, *detect psionics*, *distract* (DC 13); 3/day---*body
+**Psi-Like Abilities:** At will—*brain lock* (any nonmindless, DC 14\*),
+*chameleon*, *detect psionics*, *distract* (DC 13); 3/day—*body
 adjustment* (5d12\*), *mental barrier* (+6 AC, 2 rounds\*)*, mind trap*
-(10 rounds\*), *precognition*, *wall walker;* 1/day---*escape
-detection.* Manifester level 14th. The save DCs are Charisma-based.
+(10 rounds\*), *precognition*, *wall walker;* 1/day—*escape detection.*
+Manifester level 14th. The save DCs are Charisma-based.
 
-\*Includes augmentation for the thought slayer's manifester level.
+\*Includes augmentation for the thought slayer’s manifester level.
 
 **Ethereal Jaunt (Su):** A thought slayer can shift from the Ethereal
 Plane to the Material Plane as part of any move action, and then shift
@@ -2319,32 +2317,32 @@ back again as a free action. The ability is otherwise identical to the
 
 ## Udoroot
 
-  ---------------------- ---------------------------------------------------------------------------------------------
-                         Huge Plant (Psionic)
-  Hit Dice:              6d8+18 (45 hp)
-  Initiative:            +0
-  Speed:                 0 ft.
-  Armor Class:           11 (--2 size, --5 Dex, +8 natural), touch 3, flatfooted 11
-  Base Attack/Grapple:   +4/---
-  Attack:                ---
-  Full Attack:           ---
-  Space/Reach:           15 ft./0 ft.
-  Special Attacks:       Double manifest, psi-like abilities
-  Special Qualities:     Blindsight 60 ft., immunity to electricity, plant traits, resistance to cold 10 and fire 10
-  Saves:                 Fort +8, Ref +4, Will +5
-  Abilities:             Str ---, Dex ---, Con 16, Int 4, Wis 13, Cha 14
-  Skills:                Listen +10
-  Feats:                 Iron Will, Lightning Reflexes
-  Environment:           Temperate forest
-  Organization:          Solitary or patch (2--4)
-  Challenge Rating:      5
-  Treasure:              1/5 coins; 50% goods; 50% items
-  Alignment:             Always neutral
-  Advancement:           7--16 HD (Huge); 17--18 HD (Gargantuan)
-  Level Adjustment:      ---
-  ---------------------- ---------------------------------------------------------------------------------------------
+|                      |                                                                                             |
+|----------------------|---------------------------------------------------------------------------------------------|
+|                      | Huge Plant (Psionic)                                                                        |
+| Hit Dice:            | 6d8+18 (45 hp)                                                                              |
+| Initiative:          | +0                                                                                          |
+| Speed:               | 0 ft.                                                                                       |
+| Armor Class:         | 11 (–2 size, –5 Dex, +8 natural), touch 3, flatfooted 11                                    |
+| Base Attack/Grapple: | +4/—                                                                                        |
+| Attack:              | —                                                                                           |
+| Full Attack:         | —                                                                                           |
+| Space/Reach:         | 15 ft./0 ft.                                                                                |
+| Special Attacks:     | Double manifest, psi-like abilities                                                         |
+| Special Qualities:   | Blindsight 60 ft., immunity to electricity, plant traits, resistance to cold 10 and fire 10 |
+| Saves:               | Fort +8, Ref +4, Will +5                                                                    |
+| Abilities:           | Str —, Dex —, Con 16, Int 4, Wis 13, Cha 14                                                 |
+| Skills:              | Listen +10                                                                                  |
+| Feats:               | Iron Will, Lightning Reflexes                                                               |
+| Environment:         | Temperate forest                                                                            |
+| Organization:        | Solitary or patch (2–4)                                                                     |
+| Challenge Rating:    | 5                                                                                           |
+| Treasure:            | 1/5 coins; 50% goods; 50% items                                                             |
+| Alignment:           | Always neutral                                                                              |
+| Advancement:         | 7–16 HD (Huge); 17–18 HD (Gargantuan)                                                       |
+| Level Adjustment:    | —                                                                                           |
 
-### Combat {#udoroot--combat}
+### Combat
 
 An udoroot can be killed only if its root is dug up or exposed, then
 burned, hacked apart, or otherwise destroyed. Severing or destroying all
@@ -2364,10 +2362,10 @@ manifests its psi-like abilities through its crowns. It can manifest two
 psi-like abilities per round, as long as it has at least two crowns
 remaining.
 
-**Psi-Like Abilities:** At will---*energy stun* (electricity, 2d6, DC
+**Psi-Like Abilities:** At will—*energy stun* (electricity, 2d6, DC
 15\*), *false sensory input* (DC 15), *id insinuation* (two targets, DC
 15\*), *mind thrust* (ML 4th, 4d10, DC 14\*), *telekinetic force* (275
-lb., DC 15\*), *thought shield* (power resistance 16\*); 3/day---*astral
+lb., DC 15\*), *thought shield* (power resistance 16\*); 3/day—*astral
 construct* (3rd level\*), *body adjustment, mental barrier.*
 
 Manifester level 6th. The save DCs are Charisma-based.
@@ -2375,7 +2373,7 @@ Manifester level 6th. The save DCs are Charisma-based.
 An udoroot can use its *body adjustment* power to repair damage to one
 of its crowns, as long as the crown has not been severed or destroyed.
 
-\*Includes augmentation for the udoroot's manifester level.
+\*Includes augmentation for the udoroot’s manifester level.
 
 **Blindsight (Ex):** An udoroot can ascertain all foes by nonvisual
 means within 60 feet. If its crowns are destroyed, it can no longer
@@ -2388,41 +2386,41 @@ hits.
 
 ## Unbodied
 
-  ---------------------- -----------------------------------------------------------------------------------------------
-                         Medium Monstrous Humanoid (Incorporeal, Psionic)
-  Hit Dice:              4d8+4 (22 hp)
-  Initiative:            +1
-  Speed:                 Fly 30 ft. (good) (6 squares)
-  Armor Class:           13 (+1 Dex, +2 deflection), touch 13, flatfooted 12
-  Base Attack/Grapple:   +4/---
-  Attack:                Incorporeal touch +5 melee (1d6)
-  Full Attack:           Incorporeal touch +5 melee (1d6)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       Psionic powers, telekinetic force
-  Special Qualities:     Assume likeness, incorporeal traits, telepathy 100 ft.
-  Saves:                 Fort +2, Ref +5, Will +6
-  Abilities:             Str ---, Dex 13, Con 12, Int 15, Wis 14, Cha 15
-  Skills:                Bluff +10\*, Diplomacy +6, Disguise +10\*, Intimidate +6, Listen +6, Sense Motive +6, Spot +6
-  Feats:                 Overchannel, Wild Talent
-  Environment:           Any
-  Organization:          Solitary or illumination (3--6)
-  Challenge Rating:      5
-  Treasure:              Half standard
-  Alignment:             Any
-  Advancement:           By character class
-  Level Adjustment:      +4
-  ---------------------- -----------------------------------------------------------------------------------------------
+|                      |                                                                                               |
+|----------------------|-----------------------------------------------------------------------------------------------|
+|                      | Medium Monstrous Humanoid (Incorporeal, Psionic)                                              |
+| Hit Dice:            | 4d8+4 (22 hp)                                                                                 |
+| Initiative:          | +1                                                                                            |
+| Speed:               | Fly 30 ft. (good) (6 squares)                                                                 |
+| Armor Class:         | 13 (+1 Dex, +2 deflection), touch 13, flatfooted 12                                           |
+| Base Attack/Grapple: | +4/—                                                                                          |
+| Attack:              | Incorporeal touch +5 melee (1d6)                                                              |
+| Full Attack:         | Incorporeal touch +5 melee (1d6)                                                              |
+| Space/Reach:         | 5 ft./5 ft.                                                                                   |
+| Special Attacks:     | Psionic powers, telekinetic force                                                             |
+| Special Qualities:   | Assume likeness, incorporeal traits, telepathy 100 ft.                                        |
+| Saves:               | Fort +2, Ref +5, Will +6                                                                      |
+| Abilities:           | Str —, Dex 13, Con 12, Int 15, Wis 14, Cha 15                                                 |
+| Skills:              | Bluff +10\*, Diplomacy +6, Disguise +10\*, Intimidate +6, Listen +6, Sense Motive +6, Spot +6 |
+| Feats:               | Overchannel, Wild Talent                                                                      |
+| Environment:         | Any                                                                                           |
+| Organization:        | Solitary or illumination (3–6)                                                                |
+| Challenge Rating:    | 5                                                                                             |
+| Treasure:            | Half standard                                                                                 |
+| Alignment:           | Any                                                                                           |
+| Advancement:         | By character class                                                                            |
+| Level Adjustment:    | +4                                                                                            |
 
 An unbodied uses telepathy to communicate with others.
 
-### Combat {#unbodied--combat}
+### Combat
 
 **Psionic Powers:** An unbodied manifests powers as a 4th-level psion
 (telepath). The save DCs are Intelligence-based.
 
 *Typical Psion Powers Known* (power points 21, base save DC 12 + power
-level): 1st--- *detect psionics, empty mind, mind thrust* (DC 13\*),
-*psionic charm* (DC 13\*); 2nd---*brain lock* (DC 14), *cloud mind* (DC
+level): 1st— *detect psionics, empty mind, mind thrust* (DC 13\*),
+*psionic charm* (DC 13\*); 2nd—*brain lock* (DC 14), *cloud mind* (DC
 14), *energy push* (DC 14), *read thoughts* (DC 14).
 
 \*Power can be augmented.
@@ -2448,96 +2446,96 @@ touch weapons. It can pass through solid objects, but not force effects,
 at will. Its attacks ignore natural armor, armor, and shields, but
 deflection bonuses and force effects work normally against them. An
 incorporeal creature always moves silently and cannot be heard with
-Listen checks if it doesn't wish to be.
+Listen checks if it doesn’t wish to be.
 
 **Skills:** An unbodied has a +4 racial bonus on Bluff and Disguise
 checks. \*When using its assume likeness ability, an unbodied gets an
 additional +10 circumstance bonus on Disguise checks. If it can read an
-opponent's mind, it gets a further +4 circumstance bonus on Bluff and
+opponent’s mind, it gets a further +4 circumstance bonus on Bluff and
 Disguise checks.
 
 ### Unbodied as Characters
 
 Unbodied characters possess the following racial traits.
 
---- +2 Dexterity, +2 Constitution, +4 Intelligence, +4 Wisdom, +4
+— +2 Dexterity, +2 Constitution, +4 Intelligence, +4 Wisdom, +4
 Charisma. As an incorporeal creature, an unbodied has no Strength score.
 
----Medium size.
+—Medium size.
 
----An unbodied has a fly speed of 30 feet (good maneuverability).
+—An unbodied has a fly speed of 30 feet (good maneuverability).
 
----Darkvision out to 60 feet.
+—Darkvision out to 60 feet.
 
----Deflection bonus to Armor Class equal to character's Charisma
-modifier (minimum +1).
+—Deflection bonus to Armor Class equal to character’s Charisma modifier
+(minimum +1).
 
----Natural Attack: An unbodied can make a melee touch attack to deal 1d6
+—Natural Attack: An unbodied can make a melee touch attack to deal 1d6
 points of damage.
 
----Special Attacks (see above): Psionic powers, telekinetic force. An
+—Special Attacks (see above): Psionic powers, telekinetic force. An
 unbodied who takes levels in psion (telepath) adds its racial
 manifesting ability and psion levels together to determine its power
 point reserve, manifester level, and powers known.
 
----Special Qualities (see above): Assume likeness, incorporeal traits.
+—Special Qualities (see above): Assume likeness, incorporeal traits.
 
----Racial Hit Dice: An unbodied begins with four levels of monstrous
+—Racial Hit Dice: An unbodied begins with four levels of monstrous
 humanoid, which provide 4d8 Hit Dice, a base attack bonus of +4, and
 base saving throw bonuses of Fort +1, Ref +4, and Will +4.
 
----Racial Skills: An unbodied's monstrous humanoid levels give it skill
+—Racial Skills: An unbodied’s monstrous humanoid levels give it skill
 points equal to 7 x (2 + Int modifier). Its class skills are Bluff,
 Diplomacy, Disguise, Intimidate, Listen, Sense Motive, and Spot.
 Unbodied have a +4 racial bonus on Bluff checks and Disguise checks.
 When using its assume likeness ability, an unbodied gets an additional
-+10 circumstance bonus on Disguise checks. If it can read an opponent's
++10 circumstance bonus on Disguise checks. If it can read an opponent’s
 mind, it gets a further +4 circumstance bonus on Bluff and Disguise
 checks.
 
----Racial Feats: An unbodied's monstrous humanoid levels give it two
+—Racial Feats: An unbodied’s monstrous humanoid levels give it two
 feats.
 
----Favored Class: Psion (telepath).
+—Favored Class: Psion (telepath).
 
----Level Adjustment: +4.
+—Level Adjustment: +4.
 
 ## Xeph
 
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                         Xeph, 1st-Level Warrior
-                         Medium Humanoid (Psionic, Xeph)
-  Hit Dice:              1d8+1 (5 hp)
-  Initiative:            +1
-  Speed:                 30 ft. (6 squares)
-  Armor Class:           15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14
-  Base Attack/Grapple:   +1/+1
-  Attack:                Rapier +2 melee (1d6/18--20) or longbow +2 ranged (1d8/x3)
-  Full Attack:           Rapier +2 melee (1d6/18--20) or longbow +2 ranged (1d8/x3)
-  Space/Reach:           5 ft./5 ft.
-  Special Attacks:       ---
-  Special Qualities:     Burst, darkvision 60 ft.
-  Saves:                 Fort +3, Ref +1, Will --1
-  Abilities:             Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8
-  Skills:                Climb +2, Jump +2
-  Feats:                 Weapon Finesse
-  Environment:           Warm forest
-  Organization:          Team (2--4), squad (11--20 plus 2 3rd-level sergeants and 1 leader of 3rd--6th level), or band (30--100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)
-  Challenge Rating:      1/2
-  Treasure:              Standard
-  Alignment:             Usually neutral
-  Advancement:           By character class
-  Level Adjustment:      +0
-  ---------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                      |                                                                                                                                                                                                                         |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      | Xeph, 1st-Level Warrior                                                                                                                                                                                                 |
+|                      | Medium Humanoid (Psionic, Xeph)                                                                                                                                                                                         |
+| Hit Dice:            | 1d8+1 (5 hp)                                                                                                                                                                                                            |
+| Initiative:          | +1                                                                                                                                                                                                                      |
+| Speed:               | 30 ft. (6 squares)                                                                                                                                                                                                      |
+| Armor Class:         | 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14                                                                                                                                              |
+| Base Attack/Grapple: | +1/+1                                                                                                                                                                                                                   |
+| Attack:              | Rapier +2 melee (1d6/18–20) or longbow +2 ranged (1d8/x3)                                                                                                                                                               |
+| Full Attack:         | Rapier +2 melee (1d6/18–20) or longbow +2 ranged (1d8/x3)                                                                                                                                                               |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                             |
+| Special Attacks:     | —                                                                                                                                                                                                                       |
+| Special Qualities:   | Burst, darkvision 60 ft.                                                                                                                                                                                                |
+| Saves:               | Fort +3, Ref +1, Will –1                                                                                                                                                                                                |
+| Abilities:           | Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8                                                                                                                                                                            |
+| Skills:              | Climb +2, Jump +2                                                                                                                                                                                                       |
+| Feats:               | Weapon Finesse                                                                                                                                                                                                          |
+| Environment:         | Warm forest                                                                                                                                                                                                             |
+| Organization:        | Team (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |
+| Challenge Rating:    | 1/2                                                                                                                                                                                                                     |
+| Treasure:            | Standard                                                                                                                                                                                                                |
+| Alignment:           | Usually neutral                                                                                                                                                                                                         |
+| Advancement:         | By character class                                                                                                                                                                                                      |
+| Level Adjustment:    | +0                                                                                                                                                                                                                      |
 
 Xephs speak their own language and Common.
 
-### Combat {#xeph--combat}
+### Combat
 
 **Burst (Su):** Three times per day, a xeph can increase his or her
 speed by 10 feet, plus 10 feet per four character levels beyond 1st, to
 a maximum increase of 30 feet at 9th character level and higher. These
-bursts of speed are considered a competence bonus to the xeph's base
+bursts of speed are considered a competence bonus to the xeph’s base
 speed. A burst of speed lasts 3 rounds.
 
 The xeph warrior presented here had the following ability scores before
@@ -2547,26 +2545,26 @@ racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 Xeph characters possess the following racial traits.
 
---- --2 Strength, +2 Dexterity.
+— –2 Strength, +2 Dexterity.
 
----Medium size.
+—Medium size.
 
----Xeph base land speed is 30 feet.
+—Xeph base land speed is 30 feet.
 
----Darkvision out to 60 feet.
+—Darkvision out to 60 feet.
 
----Naturally Psionic: Xephs gain 1 bonus power point at 1st level.
+—Naturally Psionic: Xephs gain 1 bonus power point at 1st level.
 
---- +1 racial bonus on saving throws against powers, spells, and
+— +1 racial bonus on saving throws against powers, spells, and
 spell-like effects.
 
----Special Qualities (see above): Burst.
+—Special Qualities (see above): Burst.
 
----Racial Feats: A xeph character gains feats according to his or her
+—Racial Feats: A xeph character gains feats according to his or her
 character class.
 
----Automatic Languages: Xeph, Common.
+—Automatic Languages: Xeph, Common.
 
----Favored Class: Soulknife.
+—Favored Class: Soulknife.
 
----Level Adjustment: +0.
+—Level Adjustment: +0.

@@ -28,13 +28,13 @@ can be used whenever he or she has power points to pay for it.
 -   [Concentration](#concentration)
 -   [Manifester Level](#manifester-level)
 -   [Power Failure](#power-failure)
--   [The Power's Result](#the-powers-result)
+-   [The Power’s Result](#the-powers-result)
 -   [Special Power Effects](#special-power-effects)
 -   [Combining Psionic and Magical
     Effects](#combining-psionic-and-magical-effects)
 -   [Powers and Power Points](#powers-and-power-points)
     -   [Adding Powers](#adding-powers)
-        -   [Manifest an Unknown Power From Another's Powers
+        -   [Manifest an Unknown Power From Another’s Powers
             Known](#manifest-an-unknown-power-from-anothers-powers-known)
     -   [Using Stored Power Points](#using-stored-power-points)
 -   [Special Abilities](#special-abilities)
@@ -65,7 +65,7 @@ can be used whenever he or she has power points to pay for it.
 
 Psionic characters and creatures manifest powers. Whether they cost
 power points when manifest by a psionic character, or are manifested as
-psi-like abilities, powers' effects remain the same. The process of
+psi-like abilities, powers’ effects remain the same. The process of
 manifesting a power is akin to casting a spell, but with significant
 differences.
 
@@ -80,7 +80,7 @@ if you have points left to pay for it.
 ## Concentration
 
 To manifest a power, you must concentrate. If something threatens to
-interrupt your concentration while you're manifesting a power, you must
+interrupt your concentration while you’re manifesting a power, you must
 succeed on a Concentration check or lose the power points without
 manifesting the power. The more distracting the interruption and the
 higher the level of the power that you are trying to manifest, the
@@ -90,7 +90,7 @@ higher the DC. (Higher-level powers require more mental effort.)
 trying to manifest a power can break your concentration and ruin a
 power. If you take damage while trying to manifest a power, you must
 make a Concentration check (DC 10 + points of damage taken + the level
-of the power you're manifesting). The interrupting event strikes during
+of the power you’re manifesting). The interrupting event strikes during
 manifestation if it occurs between when you start and when you complete
 manifesting a power (for a power with a manifesting time of 1 round or
 longer) or if it comes in response to your manifesting the power (such
@@ -100,7 +100,7 @@ a contingent attack from a readied action).
 If you are taking continuous damage half the damage is considered to
 take place while you are manifesting a power. You must make a
 Concentration check (DC 10 + 1/2 the damage that the continuous source
-last dealt + the level of the power you're manifesting).
+last dealt + the level of the power you’re manifesting).
 
 If the last damage dealt was the last damage that the effect could deal
 then the damage is over, and it does not distract you.
@@ -111,38 +111,38 @@ Repeated damage does not count as continuous damage.
 power of your own, you must make a Concentration check or lose the power
 you are manifesting. If the power affecting you deals damage, the
 Concentration DC is 10 + points of damage + the level of the power
-you're manifesting. If the power interferes with you or distracts you in
-some other way, the Concentration DC is the power's save DC + the level
-of the power you're manifesting. For a power with no saving throw, it's
-the DC that the power's saving throw would have if a save were allowed.
+you’re manifesting. If the power interferes with you or distracts you in
+some other way, the Concentration DC is the power’s save DC + the level
+of the power you’re manifesting. For a power with no saving throw, it’s
+the DC that the power’s saving throw would have if a save were allowed.
 
 **Grappling or Pinned:** To manifest a power while grappling or pinned,
 you must make a Concentration check (DC 20 + the level of the power
-you're manifesting) or lose the power.
+you’re manifesting) or lose the power.
 
 **Vigorous Motion:** If you are riding on a moving mount, taking a
 bouncy ride in a wagon, on a small boat in rough water, belowdecks in a
 storm-tossed ship, or simply being jostled in a similar fashion, you
-must make a Concentration check (DC 10 + the level of the power you're
+must make a Concentration check (DC 10 + the level of the power you’re
 manifesting) or lose the power.
 
 **Violent Motion:** If you are on a galloping horse, taking a very rough
 ride in a wagon, on a small boat in rapids or in a storm, on deck in a
 storm-tossed ship, or being tossed roughly about in a similar fashion,
 you must make a Concentration check (DC 15 + the level of the power
-you're manifesting) or lose the power.
+you’re manifesting) or lose the power.
 
 **Violent Weather:** If you are in a high wind carrying blinding rain or
-sleet, the DC is 5 + the level of the power you're manifesting. If you
+sleet, the DC is 5 + the level of the power you’re manifesting. If you
 are in wind-driven hail, dust, or debris, the DC is 10 + the level of
-the power you're manifesting. In either case, you lose the power if you
+the power you’re manifesting. In either case, you lose the power if you
 fail the Concentration check. If the weather is caused by a power, use
 the rules in the Power subsection above.
 
 **Manifesting Powers on the Defensive:** If you want to manifest a power
 without provoking attacks of opportunity, you need to dodge and weave.
 You must make a Concentration check (DC 15 + the level of the power
-you're manifesting) to succeed. You lose the power points without
+you’re manifesting) to succeed. You lose the power points without
 successful manifestation if you fail.
 
 **Entangled:** If you want to manifest a power while entangled in a net
@@ -152,10 +152,10 @@ fail.
 
 ## Manifester Level
 
-The variables of a power's effect often depend on its manifester level,
+The variables of a power’s effect often depend on its manifester level,
 which is equal to your psionic class level. A power that can be
 augmented for additional effect is also limited by your manifester level
-(you can't spend more power points on a power than your manifester
+(you can’t spend more power points on a power than your manifester
 level). See Augment under Descriptive Text, below.
 
 You can manifest a power at a lower manifester level than normal, but
@@ -167,7 +167,7 @@ In the event that a class feature or other special ability provides an
 adjustment to your manifester level, this adjustment applies not only to
 all effects based on manifester level (such as range, duration, and
 augmentation potential) but also to your manifester level check to
-overcome your target's power resistance and to the manifester level used
+overcome your target’s power resistance and to the manifester level used
 in dispel checks (both the dispel check and the DC of the check).
 
 ## Power Failure
@@ -179,7 +179,7 @@ manifestation fails and the power points are wasted.
 Powers also fail if your concentration is broken (see Concentration,
 above).
 
-## The Power's Result
+## The Power’s Result
 
 Once you know which creatures (or objects or areas) are affected, and
 whether those creatures have made successful saving throws (if any were
@@ -190,20 +190,20 @@ allowed), you can apply whatever results a power entails.
 Certain special features apply to all powers.
 
 **Attacks:** Some powers refer to attacking. All offensive combat
-actions, even those that don't damage opponents, such as disarm and bull
+actions, even those that don’t damage opponents, such as disarm and bull
 rush, are considered attacks. All powers that opponents can resist with
 saving throws, that deal damage, or that otherwise harm or hamper
 subjects are considered attacks. *Astral construct* and similar powers
-are not considered attacks because the powers themselves don't harm
+are not considered attacks because the powers themselves don’t harm
 anyone.
 
 **Bonus Types:** Many powers give creatures bonuses to ability scores,
 Armor Class, attacks, and other attributes. Each bonus has a type that
 indicates how the power grants the bonus. The important aspect of bonus
-types is that two bonuses of the same type don't generally stack. With
+types is that two bonuses of the same type don’t generally stack. With
 the exception of dodge bonuses, most circumstance bonuses, and racial
 bonuses, only the better bonus works (see Combining Psionic and Magical
-Effects, below). The same principle applies to penalties---a character
+Effects, below). The same principle applies to penalties—a character
 taking two or more penalties of the same type applies only the worst
 one.
 
@@ -211,14 +211,14 @@ one.
 revision* has the ability to restore slain characters to life. When a
 living creature dies, its soul departs the body, leaves the Material
 Plane, travels through the Astral Plane, and goes to abide on the plane
-where the creature's deity resides. If the creature did not worship a
+where the creature’s deity resides. If the creature did not worship a
 deity, its soul departs to the plane corresponding to its alignment.
 Bringing someone back from the dead means retrieving his or her soul and
 returning it to his or her body.
 
 *Level Loss:* The passage from life to death and back again is a
-wrenching journey for a being's soul. Consequently, any creature brought
-back to life usually loses one level of experience. The character's new
+wrenching journey for a being’s soul. Consequently, any creature brought
+back to life usually loses one level of experience. The character’s new
 experience point total is midway between the minimum needed for his or
 her new (reduced) level and the minimum needed for the next one. If the
 character was 1st level at the time of death, he or she loses 2 points
@@ -235,7 +235,7 @@ difficult for a character to be returned from the dead. Keeping the body
 prevents others from using a single manifestation of *reality revision*
 to restore the slain character to life.
 
-*Revivif cation Against One's Will:* A soul cannot be returned to life
+*Revivif cation Against One’s Will:* A soul cannot be returned to life
 if it does not wish to be. A soul knows the name, alignment, and patron
 deity (if any) of the character attempting to revive it and may refuse
 to return on that basis.
@@ -245,15 +245,15 @@ to return on that basis.
 The default rule for the interaction of psionics and magic is simple:
 Powers interact with spells and spells interact with powers in the same
 way a spell or normal spell-like ability interacts with another spell or
-spell-like ability. This is known as psionics--magic transparency.
+spell-like ability. This is known as psionics–magic transparency.
 
-**Psionics--Magic Transparency:** Though not explicitly called out in
-the spell descriptions or magic item descriptions, spells, spell-like
+**Psionics–Magic Transparency:** Though not explicitly called out in the
+spell descriptions or magic item descriptions, spells, spell-like
 abilities, and magic items that could potentially affect psionics do
 affect psionics.
 
-When the rule about psionics--magic transparency is in effect, it has
-the following ramifications.
+When the rule about psionics–magic transparency is in effect, it has the
+following ramifications.
 
 Spell resistance is effective against powers, using the same mechanics.
 Likewise, power resistance is effective against spells, using the same
@@ -283,14 +283,14 @@ operate in the same place.
 **Stacking Effects:** Powers that provide bonuses or penalties on attack
 rolls, damage rolls, saving throws, and other attributes usually do not
 stack with themselves. More generally, two bonuses of the same type
-don't stack even if they come from different powers, or one from a power
+don’t stack even if they come from different powers, or one from a power
 and one from a spell. You use whichever bonus gives you the better
 result.
 
 *Different Bonus Types*: The bonuses or penalties from two different
 powers, or a power and a spell, stack if the effects are of different
-types. A bonus that isn't named (just a "+2 bonus" rather than a "+2
-insight bonus") stacks with any bonus.
+types. A bonus that isn’t named (just a “+2 bonus” rather than a “+2
+insight bonus”) stacks with any bonus.
 
 *Same Effect More than Once in Different Strengths*: In cases when two
 or more similar or identical effects are operating in the same area or
@@ -311,7 +311,7 @@ another power irrelevant.
 
 *Multiple Mental Control Effects*: Sometimes psionic or magical effects
 that establish mental control render one another irrelevant. Mental
-controls that don't remove the recipient's ability to act usually do not
+controls that don’t remove the recipient’s ability to act usually do not
 interfere with one another, though one may modify another. If a creature
 is under the control of two or more creatures, it tends to obey each to
 the best of its ability, and to the extent of the control each effect
@@ -322,8 +322,8 @@ checks to determine which one the creature obeys.
 **Powers and Spells with Opposite Effects:** Powers and spells with
 opposite effects apply normally, with all bonuses, penalties, or changes
 accruing in the order that they apply. Some powers and spells negate or
-counter each other. This is a special effect that is noted in a power's
-or spell's description.
+counter each other. This is a special effect that is noted in a power’s
+or spell’s description.
 
 **Instantaneous Effects:** Two or more magical or psionic effects with
 instantaneous durations work cumulatively when they affect the same
@@ -333,13 +333,13 @@ object, place, or creature.
 
 Psionic characters manifest powers, which involve the direct
 manipulation of personal mental energy. These manipulations require
-natural talent and personal meditation. A psionic character's level
+natural talent and personal meditation. A psionic character’s level
 limits the number of power points available to manifest powers. A
-psionic character's relevant high score might allow him to gain extra
+psionic character’s relevant high score might allow him to gain extra
 power points. He can manifest the same power more than once, but each
 manifestation subtracts power points from his daily limit. Manifesting a
 power is an arduous mental task. To do so, a psionic character must have
-a key ability score of at least 10 + the power's level.
+a key ability score of at least 10 + the power’s level.
 
 **Daily Power Point Acquisition:** To regain used daily power points, a
 psionic character must have a clear mind. To clear his mind, he must
@@ -361,7 +361,7 @@ against his daily limit.
 
 **Peaceful Environment:** To regain power points, a psionic character
 must have enough peace, quiet, and comfort to allow for proper
-concentration. The psionic character's surroundings need not be
+concentration. The psionic character’s surroundings need not be
 luxurious, but they must be free from overt distractions, such as combat
 raging nearby or other loud noises. Exposure to inclement weather
 prevents the necessary concentration, as does any injury or failed
@@ -370,7 +370,7 @@ power points.
 
 **Regaining Power Points:** Once the character has rested in a suitable
 environment, it takes only an act of concentration spanning 1 full round
-to regain all power points of the psionic character's daily limit.
+to regain all power points of the psionic character’s daily limit.
 
 **Death and Power Points:** If a character dies, all daily power points
 stored in his mind are wiped away. A potent effect (such as *reality
@@ -381,7 +381,7 @@ character.
 
 Psionic characters can learn new powers when they attain a new level. A
 psion can learn any power from the psion/wilder list and powers from his
-chosen discipline's list. A wilder can learn any power from the
+chosen discipline’s list. A wilder can learn any power from the
 psion/wilder list. A psychic warrior can learn any power from the
 psychic warrior list.
 
@@ -408,7 +408,7 @@ character learns the new power if her research produced a viable power.
 If the check fails, the character must go through the research process
 again if she wants to keep trying.
 
-#### Manifest an Unknown Power From Another's Powers Known
+#### Manifest an Unknown Power From Another’s Powers Known
 
 A psionic character can attempt to manifest a power from a source other
 than his own knowledge (usually a power stone or another willing psionic
@@ -418,7 +418,7 @@ a DC of 15+ the level of the power to be manifested). A psionic
 character can make contact with only a willing psionic character or
 creature (unconscious creatures are considered willing, but not psionic
 characters under the effects of other immobilizing conditions).
-Characters who can't use power stones for any reason are also banned
+Characters who can’t use power stones for any reason are also banned
 from attempting to manifest powers from the knowledge of other psionic
 characters. Mental contact requires 1 full round of physical contact,
 which can provoke attacks of opportunity. Once contact is achieved, the
@@ -427,18 +427,18 @@ all the powers the other character knows up to the highest level of
 power the contactor knows himself.
 
 Next, the psionic character must choose one of the powers and make a
-second Psicraft check (DC 15 + the power's level) to see if he
+second Psicraft check (DC 15 + the power’s level) to see if he
 understands it. If the power is not on his class list, he automatically
 fails this check.
 
 Upon successfully making contact with another willing psionic character
 or creature and learning what he can of one power in particular, the
 character can immediately attempt to manifest that power even if he
-doesn't know it (and assuming he has power points left for the day). He
+doesn’t know it (and assuming he has power points left for the day). He
 can attempt to manifest the power normally on his next turn, and he
-succeeds if he makes one additional Psicraft check (DC 15 + the power's
+succeeds if he makes one additional Psicraft check (DC 15 + the power’s
 level). He retains the ability to manifest the selected power for only 1
-round. If he doesn't manifest the power, fails the Psicraft check, or
+round. If he doesn’t manifest the power, fails the Psicraft check, or
 manifests a different power, he loses his chance to manifest that power
 for the day.
 
@@ -450,18 +450,18 @@ what sort of item stores the power points, all psionic characters must
 follow strict rules when tapping stored power points.
 
 **A Single Source:** When using power points from a storage item to
-manifest a power, a psionic character may not pay the power's cost with
+manifest a power, a psionic character may not pay the power’s cost with
 power points from more than one source. He must either use an item, his
 own power point reserve, or some other discrete power point source to
 pay the manifestation cost.
 
 **Recharging:** Most power point storage devices allow psionic
-characters to "recharge" the item with their own power points. Doing
-this depletes the character's power point reserve on a 1-for-1 basis as
+characters to “recharge” the item with their own power points. Doing
+this depletes the character’s power point reserve on a 1-for-1 basis as
 if he had manifested a power; however, those power points remain
-indefinitely stored. The opposite is not true---psionic characters may
-not use power points stored in a storage item to replenish their own
-power point reserves.
+indefinitely stored. The opposite is not true—psionic characters may not
+use power points stored in a storage item to replenish their own power
+point reserves.
 
 ## Special Abilities
 
@@ -478,17 +478,17 @@ supernatural abilities, creatures can also have psi-like abilities.
 character is considered a psi-like ability, as is the manifestation of
 powers by creatures without a psionic class (creatures with the psionic
 subtype, also simply called psionic creatures). Usually, a psionic
-creature's psi-like ability works just like the power of that name. A
+creature’s psi-like ability works just like the power of that name. A
 few psi-like abilities are unique; these are explained in the text where
 they are described.
 
 Psi-like abilities have no verbal, somatic, or material components, nor
 do they require a focus or have an XP cost (even if the equivalent power
 has an XP cost). The user activates them mentally. Armor never affects a
-psi-like ability's use. A psi-like ability has a manifesting time of 1
+psi-like ability’s use. A psi-like ability has a manifesting time of 1
 standard action unless noted otherwise in the ability description. In
 all other ways, a psi-like ability functions just like a power. However,
-a psionic creature does not have to pay a psi-like ability's power point
+a psionic creature does not have to pay a psi-like ability’s power point
 cost.
 
 Psi-like abilities are subject to power resistance and to being
@@ -517,14 +517,14 @@ power points becomes dangerous for a character infected by cascade flu,
 once the incubation period has run its course. Every time an afflicted
 character manifests a power, she must make a DC 16 Concentration check.
 On a failed check, a psionic cascade is triggered. The power operates
-normally, but during the following round, without the character's
+normally, but during the following round, without the character’s
 volition, two additional powers she knows manifest randomly, and their
-power cost is deducted from the character's reserve. During the next
+power cost is deducted from the character’s reserve. During the next
 round, three additional powers manifest, and so on, until all the
-psionic character's power points are drained. Powers with a range of
+psionic character’s power points are drained. Powers with a range of
 personal or touch always affect the diseased character. For other powers
-that affect targets, roll d%: On a 01--50 result, the power affects the
-diseased character, and 51--00 indicates that the power targets other
+that affect targets, roll d%: On a 01–50 result, the power affects the
+diseased character, and 51–00 indicates that the power targets other
 creatures in the vicinity. Psionic creatures (those that manifest their
 powers without paying points) cascade until all the powers they know
 have manifested at least twice.
@@ -543,11 +543,11 @@ disease.
 creatures; contact; DC 15; incubation 1d4 days; damage 1d8 power points.
 
 Cerebral parasites are tiny organisms, undetectable to normal sight. An
-afflicted character may not even know he carries the parasites---until
-he discovers he has fewer power points for the day than expected.
-Psionic creatures with cerebral parasites are limited to using each of
-their known powers only once per day (instead of freely manifesting
-them). See the note about diseases under Cascade Flu, above.
+afflicted character may not even know he carries the parasites—until he
+discovers he has fewer power points for the day than expected. Psionic
+creatures with cerebral parasites are limited to using each of their
+known powers only once per day (instead of freely manifesting them). See
+the note about diseases under Cascade Flu, above.
 
 **Negative Levels:** Psionic characters can gain negative levels just
 like members of other character classes. A psionic character loses
@@ -571,7 +571,7 @@ power is generally known. A power might be known by other names in some
 locales, and specific manifesters might have names of their own for
 their powers.
 
-### Discipline (Subdiscipline) {#discipline}
+### Discipline (Subdiscipline)
 
 Beneath the power name is a line giving the discipline (and the
 subdiscipline in parentheses, if appropriate) that the power belongs to.
@@ -586,7 +586,7 @@ Clairsentience powers enable you to learn secrets long forgotten, to
 glimpse the immediate future and predict the far future, to find hidden
 objects, and to know what is normally unknowable.
 
-For the purpose of psionics--magic transparency, clairsentience powers
+For the purpose of psionics–magic transparency, clairsentience powers
 are equivalent to powers of the divination school (thus, creatures
 immune to divination spells are also immune to clairsentience powers).
 
@@ -624,10 +624,10 @@ metacreativity powers are considered constructs, not outsiders.
 A creature or object brought into being cannot appear inside another
 creature or object, nor can it appear floating in an empty space. It
 must arrive in an open location on a surface capable of supporting it.
-The creature or object must appear within the power's range, but it does
+The creature or object must appear within the power’s range, but it does
 not have to remain within the range.
 
-For the purpose of psionics--magic transparency, metacreativity powers
+For the purpose of psionics–magic transparency, metacreativity powers
 are equivalent to powers of the conjuration school (thus, creatures
 immune to conjuration spells are also immune to metacreativity powers).
 
@@ -645,23 +645,23 @@ psionics for its existence.
 
 Psychokinesis powers manipulate energy or tap the power of the mind to
 produce a desired end. Many of these powers produce spectacular effects
-above and beyond the power's standard display (see Display, below), such
+above and beyond the power’s standard display (see Display, below), such
 as moving, melting, transforming, or blasting a target. Psychokinesis
 powers can deal large amounts of damage.
 
-For the purpose of psionics--magic transparency, psychokinesis powers
-are equivalent to powers of the evocation school (thus, creatures immune
-to evocation spells are also immune to psychokinesis powers).
+For the purpose of psionics–magic transparency, psychokinesis powers are
+equivalent to powers of the evocation school (thus, creatures immune to
+evocation spells are also immune to psychokinesis powers).
 
 ### Psychometabolism
 
 Psychometabolism powers change the physical properties of some creature,
 thing, or condition.
 
-For the purpose of psionics-- magic transparency, psychometabolism
-powers are equivalent to powers of the transmutation school (thus,
-creatures immune to transmutation spells are also immune to
-psychometabolism powers).
+For the purpose of psionics– magic transparency, psychometabolism powers
+are equivalent to powers of the transmutation school (thus, creatures
+immune to transmutation spells are also immune to psychometabolism
+powers).
 
 **Healing:** Psychometabolism powers of the healing subdiscipline can
 remove damage from creatures. However, psionic healing usually falls
@@ -672,7 +672,7 @@ short of divine magical healing, in direct comparisons.
 Psychoportation powers move the manifester, an object, or another
 creature through space and time.
 
-For the purpose of psionics--magic transparency, psychoportation powers
+For the purpose of psionics–magic transparency, psychoportation powers
 do not have an equivalent school.
 
 **Teleportation:** A power of the teleportation subdiscipline transports
@@ -689,7 +689,7 @@ or controlling their behavior.
 
 Most telepathy powers are mind-affecting.
 
-For the purpose of psionics--magic transparency, telepathy powers are
+For the purpose of psionics–magic transparency, telepathy powers are
 equivalent to powers of the enchantment school (thus, creatures
 resistant to enchantment spells are equally resistant to telepathy
 powers).
@@ -699,8 +699,8 @@ subject views you, typically making it see you as a good friend.
 
 **Compulsion:** A power of the compulsion subdiscipline forces the
 subject to act in some manner or changes the way her mind works. Some
-compulsion powers determine the subject's actions or the effects on the
-subject, some allow you to determine the subject's actions when you
+compulsion powers determine the subject’s actions or the effects on the
+subject, some allow you to determine the subject’s actions when you
 manifest them, and others give you ongoing control over the subject.
 
 ### \[Descriptor\]
@@ -724,12 +724,12 @@ score of 1 or higher.
 
 ### Level
 
-The next line of the power description gives a power's level, a number
-between 1 and 9 that defines the power's relative strength. This number
+The next line of the power description gives a power’s level, a number
+between 1 and 9 that defines the power’s relative strength. This number
 is preceded by the name of the class whose members can manifest the
-power. If a power is part of a discipline's list instead of the psion's
+power. If a power is part of a discipline’s list instead of the psion’s
 general power list, this will be indicated by the name of the
-discipline's specialist. The specialists a power can be associated with
+discipline’s specialist. The specialists a power can be associated with
 include Egoist (psychometabolism), Kineticist (psychokinesis), Nomad
 (psychoportation), Seer (clairsentience), Shaper (metacreativity), and
 Telepath (telepathy).
@@ -738,9 +738,9 @@ Telepath (telepathy).
 
 When a power is manifested, a display may accompany the primary effect.
 This secondary effect may be auditory, material, mental, olfactory, or
-visual. No power's display is significant enough to create consequences
+visual. No power’s display is significant enough to create consequences
 for the psionic creatures, allies, or opponents during combat. The
-secondary effect for a power occurs only if the power's description
+secondary effect for a power occurs only if the power’s description
 indicates it. If multiple powers with similar displays are in effect
 simultaneously, the displays do not necessary become more intense.
 Instead, the overall display remains much the same, though with minute
@@ -760,37 +760,37 @@ subject to attacks of opportunity in appropriate circumstances. (Of
 course, another Concentration check can be made as normal to either
 manifest defensively or maintain the power if attacked.)
 
-**Auditory:** A bass-pitched hum issues from the manifester's vicinity
-or in the vicinity of the power's subject (manifester's choice), eerily
+**Auditory:** A bass-pitched hum issues from the manifester’s vicinity
+or in the vicinity of the power’s subject (manifester’s choice), eerily
 akin to many deep-pitched voices. The sound grows in a second from
 hardly noticeable to as loud as a shout strident enough to be heard
-within 100 feet. At the manifester's option, the instantaneous sound can
+within 100 feet. At the manifester’s option, the instantaneous sound can
 be so soft that it can be heard only within 15 feet with a successful DC
 10 Listen check. Some powers describe unique auditory displays.
 
 **Material:** The subject or the area is briefly slicked with a
 translucent, shimmering substance. The glistening substance evaporates
-after 1 round regardless of the power's duration. Sophisticated psions
+after 1 round regardless of the power’s duration. Sophisticated psions
 recognize the material as ectoplasmic seepage from the Astral Plane;
 this substance is completely inert.
 
 **Mental:** A subtle chime rings once in the minds of creatures within
-15 feet of either the manifester or the subject (at the manifester's
-option). At the manifester's option, the chime can ring continuously for
-the power's duration. Some powers describe unique mental displays.
+15 feet of either the manifester or the subject (at the manifester’s
+option). At the manifester’s option, the chime can ring continuously for
+the power’s duration. Some powers describe unique mental displays.
 
 **Olfactory:** An odd but familiar odor brings to mind a brief mental
 flash of a long-buried memory. The scent is difficult to pin down, and
 no two individuals ever describe it the same way. The odor originates
 from the manifester and spreads to a distance of 20 feet, then fades in
-less than a second (or lasts for the duration, at the manifester's
+less than a second (or lasts for the duration, at the manifester’s
 option).
 
-**Visual:** The manifester's eyes burn like points of silver fire while
+**Visual:** The manifester’s eyes burn like points of silver fire while
 the power remains in effect. A rainbow-flash of light sweeps away from
 the manifester to a distance of 5 feet and then dissipates, unless a
 unique visual display is described. This is the case when the Display
-entry includes "see text," which means that a visual effect is described
+entry includes “see text,” which means that a visual effect is described
 somewhere in the text of the power.
 
 ### Manifesting Time
@@ -828,7 +828,7 @@ a free action. However, you can perform only a single swift action per
 turn, regardless of what other actions you take. You can take a swift
 action any time you would normally be allowed to take a free action.
 Swift actions usually involve psionics or the activation of psionic
-items; many characters (especially those who don't use psionics) never
+items; many characters (especially those who don’t use psionics) never
 have an opportunity to take a swift action.
 
 Manifesting a quickened power is a swift action. In addition,
@@ -841,8 +841,8 @@ provoke attacks of opportunity.
 **Immediate Action:** Much like a swift action, an immediate action
 consumes a very small amount of time, but represents a larger
 expenditure of effort and energy than a free action. However, unlike a
-swift action, an immediate action can be performed at any time---even if
-it's not your turn. Using an immediate action on your turn is the same
+swift action, an immediate action can be performed at any time—even if
+it’s not your turn. Using an immediate action on your turn is the same
 as using a swift action, and counts as your swift action for that turn.
 You cannot use another immediate action or a swift action until after
 your next turn if you have used an immediate action when it is not
@@ -852,10 +852,10 @@ also cannot use an immediate action if you are currently flat-footed.
 
 ### Range
 
-A power's range indicates how far from you it can reach, as defined in
-the Range entry of the power description. A power's range is the maximum
-distance from you that the power's effect can occur, as well as the
-maximum distance at which you can designate the power's point of origin.
+A power’s range indicates how far from you it can reach, as defined in
+the Range entry of the power description. A power’s range is the maximum
+distance from you that the power’s effect can occur, as well as the
+maximum distance at which you can designate the power’s point of origin.
 If any portion of the area would extend beyond the range, that area is
 wasted. Standard ranges include the following.
 
@@ -884,8 +884,8 @@ category, just a range expressed in feet.
 ### Aiming a Power
 
 You must make some choice about whom the power is to affect or where the
-power's effect is to originate, depending on the type of power. The next
-entry in a power description defines the power's target (or targets),
+power’s effect is to originate, depending on the type of power. The next
+entry in a power description defines the power’s target (or targets),
 its effect, or its area, as appropriate.
 
 **Target or Targets:** Some powershave a target or targets. You manifest
@@ -896,13 +896,13 @@ you finish manifesting the power.
 
 If you manifest a targeted power on the wrong type of target the power
 has no effect. If the target of a power is yourself (the power
-description has a line that reads "Target: You"), you do not receive a
+description has a line that reads “Target: You”), you do not receive a
 saving throw and power resistance does not apply. The Saving Throw and
 Power Resistance lines are omitted from such powers.
 
 Some powers can be manifested only on willing targets. Declaring
 yourself as a willing target is something that can be done at any time
-(even if you're flat-footed or it isn't your turn). Unconscious
+(even if you’re flat-footed or it isn’t your turn). Unconscious
 creatures are automatically considered willing, but a character who is
 conscious but immobile or helpless (such as one who is bound, cowering,
 grappling, paralyzed, pinned, or stunned) is not automatically willing.
@@ -914,18 +914,18 @@ things rather than affect things that are already present. Unless
 otherwise noted in the power description, you must designate the
 location where these things are to appear, either by seeing it or
 defining it. Range determines how far away an effect can appear, but if
-the effect is mobile, it can move regardless of the power's range once
+the effect is mobile, it can move regardless of the power’s range once
 created.
 
 *Ray:* Some effects are rays. You aim a ray as if using a ranged weapon,
 though typically you make a ranged touch attack rather than a normal
 ranged attack. As with a ranged weapon, you can fire into the dark or at
-an invisible creature and hope you hit something. You don't have to see
-the creature you're trying to hit, as you do with a targeted power.
+an invisible creature and hope you hit something. You don’t have to see
+the creature you’re trying to hit, as you do with a targeted power.
 Intervening creatures and obstacles, however, can block your line of
-sight or provide cover for the creature you're aiming at.
+sight or provide cover for the creature you’re aiming at.
 
-If a ray power has a duration, it's the duration of the effect that the
+If a ray power has a duration, it’s the duration of the effect that the
 ray causes, not the length of time the ray itself persists.
 
 If a ray power deals damage, you can score a critical hit just as if it
@@ -935,14 +935,14 @@ were a weapon. A ray power threatens a critical hit on a natural roll of
 *Spread:* Some effectsspread out from a point of origin (which may be a
 grid intersection, or may be the manifester) to a distance described in
 the power. The effect can extend around corners and into areas that you
-can't see. Figure distance by actual distance traveled, taking into
+can’t see. Figure distance by actual distance traveled, taking into
 account turns the effect may take. When determining distance for spread
 effects, count around walls, not through them. As with movement, do not
 trace diagonals across corners. You must designate the point of origin
 for such an effect (unless the effect is centered on you), but you need
 not have line of effect (see below) to all portions of the effect.
 
-*(S) Shapeable:* If an Effect line ends with "(S)" you can shape the
+*(S) Shapeable:* If an Effect line ends with “(S)” you can shape the
 power. A shaped effect can have no dimension smaller than 10 feet.
 
 **Area:** Some powers affect an area. Sometimes a power description
@@ -950,7 +950,7 @@ specifies a specially defined area, but usually an area falls into one
 of the categories defined below.
 
 Regardless of the shape of the area, you select the point where the
-power originates, but otherwise you usually don't control which
+power originates, but otherwise you usually don’t control which
 creatures or objects the power affects. The point of origin of a power
 that affects an area is always a grid intersection. When determining
 whether a given creature is within the area of a power, count out the
@@ -961,20 +961,20 @@ the center of the next, you count from intersection to intersection.
 
 You can count diagonally across a square, but every second diagonal
 counts as 2 squares of distance. If the far edge of a square is within
-the power's area, anything within that square is within the power's
-area. If the power's area touches only the near edge of a square,
+the power’s area, anything within that square is within the power’s
+area. If the power’s area touches only the near edge of a square,
 however, anything within that square is unaffected by the power.
 
 *Burst, Emanation, or Spread:* Most powers that affect an area function
 as a burst, an emanation, or a spread. In each case, you select the
-power's point of origin and measure its effect from that point. A burst
+power’s point of origin and measure its effect from that point. A burst
 power affects whatever it catches in its area, even including creatures
-that you can't see. It can't affect creatures with total cover from its
-point of origin (in other words, its effects don't extend around
+that you can’t see. It can’t affect creatures with total cover from its
+point of origin (in other words, its effects don’t extend around
 corners). The default shape for a burst effect is a sphere, but some
 burst powers are specifically described as cone-shaped.
 
-A burst's area defines how far from the point of origin the power's
+A burst’s area defines how far from the point of origin the power’s
 effect extends.
 
 An emanation power functions like a burst power, except that the effect
@@ -990,7 +990,7 @@ account any turns the effect takes.
 particular shape, such as a cone, line, or sphere. A cone-shaped power
 shoots away from you in a quarter-circle in the direction you designate.
 It starts from any corner of your square and widens out as it goes. Most
-cones are either bursts or emanations (see above), and thus won't go
+cones are either bursts or emanations (see above), and thus won’t go
 around corners.
 
 A line-shaped power shoots away from you in a line in the direction you
@@ -1014,21 +1014,21 @@ of any power you manifest.
 
 A burst, cone, or emanation power affects only an area, creatures, or
 objects to which it has line of effect from its origin (a spherical
-burst's center point, a cone-shaped burst's starting point, or an
-emanation's point of origin). An otherwise solid barrier with a hole of
-at least 1 square foot through it does not block a power's line of
+burst’s center point, a cone-shaped burst’s starting point, or an
+emanation’s point of origin). An otherwise solid barrier with a hole of
+at least 1 square foot through it does not block a power’s line of
 effect. Such an opening means that the 5-foot length of wall containing
 the hole is no longer considered a barrier for the purpose of
-determining a power's line of effect.
+determining a power’s line of effect.
 
 ### Duration
 
-A power's Duration line tells you how long the psionic energy of the
+A power’s Duration line tells you how long the psionic energy of the
 power lasts.
 
 **Timed Durations:** Many durations are measured in rounds, minutes,
 hours, or some other increment. When the time is up, the psionic energy
-sustaining the effect fades, and the power ends. If a power's duration
+sustaining the effect fades, and the power ends. If a power’s duration
 is variable it is rolled secretly.
 
 **Instantaneous:** The psionic energy comes and goes the instant the
@@ -1041,17 +1041,17 @@ the power is vulnerable to *dispel psionics*.
 Concentrating to maintain a power is a standard action that does not
 provoke attacks of opportunity. Anything that could break your
 concentration when manifesting a power can also break your concentration
-while you're maintaining one, causing the power to end. You can't
+while you’re maintaining one, causing the power to end. You can’t
 manifest a power while concentrating on another one. Some powers may
 last for a short time after you cease concentrating. In such a case, the
 power keeps going for the given length of time after you stop
 concentrating, but no longer. Otherwise, you must concentrate to
-maintain the power, but you can't maintain it for more than a stated
+maintain the power, but you can’t maintain it for more than a stated
 duration in any event. If a target moves out of range, the power reacts
 as if your concentration had been broken.
 
 **Subjects, Effects, and Areas:** If the power affects creatures
-directly the result travels with the subjects for the power's duration.
+directly the result travels with the subjects for the power’s duration.
 If the power creates an effect, the effect lasts for the duration. The
 effect might move or remain still. Such an effect can be destroyed prior
 to when its duration ends. If the power affects an area then the power
@@ -1059,7 +1059,7 @@ stays with that area for its duration. Creatures become subject to the
 power when they enter the area and are no longer subject to it when they
 leave.
 
-**Touch Powers and Holding the Charge:** In most cases, if you don't
+**Touch Powers and Holding the Charge:** In most cases, if you don’t
 discharge a touch power on the round you manifest it, you can hold the
 charge (postpone the discharge of the power) indefinitely. You can make
 touch attacks round after round. If you touch anything with your hand
@@ -1067,7 +1067,7 @@ while holding a charge, the power discharges. If you manifest another
 power, the touch power dissipates.
 
 Some touch powersallow you to touch multiple targets as part of the
-power. You can't hold the charge of such a power; you must touch all the
+power. You can’t hold the charge of such a power; you must touch all the
 targets of the power in the same round that you finish manifesting the
 power. You can touch one friend (or yourself) as a standard action or as
 many as six friends as a full round action.
@@ -1075,8 +1075,8 @@ many as six friends as a full round action.
 **Discharge:** Occasionally a power lasts for a set duration or until
 triggered or discharged.
 
-**(D) Dismissible:** If the Duration line ends with "(D)," you can
-dismiss the power at will. You must be within range of the power's
+**(D) Dismissible:** If the Duration line ends with “(D),” you can
+dismiss the power at will. You must be within range of the power’s
 effect and must mentally will the dismissal, which causes the same
 display as when you first manifested the power. Dismissing a power is a
 standard action that does not provoke attacks of opportunity. A power
@@ -1106,11 +1106,11 @@ the damage taken (round down).
 **(object):** The power can be manifested on objects, which receive
 saving throws only if they are psionic or if they are attended (held,
 worn, grasped, or the like) by a creature resisting the power, in which
-case the object uses the creature's saving throw bonus unless its own
+case the object uses the creature’s saving throw bonus unless its own
 bonus is greater. (This notation does not mean that a power can be
 manifested only on objects. Some powers of this sort can be manifested
-on creatures or objects.) A psionic item's saving throw bonuses are each
-equal to 2 + one-half the item's manifester level.
+on creatures or objects.) A psionic item’s saving throw bonuses are each
+equal to 2 + one-half the item’s manifester level.
 
 **(harmless):** The power is usually beneficial, not harmful, but a
 targeted creature can attempt a saving throw if it desires.
@@ -1118,13 +1118,13 @@ targeted creature can attempt a saving throw if it desires.
 **Saving Throw Difficulty Class:** A saving throw against your power has
 a DC 10 + the level of the power + your key ability modifier
 (Intelligence for a psion, Wisdom for a psychic warrior, or Charisma for
-a wilder). A power's level can vary depending on your class. Always use
+a wilder). A power’s level can vary depending on your class. Always use
 the power level applicable to your class.
 
 **Succeeding on a Saving Throw:** A creature that successfully saves
 against a power that has no obvious physical effects feels a hostile
 force or a tingle, but cannot deduce the exact nature of the attack.
-Likewise, if a creature's saving throw succeeds against a targeted power
+Likewise, if a creature’s saving throw succeeds against a targeted power
 you sense that the power has failed. You do not sense when creatures
 succeed on saves against effect and area powers.
 
@@ -1137,7 +1137,7 @@ exposed items (see Items Surviving after a Saving Throw, below). A
 natural 20 (the d20 comes up 20) is always a success.
 
 **Voluntarily Giving up a Saving Throw:** A creature can voluntarily
-forego a saving throw and willingly accept a power's result. Even a
+forego a saving throw and willingly accept a power’s result. Even a
 character with a special resistance to psionics can suppress this
 quality.
 
@@ -1153,29 +1153,29 @@ likely to be affected and roll randomly among them. The randomly
 determined item must make a saving throw against the attack form or take
 whatever damage the attack deals.
 
-  ----------------------------------------------------------- -----------------------------------------------------
-  Order^1^                                                    Item
-  1st                                                         Shield
-  2nd                                                         Armor
-  3rd                                                         Psionic or magic helmet, or psicrown
-  4th                                                         Item in hand (including weapon, dorje, or the like)
-  5th                                                         Psionic or magic cloak
-  6th                                                         Stowed or sheathed weapon
-  7th                                                         Psionic or magic bracers
-  8th                                                         Psionic or magic clothing
-  9th                                                         Psionic or magic jewelry (including rings)
-  10th                                                        Anything else
-  1 In order of most likely to least likely to be affected.   
-  ----------------------------------------------------------- -----------------------------------------------------
+|                                                           |                                                     |
+|-----------------------------------------------------------|-----------------------------------------------------|
+| Order<sup>1</sup>                                         | Item                                                |
+| 1st                                                       | Shield                                              |
+| 2nd                                                       | Armor                                               |
+| 3rd                                                       | Psionic or magic helmet, or psicrown                |
+| 4th                                                       | Item in hand (including weapon, dorje, or the like) |
+| 5th                                                       | Psionic or magic cloak                              |
+| 6th                                                       | Stowed or sheathed weapon                           |
+| 7th                                                       | Psionic or magic bracers                            |
+| 8th                                                       | Psionic or magic clothing                           |
+| 9th                                                       | Psionic or magic jewelry (including rings)          |
+| 10th                                                      | Anything else                                       |
+| 1 In order of most likely to least likely to be affected. |                                                     |
 
-  : Table: Items Affected by Psionic Attacks
+Table: Items Affected by Psionic Attacks
 
 ### Power Resistance
 
 Power resistance is a special defensive ability. If your power is being
 resisted by a creature with power resistance, you must make a manifester
-level check (d20 + manifester level) at least equal to the creature's
-power resistance for the power to affect that creature. The defender's
+level check (d20 + manifester level) at least equal to the creature’s
+power resistance for the power to affect that creature. The defender’s
 power resistance functions like an Armor Class against psionic attacks.
 Spell resistance is equivalent to power resistance unless the Psionics
 Is Different option is in use. Include any adjustments to your
@@ -1187,7 +1187,7 @@ the power. In many cases, power resistance applies only when a resistant
 creature is targeted by the power, not when a resistant creature
 encounters a power that is already in place.
 
-The terms "object" and "harmless" mean the same thing for power
+The terms “object” and “harmless” mean the same thing for power
 resistance as they do for saving throws. A creature with power
 resistance must voluntarily lower the resistance (a standard action) to
 be affected by a power noted as harm less. In such a case, you do not
@@ -1195,20 +1195,20 @@ need to make the manifester level check described above.
 
 ### Power Points
 
-All powers have a Power Points line, indicating the power's cost.
+All powers have a Power Points line, indicating the power’s cost.
 
 The psionic character class tables show how many power points a
 character has access to each day, depending on level.
 
-A power's cost is determined by its level, as shown below. Every power's
+A power’s cost is determined by its level, as shown below. Every power’s
 cost is noted in its description for ease of reference.
 
-  ------------------ --- --- --- --- --- ---- ---- ---- ----
-  Power Level        1   2   3   4   5   6    7    8    9
-  Power Point Cost   1   3   5   7   9   11   13   15   17
-  ------------------ --- --- --- --- --- ---- ---- ---- ----
+|                  |     |     |     |     |     |     |     |     |     |
+|------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Power Level      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| Power Point Cost | 1   | 3   | 5   | 7   | 9   | 11  | 13  | 15  | 17  |
 
-  : Table: Power Points by Power Level
+Table: Power Points by Power Level
 
 **Power Point Limit:** Some powers allow you to spend more than their
 base cost to achieve an improved effect, or augment the power. The
@@ -1216,7 +1216,7 @@ maximum number of points you can spend on a power (for any reason) is
 equal to your manifester level.
 
 **XP Cost (XP):** On the same line that the power point cost of a power
-is indicated, the power's experience point cost, if any, is noted.
+is indicated, the power’s experience point cost, if any, is noted.
 Particularly powerful effects entail an experience point cost to you. No
 spell or power can restore XP lost in this manner. You cannot spend so
 much XP that you lose a level, so you cannot manifest a power with an XP
@@ -1228,18 +1228,18 @@ you manifest the power, whether or not the manifestation succeeds.
 ### Descriptive Text
 
 This portion of a power description details what the power does and how
-it works. If one of the previous lines in the description included "see
-text," this is where the explanation is found. If the power you're
+it works. If one of the previous lines in the description included “see
+text,” this is where the explanation is found. If the power you’re
 reading about is based on another power you might have to refer to a
-different power for the "see text" information. If a power is the
-equivalent of a spell an entry of "see spell text" directs you to the
+different power for the “see text” information. If a power is the
+equivalent of a spell an entry of “see spell text” directs you to the
 appropriate spell description.
 
 **Augment:** Many powers have variable effects based on the number of
 power points you spend when you manifest them. The more points spent,
 the more powerful the manifestation. How this extra expenditure affects
 a power is specific to the power. Some augmentations allow you to
-increase the number of damage dice, while others extend a power's
+increase the number of damage dice, while others extend a power’s
 duration or modify a power in unique ways. Each power that can be
 augmented includes an entry giving how many power points it costs to
 augment and the effects of doing so. However, you can spend only a total

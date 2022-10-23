@@ -39,7 +39,7 @@ experience point penalties normally associated with multiclassing.
     -   [Blackguard Spell List](#blackguard-spell-list)
     -   [Corrupt Weapon](#corrupt-weapon)
     -   [Fallen Paladins](#fallen-paladins)
-    -   [The Blackguard's Fiendish
+    -   [The Blackguard’s Fiendish
         Servant](#the-blackguards-fiendish-servant)
 -   [Dragon Disciple](#dragon-disciple)
     -   [Requirements](#dragon-disciple--requirements)
@@ -104,7 +104,7 @@ are the same.
 
 **Hit Die:** d8.
 
-### Requirements {#arcane-archer--requirements}
+### Requirements
 
 To qualify to become an arcane archer, a character must fulfill all the
 following criteria.
@@ -118,51 +118,125 @@ shortbow).
 
 **Spells:** Ability to cast 1st-level arcane spells.
 
-### Class Skills {#arcane-archer--class-skills}
+### Class Skills
 
-The arcane archer's class skills (and the key ability for each skill)
+The arcane archer’s class skills (and the key ability for each skill)
 are Craft (Int), Hide (Dex). Listen (Wis), Move Silently (Dex), Ride
 (Dex), Spot (Wis), Survival (Wis), and Use Rope (Dex).
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-  ----------- ----------- ----------- ----------- ----------- -----------
-  Level       Base\       Fort\       Ref\        Will\       Special
-              Attack\     Save        Save        Save        
-              Bonus                                           
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Arcane Archer</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+</tr>
 
-  1st         +1          +2          +2          +0          Enhance
-                                                              arrow +1
+<tr class="odd">
+<td>1st</td>
+<td>+1</td>
+<td>+2</td>
+<td>+2</td>
+<td>+0</td>
+<td>Enhance arrow +1</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+2</td>
+<td>+3</td>
+<td>+3</td>
+<td>+0</td>
+<td style="font-style: italic">Imbue arrow</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+3</td>
+<td>+3</td>
+<td>+3</td>
+<td>+1</td>
+<td>Enhance arrow +2</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+4</td>
+<td>+4</td>
+<td>+4</td>
+<td>+1</td>
+<td style="font-style: italic">Seeker arrow</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+5</td>
+<td>+4</td>
+<td>+4</td>
+<td>+1</td>
+<td>Enhance arrow +3</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+6</td>
+<td>+5</td>
+<td>+5</td>
+<td>+2</td>
+<td style="font-style: italic">Phase arrow</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+7</td>
+<td>+5</td>
+<td>+5</td>
+<td>+2</td>
+<td>Enhance arrow +4</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+8</td>
+<td>+6</td>
+<td>+6</td>
+<td>+2</td>
+<td style="font-style: italic">Hail of arrows</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+9</td>
+<td>+6</td>
+<td>+6</td>
+<td>+3</td>
+<td>Enhance arrow +5</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+10</td>
+<td>+7</td>
+<td>+7</td>
+<td>+3</td>
+<td style="font-style: italic">Arrow of death</td>
+</tr>
+</tbody>
+</table>
 
-  2nd         +2          +3          +3          +0          Imbue arrow
+Table: The Arcane Archer
 
-  3rd         +3          +3          +3          +1          Enhance
-                                                              arrow +2
-
-  4th         +4          +4          +4          +1          Seeker
-                                                              arrow
-
-  5th         +5          +4          +4          +1          Enhance
-                                                              arrow +3
-
-  6th         +6          +5          +5          +2          Phase arrow
-
-  7th         +7          +5          +5          +2          Enhance
-                                                              arrow +4
-
-  8th         +8          +6          +6          +2          Hail of
-                                                              arrows
-
-  9th         +9          +6          +6          +3          Enhance
-                                                              arrow +5
-
-  10th        +10         +7          +7          +3          Arrow of
-                                                              death
-  ----------- ----------- ----------- ----------- ----------- -----------
-
-  : Table: The Arcane Archer
-
-### Class Features {#arcane-archer--class-features}
+### Class Features
 
 All of the following are Class Features of the arcane archer prestige
 class.
@@ -174,23 +248,23 @@ all simple and martial weapons, light armor, medium armor, and shields.
 archer nocks and lets fly becomes magical, gaining a +1 enhancement
 bonus. Unlike magic weapons created by normal means, the archer need not
 spend experience points or gold pieces to accomplish this task. However,
-an archer's magic arrows only function for her. For every two levels the
+an archer’s magic arrows only function for her. For every two levels the
 character advances past 1st level in the prestige class, the magic
 arrows she creates gain +1 greater potency (+1 at 1st level, +2 at 3rd
 level, +3 at 5th level, +4 at 7th level, and +5 at 9th level).
 
 ***Imbue Arrow* (Sp):** At 2nd level, an arcane archer gains the ability
 to place an area spell upon an arrow. When the arrow is fired, the
-spell's area is centered on where the arrow lands, even if the spell
+spell’s area is centered on where the arrow lands, even if the spell
 could normally be centered only on the caster. This ability allows the
-archer to use the bow's range rather than the spell's range. It takes a
+archer to use the bow’s range rather than the spell’s range. It takes a
 standard action to cast the spell and fire the arrow. The arrow must be
 fired in the round the spell is cast, or the spell is wasted.
 
 ***Seeker Arrow* (Sp):** At 4th level, an arcane archer can launch an
 arrow once per day at a target known to her within range, and the arrow
 travels to the target, even around corners. Only an unavoidable obstacle
-or the limit of the arrow's range prevents the arrow's flight. This
+or the limit of the arrow’s range prevents the arrow’s flight. This
 ability negates cover and concealment modifiers, but otherwise the
 attack is rolled normally. Using this ability is a standard action (and
 shooting the arrow is part of the action).
@@ -208,11 +282,11 @@ of the action).
 ***Hail of Arrows* (Sp):** In lieu of her regular attacks, once per day
 an arcane archer of 8th level or higher can fire an arrow at each and
 every target within range, to a maximum of one target for every arcane
-archer level she has earned. Each attack uses the archer's primary
+archer level she has earned. Each attack uses the archer’s primary
 attack bonus, and each enemy may only be targeted by a single arrow.
 
 ***Arrow of Death* (Sp):** At 10th level, an arcane archer can create an
-*arrow of death* that forces the target, if damaged by the arrow's
+*arrow of death* that forces the target, if damaged by the arrow’s
 attack, to make a DC 20 Fortitude save or be slain immediately. It takes
 one day to make an *arrow of death*, and the arrow only functions for
 the arcane archer who created it. The *arrow of death* lasts no longer
@@ -223,7 +297,7 @@ at a time.
 
 **Hit Die:** d4.
 
-### Requirements {#arcane-trickster--requirements}
+### Requirements
 
 To qualify to become an arcane trickster, a character must fulfill all
 of the following criteria.
@@ -238,9 +312,9 @@ Artist 7 ranks, Knowledge (arcana) 4 ranks.
 
 **Special:** Sneak attack +2d6.
 
-### Class Skills {#arcane-trickster--class-skills}
+### Class Skills
 
-The arcane trickster's class skills (and the key ability for each skill)
+The arcane trickster’s class skills (and the key ability for each skill)
 are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str),
 Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy
 (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Gather
@@ -252,65 +326,129 @@ Tumble (Dex), and Use Rope (Dex).
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-  ---------- ---------- ---------- ---------- ---------- ------------- ----------
-  Level      Base\      Fort\      Ref\       Will\      Special       Spells per
-             Attack\    Save       Save       Save                     Day
-             Bonus                                                     
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Arcane Trickster</caption>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th>Spells per Day</th>
+</tr>
 
-  1st        +0         +0         +2         +2         Ranged        +1 level
-                                                         legerdemain   of
-                                                         1/day         existing
-                                                                       class
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+<td>+2</td>
+<td>Ranged legerdemain 1/day</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+3</td>
+<td>+3</td>
+<td>Sneak attack +1d6</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+1</td>
+<td>+1</td>
+<td>+3</td>
+<td>+3</td>
+<td>Impromptu sneak attack 1/day</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+4</td>
+<td>+4</td>
+<td>Sneak attack +2d6</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+4</td>
+<td>+4</td>
+<td>Ranged legerdemain 2/day</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+5</td>
+<td>+5</td>
+<td>Sneak attack +3d6</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+5</td>
+<td>+5</td>
+<td>Impromptu sneak attack 2/day</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+4</td>
+<td>+2</td>
+<td>+6</td>
+<td>+6</td>
+<td>Sneak attack +4d6</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+4</td>
+<td>+3</td>
+<td>+6</td>
+<td>+6</td>
+<td>Ranged legerdemain 3/day</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+5</td>
+<td>+3</td>
+<td>+7</td>
+<td>+7</td>
+<td>Sneak attack +5d6</td>
+<td>+1 level of existing class</td>
+</tr>
+</tbody>
+</table>
 
-  2nd        +1         +0         +3         +3         Sneak attack  +1 level
-                                                         +1d6          of
-                                                                       existing
-                                                                       class
+Table: The Arcane Trickster
 
-  3rd        +1         +1         +3         +3         Impromptu     +1 level
-                                                         sneak attack  of
-                                                         1/day         existing
-                                                                       class
-
-  4th        +2         +1         +4         +4         Sneak attack  +1 level
-                                                         +2d6          of
-                                                                       existing
-                                                                       class
-
-  5th        +2         +1         +4         +4         Ranged        +1 level
-                                                         legerdemain   of
-                                                         2/day         existing
-                                                                       class
-
-  6th        +3         +2         +5         +5         Sneak attack  +1 level
-                                                         +3d6          of
-                                                                       existing
-                                                                       class
-
-  7th        +3         +2         +5         +5         Impromptu     +1 level
-                                                         sneak attack  of
-                                                         2/day         existing
-                                                                       class
-
-  8th        +4         +2         +6         +6         Sneak attack  +1 level
-                                                         +4d6          of
-                                                                       existing
-                                                                       class
-
-  9th        +4         +3         +6         +6         Ranged        +1 level
-                                                         legerdemain   of
-                                                         3/day         existing
-                                                                       class
-
-  10th       +5         +3         +7         +7         Sneak attack  +1 level
-                                                         +5d6          of
-                                                                       existing
-                                                                       class
-  ---------- ---------- ---------- ---------- ---------- ------------- ----------
-
-  : Table: The Arcane Trickster
-
-### Class Features {#arcane-trickster--class-features}
+### Class Features
 
 All of the following are Class Features of the arcane trickster prestige
 class.
@@ -358,7 +496,7 @@ At 7th level, an arcane trickster can use this ability twice per day.
 
 **Hit Die:** d4.
 
-### Requirements {#archmage--requirements}
+### Requirements
 
 To qualify to become an archmage, a character must fulfill all the
 following criteria.
@@ -371,54 +509,95 @@ magic.
 **Spells:** Ability to cast 7th-level arcane spells, knowledge of
 5th-level or higher spells from at least five schools.
 
-### Class Skills {#archmage--class-skills}
+### Class Skills
 
-The archmage's class skills (and the key ability for each skill) are
+The archmage’s class skills (and the key ability for each skill) are
 Concentration (Con), Craft (alchemy) (Int), Knowledge (all skills taken
 individually) (Int), Profession (Wis), Search (Int), and Spellcraft
 (Int).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  -------- --------- -------- -------- -------- --------- -------------- --------
-  Level    Base\     Fort\    Ref\     Will\    Special   Spells per Day 
-           Attack\   Save     Save     Save                              
-           Bonus                                                         
+<table class="full-width-table">
+<caption>Table: The Archmage</caption>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th colspan="2">Spells per Day</th>
+</tr>
 
-  1st      +0        +0       +0       +2       High      +1 level of    
-                                                arcana    existing       
-                                                          arcane         
-                                                          spellcasting   
-                                                          class          
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+<td>High arcana</td>
+<td>+1 level of existing arcane spellcasting class</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+3</td>
+<td>High arcana</td>
+<td colspan="2">+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+<td>+3</td>
+<td>High arcana</td>
+<td colspan="2">+1level of existing arcane spellcasting class</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td>High arcana</td>
+<td colspan="2">+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td>High arcana</td>
+<td colspan="2">+1 level of existing arcane spellcasting class</td>
+</tr>
+</tbody>
+</table>
 
-  2nd      +1        +0       +0       +3       High      +1 level of    
-                                                arcana    existing       
-                                                          arcane         
-                                                          spellcasting   
-                                                          class          
+Table: The Archmage
 
-  3rd      +1        +1       +1       +3       High      +1level of     
-                                                arcana    existing       
-                                                          arcane         
-                                                          spellcasting   
-                                                          class          
-
-  4th      +2        +1       +1       +4       High      +1 level of    
-                                                arcana    existing       
-                                                          arcane         
-                                                          spellcasting   
-                                                          class          
-
-  5th      +2        +1       +1       +4       High      +1 level of    
-                                                arcana    existing       
-                                                          arcane         
-                                                          spellcasting   
-                                                          class          
-  -------- --------- -------- -------- -------- --------- -------------- --------
-
-  : Table: The Archmage
-
-### Class Features {#archmage--class-features}
+### Class Features
 
 All the following are **Class Features** of the archmage prestige class.
 
@@ -466,20 +645,20 @@ turning*, then it is merely counterspelled. This ability costs one
 *Mastery of Elements:* The archmage can alter an arcane spell when cast
 so that it utilizes a different element from the one it normally uses.
 This ability can only alter a spell with the acid, cold, fire,
-electricity, or sonic descriptor. The spell's casting time is
-unaffected. The caster decides whether to alter the spell's energy type
+electricity, or sonic descriptor. The spell’s casting time is
+unaffected. The caster decides whether to alter the spell’s energy type
 and chooses the new energy type when he begins casting. This ability
 costs one 8th-level spell slot.
 
 *Mastery of Shaping:* The archmage can alter area and effect spells that
 use one of the following shapes: burst, cone, cylinder, emanation, or
-spread. The alteration consists of creating spaces within the spell's
+spread. The alteration consists of creating spaces within the spell’s
 area or effect that are not subject to the spell. The minimum dimension
 for these spaces is a 5-foot cube. Furthermore, any shapeable spells
 have a minimum dimension of 5 feet instead of 10 feet. This ability
 costs one 6th-level spell slot.
 
-*Spell Power:* This ability increases the archmage's effective caster
+*Spell Power:* This ability increases the archmage’s effective caster
 level by +1 (for purposes of determining level-dependent spell variables
 such as damage dice or range, and caster level checks only). This
 ability costs one 5th-level spell slot.
@@ -493,7 +672,7 @@ although a spell that costs XP to cast still does so and a spell with a
 costly material component instead costs her 10 times that amount in XP.
 This ability costs one 5th-level spell slot.
 
-The spell-like ability normally uses a spell slot of the spell's level,
+The spell-like ability normally uses a spell slot of the spell’s level,
 although the archmage can choose to make a spell modified by a metamagic
 feat into a spell-like ability at the appropriate spell level.
 
@@ -512,7 +691,7 @@ different spell.
 
 **Hit Die:** d6.
 
-### Requirements {#assassin--requirements}
+### Requirements
 
 To qualify to become an assassin, a character must fulfill all the
 following criteria.
@@ -524,9 +703,9 @@ following criteria.
 **Special:** The character must kill someone for no other reason than to
 join the assassins.
 
-### Class Skills {#assassin--class-skills}
+### Class Skills
 
-The assassin's class skills (and the key ability for each skill) are
+The assassin’s class skills (and the key ability for each skill) are
 Balance (Dex), Bluff (Cha), Climb (Str), Craft (Int), Decipher Script
 (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape
 Artist (Dex), Forgery (Int), Gather Information (Cha), Hide (Dex),
@@ -537,78 +716,183 @@ Rope (Dex).
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-  ------- --------- ------- ------- ------- ---------- ---------------------------------------------------------------------------------------------------------- ------- ------- -------
-                                                                                                       []{style="                                                                 
-                                                                                                            display: block;                                                       
-                                                                                                          position: absolute;                                                     
-                                                                                                               right: 0;                                                          
-                                                                                                               top: 50%;                                                          
-                                                                                                               left: 0px;                                                         
-                                                                                                  border-top: 1px solid currentColor;                                             
-                                                                                                          "}[Spells per Day                                                       
-                                                        ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                  
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Assassin</caption>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;" colspan="4"
+style="position: relative"><span style="
+                display: block;
+                position: absolute;
+                right: 0;
+                top: 50%;
+                left: 0px;
+                border-top: 1px solid currentColor;
+              "></span><span
+style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Spells
+per Day </span></th>
+</tr>
+<tr class="even">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th style="text-align: center;">1st</th>
+<th style="text-align: center;">2nd</th>
+<th style="text-align: center;">3rd</th>
+<th style="text-align: center;">4th</th>
+</tr>
+<tr class="odd">
+<th>1st</th>
+<th>+0</th>
+<th>+0</th>
+<th>+2</th>
+<th>+0</th>
+<th>Sneak attack +1d6, death attack, poison use, spells</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>2nd</th>
+<th>+1</th>
+<th>+0</th>
+<th>+3</th>
+<th>+0</th>
+<th>+1 save against poison, uncanny dodge</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>3rd</th>
+<th>+2</th>
+<th>+1</th>
+<th>+3</th>
+<th>+1</th>
+<th>Sneak attack +2d6</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>4th</th>
+<th>+3</th>
+<th>+1</th>
+<th>+4</th>
+<th>+1</th>
+<th>+2 save against poison</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>5th</th>
+<th>+3</th>
+<th>+1</th>
+<th>+4</th>
+<th>+1</th>
+<th>Improved uncanny dodge, sneak attack +3d6</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>6th</th>
+<th>+4</th>
+<th>+2</th>
+<th>+5</th>
+<th>+2</th>
+<th>+3 save against poison</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>7th</th>
+<th>+5</th>
+<th>+2</th>
+<th>+5</th>
+<th>+2</th>
+<th>Sneak attack +4d6</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">0</th>
+</tr>
+<tr class="even">
+<th>8th</th>
+<th>+6</th>
+<th>+2</th>
+<th>+6</th>
+<th>+2</th>
+<th>+4 save against poison, hide in plain sight</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr class="odd">
+<th>9th</th>
+<th>+6</th>
+<th>+3</th>
+<th>+6</th>
+<th>+3</th>
+<th>Sneak attack +5d6</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">2</th>
+</tr>
+<tr class="even">
+<th>10th</th>
+<th>+7</th>
+<th>+3</th>
+<th>+7</th>
+<th>+3</th>
+<th>+5 save against poison</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">3</th>
+</tr>
+</tbody>
+</table>
 
-  Level   Base\     Fort\   Ref\    Will\   Special                                                       1st                                                       2nd     3rd     4th
-          Attack\   Save    Save    Save                                                                                                                                          
-          Bonus                                                                                                                                                                   
+Table: The Assassin
 
-  1st     +0        +0      +2      +0      Sneak                                                          0                                                        ---     ---     ---
-                                            attack                                                                                                                                
-                                            +1d6,                                                                                                                                 
-                                            death                                                                                                                                 
-                                            attack,                                                                                                                               
-                                            poison                                                                                                                                
-                                            use,                                                                                                                                  
-                                            spells                                                                                                                                
-
-  2nd     +1        +0      +3      +0      +1 save                                                        1                                                        ---     ---     ---
-                                            against                                                                                                                               
-                                            poison,                                                                                                                               
-                                            uncanny                                                                                                                               
-                                            dodge                                                                                                                                 
-
-  3rd     +2        +1      +3      +1      Sneak                                                          2                                                         0      ---     ---
-                                            attack                                                                                                                                
-                                            +2d6                                                                                                                                  
-
-  4th     +3        +1      +4      +1      +2 save                                                        3                                                         1      ---     ---
-                                            against                                                                                                                               
-                                            poison                                                                                                                                
-
-  5th     +3        +1      +4      +1      Improved                                                       3                                                         2       0      ---
-                                            uncanny                                                                                                                               
-                                            dodge,                                                                                                                                
-                                            sneak                                                                                                                                 
-                                            attack                                                                                                                                
-                                            +3d6                                                                                                                                  
-
-  6th     +4        +2      +5      +2      +3 save                                                        3                                                         3       1      ---
-                                            against                                                                                                                               
-                                            poison                                                                                                                                
-
-  7th     +5        +2      +5      +2      Sneak                                                          3                                                         3       2       0
-                                            attack                                                                                                                                
-                                            +4d6                                                                                                                                  
-
-  8th     +6        +2      +6      +2      +4 save                                                        3                                                         3       3       1
-                                            against                                                                                                                               
-                                            poison,                                                                                                                               
-                                            hide in                                                                                                                               
-                                            plain                                                                                                                                 
-                                            sight                                                                                                                                 
-
-  9th     +6        +3      +6      +3      Sneak                                                          3                                                         3       3       2
-                                            attack                                                                                                                                
-                                            +5d6                                                                                                                                  
-
-  10th    +7        +3      +7      +3      +5 save                                                        3                                                         3       3       3
-                                            against                                                                                                                               
-                                            poison                                                                                                                                
-  ------- --------- ------- ------- ------- ---------- ---------------------------------------------------------------------------------------------------------- ------- ------- -------
-
-  : Table: The Assassin
-
-### Class Features {#assassin--class-features}
+### Class Features
 
 All of the following are Class Features of the assassin prestige class.
 
@@ -625,15 +909,15 @@ another source the bonuses on damage stack.
 **Death Attack:** If an assassin studies his victim for 3 rounds and
 then makes a sneak attack with a melee weapon that successfully deals
 damage, the sneak attack has the additional effect of possibly either
-paralyzing or killing the target (assassin's choice). While studying the
+paralyzing or killing the target (assassin’s choice). While studying the
 victim, the assassin can undertake other actions so long as his
 attention stays focused on the target and the target does not detect the
 assassin or recognize the assassin as an enemy. If the victim of such an
-attack fails a Fortitude save (DC 10 + the assassin's class level + the
-assassin's Int modifier) against the kill effect, she dies. If the
+attack fails a Fortitude save (DC 10 + the assassin’s class level + the
+assassin’s Int modifier) against the kill effect, she dies. If the
 saving throw fails against the paralysis effect, the victim is rendered
 helpless and unable to act for 1d6 rounds plus 1 round per level of the
-assassin. If the victim's saving throw succeeds, the attack is just a
+assassin. If the victim’s saving throw succeeds, the attack is just a
 normal sneak attack. Once the assassin has completed the 3 rounds of
 study, he must make the death attack within the next 3 rounds.
 
@@ -647,50 +931,50 @@ risk accidentally poisoning themselves when applying poison to a blade.
 
 **Spells:** Beginning at 1st level, an assassin gains the ability to
 cast a number of arcane spells. To cast a spell, an assassin must have
-an Intelligence score of at least 10 + the spell's level, so an assassin
+an Intelligence score of at least 10 + the spell’s level, so an assassin
 with an Intelligence of 10 or lower cannot cast these spells. Assassin
 bonus spells are based on Intelligence, and saving throws against these
-spells have a DC of 10 + spell level + the assassin's Intelligence
+spells have a DC of 10 + spell level + the assassin’s Intelligence
 bonus. When the assassin gets 0 spells per day of a given spell level he
 gains only the bonus spells he would be entitled to based on his
 Intelligence score for that spell level.
 
-The assassin's spell list appears below. An assassin casts spells just
+The assassin’s spell list appears below. An assassin casts spells just
 as a bard does.
 
 Upon reaching 6th level, at every even-numbered level after that (8th
 and 10th), an assassin can choose to learn a new spell in place of one
-he already knows. The new spell's level must be the same as that of the
+he already knows. The new spell’s level must be the same as that of the
 spell being exchanged, and it must be at least two levels lower than the
 highest-level assassin spell the assassin can cast. An assassin may swap
 only a single spell at any given level, and must choose whether or not
 to swap the spell at the same time that he gains new spells known for
 that level.
 
-  ------------------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------------------------------- ------ ------ ------ ------
-                                                                                                                                                            []{style="                                                                                     
-                                                                                                                                                                 display: block;                                                                           
-                                                                                                                                                               position: absolute;                                                                         
-                                                                                                                                                                    right: 0;                                                                              
-                                                                                                                                                                    top: 50%;                                                                              
-                                                                                                                                                                    left: 0px;                                                                             
-                                                                                                                                                       border-top: 1px solid currentColor;                                                                 
-                                                                                                            "}[Spells Known ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                       
-  Level                                                                                                                                                                                                                                1st    2nd    3rd    4th
-  1st                                                                                                                                                                                                                                  2^1^   ---    ---    ---
-  2nd                                                                                                                                                                                                                                   3     ---    ---    ---
-  3rd                                                                                                                                                                                                                                   3     2^1^   ---    ---
-  4th                                                                                                                                                                                                                                   4      3     ---    ---
-  5th                                                                                                                                                                                                                                   4      3     2^1^   ---
-  6th                                                                                                                                                                                                                                   4      4      3     ---
-  7th                                                                                                                                                                                                                                   4      4      3     2^1^
-  8th                                                                                                                                                                                                                                   4      4      4      3
-  9th                                                                                                                                                                                                                                   4      4      4      3
-  10th                                                                                                                                                                                                                                  4      4      4      4
-  1 Provided the assassin has sufficient Intelligence to have a bonus spell of this level.                                                                                                                                                                 
-  ------------------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------------------------------------------------------- ------ ------ ------ ------
+|                                                                                          |                                                                                                                                                         |               |               |               |               |
+|------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|                                                                                          |                                                                      <span style="                                                                      
+                                                                                                                                                                         display: block;                                                             
+                                                                                                                                                                       position: absolute;                                                           
+                                                                                                                                                                            right: 0;                                                                
+                                                                                                                                                                            top: 50%;                                                                
+                                                                                                                                                                           left: 0px;                                                                
+                                                                                                                                                               border-top: 1px solid currentColor;                                                   
+                                                                                                          "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Spells Known </span>  |               |               |               |               |
+| Level                                                                                    |                                                                                                                                                         |      1st      |      2nd      |      3rd      |      4th      |
+| 1st                                                                                      |                                                                                                                                                         | 2<sup>1</sup> |       —       |       —       |       —       |
+| 2nd                                                                                      |                                                                                                                                                         |       3       |       —       |       —       |       —       |
+| 3rd                                                                                      |                                                                                                                                                         |       3       | 2<sup>1</sup> |       —       |       —       |
+| 4th                                                                                      |                                                                                                                                                         |       4       |       3       |       —       |       —       |
+| 5th                                                                                      |                                                                                                                                                         |       4       |       3       | 2<sup>1</sup> |       —       |
+| 6th                                                                                      |                                                                                                                                                         |       4       |       4       |       3       |       —       |
+| 7th                                                                                      |                                                                                                                                                         |       4       |       4       |       3       | 2<sup>1</sup> |
+| 8th                                                                                      |                                                                                                                                                         |       4       |       4       |       4       |       3       |
+| 9th                                                                                      |                                                                                                                                                         |       4       |       4       |       4       |       3       |
+| 10th                                                                                     |                                                                                                                                                         |       4       |       4       |       4       |       4       |
+| 1 Provided the assassin has sufficient Intelligence to have a bonus spell of this level. |                                                                                                                                                         |               |               |               |               |
 
-  : Table: Assassin Spells Known
+Table: Assassin Spells Known
 
 **Save Bonus against Poison:** The assassin gains a natural saving throw
 bonus to all poisons gained at 2nd level that increases by +1 for every
@@ -730,7 +1014,7 @@ Assassins choose their spells from the following list:
 1st Level: *disguise self, detect poison, feather fall, ghost sound,
 jump, obscuring mist, sleep, true strike.*
 
-2nd Level: *alter self, cat's grace, darkness, fox's cunning, illusory
+2nd Level: *alter self, cat’s grace, darkness, fox’s cunning, illusory
 script, invisibility, pass without trace, spider climb, undetectable
 alignment.*
 
@@ -745,7 +1029,7 @@ memory, poison.*
 
 **Hit Die:** d10.
 
-### Requirements {#blackguard--requirements}
+### Requirements
 
 To qualify to become a blackguard, a character must fulfill all the
 following criteria.
@@ -761,72 +1045,192 @@ following criteria.
 **Special:** The character must have made peaceful contact with an evil
 outsider who was summoned by him or someone else.
 
-### Class Skills {#blackguard--class-skills}
+### Class Skills
 
-The blackguard's class skills (and the key ability for each skill) are
+The blackguard’s class skills (and the key ability for each skill) are
 Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha),
 Heal (Wis), Hide (Dex), Intimidate (Cha), Knowledge (religion) (Int),
 Profession (Wis), and Ride (Dex).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ------- --------- ------- ------- ------- ----------- ---------------------------------------------------------------------------------------------------------- ------- ------- -------
-                                                                                                        []{style="                                                                 
-                                                                                                             display: block;                                                       
-                                                                                                           position: absolute;                                                     
-                                                                                                                right: 0;                                                          
-                                                                                                                top: 50%;                                                          
-                                                                                                                left: 0px;                                                         
-                                                                                                   border-top: 1px solid currentColor;                                             
-                                                                                                           "}[Spells per Day                                                       
-                                                         ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                  
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Blackguard</caption>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th style="text-align: center;" colspan="4"
+style="position: relative"><span style="
+                display: block;
+                position: absolute;
+                right: 0;
+                top: 50%;
+                left: 0px;
+                border-top: 1px solid currentColor;
+              "></span><span
+style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Spells
+per Day </span></th>
+</tr>
+<tr class="even">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th style="text-align: center;">1st</th>
+<th style="text-align: center;">2nd</th>
+<th style="text-align: center;">3rd</th>
+<th style="text-align: center;">4th</th>
+</tr>
+<tr class="odd">
+<th>1st</th>
+<th>+1</th>
+<th>+2</th>
+<th>0</th>
+<th>0</th>
+<th>Aura of evil, <em>detect good</em>, poison use</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>2nd</th>
+<th>+2</th>
+<th>+3</th>
+<th>0</th>
+<th>0</th>
+<th>Dark blessing, smite good 1/day</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>3rd</th>
+<th>+3</th>
+<th>+3</th>
+<th>+1</th>
+<th>+1</th>
+<th>Command undead, aura of despair</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>4th</th>
+<th>+4</th>
+<th>+4</th>
+<th>+1</th>
+<th>+1</th>
+<th>Sneak attack +1d6</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>5th</th>
+<th>+5</th>
+<th>+4</th>
+<th>+1</th>
+<th>+1</th>
+<th>Fiendish servant, smite good 2/day</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">0</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="even">
+<th>6th</th>
+<th>+6</th>
+<th>+5</th>
+<th>+2</th>
+<th>+2</th>
+<th></th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">—</th>
+</tr>
+<tr class="odd">
+<th>7th</th>
+<th>+7</th>
+<th>+5</th>
+<th>+2</th>
+<th>+2</th>
+<th>Sneak attack +2d6</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">0</th>
+</tr>
+<tr class="even">
+<th>8th</th>
+<th>+8</th>
+<th>+6</th>
+<th>+2</th>
+<th>+2</th>
+<th></th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr class="odd">
+<th>9th</th>
+<th>+9</th>
+<th>+6</th>
+<th>+3</th>
+<th>+3</th>
+<th></th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr class="even">
+<th>10th</th>
+<th>+10</th>
+<th>+7</th>
+<th>+3</th>
+<th>+3</th>
+<th>Sneak attack +3d6, smite good 3/day</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">1</th>
+</tr>
+</tbody>
+</table>
 
-  Level   Base\     Fort\   Ref\    Will\   Special                                                        1st                                                       2nd     3rd     4th
-          Attack\   Save    Save    Save                                                                                                                                           
-          Bonus                                                                                                                                                                    
+Table: The Blackguard
 
-  1st     +1        +2      0       0       Aura of                                                         0                                                        ---     ---     ---
-                                            evil,                                                                                                                                  
-                                            *detect                                                                                                                                
-                                            good*,                                                                                                                                 
-                                            poison use                                                                                                                             
-
-  2nd     +2        +3      0       0       Dark                                                            1                                                        ---     ---     ---
-                                            blessing,                                                                                                                              
-                                            smite good                                                                                                                             
-                                            1/day                                                                                                                                  
-
-  3rd     +3        +3      +1      +1      Command                                                         1                                                         0      ---     ---
-                                            undead,                                                                                                                                
-                                            aura of                                                                                                                                
-                                            despair                                                                                                                                
-
-  4th     +4        +4      +1      +1      Sneak                                                           1                                                         1      ---     ---
-                                            attack +1d6                                                                                                                            
-
-  5th     +5        +4      +1      +1      Fiendish                                                        1                                                         1       0      ---
-                                            servant,                                                                                                                               
-                                            smite good                                                                                                                             
-                                            2/day                                                                                                                                  
-
-  6th     +6        +5      +2      +2                                                                      1                                                         1       1      ---
-
-  7th     +7        +5      +2      +2      Sneak                                                           2                                                         1       1       0
-                                            attack +2d6                                                                                                                            
-
-  8th     +8        +6      +2      +2                                                                      2                                                         1       1       1
-
-  9th     +9        +6      +3      +3                                                                      2                                                         2       1       1
-
-  10th    +10       +7      +3      +3      Sneak                                                           2                                                         2       2       1
-                                            attack                                                                                                                                 
-                                            +3d6, smite                                                                                                                            
-                                            good 3/day                                                                                                                             
-  ------- --------- ------- ------- ------- ----------- ---------------------------------------------------------------------------------------------------------- ------- ------- -------
-
-  : Table: The Blackguard
-
-### Class Features {#blackguard--class-features}
+### Class Features
 
 All of the following are Class Features of the blackguard prestige
 class.
@@ -834,7 +1238,7 @@ class.
 **Weapon and Armor Proficiency:** Blackguards are proficient with all
 simple and martial weapons, with all types of armor, and with shields.
 
-**Aura of Evil (Ex):** The power of a blackguard's aura of evil (see the
+**Aura of Evil (Ex):** The power of a blackguard’s aura of evil (see the
 *detect evil* spell) is equal to his class level plus his cleric level,
 if any.
 
@@ -849,14 +1253,14 @@ positive) as a bonus on all saving throws.
 
 **Spells:** A blackguard has the ability to cast a small number of
 divine spells. To cast a blackguard spell, a blackguard must have a
-Wisdom score of at least 10 + the spell's level, so a blackguard with a
+Wisdom score of at least 10 + the spell’s level, so a blackguard with a
 Wisdom of 10 or lower cannot cast these spells.
 
 Blackguard bonus spells are based on Wisdom, and saving throws against
-these spells have a DC of 10 + spell level + the blackguard's Wisdom
+these spells have a DC of 10 + spell level + the blackguard’s Wisdom
 modifier. When the blackguard gets 0 spells per day of a given spell
 level he gains only the bonus spells he would be entitled to based on
-his Wisdom score for that spell level. The blackguard's spell list
+his Wisdom score for that spell level. The blackguard’s spell list
 appears below. A blackguard has access to any spell on the list and can
 freely choose which to prepare, just as a cleric. A blackguard prepares
 and casts spells just as a cleric does (though a blackguard cannot
@@ -875,7 +1279,7 @@ additional time per day.
 
 **Aura of Despair (Su):** Beginning at 3rd level, the blackguard
 radiates a malign aura that causes enemies within 10 feet of him to take
-a --2 penalty on all saving throws.
+a –2 penalty on all saving throws.
 
 **Command Undead (Su):** When a blackguard reaches 3rd level, he gains
 the supernatural ability to command and rebuke undead. He commands
@@ -893,8 +1297,8 @@ Blackguards choose their spells from the following list:
 1st Level: *cause fear, corrupt weapon, cure light wounds, doom, inflict
 light wounds, magic weapon, summon monster I\*.*
 
-2nd Level: *bull's strength, cure moderate wounds, darkness, death
-knell, eagle's splendor, inflict moderate wounds, shatter, summon
+2nd Level: *bull’s strength, cure moderate wounds, darkness, death
+knell, eagle’s splendor, inflict moderate wounds, shatter, summon
 monster II\*.*
 
 3rd Level: *contagion, cure serious wounds, deeper darkness, inflict
@@ -909,7 +1313,7 @@ wounds, poison, summon monster IV\*.*
 
 Blackguards have access to a special spell, *corrupt weapon,* which is
 the opposing counterpart of the paladin spell *bless weapon*. Instead of
-improving a weapon's effectiveness against evil foes *corrupt weapon*
+improving a weapon’s effectiveness against evil foes *corrupt weapon*
 makes a weapon more effective against good foes.
 
 ### Fallen Paladins
@@ -922,20 +1326,20 @@ A fallen paladin who becomes a blackguard gains all of the following
 abilities that apply, according to the number of paladin levels the
 character has.
 
-1--2: Smite good 1/day. (This is in addition to the ability granted to
+1–2: Smite good 1/day. (This is in addition to the ability granted to
 all blackguards at 2nd level.
 
-3--4: Lay on hands. Once per day, the blackguard can use this
+3–4: Lay on hands. Once per day, the blackguard can use this
 supernatural ability to cure himself or his fiendish servant of damage
 equal to his Charisma bonus x his level.
 
-5--6: Sneak attack damage increased by +1d6. Smite good 2/day.
+5–6: Sneak attack damage increased by +1d6. Smite good 2/day.
 
-7--8: Fiendish summoning. Once per day, the blackguard can use a *summon
+7–8: Fiendish summoning. Once per day, the blackguard can use a *summon
 monster I* spell to call forth an evil creature. For this spell, the
-caster level is double the blackguard's class level.
+caster level is double the blackguard’s class level.
 
-9--10: Undead companion. In addition to the fiendish servant, the
+9–10: Undead companion. In addition to the fiendish servant, the
 blackguard gains (at 5th level) a Medium-size skeleton or zombie as a
 companion. This companion cannot be turned or rebuked and gains all
 special bonuses as a fiendish servant when the blackguard gains levels.
@@ -948,61 +1352,99 @@ The character level of the character does not change. With the loss of
 paladin levels, the character no longer gains as many extra abilities
 for being a fallen paladin.
 
-### The Blackguard's Fiendish Servant
+### The Blackguard’s Fiendish Servant
 
 Upon or after reaching 5th level, a blackguard can call a fiendish bat,
 cat, dire rat, horse, pony, raven, or toad to serve him. The
-blackguard's servant further gains HD and special abilities based on the
-blackguard's character level (see the table below).
+blackguard’s servant further gains HD and special abilities based on the
+blackguard’s character level (see the table below).
 
 A blackguard may have only one fiendish servant at a time.
 
-Should the blackguard's servant die, he may call for another one after a
+Should the blackguard’s servant die, he may call for another one after a
 year and a day. The new fiendish servant has all the accumulated
-abilities due a servant of the blackguard's current level.
+abilities due a servant of the blackguard’s current level.
 
-  ------------ ----------- ----------- ----------- ----------- ------------
-  Character    Bonus\      Natural\    Str\        Int         Special
-  Level        HD          Armor Adj.  Adj.                    
+<table class="full-width-table" style="width:100%;"
+data-debug="no-caption">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Character Level</th>
+<th>Bonus<br />
+HD</th>
+<th>Natural<br />
+Armor Adj.</th>
+<th>Str<br />
+Adj.</th>
+<th>Int</th>
+<th>Special</th>
+</tr>
 
-  12th or      +2          +1          +1          6           Empathic
-  lower                                                        link,
-                                                               improved
-                                                               evasion,
-                                                               share saving
-                                                               throws,
-                                                               share spells
-
-  13th--15th   +4          +3          +2          7           Speak with
-                                                               blackguard
-
-  16th--18th   +6          +5          +3          8           Blood bond
-
-  19th--20th   +8          +7          +4          9           Spell
-                                                               resistance
-  ------------ ----------- ----------- ----------- ----------- ------------
+<tr class="odd">
+<td>12th or lower</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>6</td>
+<td>Empathic link, improved evasion, share saving throws, share
+spells</td>
+</tr>
+<tr class="even">
+<td>13th–15th</td>
+<td>+4</td>
+<td>+3</td>
+<td>+2</td>
+<td>7</td>
+<td>Speak with blackguard</td>
+</tr>
+<tr class="odd">
+<td>16th–18th</td>
+<td>+6</td>
+<td>+5</td>
+<td>+3</td>
+<td>8</td>
+<td>Blood bond</td>
+</tr>
+<tr class="even">
+<td>19th–20th</td>
+<td>+8</td>
+<td>+7</td>
+<td>+4</td>
+<td>9</td>
+<td>Spell resistance</td>
+</tr>
+</tbody>
+</table>
 
 *Character Level:* The character level of the blackguard (his blackguard
 level plus his original class level).
 
 *Bonus HD:* Extra eight-sided (d8) Hit Dice, each of which gains a
-Constitution modifier, as normal. Extra Hit Dice improve the servant's
+Constitution modifier, as normal. Extra Hit Dice improve the servant’s
 base attack and base save bonuses, as normal.
 
-*Natural Armor Adj.:* This is an improvement to the servant's existing
+*Natural Armor Adj.:* This is an improvement to the servant’s existing
 natural armor bonus.
 
-*Str Adj.:* Add this figure to the servant's Strength score.
+*Str Adj.:* Add this figure to the servant’s Strength score.
 
-*Int:* The servant's Intelligence score. (A fiendish servant is smarter
+*Int:* The servant’s Intelligence score. (A fiendish servant is smarter
 than normal animals of its kind.)
 
-The abilities mentioned in the "Special" column of the accompanying
+The abilities mentioned in the “Special” column of the accompanying
 table are described below.
 
 **Empathic Link (Su):** The blackguard has an empathic link with his
 servant out to a distance of up to 1 mile. The blackguard cannot see
-through the servant's eyes, but they can communicate empathically.
+through the servant’s eyes, but they can communicate empathically.
 Because of the limited nature of the link, only general emotional
 content can be communicated.
 
@@ -1016,44 +1458,44 @@ damage on a successful saving throw and only half damage on a failed
 saving throw. Improved evasion is an extraordinary ability.
 
 **Share Saving Throws:** For each of its saving throws, the servant uses
-either its own base save bonus or the blackguard's, whichever is higher.
-The servant applies its own ability modifiers to saves, and it doesn't
+either its own base save bonus or the blackguard’s, whichever is higher.
+The servant applies its own ability modifiers to saves, and it doesn’t
 share any other bonuses on saves that the blackguard might have.
 
-**Share Spells:** At the blackguard's option, he may have any spell (but
+**Share Spells:** At the blackguard’s option, he may have any spell (but
 not any spell-like ability) he casts on himself also affect his servant.
 The servant must be within 5 feet at the time of casting to receive the
 benefit. If the spell has a duration other than instantaneous, it stops
 affecting the servant if it moves farther than 5 feet away and will not
 affect the servant again even if the servant returns to the blackguard
 before the duration expires. Additionally, the blackguard may cast a
-spell with a target of "You" on his servant (as a touch range spell)
+spell with a target of “You” on his servant (as a touch range spell)
 instead of on himself. A blackguard and his servant can share spells
-even if the spells normally do not affect creatures of the servant's
+even if the spells normally do not affect creatures of the servant’s
 type (magical beast).
 
-**Speak with Blackguard (Ex):** If the blackguard's character level is
+**Speak with Blackguard (Ex):** If the blackguard’s character level is
 13th or higher, the blackguard and servant can communicate verbally as
 if they were using a common language. Other creatures do not understand
 the communication without magical help.
 
-**Blood Bond (Ex):** If the blackguard's character level is 16th or
+**Blood Bond (Ex):** If the blackguard’s character level is 16th or
 higher, the servant gains a +2 bonus on all attack rolls, checks, and
 saves if it witnesses the blackguard being threatened or harmed.
 
 This bonus lasts as long as the threat is immediate and apparent.
 
-**Spell Resistance (Ex):** If the blackguard's character level is 19th
-or higher, the servant gains spell resistance equal to the blackguard's
+**Spell Resistance (Ex):** If the blackguard’s character level is 19th
+or higher, the servant gains spell resistance equal to the blackguard’s
 level + 5. To affect the servant with a spell, another spellcaster must
 get a result on a caster level check (1d20 + caster level) that equals
-or exceeds the servant's spell resistance.
+or exceeds the servant’s spell resistance.
 
 ## Dragon Disciple
 
 **Hit Die:** d12.
 
-### Requirements {#dragon-disciple--requirements}
+### Requirements
 
 To qualify to become a dragon disciple, a character must fulfill all the
 following criteria.
@@ -1069,9 +1511,9 @@ following criteria.
 **Special:** The player chooses a dragon variety when taking the first
 level in this prestige class.
 
-### Class Skills {#dragon-disciple--class-skills}
+### Class Skills
 
-The dragon disciple's class skills (and the key ability for each skill)
+The dragon disciple’s class skills (and the key ability for each skill)
 are Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist
 (Dex), Gather Information (Cha), Knowledge (all skills, taken
 individually) (Int) Listen (Wis), Profession (Wis), Search (Int), Speak
@@ -1079,61 +1521,129 @@ Language (Int), Spellcraft (Int), and Spot (Wis).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ---------- ---------- ---------- ---------- ---------- ------------ ----------
-  Level      Base\      Fort\      Ref\       Will\      Special      Bonus
-             Attack\    Save       Save       Save                    Spells
-             Bonus                                                    
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Dragon Disciple</caption>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th>Bonus Spells</th>
+</tr>
 
-  1st        +0         +2         +0         +2         Natural      1
-                                                         armor        
-                                                         increase     
-                                                         (+1)         
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+2</td>
+<td>+0</td>
+<td>+2</td>
+<td>Natural armor increase (+1)</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+3</td>
+<td>+0</td>
+<td>+3</td>
+<td>Ability boost (Str +2), claws and bite</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+2</td>
+<td>+3</td>
+<td>+1</td>
+<td>+3</td>
+<td>Breath weapon (2d8)</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+3</td>
+<td>+4</td>
+<td>+1</td>
+<td>+4</td>
+<td>Ability boost (Str +2), natural armor increase (+2)</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+3</td>
+<td>+4</td>
+<td>+1</td>
+<td>+4</td>
+<td>Blindsense 30 ft.</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+4</td>
+<td>+5</td>
+<td>+2</td>
+<td>+5</td>
+<td>Ability boost (Con +2)</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+5</td>
+<td>+5</td>
+<td>+2</td>
+<td>+5</td>
+<td>Breath weapon (4d8), natural armor increase (+3)</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+6</td>
+<td>+6</td>
+<td>+2</td>
+<td>+6</td>
+<td>Ability boost (Int +2)</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+6</td>
+<td>+6</td>
+<td>+3</td>
+<td>+6</td>
+<td>Wings</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+7</td>
+<td>+7</td>
+<td>+3</td>
+<td>+7</td>
+<td>Blindsense 60 ft., dragon apotheosis</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
 
-  2nd        +1         +3         +0         +3         Ability      1
-                                                         boost (Str   
-                                                         +2), claws   
-                                                         and bite     
+Table: The Dragon Disciple
 
-  3rd        +2         +3         +1         +3         Breath       0
-                                                         weapon (2d8) 
-
-  4th        +3         +4         +1         +4         Ability      1
-                                                         boost (Str   
-                                                         +2), natural 
-                                                         armor        
-                                                         increase     
-                                                         (+2)         
-
-  5th        +3         +4         +1         +4         Blindsense   1
-                                                         30 ft.       
-
-  6th        +4         +5         +2         +5         Ability      1
-                                                         boost (Con   
-                                                         +2)          
-
-  7th        +5         +5         +2         +5         Breath       0
-                                                         weapon       
-                                                         (4d8),       
-                                                         natural      
-                                                         armor        
-                                                         increase     
-                                                         (+3)         
-
-  8th        +6         +6         +2         +6         Ability      1
-                                                         boost (Int   
-                                                         +2)          
-
-  9th        +6         +6         +3         +6         Wings        1
-
-  10th       +7         +7         +3         +7         Blindsense   0
-                                                         60 ft.,      
-                                                         dragon       
-                                                         apotheosis   
-  ---------- ---------- ---------- ---------- ---------- ------------ ----------
-
-  : Table: The Dragon Disciple
-
-### Class Features {#dragon-disciple--class-features}
+### Class Features
 
 All of the following are Class Features of the dragon disciple prestige
 class.
@@ -1151,26 +1661,26 @@ which class he adds each bonus spell as it is gained. Once a bonus spell
 has been applied, it cannot be shifted.
 
 **Natural Armor Increase (Ex):** At 1st, 4th, and 7th level, a gains an
-increase to the character's existing natural armor (if any), as
+increase to the character’s existing natural armor (if any), as
 indicated on Table: The Dragon Disciple (the numbers represent the total
 increase gained to that point). As his skin thickens, a dragon disciple
-takes on more and more of his progenitor's physical aspect.
+takes on more and more of his progenitor’s physical aspect.
 
 **Claws and Bite (Ex):** At 2nd level, a dragon disciple gains claw and
 bite attacks if he does not already have them. Use the values below or
-the disciple's base claw and bite damage values, whichever are greater.
+the disciple’s base claw and bite damage values, whichever are greater.
 
-  -------- ------------- -------------
-  Size     Bite Damage   Claw Damage
-  Small    1d4           1d3
-  Medium   1d6           1d4
-  Large    1d8           1d6
-  -------- ------------- -------------
+|        |             |             |
+|--------|-------------|-------------|
+| Size   | Bite Damage | Claw Damage |
+| Small  | 1d4         | 1d3         |
+| Medium | 1d6         | 1d4         |
+| Large  | 1d8         | 1d6         |
 
 A dragon disciple is considered proficient with these attacks. When
 making a full attack, a dragon disciple uses his full base attack bonus
-with his bite attack but takes a --5 penalty on claw attacks. The
-Multiattack feat reduces this penalty to only --2.
+with his bite attack but takes a –5 penalty on claw attacks. The
+Multiattack feat reduces this penalty to only –2.
 
 **Ability Boost (Ex):** As a dragon disciple gains levels in this
 prestige class, his ability scores increase as noted on Table: The
@@ -1194,20 +1704,20 @@ The DC of the breath weapon is 10 + class level + Con modifier.
 A line-shaped breath weapon is 5 feet high, 5 feet wide, and 60 feet
 long. A cone-shaped breath weapon is 30 feet long.
 
-  ------------------------------------------------------------------------------------------------ ------------------------------
-  Dragon Variety\*                                                                                 Breath Weapon
-  Black                                                                                            Line of acid
-  Blue                                                                                             Line of lightning
-  Green                                                                                            Cone of corrosive gas (acid)
-  Red                                                                                              Cone of fire
-  White                                                                                            Cone of cold
-  Brass                                                                                            Line of fire
-  Bronze                                                                                           Line of lightning
-  Copper                                                                                           Line of acid
-  Gold                                                                                             Cone of fire
-  Silver                                                                                           Cone of cold
-  \* Other varieties of dragon disciple are possible, using other dragon varieties as ancestors.   
-  ------------------------------------------------------------------------------------------------ ------------------------------
+|                                                                                                |                              |
+|------------------------------------------------------------------------------------------------|------------------------------|
+| Dragon Variety\*                                                                               | Breath Weapon                |
+| Black                                                                                          | Line of acid                 |
+| Blue                                                                                           | Line of lightning            |
+| Green                                                                                          | Cone of corrosive gas (acid) |
+| Red                                                                                            | Cone of fire                 |
+| White                                                                                          | Cone of cold                 |
+| Brass                                                                                          | Line of fire                 |
+| Bronze                                                                                         | Line of lightning            |
+| Copper                                                                                         | Line of acid                 |
+| Gold                                                                                           | Cone of fire                 |
+| Silver                                                                                         | Cone of cold                 |
+| \* Other varieties of dragon disciple are possible, using other dragon varieties as ancestors. |                              |
 
 **Blindsense (Ex):** At 5th level, the dragon disciple gains blindsense
 with a range of 30 feet. Using nonvisual senses the dragon disciple
@@ -1239,7 +1749,7 @@ the energy type used by his breath weapon (see above).
 
 **Hit Die:** d10.
 
-### Requirements {#duelist--requirements}
+### Requirements
 
 To qualify to become a duelist, a character must fulfill all the
 following criteria.
@@ -1250,52 +1760,125 @@ following criteria.
 
 **Feats:** Dodge, Mobility, Weapon Finesse.
 
-### Class Skills {#duelist--class-skills}
+### Class Skills
 
-The duelist's class skills (and the key ability for each skill) are
+The duelist’s class skills (and the key ability for each skill) are
 Balance (Dex), Bluff (Cha), Escape Artist (Dex), Jump (Str), Listen
 (Wis), Perform (Cha), Sense Motive (Wis), Spot (Wis), and Tumble (Dex).
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-  ----------- ----------- ----------- ----------- ----------- -----------
-  Level       Base\       Fort\       Ref\        Will\       Special
-              Attack\     Save        Save        Save        
-              Bonus                                           
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Duelist</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+</tr>
 
-  1st         +1          +0          +2          +0          Canny
-                                                              defense
+<tr class="odd">
+<td>1st</td>
+<td>+1</td>
+<td>+0</td>
+<td>+2</td>
+<td>+0</td>
+<td>Canny defense</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+2</td>
+<td>+0</td>
+<td>+3</td>
+<td>+0</td>
+<td>Improved reaction +2</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+3</td>
+<td>+1</td>
+<td>+3</td>
+<td>+1</td>
+<td>Enhanced mobility</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+4</td>
+<td>+1</td>
+<td>+4</td>
+<td>+1</td>
+<td>Grace</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+5</td>
+<td>+1</td>
+<td>+4</td>
+<td>+1</td>
+<td>Precise strike +1d6</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+6</td>
+<td>+2</td>
+<td>+5</td>
+<td>+2</td>
+<td>Acrobatic charge</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+7</td>
+<td>+2</td>
+<td>+5</td>
+<td>+2</td>
+<td>Elaborate parry</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+8</td>
+<td>+2</td>
+<td>+6</td>
+<td>+2</td>
+<td>Improved reaction +4</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+9</td>
+<td>+3</td>
+<td>+6</td>
+<td>+3</td>
+<td>Deflect Arrows</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+10</td>
+<td>+3</td>
+<td>+7</td>
+<td>+3</td>
+<td>Precise strike +2d6</td>
+</tr>
+</tbody>
+</table>
 
-  2nd         +2          +0          +3          +0          Improved
-                                                              reaction +2
+Table: The Duelist
 
-  3rd         +3          +1          +3          +1          Enhanced
-                                                              mobility
-
-  4th         +4          +1          +4          +1          Grace
-
-  5th         +5          +1          +4          +1          Precise
-                                                              strike +1d6
-
-  6th         +6          +2          +5          +2          Acrobatic
-                                                              charge
-
-  7th         +7          +2          +5          +2          Elaborate
-                                                              parry
-
-  8th         +8          +2          +6          +2          Improved
-                                                              reaction +4
-
-  9th         +9          +3          +6          +3          Deflect
-                                                              Arrows
-
-  10th        +10         +3          +7          +3          Precise
-                                                              strike +2d6
-  ----------- ----------- ----------- ----------- ----------- -----------
-
-  : Table: The Duelist
-
-### Class Features {#duelist--class-features}
+### Class Features
 
 **Weapon and Armor Proficiency:** The duelist is proficient with all
 simple and martial weapons, but no type of armor or shield.
@@ -1325,7 +1908,7 @@ strike precisely with a light or one-handed piercing weapon, gaining an
 extra 1d6 damage added to her normal damage roll.
 
 When making a precise strike, a duelist cannot attack with a weapon in
-her other hand or use a shield. A duelist's precise strike only works
+her other hand or use a shield. A duelist’s precise strike only works
 against living creatures with discernible anatomies. Any creature that
 is immune to critical hits is not vulnerable to a precise strike, and
 any item or ability that protects a creature from critical hitsalso
@@ -1349,7 +1932,7 @@ Arrows feat when using a light or one-handed piercing weapon.
 
 **Hit Die:** d12.
 
-### Requirements {#dwarven-defender--requirements}
+### Requirements
 
 To qualify to become a defender, a character must fulfill all the
 following criteria.
@@ -1362,64 +1945,136 @@ following criteria.
 
 **Feats:** Dodge, Endurance, Toughness.
 
-### Class Skills {#dwarven-defender--class-skills}
+### Class Skills
 
-The defender's class skills (and the key ability for each skill) are
+The defender’s class skills (and the key ability for each skill) are
 Craft (Int), Listen (Wis), Sense Motive (Wis), and Spot (Wis).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ---------- ---------- ---------- ---------- ---------- ---------- -----------
-  Level      Base\      Fort\      Ref\       Will\      AC Bonus   Special
-             Attack\    Save       Save       Save                  
-             Bonus                                                  
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Dwarven Defender</caption>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>AC Bonus</th>
+<th>Special</th>
+</tr>
 
-  1st        +1         +2         +0         +2         +1         Defensive
-                                                                    stance
-                                                                    1/day
+<tr class="odd">
+<td>1st</td>
+<td>+1</td>
+<td>+2</td>
+<td>+0</td>
+<td>+2</td>
+<td>+1</td>
+<td>Defensive stance 1/day</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+2</td>
+<td>+3</td>
+<td>+0</td>
+<td>+3</td>
+<td>+1</td>
+<td>Uncanny dodge</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+3</td>
+<td>+3</td>
+<td>+1</td>
+<td>+3</td>
+<td>+1</td>
+<td>Defensive stance 2/day</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+4</td>
+<td>+4</td>
+<td>+1</td>
+<td>+4</td>
+<td>+2</td>
+<td>Trap sense +1</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+5</td>
+<td>+4</td>
+<td>+1</td>
+<td>+4</td>
+<td>+2</td>
+<td>Defensive stance 3/day</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+6</td>
+<td>+5</td>
+<td>+2</td>
+<td>+5</td>
+<td>+2</td>
+<td>Damage reduction 3/–, improved uncanny dodge</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+7</td>
+<td>+5</td>
+<td>+2</td>
+<td>+5</td>
+<td>+3</td>
+<td>Defensive stance 4/day</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+8</td>
+<td>+6</td>
+<td>+2</td>
+<td>+6</td>
+<td>+3</td>
+<td>Mobile defense, trap sense +2</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+9</td>
+<td>+6</td>
+<td>+3</td>
+<td>+6</td>
+<td>+3</td>
+<td>Defensive stance 5/day</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+10</td>
+<td>+7</td>
+<td>+3</td>
+<td>+7</td>
+<td>+4</td>
+<td>Damage reduction 6/–</td>
+</tr>
+</tbody>
+</table>
 
-  2nd        +2         +3         +0         +3         +1         Uncanny
-                                                                    dodge
+Table: The Dwarven Defender
 
-  3rd        +3         +3         +1         +3         +1         Defensive
-                                                                    stance
-                                                                    2/day
-
-  4th        +4         +4         +1         +4         +2         Trap sense
-                                                                    +1
-
-  5th        +5         +4         +1         +4         +2         Defensive
-                                                                    stance
-                                                                    3/day
-
-  6th        +6         +5         +2         +5         +2         Damage
-                                                                    reduction
-                                                                    3/--,
-                                                                    improved
-                                                                    uncanny
-                                                                    dodge
-
-  7th        +7         +5         +2         +5         +3         Defensive
-                                                                    stance
-                                                                    4/day
-
-  8th        +8         +6         +2         +6         +3         Mobile
-                                                                    defense,
-                                                                    trap sense
-                                                                    +2
-
-  9th        +9         +6         +3         +6         +3         Defensive
-                                                                    stance
-                                                                    5/day
-
-  10th       +10        +7         +3         +7         +4         Damage
-                                                                    reduction
-                                                                    6/--
-  ---------- ---------- ---------- ---------- ---------- ---------- -----------
-
-  : Table: The Dwarven Defender
-
-### Class Features {#dwarven-defender--class-features}
+### Class Features
 
 All of the following are Class Features of the dwarven defender prestige
 class.
@@ -1435,20 +2090,20 @@ all simple and martial weapons, all types of armor, and shields.
 gains phenomenal strength and durability, but he cannot move from the
 spot he is defending. He gains +2 to Strength, +4 to Constitution, a +2
 resistance bonus on all saves, and a +4 dodge bonus to AC. The increase
-in Constitution increases the defender's hit points by 2 points per
+in Constitution increases the defender’s hit points by 2 points per
 level, but these hit points go away at the end of the defensive stance
 when the Constitution score drops back 4 points. These extra hit points
 are not lost first the way temporary hit points are. While in a
 defensive stance, a defender cannot use skills or abilities that would
 require him to shift his position. A defensive stance lasts for a number
-of rounds equal to 3 + the character's (newly improved) Constitution
+of rounds equal to 3 + the character’s (newly improved) Constitution
 modifier. A defender may end his defensive stance voluntarily prior to
 this limit. At the end of the defensive stance, the defender is winded
-and takes a --2 penalty to Strength for the duration of that encounter.
-A defender can only use his defensive stance a certain number of times
-per day as determined by his level (see Table: The Dwarven Defender).
-Using the defensive stance takes no time itself, but a defender can only
-do so during his action.
+and takes a –2 penalty to Strength for the duration of that encounter. A
+defender can only use his defensive stance a certain number of times per
+day as determined by his level (see Table: The Dwarven Defender). Using
+the defensive stance takes no time itself, but a defender can only do so
+during his action.
 
 **Uncanny Dodge (Ex):** Starting at 2nd level, a dwarven defender
 retains his Dexterity bonus to AC (if any) regardless of being caught
@@ -1466,7 +2121,7 @@ stack with trap sense bonuses gained from other classes.
 **Damage Reduction (Ex):** At 6th level, a dwarven defender gains damage
 reduction. Subtract 3 points from the damage the dwarven defender takes
 each time he is dealt damage. At 10th level, this damage reduction rises
-to 6/--. Damage reduction can reduce damage to 0 but not below 0.
+to 6/–. Damage reduction can reduce damage to 0 but not below 0.
 
 **Improved Uncanny Dodge (Ex):** At 6th level, a dwarven defender can no
 longer be flanked. This defense denies rogues the ability to use flank
@@ -1490,7 +2145,7 @@ benefit of the stance.
 
 **Hit Die:** d6.
 
-### Requirements {#eldritch-knight--requirements}
+### Requirements
 
 To qualify to become an eldritch knight, a character must fulfill all
 the following criteria.
@@ -1499,80 +2154,126 @@ the following criteria.
 
 **Spells:** Able to cast 3rd-level arcane spells.
 
-### Class Skills {#eldritch-knight--class-skills}
+### Class Skills
 
-The eldritch knight's class skills (and the key ability for each skill)
+The eldritch knight’s class skills (and the key ability for each skill)
 are Concentration (Con), Craft (Int), Decipher Script (Int), Jump (Str),
 Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Ride
 (Dex), Sense Motive (Wis), Spellcraft (Int), and Swim (Str).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ----------- ----------- ----------- ----------- ----------- --------------
-  Level       Base\       Fort\       Ref\        Will\       Special
-              Attack\     Save        Save        Save        
-              Bonus                                           
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Eldritch Knight</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+</tr>
 
-  1st         +1          +2          +0          +0          Bonus feat
+<tr class="odd">
+<td>1st</td>
+<td>+1</td>
+<td>+2</td>
+<td>+0</td>
+<td>+0</td>
+<td>Bonus feat</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+2</td>
+<td>+3</td>
+<td>+0</td>
+<td>+0</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+3</td>
+<td>+3</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+4</td>
+<td>+4</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+5</td>
+<td>+4</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+6</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+7</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+8</td>
+<td>+6</td>
+<td>+2</td>
+<td>+2</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+9</td>
+<td>+6</td>
+<td>+3</td>
+<td>+3</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+10</td>
+<td>+7</td>
+<td>+3</td>
+<td>+3</td>
+<td>+1 level of existing arcane spellcasting class</td>
+</tr>
+</tbody>
+</table>
 
-  2nd         +2          +3          +0          +0          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
+Table: The Eldritch Knight
 
-  3rd         +3          +3          +1          +1          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-
-  4th         +4          +4          +1          +1          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-
-  5th         +5          +4          +1          +1          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-
-  6th         +6          +5          +2          +2          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-
-  7th         +7          +5          +2          +2          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-
-  8th         +8          +6          +2          +2          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-
-  9th         +9          +6          +3          +3          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-
-  10th        +10         +7          +3          +3          +1 level of
-                                                              existing
-                                                              arcane
-                                                              spellcasting
-                                                              class
-  ----------- ----------- ----------- ----------- ----------- --------------
-
-  : Table: The Eldritch Knight
-
-### Class Features {#eldritch-knight--class-features}
+### Class Features
 
 All of the following are features of the eldritch knight prestige class.
 
@@ -1603,7 +2304,7 @@ level of eldritch knight for the purpose of determining spells per day.
 
 **Hit Die:** d8.
 
-### Requirements {#hierophant--requirements}
+### Requirements
 
 To qualify to become a hierophant, a character must fulfill all the
 following criteria.
@@ -1614,39 +2315,86 @@ following criteria.
 
 **Spells:** Able to cast 7th-level divine spells.
 
-### Class Skills {#hierophant--class-skills}
+### Class Skills
 
-The hierophant's class skills (and the key ability for each skill) are
+The hierophant’s class skills (and the key ability for each skill) are
 Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge
 (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), and
 Spellcraft (Int).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ----------- ----------- ----------- ----------- ----------- -----------
-  Level       Base\       Fort\       Ref\        Will\       Special
-              Attack\     Save        Save        Save        
-              Bonus                                           
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Hierophant</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+</tr>
 
-  1st         +0          +2          +0          +2          Special
-                                                              ability
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+2</td>
+<td>+0</td>
+<td>+2</td>
+<td>Special ability</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+3</td>
+<td>+0</td>
+<td>+3</td>
+<td>Special ability</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+1</td>
+<td>+3</td>
+<td>+1</td>
+<td>+3</td>
+<td>Special ability</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+2</td>
+<td>+4</td>
+<td>+1</td>
+<td>+4</td>
+<td>Special ability</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+2</td>
+<td>+4</td>
+<td>+1</td>
+<td>+4</td>
+<td>Special ability</td>
+</tr>
+</tbody>
+</table>
 
-  2nd         +1          +3          +0          +3          Special
-                                                              ability
+Table: The Hierophant
 
-  3rd         +1          +3          +1          +3          Special
-                                                              ability
-
-  4th         +2          +4          +1          +4          Special
-                                                              ability
-
-  5th         +2          +4          +1          +4          Special
-                                                              ability
-  ----------- ----------- ----------- ----------- ----------- -----------
-
-  : Table: The Hierophant
-
-### Class Features {#hierophant--class-features}
+### Class Features
 
 All the following are Class Features of the hierophant prestige class.
 
@@ -1654,8 +2402,8 @@ All the following are Class Features of the hierophant prestige class.
 any weapon or armor.
 
 **Spells and Caster Level:** Levels in the hierophant prestige class,
-even though they do not advance spell progression in the character's
-base class, still stack with the character's base spellcasting levels to
+even though they do not advance spell progression in the character’s
+base class, still stack with the character’s base spellcasting levels to
 determine caster level.
 
 **Special Ability:** Every level, a hierophant gains a special ability
@@ -1670,19 +2418,19 @@ opposed alignment works as if under the effect of a Maximize Spell feat
 (without using a higher-level spell slot). Undead affected by this
 ability heal the maximized amount of damage.
 
-  ---------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------
-  Hierophant Alignment                                                                                                               Opposed Alignment
-  Lawful good                                                                                                                        Chaotic evil
-  Neutral good                                                                                                                       Neutral evil
-  Chaotic good                                                                                                                       Lawful evil
-  Lawful neutral                                                                                                                     Chaotic neutral
-  Neutral                                                                                                                            Lawful good, chaotic good, lawful evil, chaotic evil\*
-  Chaotic neutral                                                                                                                    Lawful neutral
-  Lawful evil                                                                                                                        Chaotic good
-  Neutral evil                                                                                                                       Neutral good
-  Chaotic evil                                                                                                                       Lawful good
-  \* A neutral hierophant chooses one of these alignments to be the one that he opposes, for the purposes of this special ability.   
-  ---------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------
+|                                                                                                                                  |                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Hierophant Alignment                                                                                                             | Opposed Alignment                                      |
+| Lawful good                                                                                                                      | Chaotic evil                                           |
+| Neutral good                                                                                                                     | Neutral evil                                           |
+| Chaotic good                                                                                                                     | Lawful evil                                            |
+| Lawful neutral                                                                                                                   | Chaotic neutral                                        |
+| Neutral                                                                                                                          | Lawful good, chaotic good, lawful evil, chaotic evil\* |
+| Chaotic neutral                                                                                                                  | Lawful neutral                                         |
+| Lawful evil                                                                                                                      | Chaotic good                                           |
+| Neutral evil                                                                                                                     | Neutral good                                           |
+| Chaotic evil                                                                                                                     | Lawful good                                            |
+| \* A neutral hierophant chooses one of these alignments to be the one that he opposes, for the purposes of this special ability. |                                                        |
 
 *Divine Reach (Su):* A hierophant with this ability can use touch spells
 on targets up to 30 feet away. If the spell requires a melee touch
@@ -1703,13 +2451,13 @@ undead transfer uses of rebuke undead instead.) The transfer lasts
 anywhere from 24 hours to one week (chosen at the time of transfer), and
 while the transfer is in effect, the number of turning attempts per day
 allowed to the hierophant is reduced by the number transferred. The
-recipient turns undead as a cleric of the hierophant's cleric level but
+recipient turns undead as a cleric of the hierophant’s cleric level but
 uses her own Charisma modifier.
 
 *Mastery of Energy (Su):* Available only to hierophants with cleric
 levels, this ability allows a hierophant to channel positive or negative
 energy much more effectively, increasing his ability to affect undead.
-Add a +4 bonus to the hierophant's turning checks and turning damage
+Add a +4 bonus to the hierophant’s turning checks and turning damage
 rolls. This ability only affects undead, even if the hierophant can turn
 other creatures, such as with a granted power of a domain.
 
@@ -1724,7 +2472,7 @@ while the transfer is in effect, the hierophant cannot use the
 transferred power. He can transfer any of his druid powers except
 spellcasting and the ability to have an animal companion.
 
-The druid's wild shape ability can be partially or completely
+The druid’s wild shape ability can be partially or completely
 transferred. The heirophant choses how many uses of wild shape per day
 to give to transfer and retains the rest of the uses for himself. If the
 hierophant can assume the form of Tiny or Huge animals, the recipient
@@ -1734,7 +2482,7 @@ As with the *imbue with spell ability* spell, the hierophant remains
 responsible to his deity for any use to which the recipient puts the
 transferred abilities.
 
-*Spell Power:* This special ability increases a hierophant's effective
+*Spell Power:* This special ability increases a hierophant’s effective
 caster level by 1 for purposes of determining level-dependent spell
 variables and for caster level checks. This ability can be selected more
 than once, and changes to effective caster level are cumulative.
@@ -1746,7 +2494,7 @@ The hierophant does not use any components when casting the spell,
 although a spell that costs XP to cast still does so, and a spell with a
 costly material component instead costs him 10 times that amount in XP.
 
-The spell normally uses a spell slot of the spell's level (or higher, if
+The spell normally uses a spell slot of the spell’s level (or higher, if
 the hierophant chooses to permanently attach a metamagic feat to the
 spell chosen). The hierophant can use an available higher-level spell
 slot to use the spell-like ability more than once per day. Allocating a
@@ -1760,7 +2508,7 @@ used) or to a different spell.
 
 **Hit Die:** d8.
 
-### Requirements {#horizon-walker--requirements}
+### Requirements
 
 To qualify to become a horizon walker, a character must fulfill all the
 following criteria.
@@ -1769,9 +2517,9 @@ following criteria.
 
 **Feats:** Endurance.
 
-### Class Skills {#horizon-walker--class-skills}
+### Class Skills
 
-The horizon walker's class skills (and the key ability for each skill)
+The horizon walker’s class skills (and the key ability for each skill)
 are Balance (Dex), Climb (Str), Diplomacy (Cha), Handle Animal (Cha),
 Hide (Dex), Knowledge (geography) (Int), Listen (Wis), Move Silently
 (Dex), Profession (Wis), Ride (Dex), Speak Language (none), Spot (Wis),
@@ -1779,50 +2527,117 @@ and Survival (Wis).
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-  ----------- ----------- ----------- ----------- ----------- -----------
-  Level       Base\       Fort\       Ref\        Will\       Special
-              Attack\     Save        Save        Save        
-              Bonus                                           
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Horizon Walker</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+</tr>
 
-  1st         +1          +2          +0          +0          Terrain
-                                                              mastery
+<tr class="odd">
+<td>1st</td>
+<td>+1</td>
+<td>+2</td>
+<td>+0</td>
+<td>+0</td>
+<td>Terrain mastery</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+2</td>
+<td>+3</td>
+<td>+0</td>
+<td>+0</td>
+<td>Terrain mastery</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+3</td>
+<td>+3</td>
+<td>+1</td>
+<td>+1</td>
+<td>Terrain mastery</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+4</td>
+<td>+4</td>
+<td>+1</td>
+<td>+1</td>
+<td>Terrain mastery</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+5</td>
+<td>+4</td>
+<td>+1</td>
+<td>+1</td>
+<td>Terrain mastery</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+6</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+<td>Planar terrain mastery</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+7</td>
+<td>+5</td>
+<td>+2</td>
+<td>+2</td>
+<td>Planar terrain mastery</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+8</td>
+<td>+6</td>
+<td>+2</td>
+<td>+2</td>
+<td>Planar terrain mastery</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+9</td>
+<td>+6</td>
+<td>+3</td>
+<td>+3</td>
+<td>Planar terrain mastery</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+10</td>
+<td>+7</td>
+<td>+3</td>
+<td>+3</td>
+<td>Planar terrain mastery</td>
+</tr>
+</tbody>
+</table>
 
-  2nd         +2          +3          +0          +0          Terrain
-                                                              mastery
+Table: The Horizon Walker
 
-  3rd         +3          +3          +1          +1          Terrain
-                                                              mastery
-
-  4th         +4          +4          +1          +1          Terrain
-                                                              mastery
-
-  5th         +5          +4          +1          +1          Terrain
-                                                              mastery
-
-  6th         +6          +5          +2          +2          Planar
-                                                              terrain
-                                                              mastery
-
-  7th         +7          +5          +2          +2          Planar
-                                                              terrain
-                                                              mastery
-
-  8th         +8          +6          +2          +2          Planar
-                                                              terrain
-                                                              mastery
-
-  9th         +9          +6          +3          +3          Planar
-                                                              terrain
-                                                              mastery
-
-  10th        +10         +7          +3          +3          Planar
-                                                              terrain
-                                                              mastery
-  ----------- ----------- ----------- ----------- ----------- -----------
-
-  : Table: The Horizon Walker
-
-### Class Features {#horizon-walker--class-features}
+### Class Features
 
 All of the following are features of the horizon walker prestige class.
 
@@ -1841,7 +2656,7 @@ the creature description specifically lists the terrain type.
 
 Horizon walkers take their terrain mastery with them wherever they go.
 They retain their terrain mastery bonuses on skill checks, attack rolls,
-and damage rolls whether they're actually in the relevant terrain or
+and damage rolls whether they’re actually in the relevant terrain or
 not.
 
 **Planar Terrain Mastery:** Planar terrain mastery functions just like
@@ -1904,7 +2719,7 @@ shifting plane.
 **Aligned (Planar):** You have the instinctive ability to mimic the
 dominant alignment of the plane. You incur none of the penalties for
 having an alignment at odds with that of the plane, and spells and
-abilities that harm those of the opposite alignment don't affect you.
+abilities that harm those of the opposite alignment don’t affect you.
 You have the dominant alignment of the plane with regard to magic, but
 your behavior and any alignment-related Class Features you have are
 unaffected.
@@ -1918,7 +2733,7 @@ Terrains can be created.
 
 **Hit Die:** d4.
 
-### Requirements {#loremaster--requirements}
+### Requirements
 
 To qualify to become a loremaster, a character must fulfill all the
 following criteria.
@@ -1931,9 +2746,9 @@ following criteria.
 **Spells:** Able to cast seven different divination spells, one of which
 must be 3rd level or higher.
 
-### Class Skills {#loremaster--class-skills}
+### Class Skills
 
-The loremaster's class skills (and the key ability for each skill) are
+The loremaster’s class skills (and the key ability for each skill) are
 Appraise (Int), Concentration (Con), Craft (alchemy) (Int), Decipher
 Script (Int), Gather Information (Cha), Handle Animals (Cha), Heal
 (Wis), Knowledge (all skills taken individually) (Int), Perform (Cha),
@@ -1942,66 +2757,130 @@ Profession (Wis), Speak Language, Spellcraft (Int), and Use Magic Device
 
 **Skill Points at Each Level:** 4 + Int modifier.
 
-  ------------ ---------- ---------- ---------- ---------- ---------- ----------
-  Table : The                                                         
-  Loremaster                                                          
+<table class="full-width-table" style="width:100%;"
+data-debug="no-caption">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th colspan="7">Table : The Loremaster</th>
+</tr>
+<tr class="odd">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th>Spells per Day</th>
+</tr>
 
-  Level        Base\      Fort\      Ref\       Will\      Special    Spells per
-               Attack\    Save       Save       Save                  Day
-               Bonus                                                  
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+<td>Secret</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+3</td>
+<td>Lore</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+<td>+3</td>
+<td>Secret</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td>Bonus language</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td>Secret</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+<td>Greater lore</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+<td>Secret</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+4</td>
+<td>+2</td>
+<td>+2</td>
+<td>+6</td>
+<td>Bonus language</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+4</td>
+<td>+3</td>
+<td>+3</td>
+<td>+6</td>
+<td>Secret</td>
+<td>+1 level of existing class</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+5</td>
+<td>+3</td>
+<td>+3</td>
+<td>+7</td>
+<td>True lore</td>
+<td>+1 level of existing class</td>
+</tr>
+</tbody>
+</table>
 
-  1st          +0         +0         +0         +2         Secret     +1 level
-                                                                      of
-                                                                      existing
-                                                                      class
-
-  2nd          +1         +0         +0         +3         Lore       +1 level
-                                                                      of
-                                                                      existing
-                                                                      class
-
-  3rd          +1         +1         +1         +3         Secret     +1 level
-                                                                      of
-                                                                      existing
-                                                                      class
-
-  4th          +2         +1         +1         +4         Bonus      +1 level
-                                                           language   of
-                                                                      existing
-                                                                      class
-
-  5th          +2         +1         +1         +4         Secret     +1 level
-                                                                      of
-                                                                      existing
-                                                                      class
-
-  6th          +3         +2         +2         +5         Greater    +1 level
-                                                           lore       of
-                                                                      existing
-                                                                      class
-
-  7th          +3         +2         +2         +5         Secret     +1 level
-                                                                      of
-                                                                      existing
-                                                                      class
-
-  8th          +4         +2         +2         +6         Bonus      +1 level
-                                                           language   of
-                                                                      existing
-                                                                      class
-
-  9th          +4         +3         +3         +6         Secret     +1 level
-                                                                      of
-                                                                      existing
-                                                                      class
-
-  10th         +5         +3         +3         +7         True lore  +1 level
-                                                                      of
-                                                                      existing
-                                                                      class
-  ------------ ---------- ---------- ---------- ---------- ---------- ----------
-
-### Class Features {#loremaster--class-features}
+### Class Features
 
 All of the following are Class Features of the loremaster prestige
 class.
@@ -2022,7 +2901,7 @@ per day, spells known, and caster level accordingly.
 7th, and 9th), the loremaster chooses one
 
 secret from the table below. Her level plus Intelligence modifier
-determines the total number of secrets she can choose. She can't choose
+determines the total number of secrets she can choose. She can’t choose
 the same secret twice.
 
 **Lore:** At 2nd level, a loremaster gains the ability to know legends
@@ -2041,50 +2920,84 @@ understand magic items, as with the *identify* spell.
 knowledge to gain the effect of a *legend lore* spell or an *analyze
 dweomer* spell.
 
-  ----------------------- ----------------------- -----------------------
-  Loremaster Secrets                              
+<table class="full-width-table" data-debug="no-caption">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th colspan="3">Loremaster Secrets</th>
+</tr>
+<tr class="odd">
+<th>Level +<br />
+Int Modifier</th>
+<th>Secret</th>
+<th>Effect</th>
+</tr>
 
-  Level +\                Secret                  Effect
-  Int Modifier                                    
-
-  1                       Instant mastery         4 ranks of a skill in
-                                                  which the character has
-                                                  no ranks
-
-  2                       Secret health           +3 hit points
-
-  3                       Secrets of inner        +2 bonus on Will saves
-                          strength                
-
-  4                       The lore of true        +2 bonus on Fortitude
-                          stamina                 saves
-
-  5                       Secret knowledge of     +2 bonus on Reflex
-                          avoidance               saves
-
-  6                       Weapon trick            +1 bonus on attack
-                                                  rolls
-
-  7                       Dodge trick             +1 dodge bonus to AC
-
-  8                       Applicable knowledge    Any one feat
-
-  9                       Newfound arcana         1 bonus 1st-level
-                                                  spell\*
-
-  10                      More newfound arcana    1 bonus 2nd-level
-                                                  spell\*
-
-  \* As if gained through                         
-  having a high ability                           
-  score.                                          
-  ----------------------- ----------------------- -----------------------
+<tr class="odd">
+<td>1</td>
+<td>Instant mastery</td>
+<td>4 ranks of a skill in which the character has no ranks</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Secret health</td>
+<td>+3 hit points</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Secrets of inner strength</td>
+<td>+2 bonus on Will saves</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>The lore of true stamina</td>
+<td>+2 bonus on Fortitude saves</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Secret knowledge of avoidance</td>
+<td>+2 bonus on Reflex saves</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Weapon trick</td>
+<td>+1 bonus on attack rolls</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Dodge trick</td>
+<td>+1 dodge bonus to AC</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Applicable knowledge</td>
+<td>Any one feat</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Newfound arcana</td>
+<td>1 bonus 1st-level spell*</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>More newfound arcana</td>
+<td>1 bonus 2nd-level spell*</td>
+</tr>
+<tr class="odd">
+<td colspan="3">* As if gained through having a high ability score.</td>
+</tr>
+</tbody>
+</table>
 
 ## Mystic Theurge
 
 **Hit Die:** d4.
 
-### Requirements {#mystic-theurge--requirements}
+### Requirements
 
 To qualify to become a mystic theurge, a character must fulfill all the
 following criteria.
@@ -2094,264 +3007,176 @@ following criteria.
 **Spells:** Able to cast 2nd-level divine spells and 2nd-level arcane
 spells.
 
-### Class Skills {#mystic-theurge--class-skills}
+### Class Skills
 
-The mystic theurge's class skills (and the key ability for each skill)
+The mystic theurge’s class skills (and the key ability for each skill)
 are Concentration (Con), Craft (Int), Decipher Script (Int), Knowledge
 (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), Sense
 Motive (Wis), and Spellcraft (Int).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Level     | Base\     | Fort\     | Ref\      | Will\     | Spells    |
-|           | Attack\   | Save      | Save      | Save      | per Day   |
-|           | Bonus     |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 1st       | +0        | +0        | +0        | +2        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 2nd       | +1        | +0        | +0        | +3        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 3rd       | +1        | +1        | +1        | +3        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 4th       | +2        | +1        | +1        | +4        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 5th       | +2        | +1        | +1        | +4        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 6th       | +3        | +2        | +2        | +5        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 7th       | +3        | +2        | +2        | +5        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 8th       | +4        | +2        | +2        | +6        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 9th       | +4        | +3        | +3        | +6        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| 10th      | +5        | +3        | +3        | +7        | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | arcane    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class/    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-|           |           |           |           |           |           |
-|           |           |           |           |           | <div>     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | +1 level  |
-|           |           |           |           |           | of        |
-|           |           |           |           |           | existing  |
-|           |           |           |           |           | divine    |
-|           |           |           |           |           | spe       |
-|           |           |           |           |           | llcasting |
-|           |           |           |           |           | class     |
-|           |           |           |           |           |           |
-|           |           |           |           |           | </div>    |
-+-----------+-----------+-----------+-----------+-----------+-----------+
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Mystic Theurge</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Spells per Day</th>
+</tr>
 
-: Table: The Mystic Theurge
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+3</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+<td>+3</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+3</td>
+<td>+2</td>
+<td>+2</td>
+<td>+5</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+4</td>
+<td>+2</td>
+<td>+2</td>
+<td>+6</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+4</td>
+<td>+3</td>
+<td>+3</td>
+<td>+6</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+5</td>
+<td>+3</td>
+<td>+3</td>
+<td>+7</td>
+<td><div>
++1 level of existing arcane spellcasting class/
+</div>
+<div>
++1 level of existing divine spellcasting class
+</div></td>
+</tr>
+</tbody>
+</table>
 
-### Class Features {#mystic-theurge--class-features}
+Table: The Mystic Theurge
+
+### Class Features
 
 All of the following are features of the mystic theurge prestige class.
 
@@ -2376,7 +3201,7 @@ determining spells per day.
 
 **Hit Die:** d8.
 
-### Requirements {#shadowdancer--requirements}
+### Requirements
 
 To qualify to become a shadowdancer, a character must fulfill all the
 following criteria.
@@ -2386,9 +3211,9 @@ ranks.
 
 **Feats:** Combat Reflexes, Dodge, Mobility.
 
-### Class Skills {#shadowdancer--class-skills}
+### Class Skills
 
-The shadowdancer's class skills (and the key ability for each skill) are
+The shadowdancer’s class skills (and the key ability for each skill) are
 Balance (Dex), Bluff (Cha), Decipher Script (Int), Diplomacy (Cha),
 Disguise (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Listen
 (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Search
@@ -2397,50 +3222,117 @@ Disguise (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Listen
 
 **Skill Points at Each Level:** 6 + Int modifier.
 
-  ----------- ----------- ----------- ----------- ----------- -------------
-  Level       Base\       Fort\       Ref\        Will\       Special
-              Attack\     Save        Save        Save        
-              Bonus                                           
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Shadowdancer</caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+</tr>
 
-  1st         +0          +0          +2          +0          Hide in plain
-                                                              sight
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+<td>+0</td>
+<td>Hide in plain sight</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+3</td>
+<td>+0</td>
+<td>Evasion, darkvision, uncanny dodge</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+2</td>
+<td>+1</td>
+<td>+3</td>
+<td>+1</td>
+<td><em>Shadow illusion</em>, summon shadow</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+3</td>
+<td>+1</td>
+<td>+4</td>
+<td>+1</td>
+<td>Shadow jump 20 ft.</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+3</td>
+<td>+1</td>
+<td>+4</td>
+<td>+1</td>
+<td>Defensive roll, improved uncanny dodge</td>
+</tr>
+<tr class="even">
+<td>6th</td>
+<td>+4</td>
+<td>+2</td>
+<td>+5</td>
+<td>+2</td>
+<td>Shadow jump 40 ft., summon shadow</td>
+</tr>
+<tr class="odd">
+<td>7th</td>
+<td>+5</td>
+<td>+2</td>
+<td>+5</td>
+<td>+2</td>
+<td>Slippery mind</td>
+</tr>
+<tr class="even">
+<td>8th</td>
+<td>+6</td>
+<td>+2</td>
+<td>+6</td>
+<td>+2</td>
+<td>Shadow jump 80 ft.</td>
+</tr>
+<tr class="odd">
+<td>9th</td>
+<td>+6</td>
+<td>+3</td>
+<td>+6</td>
+<td>+3</td>
+<td>Summon shadow</td>
+</tr>
+<tr class="even">
+<td>10th</td>
+<td>+7</td>
+<td>+3</td>
+<td>+7</td>
+<td>+3</td>
+<td>Shadow jump 160 ft., improved evasion</td>
+</tr>
+</tbody>
+</table>
 
-  2nd         +1          +0          +3          +0          Evasion,
-                                                              darkvision,
-                                                              uncanny dodge
+Table: The Shadowdancer
 
-  3rd         +2          +1          +3          +1          *Shadow
-                                                              illusion*,
-                                                              summon shadow
-
-  4th         +3          +1          +4          +1          Shadow jump
-                                                              20 ft.
-
-  5th         +3          +1          +4          +1          Defensive
-                                                              roll,
-                                                              improved
-                                                              uncanny dodge
-
-  6th         +4          +2          +5          +2          Shadow jump
-                                                              40 ft.,
-                                                              summon shadow
-
-  7th         +5          +2          +5          +2          Slippery mind
-
-  8th         +6          +2          +6          +2          Shadow jump
-                                                              80 ft.
-
-  9th         +6          +3          +6          +3          Summon shadow
-
-  10th        +7          +3          +7          +3          Shadow jump
-                                                              160 ft.,
-                                                              improved
-                                                              evasion
-  ----------- ----------- ----------- ----------- ----------- -------------
-
-  : Table: The Shadowdancer
-
-### Class Features {#shadowdancer--class-features}
+### Class Features
 
 All of the following are features of the shadowdancer prestige class.
 
@@ -2474,11 +3366,11 @@ If a character gains uncanny dodge from a second class, the character
 automatically gains improved uncanny dodge (see below).
 
 ***Shadow Illusion* (Sp):** When a shadowdancer reaches 3rd level, she
-can create visual illusions. This ability's effect is identical to that
+can create visual illusions. This ability’s effect is identical to that
 of the arcane spell *silent image* and may be employed once per day.
 
 **Summon Shadow (Su):** At 3rd level, a shadowdancer can summon a
-shadow, an undead shade. Unlike a normal shadow, this shadow's alignment
+shadow, an undead shade. Unlike a normal shadow, this shadow’s alignment
 matches that of the shadowdancer, and the creature cannot create spawn.
 The summoned shadow cannot be turned, rebuked, or commanded by any third
 party. This shadow serves as a companion to the shadowdancer and can
@@ -2490,8 +3382,8 @@ If a shadow companion is destroyed, or the shadowdancer chooses to
 dismiss it, the shadowdancer must attempt a DC 15 Fortitude save. If the
 saving throw fails, the shadowdancer loses 200 experience points per
 shadowdancer level. A successful saving throw reduces the loss by half,
-to 100 XP per prestige class level. The shadowdancer's XP total can
-never go below 0 as the result of a shadow's dismissal or destruction. A
+to 100 XP per prestige class level. The shadowdancer’s XP total can
+never go below 0 as the result of a shadow’s dismissal or destruction. A
 destroyed or dismissed shadow companion cannot be replaced for 30 days.
 
 **Shadow Jump (Su):** At 4th level, a shadowdancer gains the ability to
@@ -2511,7 +3403,7 @@ she can attempt to roll with the damage. She makes a Reflex saving throw
 (DC = damage dealt) and, if successful, takes only half damage from the
 blow. She must be aware of the attack and able to react to it in order
 to execute her defensive roll. If she is in a situation that would deny
-her any Dexterity bonus to AC, she can't attempt a defensive roll.
+her any Dexterity bonus to AC, she can’t attempt a defensive roll.
 
 **Improved Uncanny Dodge (Ex):** At 5th level, a shadowdancer can no
 longer be flanked. This defense denies rogues the ability to use flank
@@ -2527,20 +3419,20 @@ to flank the character.
 **Slippery Mind (Ex):** At 7th level, if a shadowdancer is affected by
 an enchantment and fails her saving throw, 1 round later she can attempt
 her saving throw again. She only gets this one extra chance to succeed
-at her saving throw. If it fails as well, the spell's effects occur
+at her saving throw. If it fails as well, the spell’s effects occur
 normally.
 
 **Improved Evasion (Ex):** This ability, gained at 10th level, works
 like evasion (see above). A shadowdancer takes no damage at all on
 successful saving throws against attacks that allow a Reflex saving
-throw for half damage. What's more, she takes only half damage even if
+throw for half damage. What’s more, she takes only half damage even if
 she fails her saving throw.
 
 ## Thaumaturgist
 
 **Hit Die:** d4.
 
-### Requirements {#thaumaturgist--requirements}
+### Requirements
 
 To qualify to become a thaumaturgist, a character must fulfill all the
 following criteria.
@@ -2549,49 +3441,93 @@ following criteria.
 
 **Spells:** Able to cast *lesser planar ally*.
 
-### Class Skills {#thaumaturgist--class-skills}
+### Class Skills
 
-The thaumaturgist's class skills (and the key ability for each skill)
+The thaumaturgist’s class skills (and the key ability for each skill)
 are Concentration (Con), Craft (Int), Diplomacy (Cha), Knowledge
 (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), Sense
 Motive (Wis), Speak Language (none), and Spellcraft (Int).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 
-  ---------- ---------- ---------- ---------- ---------- ------------- --------------
-  Level      Base\      Fort\      Ref\       Will\      Special       Spells per Day
-             Attack\    Save       Save       Save                     
-             Bonus                                                     
+<table class="full-width-table" style="width:100%;">
+<caption>Table: The Thaumaturgist</caption>
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Level</th>
+<th>Base<br />
+Attack<br />
+Bonus</th>
+<th>Fort<br />
+Save</th>
+<th>Ref<br />
+Save</th>
+<th>Will<br />
+Save</th>
+<th>Special</th>
+<th>Spells per Day</th>
+</tr>
 
-  1st        +0         +0         +0         +2         Improved ally +1 level of
-                                                                       existing
-                                                                       spellcasting
-                                                                       class
+<tr class="odd">
+<td>1st</td>
+<td>+0</td>
+<td>+0</td>
+<td>+0</td>
+<td>+2</td>
+<td>Improved ally</td>
+<td>+1 level of existing spellcasting class</td>
+</tr>
+<tr class="even">
+<td>2nd</td>
+<td>+1</td>
+<td>+0</td>
+<td>+0</td>
+<td>+3</td>
+<td>Augment Summoning</td>
+<td>+1 level of existing spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>3rd</td>
+<td>+1</td>
+<td>+1</td>
+<td>+1</td>
+<td>+3</td>
+<td>Extended summoning</td>
+<td>+1 level of existing spellcasting class</td>
+</tr>
+<tr class="even">
+<td>4th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td>Contingent conjuration</td>
+<td>+1 level of existing spellcasting class</td>
+</tr>
+<tr class="odd">
+<td>5th</td>
+<td>+2</td>
+<td>+1</td>
+<td>+1</td>
+<td>+4</td>
+<td>Planar cohort</td>
+<td>+1 level of existing spellcasting class</td>
+</tr>
+</tbody>
+</table>
 
-  2nd        +1         +0         +0         +3         Augment       +1 level of
-                                                         Summoning     existing
-                                                                       spellcasting
-                                                                       class
+Table: The Thaumaturgist
 
-  3rd        +1         +1         +1         +3         Extended      +1 level of
-                                                         summoning     existing
-                                                                       spellcasting
-                                                                       class
-
-  4th        +2         +1         +1         +4         Contingent    +1 level of
-                                                         conjuration   existing
-                                                                       spellcasting
-                                                                       class
-
-  5th        +2         +1         +1         +4         Planar cohort +1 level of
-                                                                       existing
-                                                                       spellcasting
-                                                                       class
-  ---------- ---------- ---------- ---------- ---------- ------------- --------------
-
-  : Table: The Thaumaturgist
-
-### Class Features {#thaumaturgist--class-features}
+### Class Features
 
 All of the following are features of the thaumaturgist prestige class.
 
@@ -2614,11 +3550,11 @@ thaumaturgist for the purpose of determining spells per day.
 **Improved Ally:** When a thaumaturgist casts a *planar ally* spell
 (including the *lesser* and *greater* versions), he makes a Diplomacy
 check to convince the creature to aid him for a reduced payment. If the
-thaumaturgist's Diplomacy check adjusts the creature's attitude to
+thaumaturgist’s Diplomacy check adjusts the creature’s attitude to
 helpful the creature will work for 50% of the standard fee, as long as
 the task is one that is not against its nature.
 
-The thaumaturgist's improved ally class feature only works when the
+The thaumaturgist’s improved ally class feature only works when the
 planar ally shares at least one aspect of alignment with the
 thaumaturgist.
 
@@ -2631,9 +3567,9 @@ Summoning feat.
 **Extended Summoning:** At 3rd level and higher, all spells from the
 summoning subschool that the thaumaturgist casts have their durations
 doubled, as if the Extend Spell feat had been applied to them. The
-levels of the summoning spells don't change, however. This ability
+levels of the summoning spells don’t change, however. This ability
 stacks with the effect of the Extend Spell feat, which does change the
-spell's level.
+spell’s level.
 
 **Contingent Conjuration:** A 4th-level thaumaturgist can prepare a
 summoning or calling spell ahead of time to be triggered by some other
@@ -2657,12 +3593,12 @@ to advance a cause important to the creature.
 To call a planar cohort, the thaumaturgist must cast the relevant spell,
 paying the XP costs normally. It takes an offering of 1,000 gp x the HD
 of the creature to convince it to serve as a planar cohort, and the
-improved ally class feature can't be used to reduce or eliminate this
-cost. The planar cohort can't have more Hit Dice than the thaumaturgist
-has, and must have an ECL no higher than the thaumaturgist's character
-level --2.
+improved ally class feature can’t be used to reduce or eliminate this
+cost. The planar cohort can’t have more Hit Dice than the thaumaturgist
+has, and must have an ECL no higher than the thaumaturgist’s character
+level –2.
 
 A thaumaturgist can have only one planar cohort at a time, but he can
 continue to make agreements with other called creatures normally. A
-planar cohort replaces a thaumaturgist's existing cohort, if he has one
+planar cohort replaces a thaumaturgist’s existing cohort, if he has one
 by virtue of the Leadership feat.

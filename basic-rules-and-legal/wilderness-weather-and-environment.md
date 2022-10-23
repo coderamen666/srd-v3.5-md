@@ -92,12 +92,12 @@ traps that might exist have probably been set off, but wandering beasts
 might very well be common.
 
 **Occupied Structure:** This type of dungeon is still in use. Creatures
-(usually intelligent) live there, although they may not be the dungeon's
+(usually intelligent) live there, although they may not be the dungeon’s
 creators. An occupied structure might be a home, a fortress, a temple,
 an active mine, a prison, or a headquarters. This type of dungeon is
 less likely to have traps or wandering beasts, and more likely to have
-organized guards---both on watch and on patrol. Traps or wandering
-beasts that might be encountered are usually under the control of the
+organized guards—both on watch and on patrol. Traps or wandering beasts
+that might be encountered are usually under the control of the
 occupants. Occupied structures have furnishings to suit the inhabitants,
 as well as decorations, supplies, and the ability for occupants to move
 around (doors they can open, hallways large enough for them to pass
@@ -125,13 +125,13 @@ Sometimes, however, a vault or a crypt is constructed in such a way as
 to house living guardians. The problem with this strategy is that
 something must be done to keep the creatures alive between intrusion
 attempts. Magic is usually the best solution to provide food and water
-for these creatures. Even if there's no way anything living can survive
+for these creatures. Even if there’s no way anything living can survive
 in a safe storage dungeon, certain monsters can still serve as
 guardians. Builders of vaults or tombs often place undead creatures or
 constructs, both of which which have no need for sustenance or rest, to
 guard their dungeons. Magic traps can attack intruders by summoning
 monsters into the dungeon. These guardians also need no sustenance,
-since they appear only when they're needed and disappear when their task
+since they appear only when they’re needed and disappear when their task
 is done.
 
 **Natural Cavern Complex:** Underground caves provide homes for all
@@ -158,31 +158,30 @@ creatures find their way into a manufactured dungeon and populate it.
 
 ### Walls
 
-Sometimes, masonry walls---stones piled on top of each other (usually
-but not always held in place with mortar)---divide dungeons into
-corridors and chambers. Dungeon walls can also be hewn from solid rock,
-leaving them with a rough, chiseled look. Or, dungeon walls can be the
-smooth, unblemished stone of a naturally occurring cave. Dungeon walls
-are difficult to break down or through, but they're generally easy to
-climb.
+Sometimes, masonry walls—stones piled on top of each other (usually but
+not always held in place with mortar)—divide dungeons into corridors and
+chambers. Dungeon walls can also be hewn from solid rock, leaving them
+with a rough, chiseled look. Or, dungeon walls can be the smooth,
+unblemished stone of a naturally occurring cave. Dungeon walls are
+difficult to break down or through, but they’re generally easy to climb.
 
-  ------------------------------------------------------------------ ------------------- ---------- ---------- --------------- ----------
-  Wall Type                                                          Typical Thickness   Break DC   Hardness   Hit Points^1^   Climb DC
-  Masonry                                                            1 ft.               35         8          90 hp           15
-  Superior masonry                                                   1 ft.               35         8          90 hp           20
-  Reinforced masonry                                                 1 ft.               45         8          180 hp          15
-  Hewn stone                                                         3 ft.               50         8          540 hp          22
-  Unworked stone                                                     5 ft.               65         8          900 hp          20
-  Iron                                                               3 in.               30         10         90 hp           25
-  Paper                                                              Paper-thin          1          ---        1 hp            30
-  Wood                                                               6 in.               20         5          60 hp           21
-  Magically treated^2^                                               ---                 +20        ×2         ×2^3^           ---
-  1 Per 10-foot-by-10-foot section.                                                                                            
-  2 These modifiers can be applied to any of the other wall types.                                                             
-  3 Or an additional 50 hit points, whichever is greater.                                                                      
-  ------------------------------------------------------------------ ------------------- ---------- ---------- --------------- ----------
+|                                                                  |                   |          |          |                        |          |
+|------------------------------------------------------------------|-------------------|----------|----------|------------------------|----------|
+| Wall Type                                                        | Typical Thickness | Break DC | Hardness | Hit Points<sup>1</sup> | Climb DC |
+| Masonry                                                          | 1 ft.             | 35       | 8        | 90 hp                  | 15       |
+| Superior masonry                                                 | 1 ft.             | 35       | 8        | 90 hp                  | 20       |
+| Reinforced masonry                                               | 1 ft.             | 45       | 8        | 180 hp                 | 15       |
+| Hewn stone                                                       | 3 ft.             | 50       | 8        | 540 hp                 | 22       |
+| Unworked stone                                                   | 5 ft.             | 65       | 8        | 900 hp                 | 20       |
+| Iron                                                             | 3 in.             | 30       | 10       | 90 hp                  | 25       |
+| Paper                                                            | Paper-thin        | 1        | —        | 1 hp                   | 30       |
+| Wood                                                             | 6 in.             | 20       | 5        | 60 hp                  | 21       |
+| Magically treated<sup>2</sup>                                    | —                 | +20      | ×2       | ×2<sup>3</sup>         | —        |
+| 1 Per 10-foot-by-10-foot section.                                |                   |          |          |                        |          |
+| 2 These modifiers can be applied to any of the other wall types. |                   |          |          |                        |          |
+| 3 Or an additional 50 hit points, whichever is greater.          |                   |          |          |                        |          |
 
-  : Table: Walls
+Table: Walls
 
 **Masonry Walls:** The most common kind of dungeon wall, masonry walls
 are usually at least 1 foot thick. Often these ancient walls sport
@@ -202,16 +201,16 @@ masonry walls but are more difficult to climb (DC 25).
 passage is tunneled out from solid rock. The rough surface of a hewn
 wall frequently provides minuscule ledges where fungus grows and
 fissures where vermin, bats, and subterranean snakes live. When such a
-wall has an "other side" (it separates two chambers in the dungeon), the
+wall has an “other side” (it separates two chambers in the dungeon), the
 wall is usually at least 3 feet thick; anything thinner risks collapsing
 from the weight of all the stone overhead. It takes a DC 25 Climb check
 to climb a hewn stone wall.
 
 **Unworked Stone Walls:** These surfaces are uneven and rarely flat.
 They are smooth to the touch but filled with tiny holes, hidden alcoves,
-and ledges at various heights. They're also usually wet or at least
-damp, since it's water that most frequently creates natural caves. When
-such a wall has an "other side," the wall is usually at least 5 feet
+and ledges at various heights. They’re also usually wet or at least
+damp, since it’s water that most frequently creates natural caves. When
+such a wall has an “other side,” the wall is usually at least 5 feet
 thick. It takes a DC 15 Climb check to move along an unworked stone
 wall.
 
@@ -262,13 +261,13 @@ floor.
 
 **Uneven Flagstone:** Over time, some floors can become so uneven that a
 DC 10 Balance check is required to run or charge across the surface.
-Failure means the character can't move in this round. Floors as
+Failure means the character can’t move in this round. Floors as
 treacherous as this should be the exception, not the rule.
 
 **Hewn Stone Floors:** Rough and uneven, hewn floors are usually covered
 with loose stones, gravel, dirt, or other debris. A DC 10 Balance check
 is required to run or charge across such a floor. Failure means the
-character can still act, but can't run or charge in this round.
+character can still act, but can’t run or charge in this round.
 
 **Light Rubble:** Small chunks of debris litter the ground. Light rubble
 adds 2 to the DC of Balance and Tumble checks.
@@ -334,10 +333,10 @@ used by defenders to watch key areas for intruders.
 **Sliding Floors:** A sliding floor is a type of trapdoor, designed to
 be moved and thus reveal something that lies beneath it. A typical
 sliding floor moves so slowly that anyone standing on one can avoid
-falling into the gap it creates, assuming there's somewhere else to go.
-If such a floor slides quickly enough that there's a chance of a
-character falling into whatever lies beneath---a spiked pit, a vat of
-burning oil, or a pool filled with sharks---then it's a trap.
+falling into the gap it creates, assuming there’s somewhere else to go.
+If such a floor slides quickly enough that there’s a chance of a
+character falling into whatever lies beneath—a spiked pit, a vat of
+burning oil, or a pool filled with sharks—then it’s a trap.
 
 **Trap Floors:** Some floors are designed to become suddenly dangerous.
 With the application of just the right amount of weight, or the pull of
@@ -354,22 +353,22 @@ they can be encounters all by themselves.
 
 Dungeon doors come in three basic types: wooden, stone, and iron.
 
-  --------------------------------------------------------- ------------------- ---------- ------------ ---------- --------
-                                                                                                        Break DC   
-  Door Type                                                 Typical Thickness   Hardness   Hit Points   Stuck      Locked
-  Simple wooden                                             1 in.               5          10 hp        13         15
-  Good wooden                                               1-1/2 in.           5          15 hp        16         18
-  Strong wooden                                             2 in.               5          20 hp        23         25
-  Stone                                                     4 in.               8          60 hp        28         28
-  Iron                                                      2 in.               10         60 hp        28         28
-  Portcullis, wooden                                        3 in                5          30 hp        25^1^      25^1^
-  Portcullis, iron                                          2 in.               10         60 hp        25^1^      25^1^
-  Lock                                                      ---                 15         30 hp                   
-  Hinge                                                     ---                 10         30 hp                   
-  1 DC to lift. Use appropriate door figure for breaking.                                                          
-  --------------------------------------------------------- ------------------- ---------- ------------ ---------- --------
+|                                                         |                   |          |            |                |                |
+|---------------------------------------------------------|-------------------|----------|------------|----------------|----------------|
+|                                                         |                   |          |            | Break DC       |                |
+| Door Type                                               | Typical Thickness | Hardness | Hit Points | Stuck          | Locked         |
+| Simple wooden                                           | 1 in.             | 5        | 10 hp      | 13             | 15             |
+| Good wooden                                             | 1-1/2 in.         | 5        | 15 hp      | 16             | 18             |
+| Strong wooden                                           | 2 in.             | 5        | 20 hp      | 23             | 25             |
+| Stone                                                   | 4 in.             | 8        | 60 hp      | 28             | 28             |
+| Iron                                                    | 2 in.             | 10       | 60 hp      | 28             | 28             |
+| Portcullis, wooden                                      | 3 in              | 5        | 30 hp      | 25<sup>1</sup> | 25<sup>1</sup> |
+| Portcullis, iron                                        | 2 in.             | 10       | 60 hp      | 25<sup>1</sup> | 25<sup>1</sup> |
+| Lock                                                    | —                 | 15       | 30 hp      |                |                |
+| Hinge                                                   | —                 | 10       | 30 hp      |                |                |
+| 1 DC to lift. Use appropriate door figure for breaking. |                   |          |            |                |                |
 
-  : Table: Doors
+Table: Doors
 
 **Wooden Doors:** Constructed of thick planks nailed together, sometimes
 bound with iron for strength (and to reduce swelling from dungeon
@@ -411,12 +410,12 @@ to knock a door down, use the following as guidelines:
 
 *DC 10 or Lower:* a door just about anyone can break open.
 
-*DC 11--15:* a door that a strong person could break with one try and an
+*DC 11–15:* a door that a strong person could break with one try and an
 average person might be able to break with one try.
 
-*DC 16--20:* a door that almost anyone could break, given time.
+*DC 16–20:* a door that almost anyone could break, given time.
 
-*DC 21--25:* a door that only a strong or very strong person has a hope
+*DC 21–25:* a door that only a strong or very strong person has a hope
 of breaking, probably not on the first try.
 
 *DC 26 or Higher:* a door that only an exceptionally strong person has a
@@ -441,7 +440,7 @@ The Open Lock DC to pick a lock often falls into the range of 20 to 30,
 although locks with lower or higher DCs can exist. A door can have more
 than one lock, each of which must be unlocked separately. Locks are
 often trapped, usually with poison needles that extend out to prick a
-rogue's finger.
+rogue’s finger.
 
 Breaking a lock is sometimes quicker than breaking the whole door. If a
 PC wants to whack at a lock with a weapon, treat the typical lock as
@@ -460,7 +459,7 @@ particularly wooden doors. Assume that about 10% of wooden doors and 5%
 of nonwooden doors are stuck. These numbers can be doubled (to 20% and
 10%, respectively) for long-abandoned or neglected dungeons.
 
-**Barred Doors:** When characters try to bash down a barred door, it's
+**Barred Doors:** When characters try to bash down a barred door, it’s
 the quality of the bar that matters, not the material the door is made
 of. It takes a DC 25 Strength check to break through a door with a
 wooden bar, and a DC 30 Strength check if the bar is made of iron.
@@ -469,7 +468,7 @@ hanging in the now-open doorway.
 
 **Magic Seals:** In addition to magic traps spells such as *arcane lock*
 can discourage passage through a door. A door with an *arcane lock*
-spell on it is considered locked even if it doesn't have a physical
+spell on it is considered locked even if it doesn’t have a physical
 lock. It takes a *knock* spell, a *dispel magic* spell, or a successful
 Strength check to get through such a door.
 
@@ -479,7 +478,7 @@ easily to one side.)
 
 *Standard Hinges:* These hinges are metal, joining one edge of the door
 to the doorframe or wall. Remember that the door swings open toward the
-side with the hinges. (So, if the hinges are on the PCs' side, the door
+side with the hinges. (So, if the hinges are on the PCs’ side, the door
 opens toward them; otherwise it opens away from them.) Adventurers can
 take the hinges apart one at a time with successful Disable Device
 checks (assuming the hinges are on their side of the door, of course).
@@ -490,22 +489,22 @@ The break DC for a hinge is the same as for breaking down the door.
 *Nested Hinges:* These hinges are much more complex than ordinary
 hinges, and are found only in areas of excellent construction. These
 hinges are built into the wall and allow the door to swing open in
-either direction. PCs can't get at the hinges to fool with them unless
+either direction. PCs can’t get at the hinges to fool with them unless
 they break through the doorframe or wall. Nested hinges are typically
 found on stone doors but sometimes on wooden or iron doors as well.
 
-*Pivots:* Pivots aren't really hinges at all, but simple knobs jutting
+*Pivots:* Pivots aren’t really hinges at all, but simple knobs jutting
 from the top and bottom of the door that fit into holes in the
 doorframe, allowing the door to spin. The advantages of pivots is that
-they can't be dismantled like hinges and they're simple to make. The
+they can’t be dismantled like hinges and they’re simple to make. The
 disadvantage is that since the door pivots on its center of gravity
-(typically in the middle), nothing larger than half the door's width can
+(typically in the middle), nothing larger than half the door’s width can
 fit through. Doors with pivots are usually stone and are often quite
 wide to overcome this disadvantage. Another solution is to place the
 pivot toward one side and have the door be thicker at that end and
 thinner toward the other end so that it opens more like a normal door.
 Secret doors in walls often turn on pivots, since the lack of hinges
-makes it easier to hide the door's presence. Pivots also allow objects
+makes it easier to hide the door’s presence. Pivots also allow objects
 such as bookcases to be used as secret doors.
 
 **Secret Doors:** Disguised as a bare patch of wall (or floor, or
@@ -557,15 +556,15 @@ construction and appearance, particularly interesting rooms have
 multiple levels joined by stairs, ramps, or ladders, as well as
 statuary, altars, pits, chasms, bridges, and more.
 
-Underground chambers are prone to collapse, so many rooms---
-particularly large ones---have arched ceilings or pillars to support the
-weight of the rock overhead.
+Underground chambers are prone to collapse, so many rooms— particularly
+large ones—have arched ceilings or pillars to support the weight of the
+rock overhead.
 
 Common dungeon rooms fall into the following broad categories.
 
 **Guard Post:** Intelligent, social denizens of the dungeon will
-generally have a series of adjacent rooms they consider "theirs," and
-they'll guard the entrances to that common area.
+generally have a series of adjacent rooms they consider “theirs,” and
+they’ll guard the entrances to that common area.
 
 **Living Quarters:** All but the most nomadic creatures have a lair
 where they can rest, eat, and store their treasure. Living quarters
@@ -580,25 +579,25 @@ weapons and armor, or studios for more esoteric tasks.
 
 **Shrine:** Any creature that is particularly religious may have some
 place dedicated to worship, and others may venerate something of great
-historical or personal value. Depending on the creature's resources and
+historical or personal value. Depending on the creature’s resources and
 piety, a shrine can be humble or extensive. A shrine is where PCs will
-likely encounter NPC clerics, and it's common for wounded monsters to
+likely encounter NPC clerics, and it’s common for wounded monsters to
 flee to a shrine friendly to them when they seek healing.
 
 **Vault:** Well protected, often by a locked iron door, a vault is a
-special room that contains treasure. There's usually only one
-entrance---an appropriate place for a trap.
+special room that contains treasure. There’s usually only one
+entrance—an appropriate place for a trap.
 
 **Crypt:** Although sometimes constructed like a vault, a crypt can also
 be a series of individual rooms, each with its own sarcophagus, or a
-long hall with recesses on either side---shelves to hold coffins or
+long hall with recesses on either side—shelves to hold coffins or
 bodies.
 
 Those who are worried about undead rising from the grave take the
-precaution of locking and trapping a crypt from the outside--- making
-the crypt easy to get into but difficult to leave. Those worried about
-tomb robbers make their crypts difficult to get into. Some builders do
-both, just to be on the safe side.
+precaution of locking and trapping a crypt from the outside— making the
+crypt easy to get into but difficult to leave. Those worried about tomb
+robbers make their crypts difficult to get into. Some builders do both,
+just to be on the safe side.
 
 ### Corridors
 
@@ -609,7 +608,7 @@ hunt.
 
 **Corridor Traps:** Because passageways in dungeons tend to be narrow,
 offering few movement options, dungeon builders like to place traps in
-them. In a cramped passageway, there's no way for intruders to move
+them. In a cramped passageway, there’s no way for intruders to move
 around concealed pits, falling stones, arrow traps, tilting floors, and
 sliding or rolling rocks that fill the entire passage. For the same
 reason, magic traps such as *glyphs of warding* are effective in
@@ -623,7 +622,7 @@ with monsters or traps, can be an effective barrier.
 
 A maze can be used to cut off one area of the dungeon, deflecting
 intruders away from a protected spot. Generally, though, the far side of
-a maze holds an important crypt or vault---someplace that the dungeon's
+a maze holds an important crypt or vault—someplace that the dungeon’s
 regular inhabitants rarely need to get to.
 
 ### Miscellaneous Features
@@ -638,7 +637,7 @@ to slide or fall down to the bottom, where a pit, spikes, a pool of
 acid, or some other danger awaits.
 
 *Gradual Stairs:* Stairs that rise less than 5 feet for every 5 feet of
-horizontal distance they cover don't affect movement, but characters who
+horizontal distance they cover don’t affect movement, but characters who
 attack a foe below them gain a +1 bonus on attack rolls from being on
 higher ground. Most stairs in dungeons are gradual, except for spiral
 stairs (see below).
@@ -654,7 +653,7 @@ increase the DC of Tumble checks by 5.
 
 *Spiral Stairs:* This form of steep stairs is designed to make defending
 a fortress easier. Characters gain cover against foes below them on
-spiral stairs because they can easily duck around the staircase's
+spiral stairs because they can easily duck around the staircase’s
 central support.
 
 *Railings and Low Walls:* Stairs that are open to large rooms often have
@@ -672,7 +671,7 @@ Floors). It requires a Balance check (DC dependent on width) to cross
 such a bridge.
 
 *Rope Bridge:* Constructed of wooden planks suspended from ropes, a rope
-bridge is convenient because it's portable and can be easily removed. It
+bridge is convenient because it’s portable and can be easily removed. It
 takes two full-round actions to untie one end of a rope bridge, but a DC
 15 Use Rope check reduces the time to a move action. If only one of the
 two supporting ropes is attached, everyone on the bridge must succeed on
@@ -684,8 +683,8 @@ each.
 *Drawbridge:* Some bridges have mechanisms that allow them to be
 extended or retracted from the gap they cross. Typically, the winch
 mechanism exists on only one side of the bridge. It takes a move action
-to lower a drawbridge, but the bridge doesn't come down until the
-beginning of the lowering character's next turn. It takes a full-round
+to lower a drawbridge, but the bridge doesn’t come down until the
+beginning of the lowering character’s next turn. It takes a full-round
 action to raise a drawbridge; the drawbridge is up at the end of the
 action. Particularly long or wide drawbridges may take more time to
 raise and lower, and some may require Strength checks to rotate the
@@ -696,10 +695,10 @@ the sides. If a bridge does, the railing or low walls affect Balance
 checks and bull rush attempts as described for ledges (see Special
 Floors). Low walls likewise provide cover to bridge occupants.
 
-**Chutes and Chimneys:** Stairs aren't the only way to move up and down
+**Chutes and Chimneys:** Stairs aren’t the only way to move up and down
 in a dungeon. Sometimes a vertical shaft connects levels of a dungeon or
 links a dungeon with the surface. Chutes are usually traps that dump
-characters into a lower area---often a place featuring some dangerous
+characters into a lower area—often a place featuring some dangerous
 situation with which they must contend.
 
 **Pillar:** A common sight in any dungeon, pillars and columns give
@@ -710,11 +709,11 @@ tend to be polished and often have carvings, paintings, or inscriptions
 upon them.
 
 *Slender Pillar:* These pillars are only a foot or two across, so they
-don't occupy a whole square. A creature standing in the same square as a
+don’t occupy a whole square. A creature standing in the same square as a
 slender pillar gains a +2 cover bonus to Armor Class and a +1 cover
-bonus on Reflex saves (these bonuses don't stack with cover bonuses from
+bonus on Reflex saves (these bonuses don’t stack with cover bonuses from
 other sources). The presence of a slender pillar does not otherwise
-affect a creature's fighting space, because it's assumed that the
+affect a creature’s fighting space, because it’s assumed that the
 creature is using the pillar to its advantage when it can. A typical
 slender pillar has AC 4, hardness 8, and 250 hit points.
 
@@ -737,9 +736,9 @@ corridors. Crafty builders take advantage of tapestries to place
 alcoves, concealed doors, or secret switches behind them.
 
 Tapestries provide total concealment (50% miss chance) to characters
-behind them if they're hanging from the ceiling, or concealment (20%
-miss chance) if they're flush with the wall. Climbing a big tapestry
-isn't particularly difficult, requiring a DC 15 Climb check (or DC 10 if
+behind them if they’re hanging from the ceiling, or concealment (20%
+miss chance) if they’re flush with the wall. Climbing a big tapestry
+isn’t particularly difficult, requiring a DC 15 Climb check (or DC 10 if
 a wall is within reach).
 
 **Pedestal:** Anything important on display in a dungeon, from a
@@ -774,12 +773,12 @@ pool. Tumbling is impossible in a deep pool. The water in a deep pool
 provides cover for Medium or larger creatures. Smaller creatures gain
 improved cover (+8 bonus to AC, +4 bonus on Reflex saves). Medium or
 larger creatures can crouch as a move action to gain this improved
-cover. Creatures with this improved cover take a --10 penalty on attacks
-against creatures that aren't also underwater.
+cover. Creatures with this improved cover take a –10 penalty on attacks
+against creatures that aren’t also underwater.
 
 Deep pool squares are usually clustered together and surrounded by a
 ring of shallow pool squares. Both shallow pools and deep pools impose a
---2 circumstance penalty on Move Silently checks.
+–2 circumstance penalty on Move Silently checks.
 
 *Special Pools:* Through accident or design, a pool can become magically
 enhanced. Rarely, a pool or a fountain may be found that has the ability
@@ -789,9 +788,9 @@ magic pool loses its potency if removed from the pool for more than an
 hour or so.
 
 Some pools have fountains. Occasionally these are merely decorative, but
-they often serve as the focus of a trap or the source of a pool's magic.
+they often serve as the focus of a trap or the source of a pool’s magic.
 
-Most pools are made of water, but anything's possible in a dungeon.
+Most pools are made of water, but anything’s possible in a dungeon.
 Pools can hold unsavory substances such as blood, poison, oil, or magma.
 And even if a pool holds water, it can be holy water, saltwater, or
 water tainted with disease.
@@ -803,12 +802,12 @@ gears, pulleys, and winches) or magical (such as a *levitate* spell cast
 on a movable flat surface). A mechanical elevator might be as small as a
 platform that holds one character at a time, or as large as an entire
 room that raises and lowers. A clever builder might design an elevator
-room that moves up or down without the occupants' knowledge to catch
+room that moves up or down without the occupants’ knowledge to catch
 them in a trap, or one that appears to have moved when it actually
 remained still.
 
 A typical elevator ascends or descends 10 feet per round at the
-beginning of the operator's turn (or on initiative count 0 if it
+beginning of the operator’s turn (or on initiative count 0 if it
 functions without regard to whether creatures are on it. Elevators can
 be enclosed, can have railings or low walls, or may simply be
 treacherous floating platforms.
@@ -825,8 +824,8 @@ plates, counterweights, or a secret lever can shift out of a wall to
 become a staircase leading to a hidden upper room or secret ledge.
 
 Shifting stones and walls are generally constructed as traps with
-triggers and Search and Disable Device DCs. However they don't have
-Challenge Ratings because they're inconveniences, not deadly in and of
+triggers and Search and Disable Device DCs. However they don’t have
+Challenge Ratings because they’re inconveniences, not deadly in and of
 themselves.
 
 **Teleporters:** Sometimes useful, sometimes devious, places in a
@@ -837,20 +836,20 @@ dangerous situations, or they can be an easy mode of transport for those
 who built or live in the dungeon, good for bypassing barriers and traps
 or simply to get around more quickly. Devious dungeon designers might
 place a teleporter in a room that transports characters to another
-seemingly identical room so that they don't even know they've been
+seemingly identical room so that they don’t even know they’ve been
 teleported. A *detect magic* spell will provide a clue to the presence
 of a teleporter, but direct experimentation or other research is the
 only way to discover where the teleporter leads.
 
-**Altars:** Temples---particularly to dark gods---often exist
-underground. Usually taking the form of a stone block, an altar is the
-main fixture and central focus of such a temple. Sometimes all the other
-trappings of the temple are long gone, lost to theft, age, and decay,
-but the altar survives. Some altars have traps or powerful magic within
-them. Most take up one or two squares on the grid and provide cover to
-creatures behind them.
+**Altars:** Temples—particularly to dark gods—often exist underground.
+Usually taking the form of a stone block, an altar is the main fixture
+and central focus of such a temple. Sometimes all the other trappings of
+the temple are long gone, lost to theft, age, and decay, but the altar
+survives. Some altars have traps or powerful magic within them. Most
+take up one or two squares on the grid and provide cover to creatures
+behind them.
 
-### Cave-Ins and Collapses (Cr 8) {#cave-ins-and-collapses}
+### Cave-Ins and Collapses (Cr 8)
 
 Cave-ins and collapsing tunnels are extremely dangerous. Not only do
 dungeon explorers face the danger of being crushed by tons of falling
@@ -880,7 +879,7 @@ If such a character falls unconscious, he must make a DC 15 Constitution
 check. If it fails, he takes 1d6 points of lethal damage each minute
 thereafter until freed or dead.
 
-Characters who aren't buried can dig out their friends. In 1 minute,
+Characters who aren’t buried can dig out their friends. In 1 minute,
 using only her hands, a character can clear rocks and debris equal to
 five times her heavy load limit. The amount of loose stone that fills a
 5-foot-by-5-foot area weighs one ton (2,000 pounds). Armed with an
@@ -890,7 +889,7 @@ character to free himself with a DC 25 Strength check.
 
 ### Slimes, Molds, and Fungi
 
-In a dungeon's damp, dark recesses, molds and fungi thrive. While some
+In a dungeon’s damp, dark recesses, molds and fungi thrive. While some
 plants and fungi are monsters and other slime, mold, and fungus is just
 normal, innocuous stuff, a few varieties are dangerous dungeon
 encounters. For purposes of spells and other special effects, all
@@ -922,14 +921,14 @@ scraping device), but after that it must be frozen, burned, or cut away
 (dealing damage to the victim as well). Anything that deals cold or fire
 damage, sunlight, or a *remove disease* spell destroys a patch of green
 slime. Against wood or metal, green slime deals 2d6 points of damage per
-round, ignoring metal's hardness but not that of wood. It does not harm
+round, ignoring metal’s hardness but not that of wood. It does not harm
 stone.
 
 **Yellow Mold (CR 6):** If disturbed, a 5-foot square of this mold
 bursts forth with a cloud of poisonous spores. All within 10 feet of the
 mold must make a DC 15 Fortitude save or take 1d6 points of Constitution
-damage. Another DC 15 Fortitude save is required 1 minute later---even
-by those who succeeded on the first save---to avoid taking 2d6 points of
+damage. Another DC 15 Fortitude save is required 1 minute later—even by
+those who succeeded on the first save—to avoid taking 2d6 points of
 Constitution damage. Fire destroys yellow mold, and sunlight renders it
 dormant.
 
@@ -954,8 +953,8 @@ of fungus illuminate as well as a torch does.
 There are many ways to get lost in the wilderness. Following an obvious
 road, trail, or feature such as a stream or shoreline prevents any
 possibility of becoming lost, but travelers striking off cross-country
-may become disoriented---especially in conditions of poor visibility or
-in difficult terrain.
+may become disoriented—especially in conditions of poor visibility or in
+difficult terrain.
 
 **Poor Visibility:** Any time characters cannot see at least 60 feet in
 the prevailing conditions of visibility, they may become lost.
@@ -978,12 +977,12 @@ terrain, the visibility conditions, and whether or not the character has
 a map of the area being traveled through. Refer to the table below and
 use the highest DC that applies.
 
-  ---------------------- ------------- ------------------ -------------
-                         Survival DC                      Survival DC
-  Moor or hill, map      6             Poor visibility    12
-  Mountain, map          8             Mountain, no map   12
-  Moor or hill, no map   10            Forest             15
-  ---------------------- ------------- ------------------ -------------
+|                      |             |                  |             |
+|----------------------|-------------|------------------|-------------|
+|                      | Survival DC |                  | Survival DC |
+| Moor or hill, map    | 6           | Poor visibility  | 12          |
+| Mountain, map        | 8           | Mountain, no map | 12          |
+| Moor or hill, no map | 10          | Forest           | 15          |
 
 A character with at least 5 ranks in Knowledge (geography) or Knowledge
 (local) pertaining to the area being traveled through gains a +2 bonus
@@ -996,13 +995,13 @@ moving together, only the character leading the way makes the check.
 **Effects of Being Lost:** If a party becomes lost, it is no longer
 certain of moving in the direction it intended to travel. Randomly
 determine the direction in which the party actually travels during each
-hour of local or overland movement. The characters' movement continues
-to be random until they blunder into a landmark they can't miss, or
+hour of local or overland movement. The characters’ movement continues
+to be random until they blunder into a landmark they can’t miss, or
 until they recognize that they are lost and make an effort to regain
 their bearings.
 
-*Recognizing that You're Lost:* Once per hour of random travel, each
-character in the party may attempt a Survival check (DC 20, --1 per hour
+*Recognizing that You’re Lost:* Once per hour of random travel, each
+character in the party may attempt a Survival check (DC 20, –1 per hour
 of random travel) to recognize that they are no longer certain of their
 direction of travel. Some circumstances may make it obvious that the
 characters are lost.
@@ -1012,7 +1011,7 @@ which direction it should travel in order to reach a desired objective.
 Determining the correct direction of travel once a party has become lost
 requires a Survival check (DC 15, +2 per hour of random travel). If a
 character fails this check, he chooses a random direction as the
-"correct" direction for resuming travel.
+“correct” direction for resuming travel.
 
 Once the characters are traveling along their new course, correct or
 incorrect, they may get lost again. If the conditions still make it
@@ -1020,7 +1019,7 @@ possible for travelers to become lost, check once per hour of travel as
 described in Chance to Get Lost, above, to see if the party maintains
 its new course or begins to move at random again.
 
-*Conflicting Directions:* It's possible that several characters may
+*Conflicting Directions:* It’s possible that several characters may
 attempt to determine the right direction to proceed after becoming lost.
 Make a Survival check for each character in secret, then tell the
 players whose characters succeeded the correct direction in which to
@@ -1029,10 +1028,10 @@ they think is right.
 
 **Regaining Your Bearings:** There are several ways to become un-lost.
 First, if the characters successfully set a new course and follow it to
-the destination they're trying to reach, they're not lost anymore.
+the destination they’re trying to reach, they’re not lost anymore.
 Second, the characters through random movement might run into an
-unmistakable landmark. Third, if conditions suddenly improve---the fog
-lifts or the sun comes up---lost characters may attempt to set a new
+unmistakable landmark. Third, if conditions suddenly improve—the fog
+lifts or the sun comes up—lost characters may attempt to set a new
 course, as described above, with a +4 bonus on the Survival check.
 Finally, magic may make their course clear.
 
@@ -1048,27 +1047,27 @@ square has a terrain element in it.
 
 #### Forest Terrain Features
 
-  ------------------- ---------------------------------------------------------------------------------------------------------------------------------------------- -------- -------
-                                                                                        []{style="                                                                            
-                                                                                             display: block;                                                                  
-                                                                                           position: absolute;                                                                
-                                                                                                right: 0;                                                                     
-                                                                                                top: 50%;                                                                     
-                                                                                                left: 0px;                                                                    
-                                                                                   border-top: 1px solid currentColor;                                                        
-                                     "}[Category of Forest ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}           
-                                                                                          Sparse                                                                      Medium   Dense
-  Typical trees                                                                            50%                                                                         70%      80%
-  Massive trees                                                                            ---                                                                         10%      20%
-  Light undergrowth                                                                        50%                                                                         70%      50%
-  Heavy undergrowth                                                                        ---                                                                         20%      50%
-  ------------------- ---------------------------------------------------------------------------------------------------------------------------------------------- -------- -------
+|                   |                                                                                                                                                               |        |       |
+|-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:-----:|
+|                   |                                                                         <span style="                                                                         
+                                                                                                     display: block;                                                                
+                                                                                                   position: absolute;                                                              
+                                                                                                        right: 0;                                                                   
+                                                                                                        top: 50%;                                                                   
+                                                                                                       left: 0px;                                                                   
+                                                                                           border-top: 1px solid currentColor;                                                      
+                                   "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Category of Forest </span>  |        |       |
+|                   |                                                                            Sparse                                                                             | Medium | Dense |
+| Typical trees     |                                                                              50%                                                                              |  70%   |  80%  |
+| Massive trees     |                                                                               —                                                                               |  10%   |  20%  |
+| Light undergrowth |                                                                              50%                                                                              |  70%   |  50%  |
+| Heavy undergrowth |                                                                               —                                                                               |  20%   |  50%  |
 
 **Trees:** The most important terrain element in a forest is the trees,
 obviously. A creature standing in the same square as a tree gains a +2
-bonus to Armor Class and a +1 bonus on Reflex saves (these bonuses don't
+bonus to Armor Class and a +1 bonus on Reflex saves (these bonuses don’t
 stack with cover bonuses from other sources). The presence of a tree
-doesn't otherwise affect a creature's fighting space, because it's
+doesn’t otherwise affect a creature’s fighting space, because it’s
 assumed that the creature is using the tree to its advantage when it
 can. The trunk of a typical tree has AC 4, hardness 5, and 150 hp. A DC
 15 Climb check is sufficient to climb a tree. Medium and dense forests
@@ -1087,13 +1086,13 @@ chance (instead of the usual 20%). It increases the DC of Tumble and
 Move Silently checks by 5. Heavy undergrowth is easy to hide in,
 granting a +5 circumstance bonus on Hide checks. Running and charging
 are impossible. Squares with undergrowth are often clustered together.
-Undergrowth and trees aren't mutually exclusive; it's common for a
+Undergrowth and trees aren’t mutually exclusive; it’s common for a
 5-foot square to have both a tree and undergrowth.
 
-**Forest Canopy:** It's common for elves and other forest dwellers to
+**Forest Canopy:** It’s common for elves and other forest dwellers to
 live on raised platforms far above the surface floor. These wooden
 platforms generally have rope bridges between them. To get to the
-treehouses, characters generally ascend the trees' branches (Climb DC
+treehouses, characters generally ascend the trees’ branches (Climb DC
 15), use rope ladders (Climb DC 0), or take pulley elevators (which can
 be made to rise a number of feet equal to a Strength check, made each
 round as a full-round action). Creatures on platforms or branches in a
@@ -1114,7 +1113,7 @@ distance at which a Spot check for detecting the nearby presence of
 others can succeed is 3d6×10 feet. In a medium forest, this distance is
 2d8×10 feet, and in a dense forest it is 2d6×10 feet.
 
-Because any square with undergrowth provides concealment, it's usually
+Because any square with undergrowth provides concealment, it’s usually
 easy for a creature to use the Hide skill in the forest. Logs and
 massive trees provide cover, which also makes hiding possible.
 
@@ -1122,7 +1121,7 @@ The background noise in the forest makes Listen checks more difficult,
 increasing the DC of the check by 2 per 10 feet, not 1 (but note that
 Move Silently is also more difficult in undergrowth).
 
-#### Forest Fires (Cr 6) {#forest-fires}
+#### Forest Fires (Cr 6)
 
 Most campfire sparks ignite nothing, but if conditions are dry, winds
 are strong, or the forest floor is dried out and flammable, a forest
@@ -1137,7 +1136,7 @@ checks, the fire moves closer to them. They automatically see it when it
 closes to half the original distance.
 
 Characters who are blinded or otherwise unable to make Spot checks can
-feel the heat of the fire (and thus automatically "spot" it) when it is
+feel the heat of the fire (and thus automatically “spot” it) when it is
 100 feet away.
 
 The leading edge of a fire (the downwind side) can advance faster than a
@@ -1158,7 +1157,7 @@ addition, a character must make a Fortitude save every 5 rounds (DC 15,
 +1 per previous check) or take 1d4 points of nonlethal damage. A
 character who holds his breath can avoid the lethal damage, but not the
 nonlethal damage. Those wearing heavy clothing or any sort of armor take
-a --4 penalty on their saving throws. In addition, those wearing metal
+a –4 penalty on their saving throws. In addition, those wearing metal
 armor or coming into contact with very hot metal are affected as if by a
 *heat metal* spell.
 
@@ -1183,21 +1182,21 @@ The table below describes terrain features found in marshes.
 
 #### Marsh Terrain Features
 
-  ------------------- ------------------------------------------------------------------------------------------------------------------------------------------ -------
-                                                                                      []{style="                                                                 
-                                                                                           display: block;                                                       
-                                                                                         position: absolute;                                                     
-                                                                                              right: 0;                                                          
-                                                                                              top: 50%;                                                          
-                                                                                              left: 0px;                                                         
-                                                                                 border-top: 1px solid currentColor;                                             
-                                     "}[Marsh Category ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}  
-                                                                                         Moor                                                                     Swamp
-  Shallow bog                                                                            20%                                                                       40%
-  Deep bog                                                                                5%                                                                       20%
-  Light undergrowth                                                                      30%                                                                       20%
-  Heavy undergrowth                                                                      10%                                                                       20%
-  ------------------- ------------------------------------------------------------------------------------------------------------------------------------------ -------
+|                   |                                                                                                                                                           |       |
+|-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----:|
+|                   |                                                                       <span style="                                                                       
+                                                                                                   display: block;                                                              
+                                                                                                 position: absolute;                                                            
+                                                                                                      right: 0;                                                                 
+                                                                                                      top: 50%;                                                                 
+                                                                                                     left: 0px;                                                                 
+                                                                                         border-top: 1px solid currentColor;                                                    
+                                   "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Marsh Category </span>  |       |
+|                   |                                                                           Moor                                                                            | Swamp |
+| Shallow bog       |                                                                            20%                                                                            |  40%  |
+| Deep bog          |                                                                            5%                                                                             |  20%  |
+| Light undergrowth |                                                                            30%                                                                            |  20%  |
+| Heavy undergrowth |                                                                            10%                                                                            |  20%  |
 
 **Bogs:** If a square is part of a shallow bog, it has deep mud or
 standing water of about 1 foot in depth. It costs 2 squares of movement
@@ -1213,8 +1212,8 @@ Tumbling is impossible in a deep bog.
 The water in a deep bog provides cover for Medium or larger creatures.
 Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on
 Reflex saves). Medium or larger creatures can crouch as a move action to
-gain this improved cover. Creatures with this improved cover take a --10
-penalty on attacks against creatures that aren't underwater.
+gain this improved cover. Creatures with this improved cover take a –10
+penalty on attacks against creatures that aren’t underwater.
 
 Deep bog squares are usually clustered together and surrounded by an
 irregular ring of shallow bog squares.
@@ -1229,7 +1228,7 @@ part of a bog does not also have undergrowth.
 appearance (appearing as undergrowth or open land) that may trap
 careless characters. A character approaching a patch of quicksand at a
 normal pace is entitled to a DC 8 Survival check to spot the danger
-before stepping in, but charging or running characters don't have a
+before stepping in, but charging or running characters don’t have a
 chance to detect a hidden bog before blundering in. A typical patch of
 quicksand is 20 feet in diameter; the momentum of a charging or running
 character carries him or her 1d2×5 feet into the quicksand.
@@ -1265,14 +1264,14 @@ a wide hedgerow; creatures that succeed on a DC 10 Climb check need only
 **Other Marsh Terrain Elements:** Some marshes, particularly swamps,
 have trees just as forests do, usually clustered in small stands. Paths
 lead across many marshes, winding to avoid bog areas. As in forests,
-paths allow normal movement and don't provide the concealment that
+paths allow normal movement and don’t provide the concealment that
 undergrowth does.
 
 **Stealth and Detection in a Marsh:** In a moor, the maximum distance at
 which a Spot check for detecting the nearby presence of others can
 succeed is 6d6×10 feet. In a swamp, this distance is 2d8×10 feet.
 
-Undergrowth and deep bogs provide plentiful concealment, so it's easy to
+Undergrowth and deep bogs provide plentiful concealment, so it’s easy to
 hide in a marsh.
 
 A marsh imposes no penalties on Listen checks, and using the Move
@@ -1288,23 +1287,23 @@ terrain such as plains.
 
 #### Hills Terrain Features
 
-  ------------------- ----------------------------------------------------------------------------------------------------------------------------------------- -------------
-                                                                                     []{style="                                                                 
-                                                                                           display: block;                                                      
-                                                                                         position: absolute;                                                    
-                                                                                              right: 0;                                                         
-                                                                                              top: 50%;                                                         
-                                                                                             left: 0px;                                                         
-                                                                                 border-top: 1px solid currentColor;                                            
-                                     "}[Hills Category]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}  
-                                                                                     Gentle Hill                                                                 Rugged Hill
-  Gradual slope                                                                          75%                                                                         40%
-  Steep slope                                                                            20%                                                                         50%
-  Cliff                                                                                  5%                                                                          10%
-  Light undergrowth                                                                      15%                                                                         15%
-  ------------------- ----------------------------------------------------------------------------------------------------------------------------------------- -------------
+|                   |                                                                                                                                                          |             |
+|-------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|
+|                   |                                                                       <span style="                                                                      
+                                                                                                  display: block;                                                              
+                                                                                                position: absolute;                                                            
+                                                                                                     right: 0;                                                                 
+                                                                                                     top: 50%;                                                                 
+                                                                                                     left: 0px;                                                                
+                                                                                        border-top: 1px solid currentColor;                                                    
+                                   "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Hills Category</span>  |             |
+|                   |                                                                       Gentle Hill                                                                        | Rugged Hill |
+| Gradual slope     |                                                                           75%                                                                            |     40%     |
+| Steep slope       |                                                                           20%                                                                            |     50%     |
+| Cliff             |                                                                            5%                                                                            |     10%     |
+| Light undergrowth |                                                                           15%                                                                            |     15%     |
 
-**Gradual Slope:** This incline isn't steep enough to affect movement,
+**Gradual Slope:** This incline isn’t steep enough to affect movement,
 but characters gain a +1 bonus on melee attacks against foes downhill
 from them.
 
@@ -1320,8 +1319,8 @@ slope increases the DC of Tumble checks by 2.
 
 **Cliff:** A cliff typically requires a DC 15 Climb check to scale and
 is 1d4×10 feet tall, although the needs of your map may mandate a taller
-cliff. A cliff isn't perfectly vertical, taking up 5-foot squares if
-it's less than 30 feet tall and 10-foot squares if it's 30 feet or
+cliff. A cliff isn’t perfectly vertical, taking up 5-foot squares if
+it’s less than 30 feet tall and 10-foot squares if it’s 30 feet or
 taller.
 
 **Light Undergrowth:** Sagebrush and other scrubby bushes grow on hills,
@@ -1329,7 +1328,7 @@ athough they rarely cover the landscape as they do in forests and
 marshes. Light undergrowth provides concealment and increases the DC of
 Tumble and Move Silently checks by 2.
 
-**Other Hills Terrain Elements:** Trees aren't out of place in hills
+**Other Hills Terrain Elements:** Trees aren’t out of place in hills
 terrain, and valleys often have active streams (5 to 10 feet wide and no
 more than 5 feet deep) or dry streambeds (treat as a trench 5 to 10 feet
 across) in them. If you add a stream or streambed, remember that water
@@ -1340,17 +1339,17 @@ distance at which a Spot check for detecting the nearby presence of
 others can succeed is 2d10×10 feet. In rugged hills, this distance is
 2d6×10 feet.
 
-Hiding in hills terrain can be difficult if there isn't undergrowth
+Hiding in hills terrain can be difficult if there isn’t undergrowth
 around. A hilltop or ridge provides enough cover to hide from anyone
 below the hilltop or ridge.
 
-Hills don't affect Listen or Move Silently checks.
+Hills don’t affect Listen or Move Silently checks.
 
 ### Mountain Terrain
 
 The three mountain terrain categories are alpine meadows, rugged
 mountains, and forbidding mountains. As characters ascend into a
-mountainous area, they're likely to face each terrain category in turn,
+mountainous area, they’re likely to face each terrain category in turn,
 beginning with alpine meadows, extending through rugged mountains, and
 reaching forbidding mountains near the summit.
 
@@ -1360,35 +1359,35 @@ itself.
 
 #### Mountain Terrain Features
 
-  ------------------- --------------------------------------------------------------------------------------------------------------------------------------------- -------- ------------
-                                                                                       []{style="                                                                            
-                                                                                             display: block;                                                                 
-                                                                                           position: absolute;                                                               
-                                                                                                right: 0;                                                                    
-                                                                                                top: 50%;                                                                    
-                                                                                               left: 0px;                                                                    
-                                                                                   border-top: 1px solid currentColor;                                                       
-                                     "}[Mountain Category ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}           
-                                                                                      Alpine Meadow                                                                  Rugged   Forbidding
-  Gradual slope                                                                            50%                                                                        25%        15%
-  Steep slope                                                                              40%                                                                        55%        55%
-  Cliff                                                                                    10%                                                                        15%        20%
-  Chasm                                                                                    ---                                                                         5%        10%
-  Light undergrowth                                                                        20%                                                                        10%        ---
-  Scree                                                                                    ---                                                                        20%        30%
-  Dense rubble                                                                             ---                                                                        20%        30%
-  ------------------- --------------------------------------------------------------------------------------------------------------------------------------------- -------- ------------
+|                   |                                                                                                                                                              |        |            |
+|-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|
+|                   |                                                                         <span style="                                                                        
+                                                                                                    display: block;                                                                
+                                                                                                  position: absolute;                                                              
+                                                                                                       right: 0;                                                                   
+                                                                                                       top: 50%;                                                                   
+                                                                                                       left: 0px;                                                                  
+                                                                                          border-top: 1px solid currentColor;                                                      
+                                   "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Mountain Category </span>  |        |            |
+|                   |                                                                        Alpine Meadow                                                                         | Rugged | Forbidding |
+| Gradual slope     |                                                                             50%                                                                              |  25%   |    15%     |
+| Steep slope       |                                                                             40%                                                                              |  55%   |    55%     |
+| Cliff             |                                                                             10%                                                                              |  15%   |    20%     |
+| Chasm             |                                                                              —                                                                               |   5%   |    10%     |
+| Light undergrowth |                                                                             20%                                                                              |  10%   |     —      |
+| Scree             |                                                                              —                                                                               |  20%   |    30%     |
+| Dense rubble      |                                                                              —                                                                               |  20%   |    30%     |
 
 **Gradual and Steep Slopes:** These function as described in Hills
 Terrain, above.
 
 **Cliff:** These terrain elements also function like their hills terrain
-counterparts, but they're typically 2d6×10 feet tall. Cliffs taller than
+counterparts, but they’re typically 2d6×10 feet tall. Cliffs taller than
 80 feet take up 20 feet of horizontal space.
 
 **Chasm:** Usually formed by natural geological processes, chasms
-function like pits in a dungeon setting. Chasms aren't hidden, so
-characters won't fall into them by accident (although bull rushes are
+function like pits in a dungeon setting. Chasms aren’t hidden, so
+characters won’t fall into them by accident (although bull rushes are
 another story). A typical chasm is 2d4×10 feet deep, at least 20 feet
 long, and anywhere from 5 feet to 20 feet wide. It takes a DC 15 Climb
 check to climb out of a chasm. In forbidding mountain terrain, chasms
@@ -1396,9 +1395,9 @@ are typically 2d8×10 feet deep.
 
 Light Undergrowth: This functions as described in Forest Terrain, above.
 
-**Scree:** A field of shifting gravel, scree doesn't affect speed, but
+**Scree:** A field of shifting gravel, scree doesn’t affect speed, but
 it can be treacherous on a slope. The DC of Balance and Tumble checks
-increases by 2 if there's scree on a gradual slope and by 5 if there's
+increases by 2 if there’s scree on a gradual slope and by 5 if there’s
 scree on a steep slope. The DC of Move silently checks increases by 2 if
 the scree is on a slope of any kind.
 
@@ -1431,20 +1430,20 @@ distance in mountain terrain at which a Spot check for detecting the
 nearby presence of others can succeed is 4d10×10 feet. Certain peaks and
 ridgelines afford much better vantage points, of course, and twisting
 valleys and canyons have much shorter spotting distances. Because
-there's little vegetation to obstruct line of sight, the specifics on
+there’s little vegetation to obstruct line of sight, the specifics on
 your map are your best guide for the range at which an encounter could
 begin. As in hills terrain, a ridge or peak provides enough cover to
 hide from anyone below the high point.
 
-It's easier to hear faraway sounds in the mountains. The DC of Listen
+It’s easier to hear faraway sounds in the mountains. The DC of Listen
 checks increases by 1 per 20 feet between listener and source, not per
 10 feet.
 
-#### Avalanches (Cr 7) {#avalanches}
+#### Avalanches (Cr 7)
 
 The combination of high peaks and heavy snowfalls means that avalanches
 are a deadly peril in many mountainous areas. While avalanches of snow
-and ice are common, it's also possible to have an avalanche of rock and
+and ice are common, it’s also possible to have an avalanche of rock and
 soil.
 
 An avalanche can be spotted from as far away as 1d10×500 feet downslope
@@ -1452,7 +1451,7 @@ by a character who makes a DC 20 Spot check, treating the avalanche as a
 Colossal creature. If all characters fail their Spot checks to determine
 the encounter distance, the avalanche moves closer to them, and they
 automatically become aware of it when it closes to half the original
-distance. It's possible to hear an avalanche coming even if you can't
+distance. It’s possible to hear an avalanche coming even if you can’t
 see it. Under optimum conditions (no other loud noises occurring), a
 character who makes a DC 15 Listen check can hear the avalanche or
 landslide when it is 1d6×500 feet away. This check might have a DC of
@@ -1476,18 +1475,18 @@ thereafter until freed or dead.
 
 The typical avalanche has a width of 1d6×100 feet, from one edge of the
 slide zone to the opposite edge. The bury zone in the center of the
-avalanche is half as wide as the avalanche's full width.
+avalanche is half as wide as the avalanche’s full width.
 
 To determine the precise location of characters in the path of an
 avalanche, roll 1d6×20; the result is the number of feet from the center
-of the path taken by the bury zone to the center of the party's
+of the path taken by the bury zone to the center of the party’s
 location. Avalanches of snow and ice advance at a speed of 500 feet per
 round, and rock avalanches travel at a speed of 250 feet per round.
 
 #### Mountain Travel
 
-High altitude can be extremely fatiguing---or sometimes deadly---to
-creatures that aren't used to it. Cold becomes extreme, and the lack of
+High altitude can be extremely fatiguing—or sometimes deadly—to
+creatures that aren’t used to it. Cold becomes extreme, and the lack of
 oxygen in the air can wear down even the most hardy of warriors.
 
 **Acclimated Characters:** Creatures accustomed to high altitude
@@ -1519,7 +1518,7 @@ Acclimated characters do not have to attempt the Fortitude save.
 *High Peak (more than 15,000 feet):* The highest mountains exceed 20,000
 feet in height. At these elevations, creatures are subject to both high
 altitude fatigue (as described above) and altitude sickness, whether or
-not they're acclimated to high altitudes. Altitude sickness represents
+not they’re acclimated to high altitudes. Altitude sickness represents
 long-term oxygen deprivation, and it affects mental and physical ability
 scores. After each 6-hour period a character spends at an altitude of
 over 15,000 feet, he must succeed on a Fortitude save (DC 15, +1 per
@@ -1537,11 +1536,11 @@ desert terrain are tundra (cold deserts), rocky desert (often
 temperate), and sandy desert (often warm).
 
 Tundra differs from the other desert categories in two important ways.
-Because snow and ice cover much of the landscape, it's easy to find
+Because snow and ice cover much of the landscape, it’s easy to find
 water. And during the height of summer, the permafrost thaws to a depth
 of a foot or so, turning the landscape into a vast field of mud. The
 muddy tundra affects movement and skill use as the shallow bogs
-described in marsh terrain, although there's little standing water.
+described in marsh terrain, although there’s little standing water.
 
 The table above describes terrain elements found in each of the three
 desert categories. The terrain elements on this table are mutually
@@ -1550,22 +1549,22 @@ undergrowth or an ice sheet, but not both.
 
 #### Desert Terrain Features
 
-  ------------------- ------------------------------------------------------------------------------------------------------------------------------------------- ------- -------
-                                                                                      []{style="                                                                          
-                                                                                            display: block;                                                               
-                                                                                          position: absolute;                                                             
-                                                                                               right: 0;                                                                  
-                                                                                               top: 50%;                                                                  
-                                                                                              left: 0px;                                                                  
-                                                                                  border-top: 1px solid currentColor;                                                     
-                                     "}[Desert Category ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}          
-                                                                                        Tundra                                                                     Rocky   Sandy
-  Light undergrowth                                                                       15%                                                                       5%      5%
-  Ice sheet                                                                               25%                                                                       ---     ---
-  Light rubble                                                                            5%                                                                        30%     10%
-  Dense rubble                                                                            ---                                                                       30%     5%
-  Sand dunes                                                                              ---                                                                       ---     50%
-  ------------------- ------------------------------------------------------------------------------------------------------------------------------------------- ------- -------
+|                   |                                                                                                                                                            |       |       |
+|-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----:|:-----:|
+|                   |                                                                        <span style="                                                                       
+                                                                                                   display: block;                                                               
+                                                                                                 position: absolute;                                                             
+                                                                                                      right: 0;                                                                  
+                                                                                                      top: 50%;                                                                  
+                                                                                                      left: 0px;                                                                 
+                                                                                         border-top: 1px solid currentColor;                                                     
+                                   "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Desert Category </span>  |       |       |
+|                   |                                                                           Tundra                                                                           | Rocky | Sandy |
+| Light undergrowth |                                                                            15%                                                                             |  5%   |  5%   |
+| Ice sheet         |                                                                            25%                                                                             |   —   |   —   |
+| Light rubble      |                                                                             5%                                                                             |  30%  |  10%  |
+| Dense rubble      |                                                                             —                                                                              |  30%  |  5%   |
+| Sand dunes        |                                                                             —                                                                              |   —   |  50%  |
 
 **Light Undergrowth:** Consisting of scrubby, hardy bushes and cacti,
 light undergrowth functions as described for other terrain types.
@@ -1586,13 +1585,13 @@ of Move Silently checks increases by 2.
 
 **Sand Dunes:** Created by the action of wind on sand, sand dunes
 function as hills that move. If the wind is strong and consistent, a
-sand dune can move several hundred feet in a week's time. Sand dunes can
+sand dune can move several hundred feet in a week’s time. Sand dunes can
 cover hundreds of squares. They always have a gentle slope pointing in
 the direction of the prevailing wind and a steep slope on the leeward
 side.
 
 **Other Desert Terrain Features:** Tundra is sometimes bordered by
-forests, and the occasional tree isn't out of place in the cold wastes.
+forests, and the occasional tree isn’t out of place in the cold wastes.
 Rocky deserts have towers and mesas consisting of flat ground surrounded
 on all sides by cliffs and steep slopes (described in Mountain Terrain,
 above). Sandy deserts sometimes have quicksand; this functions as
@@ -1614,7 +1613,7 @@ concealment or cover makes hiding more difficult.
 
 #### Sandstorms
 
-A sandstorm reduces visibility to 1d10×5 feet and provides a --4 penalty
+A sandstorm reduces visibility to 1d10×5 feet and provides a –4 penalty
 on Listen, Search, and Spot checks. A sandstorm deals 1d3 points of
 nonlethal damage per hour to any creatures caught in the open, and
 leaves a thin coating of sand in its wake. Driving sand creeps in
@@ -1626,9 +1625,9 @@ contaminate carried gear.
 Plains come in three categories: farms, grasslands, and battlefields.
 Farms are common in settled areas, of course, while grasslands represent
 untamed plains. The battlefields where large armies clash are temporary
-places, usually reclaimed by natural vegetation or the farmer's plow.
+places, usually reclaimed by natural vegetation or the farmer’s plow.
 Battlefields represent a third terrain category because adventurers tend
-to spend a lot of time there, not because they're particularly
+to spend a lot of time there, not because they’re particularly
 prevalent.
 
 The table below shows the proportions of terrain elements in the
@@ -1641,24 +1640,24 @@ The terrain elements in the table below are mutually exclusive.
 
 #### Plains Terrain Features
 
-  ------------------- ------------------------------------------------------------------------------------------------------------------------------------------- ----------- -------------
-                                                                                      []{style="                                                                              
-                                                                                            display: block;                                                                   
-                                                                                          position: absolute;                                                                 
-                                                                                               right: 0;                                                                      
-                                                                                               top: 50%;                                                                      
-                                                                                              left: 0px;                                                                      
-                                                                                  border-top: 1px solid currentColor;                                                         
-                                     "}[Plains Category ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}              
-                                                                                         Farm                                                                      Grassland   Battlefield
-  Light undergrowth                                                                       40%                                                                         20%          10%
-  Heavy undergrowth                                                                       ---                                                                         10%          ---
-  Light rubble                                                                            ---                                                                         ---          10%
-  Trench                                                                                  5%                                                                          ---          5%
-  Berm                                                                                    ---                                                                         ---          5%
-  ------------------- ------------------------------------------------------------------------------------------------------------------------------------------- ----------- -------------
+|                   |                                                                                                                                                            |           |             |
+|-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|:-----------:|
+|                   |                                                                        <span style="                                                                       
+                                                                                                   display: block;                                                               
+                                                                                                 position: absolute;                                                             
+                                                                                                      right: 0;                                                                  
+                                                                                                      top: 50%;                                                                  
+                                                                                                      left: 0px;                                                                 
+                                                                                         border-top: 1px solid currentColor;                                                     
+                                   "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Plains Category </span>  |           |             |
+|                   |                                                                            Farm                                                                            | Grassland | Battlefield |
+| Light undergrowth |                                                                            40%                                                                             |    20%    |     10%     |
+| Heavy undergrowth |                                                                             —                                                                              |    10%    |      —      |
+| Light rubble      |                                                                             —                                                                              |     —     |     10%     |
+| Trench            |                                                                             5%                                                                             |     —     |     5%      |
+| Berm              |                                                                             —                                                                              |     —     |     5%      |
 
-**Undergrowth:** Whether they're crops or natural vegetation, the tall
+**Undergrowth:** Whether they’re crops or natural vegetation, the tall
 grasses of the plains function like light undergrowth in a forest.
 Particularly thick bushes form patches of heavy undergrowth that dot the
 landscape in grasslands.
@@ -1694,7 +1693,7 @@ check fails, the steed crosses the fence, but the rider falls out of the
 saddle.
 
 **Other Plains Terrain Features:** Occasional trees dot the landscape in
-many plains, although on battlefields they're often felled to provide
+many plains, although on battlefields they’re often felled to provide
 raw material for siege engines (described in Urban Features). Hedgerows
 (described in Marsh Terrain) are found in plains as well. Streams,
 generally 5 to 20 feet wide and 5 to 10 feet deep, are commonplace.
@@ -1709,13 +1708,13 @@ hand.
 
 ### Aquatic Terrain
 
-Aquatic terrain is the least hospitable to most PCs, because they can't
-breathe there. Aquatic terrain doesn't offer the variety that land
+Aquatic terrain is the least hospitable to most PCs, because they can’t
+breathe there. Aquatic terrain doesn’t offer the variety that land
 terrain does. The ocean floor holds many marvels, including undersea
 analogues of any of the terrain elements described earlier in this
 section. But if characters find themselves in the water because they
 were bull rushed off the deck of a pirate ship, the tall kelp beds
-hundreds of feet below them don't matter. Accordingly, these rules
+hundreds of feet below them don’t matter. Accordingly, these rules
 simply divide aquatic terrain into two categories: flowing water (such
 as streams and rivers) and nonflowing water (such as lakes and oceans).
 
@@ -1734,9 +1733,9 @@ her turn swimming upstream.
 or faster must make DC 20 Swim checks every round to avoid going under.
 If a character gets a check result of 5 or more over the minimum
 necessary, he arrests his motion by catching a rock, tree limb, or
-bottom snag---he is no longer being carried along by the flow of the
+bottom snag—he is no longer being carried along by the flow of the
 water. Escaping the rapids by reaching the bank requires three DC 20
-Swim checks in a row. Characters arrested by a rock, limb, or snag can't
+Swim checks in a row. Characters arrested by a rock, limb, or snag can’t
 escape under their own power unless they strike out into the water and
 attempt to swim their way clear. Other characters can rescue them as if
 they were trapped in quicksand (described in Marsh Terrain, above).
@@ -1744,37 +1743,37 @@ they were trapped in quicksand (described in Marsh Terrain, above).
 **Nonflowing Water:** Lakes and oceans simply require a swim speed or
 successful Swim checks to move through (DC 10 in calm water, DC 15 in
 rough water, DC 20 in stormy water). Characters need a way to breathe if
-they're underwater; failing that, they risk drowning. When underwater,
+they’re underwater; failing that, they risk drowning. When underwater,
 characters can move in any direction as if they were flying with perfect
 maneuverability.
 
 **Stealth and Detection Underwater:** How far you can see underwater
-depends on the water's clarity. As a guideline, creatures can see 4d8×10
-feet if the water is clear, and 1d8×10 feet if it's murky. Moving water
-is always murky, unless it's in a particularly large, slow-moving river.
+depends on the water’s clarity. As a guideline, creatures can see 4d8×10
+feet if the water is clear, and 1d8×10 feet if it’s murky. Moving water
+is always murky, unless it’s in a particularly large, slow-moving river.
 
-It's hard to find cover or concealment to hide underwater (except along
+It’s hard to find cover or concealment to hide underwater (except along
 the seafloor). Listen and Move Silently checks function normally
 underwater.
 
 *Invisibility:* An invisible creature displaces water and leaves a
-visible, body-shaped "bubble" where the water was displaced. The
+visible, body-shaped “bubble” where the water was displaced. The
 creature still has concealment (20% miss chance), but not total
 concealment (50% miss chance).
 
 #### Underwater Combat
 
 Land-based creatures can have considerable difficulty when fighting in
-water. Water affects a creature's Armor Class, attack rolls, damage, and
-movement. In some cases a creature's opponents may get a bonus on
+water. Water affects a creature’s Armor Class, attack rolls, damage, and
+movement. In some cases a creature’s opponents may get a bonus on
 attacks. The effects are summarized in the accompanying table. They
 apply whenever a character is swimming, walking in chestdeep water, or
 walking along the bottom.
 
 **Ranged Attacks Underwater:** Thrown weapons are ineffective
 underwater, even when launched from land. Attacks with other ranged
-weapons take a --2 penalty on attack rolls for every 5 feet of water
-they pass through, in addition to the normal penalties for range.
+weapons take a –2 penalty on attack rolls for every 5 feet of water they
+pass through, in addition to the normal penalties for range.
 
 **Attacks from Land:** Characters swimming, floating, or treading water
 on the surface, or wading in water at least chest deep, have improved
@@ -1786,7 +1785,7 @@ unless those opponents have *freedom of movement* effects. Magical
 effects are unaffected except for those that require attack rolls (which
 are treated like any other effects) and fire effects.
 
-**Fire:** Nonmagical fire (including alchemist's fire) does not burn
+**Fire:** Nonmagical fire (including alchemist’s fire) does not burn
 underwater. Spells or spell-like effects with the fire descriptor are
 ineffective underwater unless the caster makes a Spellcraft check (DC
 20 + spell level). If the check succeeds, the spell creates a bubble of
@@ -1795,30 +1794,30 @@ as described. A supernatural fire effect is ineffective underwater
 unless its description states otherwise. The surface of a body of water
 blocks line of effect for any fire spell. If the caster has made a
 Spellcraft check to make the fire spell usable underwater, the surface
-still blocks the spell's line of effect.
+still blocks the spell’s line of effect.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------- --------------- -------------------- -----------------
-                                                                                                                                                                                                                                                                                                                                                                                                                                        []{style="                                                                                                      
-                                                                                                                                                                                                                                                                                                                                                                                                                                              display: block;                                                                                           
-                                                                                                                                                                                                                                                                                                                                                                                                                                            position: absolute;                                                                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                 right: 0;                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                 top: 50%;                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                left: 0px;                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                    border-top: 1px solid currentColor;                                                                                 
-                                                                                                                                                                                                                                                                                                                                                                                        "}[Attack/Damage ]{style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px"}                                       
-  Condition                                                                                                                                                                                                                                                                                                                                                                                                                       Slashing or Bludgeoning                                                               Tail       Movement             Off Balance?^4^
-  Freedom of movement                                                                                                                                                                                                                                                                                                                                                                                                                  normal/normal                                                                normal/normal  normal               No
-  Has a swim speed                                                                                                                                                                                                                                                                                                                                                                                                                       --2/half                                                                      normal      normal               No
-  Successful Swim check                                                                                                                                                                                                                                                                                                                                                                                                                 --2/half^1^                                                                   --2/half     quarter or half^2^   No
-  Firm footing^3^                                                                                                                                                                                                                                                                                                                                                                                                                        --2/half                                                                     --2/half     half                 No
-  None of the above                                                                                                                                                                                                                                                                                                                                                                                                                      --2/half                                                                     --2/half     normal               Yes
-  1 A creature without a *freedom of movement* effects or a swim speed makes grapple checks underwater at a --2 penalty, but deals damage normally when grappling.                                                                                                                                                                                                                                                                                                                                                                                      
-  2 A successful Swim check lets a creature move one-quarter its speed as a move action or one-half its speed as a full-round action.                                                                                                                                                                                                                                                                                                                                                                                                                   
-  3 Creatures have firm footing when walking along the bottom, braced against a ship's hull, or the like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself down---at least 16 pounds for Medium creatures, twice that for each size category larger than Medium, and half that for each size category smaller than Medium.                                                                                                                                                                                  
-  4 Creatures flailing about in the water (usually because they failed their Swim checks) have a hard time fighting effectively. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it.                                                                                                                                                                                                                                                                                                 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------- --------------- -------------------- -----------------
+|                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                          |               |                             |                          |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|-----------------------------|--------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                    |                                                                       <span style="                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   display: block;                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 position: absolute;                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      right: 0;                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      top: 50%;                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      left: 0px;                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                         border-top: 1px solid currentColor;                                                    
+                                                                                                                                                                                                                                                                                                                                                                                    "></span><span style="background-color: #fff; display: inline-block; z-index: 1; position: relative; padding: 0 8px">Attack/Damage </span>  |               |                             |                          |
+| Condition                                                                                                                                                                                                                                                                                                                                                          |                                                                 Slashing or Bludgeoning                                                                  |     Tail      | Movement                    | Off Balance?<sup>4</sup> |
+| Freedom of movement                                                                                                                                                                                                                                                                                                                                                |                                                                      normal/normal                                                                       | normal/normal | normal                      | No                       |
+| Has a swim speed                                                                                                                                                                                                                                                                                                                                                   |                                                                         –2/half                                                                          |    normal     | normal                      | No                       |
+| Successful Swim check                                                                                                                                                                                                                                                                                                                                              |                                                                   –2/half<sup>1</sup>                                                                    |    –2/half    | quarter or half<sup>2</sup> | No                       |
+| Firm footing<sup>3</sup>                                                                                                                                                                                                                                                                                                                                           |                                                                         –2/half                                                                          |    –2/half    | half                        | No                       |
+| None of the above                                                                                                                                                                                                                                                                                                                                                  |                                                                         –2/half                                                                          |    –2/half    | normal                      | Yes                      |
+| 1 A creature without a *freedom of movement* effects or a swim speed makes grapple checks underwater at a –2 penalty, but deals damage normally when grappling.                                                                                                                                                                                                    |                                                                                                                                                          |               |                             |                          |
+| 2 A successful Swim check lets a creature move one-quarter its speed as a move action or one-half its speed as a full-round action.                                                                                                                                                                                                                                |                                                                                                                                                          |               |                             |                          |
+| 3 Creatures have firm footing when walking along the bottom, braced against a ship’s hull, or the like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself down—at least 16 pounds for Medium creatures, twice that for each size category larger than Medium, and half that for each size category smaller than Medium. |                                                                                                                                                          |               |                             |                          |
+| 4 Creatures flailing about in the water (usually because they failed their Swim checks) have a hard time fighting effectively. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it.                                                                                                              |                                                                                                                                                          |               |                             |                          |
 
-  : Table: Combat Adjustments Underwater
+Table: Combat Adjustments Underwater
 
 #### Floods
 
@@ -1861,7 +1860,7 @@ definition, a lawless place where the only law is that of the jungle:
 Kill or be killed. A city, on the other hand, is held together by a code
 of laws, many of which are explicitly designed to prevent the sort of
 behavior that adventurers engage in all the time: killing and looting.
-Even so, most cities' laws recognize monsters as a threat to the
+Even so, most cities’ laws recognize monsters as a threat to the
 stability the city relies on, and prohibitions about murder rarely apply
 to monsters such as aberrations or evil outsiders. Most evil humanoids,
 however, are typically protected by the same laws that protect all the
@@ -1878,10 +1877,10 @@ testify at a trial.
 Different cities have different laws about such issues as carrying
 weapons in public and restricting spellcasters.
 
-The city's laws may not affect all characters equally. A monk isn't
+The city’s laws may not affect all characters equally. A monk isn’t
 hampered at all by a law about peace-bonding weapons, but a cleric is
 reduced to a fraction of his power if all holy symbols are confiscated
-at the city's gates.
+at the city’s gates.
 
 #### Urban Features
 
@@ -1910,10 +1909,10 @@ running through its interior. Metropolis walls have AC 3, hardness 8,
 and 1,170 hp per 10- foot section.
 
 Unlike smaller cities, metropolises often have interior walls as well as
-surrounding walls---either old walls that the city has outgrown, or
-walls dividing individual districts from each other. Sometimes these
-walls are as large and thick as the outer walls, but more often they
-have the characteristics of a large city's or small city's walls.
+surrounding walls—either old walls that the city has outgrown, or walls
+dividing individual districts from each other. Sometimes these walls are
+as large and thick as the outer walls, but more often they have the
+characteristics of a large city’s or small city’s walls.
 
 **Watch Towers:** Some city walls are adorned with watch towers set at
 irregular intervals. Few cities have enough guards to keep someone
@@ -1926,13 +1925,13 @@ their diameter is 5 times the thickness of the wall. Arrow slits line
 the outer sides of the upper stories of a tower, and the top is
 crenellated like the surrounding walls are. In a small tower (25 feet in
 diameter adjoining a 5-foot-thick wall), a simple ladder typically
-connect the tower's stories and the roof. In a larger tower, stairs
+connect the tower’s stories and the roof. In a larger tower, stairs
 serve that purpose.
 
 Heavy wooden doors, reinforced with iron and bearing good locks (Open
 Lock DC 30), block entry to a tower, unless the tower is in regular use.
 As a rule, the captain of the guard keeps the key to the tower secured
-on her person, and a second copy is in the city's inner fortress or
+on her person, and a second copy is in the city’s inner fortress or
 barracks.
 
 **Gates:** A typical city gate is a gatehouse with two portcullises and
@@ -1957,14 +1956,15 @@ assault. Conscript soldiers are called up to serve in case of an attack
 on the city.
 
 A typical city guard force works on three eight-hour shifts, with 30% of
-the force on a day shift (8 [A.M.]{.small} to 4 [P.M.]{.small}), 35% on
-an evening shift (4 [P.M.]{.small} to 12 [A.M.]{.small}), and 35% on a
-night shift (12 [A.M.]{.small} to 8 [A.M.]{.small}). At any given time,
-80% of the guards on duty are on the streets patrolling, while the
-remaining 20% are stationed at various posts throughout the city, where
-they can respond to nearby alarms. At least one such guard post is
-present within each neighborhood of a city (each neighborhood consisting
-of several districts).
+the force on a day shift (8 <span class="small">A.M.</span> to 4 <span
+class="small">P.M.</span>), 35% on an evening shift (4 <span
+class="small">P.M.</span> to 12 <span class="small">A.M.</span>), and
+35% on a night shift (12 <span class="small">A.M.</span> to 8 <span
+class="small">A.M.</span>). At any given time, 80% of the guards on duty
+are on the streets patrolling, while the remaining 20% are stationed at
+various posts throughout the city, where they can respond to nearby
+alarms. At least one such guard post is present within each neighborhood
+of a city (each neighborhood consisting of several districts).
 
 The majority of a city guard force is made up of warriors, mostly 1st
 level. Officers include higher-level warriors, fighters, a fair number
@@ -1976,25 +1976,25 @@ fighter/spellcasters.
 Siege engines are large weapons, temporary structures, or pieces of
 equipment traditionally used in besieging a castle or fortress.
 
-  --------------------------------------- ---------- -------- ---------- --------------------------- --------------
-  Item                                    Cost       Damage   Critical   Range Increment             Typical Crew
-  Catapult, heavy                         800 gp     6d6      ---        200 ft. (100 ft. minimum)   4
-  Catapult, light                         550 gp     4d6      ---        150 ft. (100 ft. minimum)   2
-  Ballista                                500 gp     3d8      19--20     120 ft.                     1
-  Ram                                     1,000 gp   3d6\*    ---        ---                         10
-  Siege tower                             2,000 gp   ---      ---        ---                         20
-  \* See description for special rules.                                                              
-  --------------------------------------- ---------- -------- ---------- --------------------------- --------------
+|                                       |          |        |          |                           |              |
+|---------------------------------------|----------|--------|----------|---------------------------|--------------|
+| Item                                  | Cost     | Damage | Critical | Range Increment           | Typical Crew |
+| Catapult, heavy                       | 800 gp   | 6d6    | —        | 200 ft. (100 ft. minimum) | 4            |
+| Catapult, light                       | 550 gp   | 4d6    | —        | 150 ft. (100 ft. minimum) | 2            |
+| Ballista                              | 500 gp   | 3d8    | 19–20    | 120 ft.                   | 1            |
+| Ram                                   | 1,000 gp | 3d6\*  | —        | —                         | 10           |
+| Siege tower                           | 2,000 gp | —      | —        | —                         | 20           |
+| \* See description for special rules. |          |        |          |                           |              |
 
-  : Table: Siege Engines
+Table: Siege Engines
 
-  ------------------------------------------------------------------------------------------------------- -----------------------------------------------
-  Catapult Attack Modifiers                                                                               
-  Condition                                                                                               Modifier
-  No line of sight to target square                                                                       --6
-  Successive shots (crew can see where most recent misses landed)                                         Cumulative +2 per previous miss (maximum +10)
-  Successive shots (crew can't see where most recent misses landed, but observer is providing feedback)   Cumulative +1 per previous miss (maximum +5)
-  ------------------------------------------------------------------------------------------------------- -----------------------------------------------
+|                                                                                                       |                                               |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Catapult Attack Modifiers                                                                             |                                               |
+| Condition                                                                                             | Modifier                                      |
+| No line of sight to target square                                                                     | –6                                            |
+| Successive shots (crew can see where most recent misses landed)                                       | Cumulative +2 per previous miss (maximum +10) |
+| Successive shots (crew can’t see where most recent misses landed, but observer is providing feedback) | Cumulative +1 per previous miss (maximum +5)  |
 
 **Catapult, Heavy:** A heavy catapult is a massive engine capable of
 throwing rocks or heavy objects with great force. Because the catapult
@@ -2002,7 +2002,7 @@ throws its payload in a high arc, it can hit squares out of its line of
 sight. To fire a heavy catapult, the crew chief makes a special check
 against DC 15 using only his base attack bonus, Intelligence modifier,
 range increment penalty, and the appropriate modifiers from the lower
-section of Table 3--26. If the check succeeds, the catapult stone hits
+section of Table 3–26. If the check succeeds, the catapult stone hits
 the square the catapult was aimed at, dealing the indicated damage to
 any object or character in the square. Characters who succeed on a DC 15
 Reflex save take half damage. Once a catapult stone hits a square,
@@ -2036,8 +2036,8 @@ A light catapult takes up a space 10 feet across.
 
 **Ballista:** A ballista is essentially a Huge heavy crossbow fixed in
 place. Its size makes it hard for most creatures to aim it. Thus, a
-Medium creature takes a --4 penalty on attack rolls when using a
-ballista, and a Small creature takes a --6 penalty. It takes a creature
+Medium creature takes a –4 penalty on attack rolls when using a
+ballista, and a Small creature takes a –6 penalty. It takes a creature
 smaller than Large two full-round actions to reload the ballista after
 firing.
 
@@ -2046,14 +2046,14 @@ A ballista takes up a space 5 feet across.
 **Ram:** This heavy pole is sometimes suspended from a movable scaffold
 that allows the crew to swing it back and forth against objects. As a
 full-round action, the character closest to the front of the ram makes
-an attack roll against the AC of the construction, applying the --4
-penalty for lack of proficiency. (It's not possible to be proficient
+an attack roll against the AC of the construction, applying the –4
+penalty for lack of proficiency. (It’s not possible to be proficient
 with this device.) In addition to the damage given on Table: Siege
 Engines, up to nine other characters holding the ram can add their
-Strength modifier to the ram's damage, if they devote an attack action
+Strength modifier to the ram’s damage, if they devote an attack action
 to doing so. It takes at least one Huge or larger creature, two Large
 creatures, four Medium-size creatures, or eight Small creatures to swing
-a ram. (Tiny or smaller creatures can't use a ram.)
+a ram. (Tiny or smaller creatures can’t use a ram.)
 
 A ram is typically 30 feet long. In a battle, the creatures wielding the
 ram stand in two adjacent columns of equal length, with the ram between
@@ -2065,7 +2065,7 @@ the tower and thus to get to the top of the wall with cover. The wooden
 walls are usually 1 foot thick.
 
 A typical siege tower takes up a space 15 feet across. The creatures
-inside push it at a speed of 10 feet (and a siege tower can't run). The
+inside push it at a speed of 10 feet (and a siege tower can’t run). The
 eight creatures pushing on the ground floor have total cover, and those
 on higher floors get improved cover and can fire through arrow slits.
 
@@ -2082,14 +2082,14 @@ gradually grew from small settlements to larger cities. Cities that are
 planned, or perhaps have suffered a major fire that allowed authorities
 to construct new roads through formerly inhabited areas, might have a
 few larger streets through town. These main roads are 25 feet
-wide---offering room for wagons to pass each other---with 5-foot-wide
+wide—offering room for wagons to pass each other—with 5-foot-wide
 sidewalks on either side.
 
 **Crowds:** Urban streets are often full of people going about their
-daily lives. In most cases, it isn't necessary to put every 1st-level
-commoner on the map when a fight breaks out on the city's main
+daily lives. In most cases, it isn’t necessary to put every 1st-level
+commoner on the map when a fight breaks out on the city’s main
 thoroughfare. Instead just indicate which squares on the map contain
-crowds. If crowds see something obviously dangerous, they'll move away
+crowds. If crowds see something obviously dangerous, they’ll move away
 at 30 feet per round at initiative count 0. It takes 2 squares of
 movement to enter a square with crowds. The crowds provide cover for
 anyone who does so, enabling a Hide check and providing a bonus to Armor
@@ -2104,7 +2104,7 @@ action to make the Intimidate check.
 If two or more characters are trying to direct a crowd in different
 directions, they make opposed Diplomacy or Intimidate checks to
 determine whom the crowd listens to. The crowd ignores everyone if none
-of the characters' check results beat the DCs given above.
+of the characters’ check results beat the DCs given above.
 
 #### Above and Beneath the Streets
 
@@ -2122,13 +2122,13 @@ Eventually a character runs out of roof, requiring a long jump across to
 the next roof or down to the ground. The distance to the next closest
 roof is usually 1d3×5 feet horizontally, but the roof across the gap is
 equally likely to be 5 feet higher, 5 feet lower, or the same height.
-Use the guidelines in the Jump skill(a horizontal jump's peak height is
+Use the guidelines in the Jump skill(a horizontal jump’s peak height is
 one-fourth of the horizontal distance) to determine whether a character
 can make a jump.
 
 **Sewers:** To get into the sewers, most characters open a grate (a
 full-round action) and jump down 10 feet. Sewers are built exactly like
-dungeons, except that they're much more likely to have floors that are
+dungeons, except that they’re much more likely to have floors that are
 slippery or covered with water. Sewers are also similar to dungeons in
 terms of creatures liable to be encountered therein. Some cities were
 built atop the ruins of older civilizations, so their sewers sometimes
@@ -2142,12 +2142,12 @@ to form long rows separated by secondary or main streets. These row
 houses usually have businesses on the ground floor, with offices or
 apartments above.
 
-Inns, successful businesses, and large warehouses---as well as millers,
-tanners, and other businesses that require extra space--- are generally
+Inns, successful businesses, and large warehouses—as well as millers,
+tanners, and other businesses that require extra space— are generally
 large, free-standing buildings with up to five stories.
 
 Finally, small residences, shops, warehouses, or storage sheds are
-simple, one-story wooden buildings, especially if they're in poorer
+simple, one-story wooden buildings, especially if they’re in poorer
 neighborhoods.
 
 Most city buildings are made of a combination of stone or clay brick (on
@@ -2166,19 +2166,19 @@ Characters might want to buy their own buildings or even construct
 their own castle. Use the prices in Table: Buildings directly, or as a
 guide when for extrapolating costs for more exotic structures.
 
-  ------------------ --------------
-  Item               Cost
-  Simple house       1,000 gp
-  Grand house        5,000 gp
-  Mansion            100,000 gp
-  Tower              50,000 gp
-  Keep               150,000 gp
-  Castle             500,000 gp
-  Huge castle        1,000,000 gp
-  Moat with bridge   50,000 gp
-  ------------------ --------------
+|                  |              |
+|------------------|--------------|
+| Item             | Cost         |
+| Simple house     | 1,000 gp     |
+| Grand house      | 5,000 gp     |
+| Mansion          | 100,000 gp   |
+| Tower            | 50,000 gp    |
+| Keep             | 150,000 gp   |
+| Castle           | 500,000 gp   |
+| Huge castle      | 1,000,000 gp |
+| Moat with bridge | 50,000 gp    |
 
-  : Table: Buildings
+Table: Buildings
 
 *Simple House:* This one- to three-room house is made of wood and has a
 thatched roof.
@@ -2230,7 +2230,7 @@ table are defined as follows.
 **Cold:** Between 0° and 40° Fahrenheit during the day, 10 to 20 degrees
 colder at night.
 
-**Cold Snap:** Lowers temperature by --10° F.
+**Cold Snap:** Lowers temperature by –10° F.
 
 **Downpour:** Treat as rain (see Precipitation, below), but conceals as
 fog. Can create floods (see above). A downpour lasts for 2d4 hours.
@@ -2253,14 +2253,14 @@ of the storm moves through their area. Tornadoes are very short-lived
 (1d6×10 minutes), typically forming as part of a thunderstorm system.
 
 **Precipitation:** Roll d% to determine whether the precipitation is fog
-(01--30), rain/snow (31--90), or sleet/hail (91--00). Snow and sleet
-occur only when the temperature is 30° Fahrenheit or below. Most
-precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20
-minutes but usually accompanies 1d4 hours of rain.
+(01–30), rain/snow (31–90), or sleet/hail (91–00). Snow and sleet occur
+only when the temperature is 30° Fahrenheit or below. Most precipitation
+lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but
+usually accompanies 1d4 hours of rain.
 
 **Storm *(Duststorm / Snowstorm / Thunderstorm):*** Wind speeds are
 severe (30 to 50 mph) and visibility is cut by three-quarters. Storms
-last for 2d4--1 hours. See Storms, below, for more details.
+last for 2d4–1 hours. See Storms, below, for more details.
 
 **Warm:** Between 60° and 85° Fahrenheit during the day, 10 to 20
 degrees colder at night.
@@ -2268,18 +2268,18 @@ degrees colder at night.
 **Windy:** Wind speeds are moderate to strong (10 to 30 mph); see Table:
 Wind Effects on the following page.
 
-  ----------------------------------------------------------------------------------------------------------------- ------------------- ------------------------------------------- -------------------------------------------- ------------
-  d%                                                                                                                Weather             Cold Climate                                Temperate Climate^1^                         Desert
-  01--70                                                                                                            Normal weather      Cold, calm                                  Normal for season^2^                         Hot, calm
-  71--80                                                                                                            Abnormal weather    Heat wave (01--30) or cold snap (31--100)   Heat wave (01--50) or cold snap (51--100)    Hot, windy
-  81--90                                                                                                            Inclement weather   Precipitation (snow)                        Precipitation (normal for season)            Hot, windy
-  91--99                                                                                                            Storm               Snowstorm                                   Thunderstorm, snowstorm^3^                   Duststorm
-  100                                                                                                               Powerful storm      Blizzard                                    Windstorm, blizzard^4^, hurricane, tornado   Downpour
-  1 Temperate includes forest, hills, marsh, mountains, plains, and warm aquatic.                                                                                                                                                
-  2 Winter is cold, summer is warm, spring and autumn are temperate. Marsh regions are slightly warmer in winter.                                                                                                                
-  ----------------------------------------------------------------------------------------------------------------- ------------------- ------------------------------------------- -------------------------------------------- ------------
+|                                                                                                                 |                   |                                         |                                                     |            |
+|-----------------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------------|-----------------------------------------------------|------------|
+| d%                                                                                                              | Weather           | Cold Climate                            | Temperate Climate<sup>1</sup>                       | Desert     |
+| 01–70                                                                                                           | Normal weather    | Cold, calm                              | Normal for season<sup>2</sup>                       | Hot, calm  |
+| 71–80                                                                                                           | Abnormal weather  | Heat wave (01–30) or cold snap (31–100) | Heat wave (01–50) or cold snap (51–100)             | Hot, windy |
+| 81–90                                                                                                           | Inclement weather | Precipitation (snow)                    | Precipitation (normal for season)                   | Hot, windy |
+| 91–99                                                                                                           | Storm             | Snowstorm                               | Thunderstorm, snowstorm<sup>3</sup>                 | Duststorm  |
+| 100                                                                                                             | Powerful storm    | Blizzard                                | Windstorm, blizzard<sup>4</sup>, hurricane, tornado | Downpour   |
+| 1 Temperate includes forest, hills, marsh, mountains, plains, and warm aquatic.                                 |                   |                                         |                                                     |            |
+| 2 Winter is cold, summer is warm, spring and autumn are temperate. Marsh regions are slightly warmer in winter. |                   |                                         |                                                     |            |
 
-  : Table: Random Weather
+Table: Random Weather
 
 #### Rain, Snow, Sleet, and Hail
 
@@ -2291,7 +2291,7 @@ Most precipitation is rain, but in cold conditions it can manifest as
 snow, sleet, or hail. Precipitation of any kind followed by a cold snap
 in which the temperature dips from above freezing to 30° F or below may
 produce ice. *Rain:* Rain reduces visibility ranges by half, resulting
-in a --4 penalty on Spot and Search checks. It has the same effect on
+in a –4 penalty on Spot and Search checks. It has the same effect on
 flames, ranged weapon attacks, and Listen checks as severe wind.
 
 *Snow:* Falling snow has the same effects on visibility, ranged weapon
@@ -2305,8 +2305,8 @@ snow leaves 1d4 feet of snow on the ground, and it costs 4 squares of
 movement to enter a square covered with heavy snow. Heavy snow
 accompanied by strong or severe winds may result in snowdrifts 1d4×5
 feet deep, especially in and around objects big enough to deflect the
-wind---a cabin or a large tent, for instance. There is a 10% chance that
-a heavy snowfall is accompanied by lightning (see Thunderstorm, below).
+wind—a cabin or a large tent, for instance. There is a 10% chance that a
+heavy snowfall is accompanied by lightning (see Thunderstorm, below).
 Snow has the same effect on flames as moderate wind.
 
 *Sleet:* Essentially frozen rain, sleet has the same effect as rain
@@ -2314,7 +2314,7 @@ while falling (except that its chance to extinguish protected flames is
 75%) and the same effect as snow once on the ground.
 
 *Hail:* Hail does not reduce visibility, but the sound of falling hail
-makes Listen checks more difficult (--4 penalty). Sometimes (5% chance)
+makes Listen checks more difficult (–4 penalty). Sometimes (5% chance)
 hail can become large enough to deal 1 point of lethal damage (per
 storm) to anything in the open. Once on the ground, hail has the same
 effect on movement as snow.
@@ -2322,10 +2322,10 @@ effect on movement as snow.
 #### Storms
 
 The combined effects of precipitation (or dust) and wind that accompany
-all storms reduce visibility ranges by three quarters, imposing a --8
+all storms reduce visibility ranges by three quarters, imposing a –8
 penalty on Spot, Search, and Listen checks. Storms make ranged weapon
 attacks impossible, except for those using siege weapons, which have a
---4 penalty on attack rolls. They automatically extinguish candles,
+–4 penalty on attack rolls. They automatically extinguish candles,
 torches, and similar unprotected flames. They cause protected flames,
 such as those of lanterns, to dance wildly and have a 50% chance to
 extinguish these lights. See Table: Wind Effects for possible
@@ -2341,10 +2341,10 @@ is a 10% chance for a greater duststorm to be accompanied by
 windstorm-magnitude winds (see Table: Wind Effects). These greater
 duststorms deal 1d3 points of nonlethal damage each round to anyone
 caught out in the open without shelter and also pose a choking hazard
-(see Drowning---except that a character with a scarf or similar
-protection across her mouth and nose does not begin to choke until after
-a number of rounds equal to 10 × her Constitution score). Greater
-duststorms leave 2d3--1 feet of fine sand in their wake.
+(see Drowning—except that a character with a scarf or similar protection
+across her mouth and nose does not begin to choke until after a number
+of rounds equal to 10 × her Constitution score). Greater duststorms
+leave 2d3–1 feet of fine sand in their wake.
 
 *Snowstorm:* In addition to the wind and precipitation common to other
 storms, snowstorms leave 1d6 inches of snow on the ground afterward.
@@ -2398,27 +2398,27 @@ interfere with ranged attacks, or impose penalties on some skill checks.
 unprotected flames, such as candles.
 
 *Strong Wind:* Gusts that automatically extinguish unprotected flames
-(candles, torches, and the like). Such gusts impose a --2 penalty on
+(candles, torches, and the like). Such gusts impose a –2 penalty on
 ranged attack rolls and on Listen checks.
 
 *Severe Wind:* In addition to automatically extinguishing any
 unprotected flames, winds of this magnitude cause protected flames (such
 as those of lanterns) to dance wildly and have a 50% chance of
 extinguishing these lights. Ranged weapon attacks and Listen checks are
-at a --4 penalty. This is the velocity of wind produced by a *gust of
+at a –4 penalty. This is the velocity of wind produced by a *gust of
 wind* spell.
 
 *Windstorm:* Powerful enough to bring down branches if not whole trees,
 windstorms automatically extinguish unprotected flames and have a 75%
 chance of blowing out protected flames, such as those of lanterns.
-Ranged weapon attacks are impossible, and even siege weapons have a --4
-penalty on attack rolls. Listen checks are at a --8 penalty due to the
+Ranged weapon attacks are impossible, and even siege weapons have a –4
+penalty on attack rolls. Listen checks are at a –8 penalty due to the
 howling of the wind.
 
 *Hurricane-Force Wind:* All flames are extinguished. Ranged attacks are
-impossible (except with siege weapons, which have a --8 penalty on
-attack rolls). Listen checks are impossible: All characters can hear is
-the roaring of the wind. Hurricane-force winds often fell trees.
+impossible (except with siege weapons, which have a –8 penalty on attack
+rolls). Listen checks are impossible: All characters can hear is the
+roaring of the wind. Hurricane-force winds often fell trees.
 
 *Tornado (CR 10):* All flames are extinguished. All ranged attacks are
 impossible (even with siege weapons), as are Listen checks. Instead of
@@ -2427,40 +2427,40 @@ proximity to a tornado who fail their Fortitude saves are sucked toward
 the tornado. Those who come in contact with the actual funnel cloud are
 picked up and whirled around for 1d10 rounds, taking 6d6 points of
 damage per round, before being violently expelled (falling damage may
-apply). While a tornado's rotational speed can be as great as 300 mph,
+apply). While a tornado’s rotational speed can be as great as 300 mph,
 the funnel itself moves forward at an average of 30 mph (roughly 250
 feet per round). A tornado uproots trees, destroys buildings, and causes
 other similar forms of major destruction.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------- ---------------------------------------- ------------------------ -------------------------- --------------
-  Wind Force                                                                                                                                                                                                                                               Wind Speed     Ranged Attacks Normal/Siege Weapons^1^   Creature Size^2^         Wind Effect on Creatures   Fort Save DC
-  Light                                                                                                                                                                                                                                                    0--10 mph      ---/---                                  Any                      None                       ---
-  Moderate                                                                                                                                                                                                                                                 11--20 mph     ---/---                                  Any                      None                       ---
-  Strong                                                                                                                                                                                                                                                   21--30 mph     --2/---                                  Tiny or smaller          Knocked down               10
-                                                                                                                                                                                                                                                                                                                   Small or larger          None                       
-  Severe                                                                                                                                                                                                                                                   31--50 mph     --4/---                                  Tiny                     Blown away                 15
-                                                                                                                                                                                                                                                                                                                   Small                    Knocked down               
-                                                                                                                                                                                                                                                                                                                   Medium                   Checked                    
-                                                                                                                                                                                                                                                                                                                   Large or larger          None                       
-  Windstorm                                                                                                                                                                                                                                                51--74 mph     Impossible/--4                           Small or smaller         Blown away                 18
-                                                                                                                                                                                                                                                                                                                   Medium                   Knocked down               
-                                                                                                                                                                                                                                                                                                                   Large or Huge            Checked                    
-                                                                                                                                                                                                                                                                                                                   Gargantuan or Colossal   None                       
-  Hurricane                                                                                                                                                                                                                                                75--174 mph    Impossible/--8                           Medium or smaller        Blown away                 20
-                                                                                                                                                                                                                                                                                                                   Large                    Knocked down               
-                                                                                                                                                                                                                                                                                                                   Huge                     Checked                    
-                                                                                                                                                                                                                                                                                                                   Gargantuan or Colossal   None                       
-  Tornado                                                                                                                                                                                                                                                  175--300 mph   Impossible/impossible                    Large or smaller         Blown away                 30
-                                                                                                                                                                                                                                                                                                                   Huge                     Knocked down               
-                                                                                                                                                                                                                                                                                                                   Gargantuan or Colossal   Checked                    
-  1 The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants.                                                                                                                                                                                                                                                             
-  2 Flying or airborne creatures are treated as one size category smaller than their actual size, so an airborne Gargantuan dragon is treated as Huge for purposes of wind effects.                                                                                                                                                                                    
-  *Checked:* Creatures are unable to move forward against the force of the wind. Flying creatures are blown back 1d6×5 feet.                                                                                                                                                                                                                                           
-  *Knocked Down:* Creatures are knocked prone by the force of the wind. Flying creatures are instead blown back 1d6×10 feet.                                                                                                                                                                                                                                           
-  *Blown Away:* Creatures on the ground are knocked prone and rolled 1d4×10 feet, taking 1d4 points of nonlethal damage per 10 feet. Flying creatures are blown back 2d6×10 feet and take 2d6 points of nonlethal damage due to battering and buffeting.                                                                                                               
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------- ---------------------------------------- ------------------------ -------------------------- --------------
+|                                                                                                                                                                                                                                                        |             |                                                 |                           |                          |              |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------|---------------------------|--------------------------|--------------|
+| Wind Force                                                                                                                                                                                                                                             | Wind Speed  | Ranged Attacks Normal/Siege Weapons<sup>1</sup> | Creature Size<sup>2</sup> | Wind Effect on Creatures | Fort Save DC |
+| Light                                                                                                                                                                                                                                                  | 0–10 mph    | —/—                                             | Any                       | None                     | —            |
+| Moderate                                                                                                                                                                                                                                               | 11–20 mph   | —/—                                             | Any                       | None                     | —            |
+| Strong                                                                                                                                                                                                                                                 | 21–30 mph   | –2/—                                            | Tiny or smaller           | Knocked down             | 10           |
+|                                                                                                                                                                                                                                                        |             |                                                 | Small or larger           | None                     |              |
+| Severe                                                                                                                                                                                                                                                 | 31–50 mph   | –4/—                                            | Tiny                      | Blown away               | 15           |
+|                                                                                                                                                                                                                                                        |             |                                                 | Small                     | Knocked down             |              |
+|                                                                                                                                                                                                                                                        |             |                                                 | Medium                    | Checked                  |              |
+|                                                                                                                                                                                                                                                        |             |                                                 | Large or larger           | None                     |              |
+| Windstorm                                                                                                                                                                                                                                              | 51–74 mph   | Impossible/–4                                   | Small or smaller          | Blown away               | 18           |
+|                                                                                                                                                                                                                                                        |             |                                                 | Medium                    | Knocked down             |              |
+|                                                                                                                                                                                                                                                        |             |                                                 | Large or Huge             | Checked                  |              |
+|                                                                                                                                                                                                                                                        |             |                                                 | Gargantuan or Colossal    | None                     |              |
+| Hurricane                                                                                                                                                                                                                                              | 75–174 mph  | Impossible/–8                                   | Medium or smaller         | Blown away               | 20           |
+|                                                                                                                                                                                                                                                        |             |                                                 | Large                     | Knocked down             |              |
+|                                                                                                                                                                                                                                                        |             |                                                 | Huge                      | Checked                  |              |
+|                                                                                                                                                                                                                                                        |             |                                                 | Gargantuan or Colossal    | None                     |              |
+| Tornado                                                                                                                                                                                                                                                | 175–300 mph | Impossible/impossible                           | Large or smaller          | Blown away               | 30           |
+|                                                                                                                                                                                                                                                        |             |                                                 | Huge                      | Knocked down             |              |
+|                                                                                                                                                                                                                                                        |             |                                                 | Gargantuan or Colossal    | Checked                  |              |
+| 1 The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants.                                                                                                                                               |             |                                                 |                           |                          |              |
+| 2 Flying or airborne creatures are treated as one size category smaller than their actual size, so an airborne Gargantuan dragon is treated as Huge for purposes of wind effects.                                                                      |             |                                                 |                           |                          |              |
+| *Checked:* Creatures are unable to move forward against the force of the wind. Flying creatures are blown back 1d6×5 feet.                                                                                                                             |             |                                                 |                           |                          |              |
+| *Knocked Down:* Creatures are knocked prone by the force of the wind. Flying creatures are instead blown back 1d6×10 feet.                                                                                                                             |             |                                                 |                           |                          |              |
+| *Blown Away:* Creatures on the ground are knocked prone and rolled 1d4×10 feet, taking 1d4 points of nonlethal damage per 10 feet. Flying creatures are blown back 2d6×10 feet and take 2d6 points of nonlethal damage due to battering and buffeting. |             |                                                 |                           |                          |              |
 
-  : Table: Wind Effects
+Table: Wind Effects
 
 ## The Environment
 
@@ -2474,7 +2474,7 @@ detailed below.
 Corrosive acids deals 1d6 points of damage per round of exposure except
 in the case of total immersion (such as into a vat of acid), which deals
 10d6 points of damage per round. An attack with acid, such as from a
-hurled vial or a monster's spittle, counts as a round of exposure.
+hurled vial or a monster’s spittle, counts as a round of exposure.
 
 The fumes from most acids are inhaled poisons. Those who come close
 enough to a large body of acid to dunk a creature in it must make a DC
@@ -2482,7 +2482,7 @@ enough to a large body of acid to dunk a creature in it must make a DC
 characters must make a second save 1 minute later or take another 1d4
 points of Constitution damage.
 
-Creatures immune to acid's caustic properties might still drown in it if
+Creatures immune to acid’s caustic properties might still drown in it if
 they are totally immersed (see Drowning).
 
 ### Cold Dangers
@@ -2513,11 +2513,11 @@ beset by frostbite or hypothermia (treat her as fatigued). These
 penalties end when the character recovers the nonlethal damage she took
 from the cold and exposure.
 
-Extreme cold (below --20° F) deals 1d6 points of lethal damage per
-minute (no save). In addition, a character must make a Fortitude save
-(DC 15, +1 per previous check) or take 1d4 points of nonlethal damage.
-Those wearing metal armor or coming into contact with very cold metal
-are affected as if by a *chill metal* spell.
+Extreme cold (below –20° F) deals 1d6 points of lethal damage per minute
+(no save). In addition, a character must make a Fortitude save (DC 15,
++1 per previous check) or take 1d4 points of nonlethal damage. Those
+wearing metal armor or coming into contact with very cold metal are
+affected as if by a *chill metal* spell.
 
 #### Ice Effects
 
@@ -2538,16 +2538,16 @@ darkness.
 
 In many cases, some characters or monsters might be able to see, while
 others are blinded. For purposes of the following points, a blinded
-creature is one who simply can't see through the surrounding darkness.
+creature is one who simply can’t see through the surrounding darkness.
 
----Creatures blinded by darkness lose the ability to deal extra damage
-due to precision (for example, a sneak attack).
+—Creatures blinded by darkness lose the ability to deal extra damage due
+to precision (for example, a sneak attack).
 
----Blinded creatures are hampered in their movement, and pay 2 squares
-of movement per square moved into (double normal cost). Blinded
-creatures can't run or charge.
+—Blinded creatures are hampered in their movement, and pay 2 squares of
+movement per square moved into (double normal cost). Blinded creatures
+can’t run or charge.
 
----All opponents have total concealment from a blinded creature, so the
+—All opponents have total concealment from a blinded creature, so the
 blinded creature has a 50% miss chance in combat. A blinded creature
 must first pinpoint the location of an opponent in order to attack the
 right square; if the blinded creature launches an attack without
@@ -2557,42 +2557,42 @@ roll to determine which adjacent square the blinded creature is facing;
 its attack is directed at the closest target that lies in that
 direction.
 
----A blinded creature loses its Dexterity adjustment to AC and takes a
---2 penalty to AC.
+—A blinded creature loses its Dexterity adjustment to AC and takes a –2
+penalty to AC.
 
----A blinded creature takes a --4 penalty on Search checks and most
+—A blinded creature takes a –4 penalty on Search checks and most
 Strength- and Dexterity-based skill checks, including any with an armor
 check penalty. A creature blinded by darkness automatically fails any
 skill check relying on vision.
 
----Creatures blinded by darkness cannot use gaze attacks and are immune
-to gaze attacks.
+—Creatures blinded by darkness cannot use gaze attacks and are immune to
+gaze attacks.
 
 A creature blinded by darkness can make a Listen check as a free action
-each round in order to locate foes (DC equal to opponents' Move Silently
+each round in order to locate foes (DC equal to opponents’ Move Silently
 checks). A successful check lets a blinded character hear an unseen
-creature "over there somewhere." It's almost impossible to pinpoint the
+creature “over there somewhere.” It’s almost impossible to pinpoint the
 location of an unseen creature. A Listen check that beats the DC by 20
-reveals the unseen creature's square (but the unseen creature still has
+reveals the unseen creature’s square (but the unseen creature still has
 total concealment from the blinded creature).
 
----A blinded creature can grope about to find unseen creatures. A
+—A blinded creature can grope about to find unseen creatures. A
 character can make a touch attack with his hands or a weapon into two
 adjacent squares using a standard action. If an unseen target is in the
 designated square, there is a 50% miss chance on the touch attack. If
 successful, the groping character deals no damage but has pinpointed the
-unseen creature's current location. (If the unseen creature moves, its
+unseen creature’s current location. (If the unseen creature moves, its
 location is once again unknown.)
 
----If a blinded creature is struck by an unseen foe, the blinded
-character pinpoints the location of the creature that struck him (until
-the unseen creature moves, of course). The only exception is if the
-unseen creature has a reach greater than 5 feet (in which case the
-blinded character knows the location of the unseen opponent, but has not
-pinpointed him) or uses a ranged attack (in which case, the blinded
-character knows the general direction of the foe, but not his location).
+—If a blinded creature is struck by an unseen foe, the blinded character
+pinpoints the location of the creature that struck him (until the unseen
+creature moves, of course). The only exception is if the unseen creature
+has a reach greater than 5 feet (in which case the blinded character
+knows the location of the unseen opponent, but has not pinpointed him)
+or uses a ranged attack (in which case, the blinded character knows the
+general direction of the foe, but not his location).
 
----A creature with the scent ability automatically pinpoints unseen
+—A creature with the scent ability automatically pinpoints unseen
 creatures within 5 feet of its location.
 
 ### Falling
@@ -2634,7 +2634,7 @@ do they take damage when they are hit by falling objects.
 Objects that fall upon characters deal damage based on their weight and
 the distance they have fallen.
 
-For each 200 pounds of an object's weight, the object deals 1d6 points
+For each 200 pounds of an object’s weight, the object deals 1d6 points
 of damage, provided it falls at least 10 feet. Distance also comes into
 play, adding an additional 1d6 points of damage for every 10-foot
 increment it falls beyond the first (to a maximum of 20d6 points of
@@ -2645,17 +2645,17 @@ must fall farther to deal the same damage. Use Table: Damage from
 Falling Objects to see how far an object of a given weight must drop to
 deal 1d6 points of damage.
 
-  --------------- ------------------
-  Object Weight   Falling Distance
-  200--101 lb.    20 ft.
-  100--51 lb.     30 ft.
-  50--31 lb.      40 ft.
-  30--11 lb.      50 ft.
-  10--6 lb.       60 ft.
-  5--1 lb.        70 ft.
-  --------------- ------------------
+|               |                  |
+|---------------|------------------|
+| Object Weight | Falling Distance |
+| 200–101 lb.   | 20 ft.           |
+| 100–51 lb.    | 30 ft.           |
+| 50–31 lb.     | 40 ft.           |
+| 30–11 lb.     | 50 ft.           |
+| 10–6 lb.      | 60 ft.           |
+| 5–1 lb.       | 70 ft.           |
 
-  : Table: Damage from Falling Objects
+Table: Damage from Falling Objects
 
 For each additional increment an object falls, it deals an additional
 1d6 points of damage.
@@ -2674,7 +2674,7 @@ begins to take lethal damage at the same rate.
 A character in very hot conditions (above 90° F) must make a Fortitude
 saving throw each hour (DC 15, +1 for each previous check) or take 1d4
 points of nonlethal damage. Characters wearing heavy clothing or armor
-of any sort take a --4 penalty on their saves. A character with the
+of any sort take a –4 penalty on their saves. A character with the
 Survival skill may receive a bonus on this saving throw and may be able
 to apply this bonus to other characters as well (see the skill
 description). Characters reduced to unconsciousness begin taking lethal
@@ -2683,7 +2683,7 @@ damage (1d4 points per hour).
 In severe heat (above 110° F), a character must make a Fortitude save
 once every 10 minutes (DC 15, +1 for each previous check) or take 1d4
 points of nonlethal damage. Characters wearing heavy clothing or armor
-of any sort take a --4 penalty on their saves. A character with the
+of any sort take a –4 penalty on their saves. A character with the
 Survival skill may receive a bonus on this saving throw and may be able
 to apply this bonus to other characters as well. Characters reduced to
 unconsciousness begin taking lethal damage (1d4 points per each
@@ -2700,7 +2700,7 @@ deals lethal damage. Breathing air in these temperatures deals 1d6
 points of damage per minute (no save). In addition, a character must
 make a Fortitude save every 5 minutes (DC 15, +1 per previous check) or
 take 1d4 points of nonlethal damage. Those wearing heavy clothing or any
-sort of armor take a --4 penalty on their saves. In addition, those
+sort of armor take a –4 penalty on their saves. In addition, those
 wearing metal armor or coming into contact with very hot metal are
 affected as if by a *heat metal* spell.
 
@@ -2712,15 +2712,15 @@ round of exposure.
 
 Characters exposed to burning oil, bonfires, and noninstantaneous magic
 firesmight find their clothes, hair, or equipment on fire. Spells with
-an instantaneous durationdon't normally set a character on fire, since
+an instantaneous durationdon’t normally set a character on fire, since
 the heat and flame from these come and go in a flash.
 
 Characters at risk of catching fire are allowed a DC 15 Reflex save to
-avoid this fate. If a character's clothes or hair catch fire, he takes
+avoid this fate. If a character’s clothes or hair catch fire, he takes
 1d6 points of damage immediately. In each subsequent round, the burning
 character must make another Reflex saving throw. Failure means he takes
 another 1d6 points of damage that round. Success means that the fire has
-gone out. (That is, once he succeeds on his saving throw, he's no longer
+gone out. (That is, once he succeeds on his saving throw, he’s no longer
 on fire.)
 
 A character on fire may automatically extinguish the flames by jumping
@@ -2776,7 +2776,7 @@ this time, the character must make a Constitution check each day (DC 10,
 
 Characters who have taken nonlethal damage from lack of food or water
 are fatigued. Nonlethal damage from thirst or starvation cannot be
-recovered until the character gets food or water, as needed---not even
+recovered until the character gets food or water, as needed—not even
 magic that restores hit points heals this damage.
 
 ### Suffocation
@@ -2789,7 +2789,7 @@ each previous success.
 
 When the character fails one of these Constitution checks, she begins to
 suffocate. In the first round, she falls unconscious (0 hit points). In
-the following round, she drops to --1 hit points and is dying. In the
+the following round, she drops to –1 hit points and is dying. In the
 third round, she suffocates.
 
 **Slow Suffocation:** A Medium character can breathe easily for 6 hours
@@ -2803,7 +2803,7 @@ volume of air, of course, lasts for a longer time.
 
 ### Water Dangers
 
-Any character can wade in relatively calm water that isn't over his
+Any character can wade in relatively calm water that isn’t over his
 head, no check required. Similarly, swimming in calm water only requires
 skill checks with a DC of 10. Trained swimmers can just take 10.
 (Remember, however, that armor or heavy gear makes any attempt at
@@ -2831,7 +2831,7 @@ her breath. Each round, the DC increases by 1.
 
 When the character finally fails her Constitution check, she begins to
 drown. In the first round, she falls unconscious (0 hp). In the
-following round, she drops to --1 hit points and is dying. In the third
+following round, she drops to –1 hit points and is dying. In the third
 round, she drowns.
 
 It is possible to drown in substances other than water, such as sand,

@@ -138,7 +138,7 @@ you can pick up. If you read the thoughts of a creature with an
 Intelligence of 26 or higher (and at least 10 points higher than your
 own Intelligence score), you are stunned for 1 round and the power ends.
 This power does not let you pinpoint the location of an affected mind if
-you don't have line of sight to the subject.
+you don’t have line of sight to the subject.
 
 Each round, you can turn to use this power in a new area. The power can
 penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin
@@ -161,7 +161,7 @@ revision* can produce any one of the following effects.
 -   Duplicate any other power (but not a spell) of 6th level or lower,
     such as a psychic warrior power.
 
--   Duplicate any psion power of 7th level or lower even if it's a power
+-   Duplicate any psion power of 7th level or lower even if it’s a power
     prohibited to you.
 
 -   Undo the harmful effects of many other powers, such as *microcosm,
@@ -251,9 +251,9 @@ The fabric of time parts to your will, revealing wounds your foe has
 received in the past (or has yet to receive). That foe takes 2d6 points
 of damage as the past (or future) impinges briefly on the present.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 damage increases by 1d6 points. For each extra 2d6 points of damage,
-this power's save DC increases by 1.
+this power’s save DC increases by 1.
 
 ## Recall Death
 
@@ -282,7 +282,7 @@ When you manifest *reddopsi,* powers targeted against you rebound to
 affect the original manifester. This effect reverses powers that have
 only you as a target (except *dispel psionics* and similar powers or
 effects). Powers that affect an area and those that produce effects
-can't be reversed. *Reddopsi* also can't reverse any power with a range
+can’t be reversed. *Reddopsi* also can’t reverse any power with a range
 of touch.
 
 Should you rebound a power back against a manifester who also is
@@ -307,7 +307,7 @@ If the scryer fails its saving throw, you are undetected. Moreover, the
 would-be observer takes 8d6 points of electricity damage. If the scryer
 makes its saving throw, it takes only 4d6 points of electricity damage
 and is able to observe you normally. Either way, you are aware of the
-attempt to view you, but not of the viewer or the viewer's location. It
+attempt to view you, but not of the viewer or the viewer’s location. It
 is possible that you might recognize the quasireal viewpoint of someone
 using the *remote viewing* power if you could pierce its *invisibility*
 (which is true for *remote viewing* whether or not you use this power).
@@ -329,28 +329,28 @@ You send your mind across space and dimensions, forming it into a
 quasireal viewpoint from which you can see and hear some creature
 located at any distance from you, even if planar boundaries separate
 you. If the subject succeeds on a Will save, the *remote viewing*
-attempt fails, and you can't attempt to view that creature again for at
+attempt fails, and you can’t attempt to view that creature again for at
 least 24 hours. The difficulty of the save depends on how well you know
 the subject and what sort of physical connection (if any) you have to
 that creature. Furthermore, if the subject is on another plane, it gets
 a +5 bonus on its Will save.
 
-  --------------------------------------------------------------------------------- --------------------
-  Knowledge                                                                         Will Save Modifier
-  None\*                                                                            +10
-  Secondhand (you have heard of the subject)                                        +5
-  Firsthand (you have met the subject)                                              +0
-  Familiar (you know the subject well)                                              --5
-  \*You must have some sort of connection to a creature you have no knowledge of.   
-  --------------------------------------------------------------------------------- --------------------
+|                                                                                 |                    |
+|---------------------------------------------------------------------------------|--------------------|
+| Knowledge                                                                       | Will Save Modifier |
+| None\*                                                                          | +10                |
+| Secondhand (you have heard of the subject)                                      | +5                 |
+| Firsthand (you have met the subject)                                            | +0                 |
+| Familiar (you know the subject well)                                            | –5                 |
+| \*You must have some sort of connection to a creature you have no knowledge of. |                    |
 
-  -------------------------------------------- --------------------
-  Connection                                   Will Save Modifier
-  Likeness or picture                          --2
-  Possession or garment                        --4
-  Body part, lock of hair, bit of nail, etc.   --10
-  Subject on another plane                     +5
-  -------------------------------------------- --------------------
+|                                            |                    |
+|--------------------------------------------|--------------------|
+| Connection                                 | Will Save Modifier |
+| Likeness or picture                        | –2                 |
+| Possession or garment                      | –4                 |
+| Body part, lock of hair, bit of nail, etc. | –10                |
+| Subject on another plane                   | +5                 |
 
 If the subject fails its Will save, your mind coalesces a quasi-real
 viewpoint near enough to the subject to see and hear the subject and its
@@ -380,7 +380,7 @@ wish to manifest) to succeed. Manifesting (or attempting and failing to
 manifest) a power immediately ends the *remote viewing.*
 
 Furthermore, all powers from your quasi-real viewpoint cost twice the
-usual number of power points (you can't exceed the power point limit set
+usual number of power points (you can’t exceed the power point limit set
 by your manifester level, so you are restricted to manifesting
 lower-level powers than you otherwise could). Power points you spend as
 a quasireal viewpoint are drained from your real body.
@@ -469,15 +469,15 @@ limit of the target increases by 10 pounds.
 -   **Power Points:** 7
 
 Your mind splits into two independent parts. Each part functions in
-complete autonomy, like two characters in one body. Your new "second
-mind" does not control your body physically but is free to take one
+complete autonomy, like two characters in one body. Your new “second
+mind” does not control your body physically but is free to take one
 standard action in each round if the action is purely mental (such as
 manifesting a power) in the same round you take your normal actions.
 
 Your second mind can manifest powers using your power point reserve, but
 only as if your manifester level were six lower than it is. Your second
-mind doesn't provoke attacks of opportunity when manifesting a power,
-because doing so doesn't distract your primary mind.
+mind doesn’t provoke attacks of opportunity when manifesting a power,
+because doing so doesn’t distract your primary mind.
 
 Your second mind takes its first action on your turn in the round after
 *schism* is manifested.
@@ -508,7 +508,7 @@ environment. You see the many alternative branches that reality could
 take in the next few seconds, and with this foreknowledge you gain the
 ability to reroll one attack roll, one saving throw, one ability check,
 or one skill check each round. You must take the result of the reroll,
-even if it's worse than the original roll. You do not have to make
+even if it’s worse than the original roll. You do not have to make
 another roll if satisfied with your original roll.
 
 ## Sense Link
@@ -527,7 +527,7 @@ hearing, taste, or smell. Only one sense is linked, and you cannot
 switch between senses with the same manifestation.
 
 You make any skill checks involving senses, such as Spot or Listen, as
-the subject, and only within the subject's field of view. You lose your
+the subject, and only within the subject’s field of view. You lose your
 Dexterity bonus to AC while directly sensing what the subject senses.
 
 Once *sense link* is manifested, the link persists even if the subject
@@ -535,13 +535,13 @@ moves out of the range of the original manifestation (but the link does
 not work across planes). You do not control the subject, nor can you
 communicate with it by means of this power.
 
-The strength of the subject's linked sense could be enhanced by other
+The strength of the subject’s linked sense could be enhanced by other
 powers or items, allowing you the same enhanced sense. You are subject
 to any gaze attack affecting the subject creature (if you linked
 vision). If you are blinded or deafened, or suffer some other sensory
 deprivation, the linked creature functions as an independent sensory
 organ, and provides you the benefit of the linked sense from its
-perspective while this power's duration lasts.
+perspective while this power’s duration lasts.
 
 **Augment:** You can augment this power in one or both of the following
 ways.
@@ -561,7 +561,7 @@ sense of the same subject.
 -   **Power Points:** 3
 
 As *sense link,* except you can use this power on any creature (willing
-or unwilling), and this power can't be augmented.
+or unwilling), and this power can’t be augmented.
 
 ## Sensitivity to Psychic Impressions
 
@@ -580,7 +580,7 @@ or unwilling), and this power can't be augmented.
 You gain historical vision in a given location. Rooms, streets, tunnels,
 and other discrete locations accumulate psychic impressions left by
 powerful emotions experienced in a given area. These impressions offer
-you a picture of the location's past.
+you a picture of the location’s past.
 
 The types of events most likely to leave psychic impressions are those
 that elicited strong emotions: battles and betrayals, marriages and
@@ -633,8 +633,8 @@ living shadow, you blend perfectly into any other shadow and vanish in
 darkness. You appear as an unattached shadow in areas of full light.
 
 You can move at your normal speed, on any surface, including walls and
-ceilings, as well as across the surfaces of liquids---even up the face
-of a waterfall.
+ceilings, as well as across the surfaces of liquids—even up the face of
+a waterfall.
 
 Your space does not change, so you cannot move into locations you would
 not normally be able to move into.
@@ -699,7 +699,7 @@ creature, and for less time. If you are immune to the type of damage
 dealt, or if you convert lethal damage into nonlethal damage, the target
 takes no damage.
 
-**Augment:** For every 2 additional power points you spend, this power's
+**Augment:** For every 2 additional power points you spend, this power’s
 save DC increases by 1.
 
 ## Shatter Mind Blank
@@ -742,14 +742,14 @@ You, another willing creature, or an unattended object can slide along
 solid ground as if on smooth ice. If you manifest *skate* on yourself or
 another creature, the subject of the power retains equilibrium by mental
 desire alone, allowing her to gracefully skate along the ground, turn,
-or stop suddenly as desired. The skater's land speed increases by 15
+or stop suddenly as desired. The skater’s land speed increases by 15
 feet. (This adjustment is treated as an enhancement bonus.) As with any
-effect that increases speed, this power affects the subject's maximum
+effect that increases speed, this power affects the subject’s maximum
 jumping distance.
 
 The subject can skate up or down any incline or decline she could
 normally walk upon without mishap, though skating up an incline reduces
-the subject's speed to normal, while skating down a decline increases
+the subject’s speed to normal, while skating down a decline increases
 her speed by an additional 15 feet. (This adjustment is treated as a
 circumstance bonus.)
 
@@ -785,9 +785,9 @@ instant thought, quickly enough to gain the benefit of the power before
 you take any other actions in a round. Manifesting the power is a swift
 action, like manifesting a quickened power, and it counts toward the
 normal limit of one quickened power per round. You cannot manifest this
-power when it isn't your turn.
+power when it isn’t your turn.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 maximum duration increases by 1 round.
 
 ## Steadfast Perception
@@ -824,11 +824,11 @@ perception*.
 
 Your foot stomp precipitates a psychokinetic shock wave that travels
 along the ground, toppling creatures and loose objects. The shock wave
-affects only creatures standing on the ground within the power's area.
+affects only creatures standing on the ground within the power’s area.
 Creatures that fail their saves are thrown to the ground, become prone,
 and take 1d4 points of nonlethal damage.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 nonlethal damage increases by 1d4 points.
 
 ## Strength of My Enemy
@@ -842,12 +842,12 @@ nonlethal damage increases by 1d4 points.
 -   **Duration:** 1 round/level (D)
 -   **Power Points:** 3
 
-You gain the ability to siphon away your enemy's strength for your own
+You gain the ability to siphon away your enemy’s strength for your own
 use. One of your natural or manufactured weapons becomes the instrument
 of your desire, and deals 1 point of Strength damage on each successful
 hit. You gain that point of Strength as an enhancement bonus to your
 Strength score. Strength you siphon from different foes is tracked
-separately---the total siphoned from each individual foe is considered a
+separately—the total siphoned from each individual foe is considered a
 separate enhancement bonus to your Strength (maximum +8), and you gain
 only the highest total.
 
@@ -896,7 +896,7 @@ incapable of determining that you are alive.
 
 While you are suspended, you are aware of your surroundings. You feel
 the passage of one day for every year that actually passes. Though on a
-slower schedule, you grow hungry after a "day" without food (though a
+slower schedule, you grow hungry after a “day” without food (though a
 year passes in actuality) and begin to suffer the effects of thirst and
 starvation as appropriate.
 
@@ -936,7 +936,7 @@ Thousands of tiny crystal shards spray forth in an arc from your hand.
 These razorlike crystals slice everything in their path. Anyone caught
 in the cone takes 3d4 points of slashing damage.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 damage increases by 1d4 points.
 
 ## Synesthete
@@ -1000,8 +1000,8 @@ across the ground or through the air. This power ends if the object is
 forced out of range. If you cease concentration, the object falls or
 stops.
 
-You can drop a weight and pick up another during the power's duration,
-as long as you don't stop concentrating on maintaining the power. An
+You can drop a weight and pick up another during the power’s duration,
+as long as you don’t stop concentrating on maintaining the power. An
 object can be telekinetically manipulated as if you were moving it with
 one hand.
 
@@ -1029,11 +1029,11 @@ limit of the target increases by 25 pounds.
 You can affect a foe by concentrating your mind upon its current status
 and the status you desire, once per round. You can perform a bull rush,
 a disarm, a grapple (including a pin), or a trip. Resolve these attempts
-as normal, except that they don't provoke attacks of opportunity, you
+as normal, except that they don’t provoke attacks of opportunity, you
 use your manifester level in place of your base attack bonus (for disarm
 and grapple attempts), you use your Intelligence modifier in place of
 your Strength modifier or Dexterity modifier, and a failed attempt
-doesn't allow a reactive attempt by the target (such as normally allowed
+doesn’t allow a reactive attempt by the target (such as normally allowed
 on disarm or trip attempts). No save is allowed against these attempts,
 but power resistance applies normally.
 
@@ -1072,10 +1072,10 @@ As the *telekinetic sphere* spell, except as noted here.
 -   **Power Points:** 5
 
 You can affect one or more objects or creatures by concentrating your
-mind upon, sending them in a deadly hail at your foes---or simply by
+mind upon, sending them in a deadly hail at your foes—or simply by
 hurling your foe! You can hurl one object or creature per manifester
 level (maximum fifteen separate targets), as long as all are within the
-power's range and each is no more than 10 feet away from another one.
+power’s range and each is no more than 10 feet away from another one.
 Each object or creature can be hurled a maximum distance of 10 feet per
 level.
 
@@ -1111,10 +1111,10 @@ limit of the target or targets increases by 25 pounds.
 -   **Power Resistance:** Yes
 -   **Power Points:** 1
 
-You alter the subject's mood, adjusting its attitude toward you by one
+You alter the subject’s mood, adjusting its attitude toward you by one
 step in a positive direction. For instance, an unfriendly creature can
 be made indifferent, or a hostile creature unfriendly. You can grant a
-+4 bonus on your own (or others') Bluff, Diplomacy, Intimidate, Perform,
++4 bonus on your own (or others’) Bluff, Diplomacy, Intimidate, Perform,
 or Sense Motive checks involving the affected creature.
 
 ## Teleport, Psionic
@@ -1222,9 +1222,9 @@ standard time frame).
 
 Manifesting this power is a swift action, like manifesting a quickened
 power, and it counts toward the normal limit of one quickened power per
-round. You cannot manifest this power when it isn't your turn.
+round. You cannot manifest this power when it isn’t your turn.
 
-**Augment:** For every 4 additional power points you spend, this power's
+**Augment:** For every 4 additional power points you spend, this power’s
 duration (in apparent time) increases by 1 round.
 
 ## Thicken Skin
@@ -1268,9 +1268,9 @@ You can manifest this power instantly, quickly enough to gain its
 benefits in an emergency. Manifesting the power is an immediate action,
 like manifesting a quickened power, and it counts toward the normal
 limit of one quickened power per round. You can use this power even when
-it's not your turn.
+it’s not your turn.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 duration increases by 1 round, and the power resistance it provides
 increases by 1 point.
 
@@ -1292,11 +1292,11 @@ The subject of the power hops forward in time 1 round for every
 manifester level you have. In effect, the subject seems to disappear in
 a shimmer of silver energy, then reappear after the duration of this
 power expires. The subject reappears in exactly the same orientation and
-condition as before. From the subject's point of view, no time has
+condition as before. From the subject’s point of view, no time has
 passed at all.
 
-In each round of the power's duration, on what would have been the
-subject's turn, it can attempt a DC 15 Wisdom check. Success allows the
+In each round of the power’s duration, on what would have been the
+subject’s turn, it can attempt a DC 15 Wisdom check. Success allows the
 subject to return. The subject can act normally on its next turn after
 this power ends.
 
@@ -1348,15 +1348,15 @@ this power as an immediate action.
 -   **Power Points:** 17, XP
 
 You can regress apparent time 1 round into the past. In effect, you
-"replay" the previous round of activity. The power regresses time to the
+“replay” the previous round of activity. The power regresses time to the
 point along the time stream just prior to your previous turn, undoing
-the effects of everyone else's actions in the meantime. Once you have
+the effects of everyone else’s actions in the meantime. Once you have
 used *time regression,* only you retain knowledge of what happened
 during the round that is being replayed; however, you can communicate
 that knowledge verbally to your companions, if desired. During the round
 that you live through a second time, you can act on knowledge you
 previously gained by already living through the immediate future. In all
-likelihood, you'll probably not choose to manifest *time regression*
+likelihood, you’ll probably not choose to manifest *time regression*
 during your second pass through the time stream, instead taking
 completely new actions, but you pay the XP cost all the same.
 
@@ -1427,10 +1427,10 @@ situated in a new space 1d4 x 10 feet away from its original space in a
 random direction. Walls and other barriers can restrict this relocation;
 in such a case, the creature ends up adjacent to the barrier.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 area damage (not the damage from direct contact dealt to a specific
 creature) increases by 1d6 points (to a maximum of 24d6 points). For
-each extra 2d6 points of damage, this power's save DC increases by 1.
+each extra 2d6 points of damage, this power’s save DC increases by 1.
 
 ## Touchsight
 
@@ -1444,7 +1444,7 @@ each extra 2d6 points of damage, this power's save DC increases by 1.
 -   **Power Points:** 5
 
 You generate a subtle telekinetic field of mental contact, allowing you
-to "feel" your surroundings even in total darkness or when your sight
+to “feel” your surroundings even in total darkness or when your sight
 would otherwise be obscured by your physical environment. Your
 *touchsight* field emanates from you out to 60 feet. You ignore
 invisibility, darkness, and concealment, though you must have line of
@@ -1473,7 +1473,7 @@ of your *touchsight* field increases by 10 feet.
 
 You generate a bastion of thought so strong that it offers protection to
 you and everyone around you, improving the self-control of all. You and
-all creatures in the power's area gain power resistance 19 against all
+all creatures in the power’s area gain power resistance 19 against all
 mindaffecting powers.
 
 You can manifest this power instantly, quickly enough to gain its
@@ -1483,7 +1483,7 @@ limit of one quickened power per round.
 
 You can use this power even when it is not your turn.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 duration increases by 1 round and the power resistance it provides
 increases by 1 point.
 
@@ -1502,16 +1502,16 @@ increases by 1 point.
 -   **Power Points:** 7
 
 As *detect teleportation*, except you can trace the destination of any
-psionic or magical teleportation made by others within this power's area
+psionic or magical teleportation made by others within this power’s area
 within the last minute.
 
 You know the direction and distance the individuals traveled and could
 teleport to the location yourself if you so desired (and if you know the
-*psionic teleport* power), as if you had "seen casually" the location.
+*psionic teleport* power), as if you had “seen casually” the location.
 This power does not grant you any information on the conditions at the
 other end of the trace beyond the mental coordinates of the location.
 
-**Augment:** If you spend 2 additional power points, this power's range
+**Augment:** If you spend 2 additional power points, this power’s range
 increases to Medium (100 ft. + 10 ft./level).
 
 ## True Creation
@@ -1525,7 +1525,7 @@ As *psionic major creation*, except items created are enduring and
 cannot be negated by dispelling magic or negating powers. For all
 intents and purposes, these items are completely real.
 
-*XP Cost:* 1/5 of the item's gold piece value, or a minimum of 1 XP.
+*XP Cost:* 1/5 of the item’s gold piece value, or a minimum of 1 XP.
 
 ## True Metabolism
 
@@ -1542,14 +1542,14 @@ You are difficult to kill while this power persists. You automatically
 heal damage at the rate of 10 hit points per round.
 
 This power is not effective against damage from starvation, thirst, or
-suffocation. Also, attack forms that don't deal hit point damage (for
+suffocation. Also, attack forms that don’t deal hit point damage (for
 example, most poisons) ignore *true metabolism*. You can also use this
 power to regrow lost portions of your body and to reattach severed limbs
 or body parts, if you do nothing but concentrate on regrowing the lost
 body part or reattaching the severed limb for the duration of the power.
 You do not gain the benefits described earlier when you manifest *true
 metabolism* for this purpose. You must have a Constitution score to gain
-any of this power's benefits.
+any of this power’s benefits.
 
 ## True Seeing, Psionic
 
@@ -1579,7 +1579,7 @@ As the *true seeing* power, except as noted here.
 If you have a claw attack (either from an actual natural weapon or from
 an effect such as *claws of the beast*), you can use this power to
 produce a horrible poison that coats one of your claws. On your next
-successful melee attack with the claw during the power's duration, the
+successful melee attack with the claw during the power’s duration, the
 poison deals 1d8 points of Constitution damage immediately and another
 1d8 points of Constitution damage 1 minute later. The target of your
 attack can negate each instance of damage with a Fortitude save.
@@ -1607,7 +1607,7 @@ duration expires, whichever occurs first.
 -   **Duration:** 10 min./level (D)
 -   **Power Points:** 5
 
-You have metaphoric "eyes in the back of your head," and on the sides
+You have metaphoric “eyes in the back of your head,” and on the sides
 and top as well, granting you benefits in specific situations. In
 effect, you have a 360-degree sphere of sight, allowing you a perfect
 view of creatures that might otherwise flank you. Thus, flanking
@@ -1615,8 +1615,8 @@ opponents gain no bonus on their attack rolls, and rogues are denied
 their sneak attack ability because you do not lose your Dexterity bonus
 (but they may still sneak attack you if you are caught flat-footed).
 Your Spot and Search checks gain a +4 enhancement bonus. Concurrently,
-you take a --4 penalty on saves against all gaze attacks during the
-power's duration.
+you take a –4 penalty on saves against all gaze attacks during the
+power’s duration.
 
 ## Ultrablast
 
@@ -1631,12 +1631,12 @@ power's duration.
 -   **Power Resistance:** Yes
 -   **Power Points:** 13
 
-You "grumble" psychically (which both psionic and nonpsionic creatures
+You “grumble” psychically (which both psionic and nonpsionic creatures
 can detect), then release a horrid shriek from your subconscious that
-disrupts the brains of all enemies in the power's area, dealing 13d6
+disrupts the brains of all enemies in the power’s area, dealing 13d6
 points of damage to each enemy.
 
-**Augment:** For every additional power point you spend, this power's
+**Augment:** For every additional power point you spend, this power’s
 damage increases by 1d6 points.
 
 ## Vampiric Blade
@@ -1651,7 +1651,7 @@ damage increases by 1d6 points.
 -   **Power Points:** 5
 
 As *claws of the vampire*, except your weapon is affected as long as it
-remains in your grip or until this power's duration expires.
+remains in your grip or until this power’s duration expires.
 
 ## Vigor
 
@@ -1745,5 +1745,5 @@ gain no special bonuses against you.
 -   **Power Points:** 7
 
 As *claw of energy,* except this power can be manifested on a touched
-weapon. This power's subtype is the same as the type of energy infused
+weapon. This power’s subtype is the same as the type of energy infused
 in the touched weapon.

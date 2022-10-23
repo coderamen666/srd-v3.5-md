@@ -62,7 +62,7 @@ conditions, how hard it is to spot before it goes off, how much damage
 it deals, and whether or not the heroes receive a saving throw to
 mitigate its effects. Traps that attack with arrows, sweeping blades,
 and other types of weaponry make normal attack rolls, with a specific
-attack bonus dictated by the trap's design.
+attack bonus dictated by the trap’s design.
 
 Creatures who succeed on a DC 20 Search check detect a simple mechanical
 trap before it is triggered. (A simple trap is a snare, a trap triggered
@@ -90,7 +90,7 @@ item description states otherwise, assume the following to be true.
 
 ## Elements of a Trap
 
-All traps---mechanical or magic---have the following elements: trigger,
+All traps—mechanical or magic—have the following elements: trigger,
 reset, Search DC, Disable Device DC, attack bonus (or saving throw or
 onset delay), damage/effect, and Challenge Rating. Some traps may also
 include optional elements, such as poison or a bypass. These
@@ -98,7 +98,7 @@ characteristics are described below.
 
 ### Trigger
 
-A trap's trigger determines how it is sprung.
+A trap’s trigger determines how it is sprung.
 
 **Location:** A location trigger springs a trap when someone stands in a
 particular square.
@@ -114,7 +114,7 @@ air is unusually still.
 
 The proximity trigger used most often for magic device traps is the
 *alarm* spell. Unlike when the spell is cast, an *alarm* spell used as a
-trigger can have an area that's no larger than the area the trap is
+trigger can have an area that’s no larger than the area the trap is
 meant to protect.
 
 Some magic device traps have special proximity triggers that activate
@@ -130,21 +130,21 @@ effects that would negate hearing defeat it. A trap with a sound trigger
 requires the casting of *clairaudience* during its construction.
 
 **Visual:** This trigger for magic traps works like an actual eye,
-springing the trap whenever it "sees" something. A trap with a visual
+springing the trap whenever it “sees” something. A trap with a visual
 trigger requires the casting of *arcane eye, clairvoyance,* or *true
 seeing* during its construction. Sight range and the Spot bonus
 conferred on the trap depend on the spell chosen, as shown.
 
-  -------------- --------------------------------- ------------
-  Spell          Sight Range                       Spot Bonus
-  arcane eye     Line of sight (unlimited range)   +20
-  clairvoyance   One preselected location          +15
-  true seeing    Line of sight (up to 120 ft.)     +30
-  -------------- --------------------------------- ------------
+|              |                                 |            |
+|--------------|---------------------------------|------------|
+| Spell        | Sight Range                     | Spot Bonus |
+| arcane eye   | Line of sight (unlimited range) | +20        |
+| clairvoyance | One preselected location        | +15        |
+| true seeing  | Line of sight (up to 120 ft.)   | +30        |
 
-If you want the trap to "see" in the dark, you must either choose the
+If you want the trap to “see” in the dark, you must either choose the
 *true seeing* option or add *darkvision* to the trap as well.
-(*Darkvision* limits the trap's sight range in the dark to 60 feet.) If
+(*Darkvision* limits the trap’s sight range in the dark to 60 feet.) If
 invisibility, disguises, or illusions can fool the spell being used,
 they can fool the visual trigger as well.
 
@@ -167,7 +167,7 @@ spell triggers.
 A reset element is the set of conditions under which a trap becomes
 ready to trigger again.
 
-**No Reset:** Short of completely rebuilding the trap, there's no way to
+**No Reset:** Short of completely rebuilding the trap, there’s no way to
 trigger it more than once. Spell traps have no reset element.
 
 **Repair:** To get the trap functioning again, you must repair it.
@@ -183,7 +183,7 @@ timed interval.
 
 Repairing a mechanical trap requires a Craft (trapmaking) check against
 a DC equal to the one for building it. The cost for raw materials is
-one-fifth of the trap's original market price. To calculate how long it
+one-fifth of the trap’s original market price. To calculate how long it
 takes to fix a trap, use the same calculations you would for building
 it, but use the cost of the raw materials required for repair in place
 of the market price.
@@ -191,11 +191,11 @@ of the market price.
 Resetting a trap usually takes only a minute or so. For a trap with a
 more difficult reset method, you should set the time and labor required.
 
-### Bypass (Optional Element) {#bypass}
+### Bypass (Optional Element)
 
 If the builder of a trap wants to be able to move past the trap after it
-is created or placed, it's a good idea to build in a bypass mechanism
----something that temporarily disarms the trap. Bypass elements are
+is created or placed, it’s a good idea to build in a bypass mechanism
+—something that temporarily disarms the trap. Bypass elements are
 typically used only with mechanical traps; spell traps usually have
 built-in allowances for the caster to bypass them.
 
@@ -222,9 +222,9 @@ cost (Table: Cost Modifiers for Mechanical Traps) and possibly the CR
 equal to 25 + the spell level of the highest-level spell used. Only
 characters with the trap sense class feature can attempt a Search check
 or a Disable Device check involving a magic trap. These DCs do not
-affect the trap's cost or CR.
+affect the trap’s cost or CR.
 
-### Attack Bonus/Saving Throw Dc {#attack-bonus-saving-throw-dc}
+### Attack Bonus/Saving Throw Dc
 
 A trap usually either makes an attack roll or forces a saving throw to
 avoid it. Occasionally a trap uses both of these options, or neither
@@ -256,7 +256,7 @@ garbage), a large rug, or an actual trapdoor concealed to appear as a
 normal part of the floor. Such a trapdoor usually swings open when
 enough weight (usually about 50 to 80 pounds) is placed upon it. Devious
 trap builders sometimes design trapdoors so that they spring back shut
-after they open. The trapdoor might lock once it's back in place,
+after they open. The trapdoor might lock once it’s back in place,
 leaving the stranded character well and truly trapped. Opening such a
 trapdoor is just as difficult as opening a regular door (assuming the
 trapped character can reach it), and a DC 13 Strength check is needed to
@@ -271,12 +271,12 @@ pit has multiple spikes, a falling victim is attacked by 1d4 of them.
 This damage is in addition to any damage from the fall itself.
 
 Monsters sometimes live in pits. Any monster that can fit into the pit
-might have been placed there by the dungeon's designer, or might simply
+might have been placed there by the dungeon’s designer, or might simply
 have fallen in and not been able to climb back out.
 
 A secondary trap, mechanical or magical, at the bottom of a pit can be
 particularly deadly. Activated by a falling victim, the secondary trap
-attacks the already injured character when she's least ready for it.
+attacks the already injured character when she’s least ready for it.
 
 **Ranged Attack Traps:** These traps fling darts, arrows, spears, or the
 like at whoever activated the trap. The builder sets the attack bonus. A
@@ -288,7 +288,7 @@ bonus on damage equal to its strength rating.
 blades that emerge from walls and stone blocks that fall from ceilings.
 Once again, the builder sets the attack bonus.
 
-### Damage/Effect {#damage-effect}
+### Damage/Effect
 
 The effect of a trap is what happens to those who spring it. Usually
 this takes the form of either damage or a spell effect, but some traps
@@ -302,16 +302,16 @@ ammunition normally would. If a trap is constructed with a high strength
 rating, it has a corresponding bonus on damage.
 
 **Melee Attack Traps:** These traps deal the same damage as the melee
-weapons they "wield." In the case of a falling stone block, you can
+weapons they “wield.” In the case of a falling stone block, you can
 assign any amount of bludgeoning damage you like, but remember that
 whoever resets the trap has to lift that stone back into place.
 
 A melee attack trap can be constructed with a built-in bonus on damage
 rolls, just as if the trap itself had a high Strength score.
 
-**Spell Traps:** Spell traps produce the spell's effect. Like all
+**Spell Traps:** Spell traps produce the spell’s effect. Like all
 spells, a spell trap that allows a saving throw has a save DC of 10 +
-spell level + caster's relevant ability modifier.
+spell level + caster’s relevant ability modifier.
 
 **Magic Device Traps:** These traps produce the effects of any spells
 included in their construction, as described in the appropriate entries.
@@ -330,7 +330,7 @@ more deadly. The most common such features are discussed below.
 
 **Alchemical Item:** Mechanical traps may incorporate alchemical devices
 or other special substances or items, such as tanglefoot bags,
-alchemist's fire, thunderstones, and the like. Some such items mimic
+alchemist’s fire, thunderstones, and the like. Some such items mimic
 spell effects. If the item mimics a spell effect, it increases the CR as
 shown on Table: CR Modifiers for Mechanical Traps.
 
@@ -346,7 +346,7 @@ delay features (see below).
 character.
 
 **Never Miss:** When the entire dungeon wall moves to crush you, your
-quick reflexes won't help, since the wall can't possibly miss. A trap
+quick reflexes won’t help, since the wall can’t possibly miss. A trap
 with this feature has neither an attack bonus nor a saving throw to
 avoid, but it does have an onset delay (see below). Most traps involving
 liquid or gas are of the never miss variety.
@@ -360,7 +360,7 @@ nonpoisonous counterparts, so they have correspondingly higher CRs. To
 determine the CR modifier for a given poison, consult Table: CR
 Modifiers for Mechanical Traps. Only injury, contact, and inhaled
 poisons are suitable for traps; ingested types are not. Some traps
-simply deal the poison's damage. Others deal damage with ranged or melee
+simply deal the poison’s damage. Others deal damage with ranged or melee
 attacks as well.
 
 **Pit Spikes:** Treat spikes at the bottom of a pit as daggers, each
@@ -370,7 +370,7 @@ the pit is attacked by 1d4 spikes. Pit spikes do not add to the average
 damage of the trap (see Average Damage, below).
 
 **Pit Bottom:** If something other than spikes waits at the bottom of a
-pit, it's best to treat that as a separate trap (see Multiple Traps,
+pit, it’s best to treat that as a separate trap (see Multiple Traps,
 below) with a location trigger that activates on any significant impact,
 such as a falling character.
 
@@ -752,7 +752,7 @@ spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Search DC
 
 **Whirling Poison Blades:** CR 6; mechanical; timed trigger; automatic
 reset; hidden lock bypass (Search DC 25, Open Lock DC 30); Atk +10 melee
-(1d4+4/19--20 plus poison, dagger); poison (purple worm poison, DC 24
+(1d4+4/19–20 plus poison, dagger); poison (purple worm poison, DC 24
 Fortitude save resists, 1d6 Str/2d6 Str); multiple targets (one target
 in each of three preselected 5-ft. squares); Search DC 20; Disable
 Device DC 20. *Market Price:* 30,200 gp.
@@ -954,18 +954,18 @@ to 17 creatures); Search DC 34; Disable Device DC 34. *Cost:* 76,500 gp,
 ## Designing a Trap
 
 **Mechanical Traps:** Simply select the elements you want the trap to
-have and add up the adjustments to the trap's Challenge Rating that
+have and add up the adjustments to the trap’s Challenge Rating that
 those elements require (see Table: CR Modifiers for Mechanical Traps) to
-arrive at the trap's final CR. From the CR you can derive the DC of the
+arrive at the trap’s final CR. From the CR you can derive the DC of the
 Craft (trapmaking) checks a character must make to construct the trap.
 
-**Magic Traps:** As with mechanical traps, you don't have to do anything
+**Magic Traps:** As with mechanical traps, you don’t have to do anything
 other than decide what elements you want and then determine the CR of
 the resulting trap (see Table: CR Modifiers for Magic Traps). If a
 player character wants to design and construct a magic trap, he must
 have the Craft Wondrous Item feat. In addition, he must be able to cast
-the spell or spells that the trap requires---or, failing that, he must
-be able to hire an NPC to cast the spells for him.
+the spell or spells that the trap requires—or, failing that, he must be
+able to hire an NPC to cast the spells for him.
 
 ### Challenge Rating of a Trap
 
@@ -987,7 +987,7 @@ Damage from poisons and pit spikes does not count toward this value, but
 damage from a high strength rating and extra damage from multiple
 attacks does.
 
-For a magic trap, only one modifier applies to the CR---either the level
+For a magic trap, only one modifier applies to the CR—either the level
 of the highest-level spell used in the trap, or the average damage
 figure, whichever is larger.
 
@@ -1005,74 +1005,74 @@ CRs to determine their combined Encounter Level as though they were
 monsters. The resulting Encounter Level is the CR for the combined
 traps.
 
-  ---------------------------------------------------------------------------------------------------------- ---- -------------------------- ----
-  Feature                                                                                                         CR Modifier                
-  Search DC                                                                                                                                  
-  15 or lower                                                                                                     --1                        
-  25--29                                                                                                          +1                         
-  30 or higher                                                                                                    +2                         
-  Disable Device DC                                                                                                                          
-  15 or lower                                                                                                     --1                        
-  25--29                                                                                                          +1                         
-  30 or higher                                                                                                    +2                         
-  Reflex Save DC (Pit or Other Save-Dependent Trap)                                                                                          
-  15 or lower                                                                                                     --1                        
-  16--24                                                                                                          ---                        
-  25--29                                                                                                          +1                         
-  30 or higher                                                                                                    +2                         
-  Attack Bonus (Melee or Ranged Attack Trap)                                                                                                 
-  +0 or lower                                                                                                     --2                        
-  +1 to +5                                                                                                        --1                        
-  +6 to +14                                                                                                       ---                        
-  +15 to +19                                                                                                      +1                         
-  +20 to +24                                                                                                      +2                         
-  Damage/Effect                                                                                                                              
-  Average damage                                                                                                  +1/7 points\*              
-  Miscellaneous Features                                                                                                                     
-  Alchemical device                                                                                               Level of spell mimicked    
-  Liquid                                                                                                          +5                         
-  Multiple target                                                                                                 +1 (or 0 if never miss)    
-  Onset delay 1 round                                                                                             +3                         
-  Onset delay 2 rounds                                                                                            +2                         
-  Onset delay 3 rounds                                                                                            +1                         
-  Onset delay 4+ rounds                                                                                           --1                        
-  Poison                                                                                                          CR of poison (see below)   
-  Black adder venom                                                                                          +1   Large scorpion venom       +3
-  Black lotus extract                                                                                        +8   Malyss root paste          +3
-  Bloodroot                                                                                                  +1   Medium spider venom        +2
-  Blue whinnis                                                                                               +1   Nitharit                   +4
-  Burnt othur fumes                                                                                          +6   Purple worm poison         +4
-  Deathblade                                                                                                 +5   Sassone leaf residue       +3
-  Dragon bile                                                                                                +6   Shadow essence             +3
-  Giant wasp poison                                                                                          +3   Small centipede poison     +1
-  Greenblood oil                                                                                             +1   Terinav root               +5
-  Insanity mist                                                                                              +4   Ungol dust                 +3
-  Wyvern poison                                                                                              +5                              
-  Pit spikes                                                                                                      +1                         
-  Touch attack                                                                                                    +1                         
-  \* Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers).                                   
-  ---------------------------------------------------------------------------------------------------------- ---- -------------------------- ----
+|                                                                                                          |     |                          |     |
+|----------------------------------------------------------------------------------------------------------|-----|--------------------------|-----|
+| Feature                                                                                                  |     | CR Modifier              |     |
+| Search DC                                                                                                |     |                          |     |
+| 15 or lower                                                                                              |     | –1                       |     |
+| 25–29                                                                                                    |     | +1                       |     |
+| 30 or higher                                                                                             |     | +2                       |     |
+| Disable Device DC                                                                                        |     |                          |     |
+| 15 or lower                                                                                              |     | –1                       |     |
+| 25–29                                                                                                    |     | +1                       |     |
+| 30 or higher                                                                                             |     | +2                       |     |
+| Reflex Save DC (Pit or Other Save-Dependent Trap)                                                        |     |                          |     |
+| 15 or lower                                                                                              |     | –1                       |     |
+| 16–24                                                                                                    |     | —                        |     |
+| 25–29                                                                                                    |     | +1                       |     |
+| 30 or higher                                                                                             |     | +2                       |     |
+| Attack Bonus (Melee or Ranged Attack Trap)                                                               |     |                          |     |
+| +0 or lower                                                                                              |     | –2                       |     |
+| +1 to +5                                                                                                 |     | –1                       |     |
+| +6 to +14                                                                                                |     | —                        |     |
+| +15 to +19                                                                                               |     | +1                       |     |
+| +20 to +24                                                                                               |     | +2                       |     |
+| Damage/Effect                                                                                            |     |                          |     |
+| Average damage                                                                                           |     | +1/7 points\*            |     |
+| Miscellaneous Features                                                                                   |     |                          |     |
+| Alchemical device                                                                                        |     | Level of spell mimicked  |     |
+| Liquid                                                                                                   |     | +5                       |     |
+| Multiple target                                                                                          |     | +1 (or 0 if never miss)  |     |
+| Onset delay 1 round                                                                                      |     | +3                       |     |
+| Onset delay 2 rounds                                                                                     |     | +2                       |     |
+| Onset delay 3 rounds                                                                                     |     | +1                       |     |
+| Onset delay 4+ rounds                                                                                    |     | –1                       |     |
+| Poison                                                                                                   |     | CR of poison (see below) |     |
+| Black adder venom                                                                                        | +1  | Large scorpion venom     | +3  |
+| Black lotus extract                                                                                      | +8  | Malyss root paste        | +3  |
+| Bloodroot                                                                                                | +1  | Medium spider venom      | +2  |
+| Blue whinnis                                                                                             | +1  | Nitharit                 | +4  |
+| Burnt othur fumes                                                                                        | +6  | Purple worm poison       | +4  |
+| Deathblade                                                                                               | +5  | Sassone leaf residue     | +3  |
+| Dragon bile                                                                                              | +6  | Shadow essence           | +3  |
+| Giant wasp poison                                                                                        | +3  | Small centipede poison   | +1  |
+| Greenblood oil                                                                                           | +1  | Terinav root             | +5  |
+| Insanity mist                                                                                            | +4  | Ungol dust               | +3  |
+| Wyvern poison                                                                                            | +5  |                          |     |
+| Pit spikes                                                                                               |     | +1                       |     |
+| Touch attack                                                                                             |     | +1                       |     |
+| \* Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers). |     |                          |     |
 
-  : Table: CR Modifiers for Mechanical Traps
+Table: CR Modifiers for Mechanical Traps
 
-  -------------------------------------------------------------------- -----------------------------------------------------------------
-  Feature                                                              CR Modifier
-  Highest-level spell                                                  \+ Spell level OR +1 per 7 points of average damage per round\*
-  \*See the note following Table: CR Modifiers for Mechanical Traps.   
-  -------------------------------------------------------------------- -----------------------------------------------------------------
+|                                                                    |                                                                 |
+|--------------------------------------------------------------------|-----------------------------------------------------------------|
+| Feature                                                            | CR Modifier                                                     |
+| Highest-level spell                                                | \+ Spell level OR +1 per 7 points of average damage per round\* |
+| \*See the note following Table: CR Modifiers for Mechanical Traps. |                                                                 |
 
-  : Table: CR Modifiers for Magic Traps
+Table: CR Modifiers for Magic Traps
 
 ### Mechanical Trap Cost
 
 The base cost of a mechanical trap is 1,000 gp. Apply all the modifiers
 from Table: Cost Modifiers for Mechanical Traps for the various features
-you've added to the trap to get the modified base cost.
+you’ve added to the trap to get the modified base cost.
 
 The final cost is equal to (modified base cost x Challenge Rating) +
 extra costs. The minimum cost for a mechanical trap is (CR x 100) gp.
 
-After you've multiplied the modified base cost by the Challenge Rating,
+After you’ve multiplied the modified base cost by the Challenge Rating,
 add the price of any alchemical items or poison you incorporated into
 the trap. If the trap uses one of these elements and has an automatic
 reset, multiply the poison or alchemical item cost by 20 to provide an
@@ -1083,50 +1083,50 @@ determine the final cost of each separately, then add those values
 together. This holds for both multiple dependent and multiple
 independent traps (see the previous section).
 
-  ---------------------------------------------------------- ------------------------------------------
-  Feature                                                    Cost Modifier
-  Trigger Type                                               
-  Location                                                   ---
-  Proximity                                                  +1,000 gp
-  Touch                                                      ---
-  Touch (attached)                                           --100 gp
-  Timed                                                      +1,000 gp
-  Reset Type                                                 
-  No reset                                                   --500 gp
-  Repair                                                     --200 gp
-  Manual                                                     ---
-  Automatic                                                  +500 gp (or 0 if trap has timed trigger)
-  Bypass Type                                                
-  Lock                                                       +100 gp (Open Lock DC 30)
-  Hidden switch                                              +200 gp (Search DC 25)
-  Hidden lock                                                +300 gp (Open Lock DC 30, Search DC 25)
-  Search DC                                                  
-  19 or lower                                                --100 gp x (20 -- DC)
-  20                                                         ---
-  21 or higher                                               +200 gp x (DC -- 20)
-  Disable Device DC                                          
-  19 or lower                                                --100 gp x (20 -- DC)
-  20                                                         ---
-  21 or higher                                               +200 gp x (DC -- 20)
-  Reflex Save DC (Pit or Other Save-Dependent Trap)          
-  19 or lower                                                --100 gp x (20 -- DC)
-  20                                                         ---
-  21 or higher                                               +300 gp x (DC -- 20)
-  Attack Bonus (Melee or Ranged Attack Trap)                 
-  +9 or lower                                                --100 gp x (10 -- bonus)
-  +10                                                        ---
-  +11 or higher                                              +200 gp x (bonus -- 10)
-  Damage Bonus                                               
-  High strength rating (ranged attack trap)                  +100 gp x bonus (max +4)
-  High Strength bonus (melee attack trap)                    +100 gp x bonus (max +8)
-  Miscellaneous Features                                     
-  Never miss                                                 +1,000 gp
-  Poison                                                     Cost of poison\*
-  Alchemical item                                            Cost of item\*
-  \* Multiply cost by 20 if trap features automatic reset.   
-  ---------------------------------------------------------- ------------------------------------------
+|                                                          |                                          |
+|----------------------------------------------------------|------------------------------------------|
+| Feature                                                  | Cost Modifier                            |
+| Trigger Type                                             |                                          |
+| Location                                                 | —                                        |
+| Proximity                                                | +1,000 gp                                |
+| Touch                                                    | —                                        |
+| Touch (attached)                                         | –100 gp                                  |
+| Timed                                                    | +1,000 gp                                |
+| Reset Type                                               |                                          |
+| No reset                                                 | –500 gp                                  |
+| Repair                                                   | –200 gp                                  |
+| Manual                                                   | —                                        |
+| Automatic                                                | +500 gp (or 0 if trap has timed trigger) |
+| Bypass Type                                              |                                          |
+| Lock                                                     | +100 gp (Open Lock DC 30)                |
+| Hidden switch                                            | +200 gp (Search DC 25)                   |
+| Hidden lock                                              | +300 gp (Open Lock DC 30, Search DC 25)  |
+| Search DC                                                |                                          |
+| 19 or lower                                              | –100 gp x (20 – DC)                      |
+| 20                                                       | —                                        |
+| 21 or higher                                             | +200 gp x (DC – 20)                      |
+| Disable Device DC                                        |                                          |
+| 19 or lower                                              | –100 gp x (20 – DC)                      |
+| 20                                                       | —                                        |
+| 21 or higher                                             | +200 gp x (DC – 20)                      |
+| Reflex Save DC (Pit or Other Save-Dependent Trap)        |                                          |
+| 19 or lower                                              | –100 gp x (20 – DC)                      |
+| 20                                                       | —                                        |
+| 21 or higher                                             | +300 gp x (DC – 20)                      |
+| Attack Bonus (Melee or Ranged Attack Trap)               |                                          |
+| +9 or lower                                              | –100 gp x (10 – bonus)                   |
+| +10                                                      | —                                        |
+| +11 or higher                                            | +200 gp x (bonus – 10)                   |
+| Damage Bonus                                             |                                          |
+| High strength rating (ranged attack trap)                | +100 gp x bonus (max +4)                 |
+| High Strength bonus (melee attack trap)                  | +100 gp x bonus (max +8)                 |
+| Miscellaneous Features                                   |                                          |
+| Never miss                                               | +1,000 gp                                |
+| Poison                                                   | Cost of poison\*                         |
+| Alchemical item                                          | Cost of item\*                           |
+| \* Multiply cost by 20 if trap features automatic reset. |                                          |
 
-  : Table: Cost Modifiers for Mechanical Traps
+Table: Cost Modifiers for Mechanical Traps
 
 ### Magic Device Trap Cost
 
@@ -1146,56 +1146,68 @@ as well.
 
 A magic device trap takes one day to construct per 500 gp of its cost.
 
-+-----------------------------------+-----------------------------------+
-| Feature                           | Cost Modifier                     |
-+-----------------------------------+-----------------------------------+
-| *Alarm* spell used in trigger     | ---                               |
-+-----------------------------------+-----------------------------------+
-| One-Shot Trap                     |                                   |
-+-----------------------------------+-----------------------------------+
-| Each spell used in trap           | <div>                             |
-|                                   |                                   |
-|                                   | +50 gp x caster level x spell     |
-|                                   | level,                            |
-|                                   |                                   |
-|                                   | </div>                            |
-|                                   |                                   |
-|                                   | <div>                             |
-|                                   |                                   |
-|                                   | +4 XP x caster level x spell      |
-|                                   | level                             |
-|                                   |                                   |
-|                                   | </div>                            |
-+-----------------------------------+-----------------------------------+
-| Material components               | \+ Cost of all material           |
-|                                   | components                        |
-+-----------------------------------+-----------------------------------+
-| XP components                     | \+ Total of XP components x 5 gp  |
-+-----------------------------------+-----------------------------------+
-| Automatic Reset Trap              |                                   |
-+-----------------------------------+-----------------------------------+
-| Each spell used in trap           | <div>                             |
-|                                   |                                   |
-|                                   | +500 gp x caster level x spell    |
-|                                   | level,                            |
-|                                   |                                   |
-|                                   | </div>                            |
-|                                   |                                   |
-|                                   | <div>                             |
-|                                   |                                   |
-|                                   | +40 XP x caster level x spell     |
-|                                   | level                             |
-|                                   |                                   |
-|                                   | </div>                            |
-+-----------------------------------+-----------------------------------+
-| Material components               | \+ Cost of all material           |
-|                                   | components x 100 gp               |
-+-----------------------------------+-----------------------------------+
-| XP components                     | \+ Total of XP components x 500   |
-|                                   | gp                                |
-+-----------------------------------+-----------------------------------+
+<table class="half-width-table">
+<caption>Table: Cost Modifiers for Magic Device Traps</caption>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Feature</th>
+<th>Cost Modifier</th>
+</tr>
 
-: Table: Cost Modifiers for Magic Device Traps
+<tr class="odd">
+<td><em>Alarm</em> spell used in trigger</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td style="font-style: italic">One-Shot Trap</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Each spell used in trap</td>
+<td><div>
++50 gp x caster level x spell level,
+</div>
+<div>
++4 XP x caster level x spell level
+</div></td>
+</tr>
+<tr class="even">
+<td>Material components</td>
+<td>+ Cost of all material components</td>
+</tr>
+<tr class="odd">
+<td>XP components</td>
+<td>+ Total of XP components x 5 gp</td>
+</tr>
+<tr class="even">
+<td style="font-style: italic">Automatic Reset Trap</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Each spell used in trap</td>
+<td><div>
++500 gp x caster level x spell level,
+</div>
+<div>
++40 XP x caster level x spell level
+</div></td>
+</tr>
+<tr class="even">
+<td>Material components</td>
+<td>+ Cost of all material components x 100 gp</td>
+</tr>
+<tr class="odd">
+<td>XP components</td>
+<td>+ Total of XP components x 500 gp</td>
+</tr>
+</tbody>
+</table>
+
+Table: Cost Modifiers for Magic Device Traps
 
 ### Spell Trap Cost
 
@@ -1207,18 +1219,18 @@ to cast it.
 Once you know the Challenge Rating of a trap determine the Craft
 (trapmaking) DC by referring to the table and the modifiers given below.
 
-  --------- ----------------------------
-  Trap CR   Base Craft (Trapmaking) DC
-  1--3      20
-  4--6      25
-  7--10     30
-  --------- ----------------------------
+|         |                            |
+|---------|----------------------------|
+| Trap CR | Base Craft (Trapmaking) DC |
+| 1–3     | 20                         |
+| 4–6     | 25                         |
+| 7–10    | 30                         |
 
-  ----------------------- -----------------------------------
-  Additional Components   Modifier to Craft (Trapmaking) DC
-  Proximity trigger       +5
-  Automatic reset         +5
-  ----------------------- -----------------------------------
+|                       |                                   |
+|-----------------------|-----------------------------------|
+| Additional Components | Modifier to Craft (Trapmaking) DC |
+| Proximity trigger     | +5                                |
+| Automatic reset       | +5                                |
 
 **Making the Checks:** To determine how much progress a character makes
 on building a trap each week, that character makes a Craft (trapmaking)

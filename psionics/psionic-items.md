@@ -56,25 +56,25 @@ opportunity.
 
 Activating a psionic item is a standard action unless the item
 description indicates otherwise. The manifesting time of a power is the
-time required to activate the same power in an item, whether it's a
+time required to activate the same power in an item, whether it’s a
 power stone, a dorje, or a psionic tattoo, unless the item description
 specifically states otherwise.
 
 The four ways to activate psionic items are described below.
 
 **Power Completion:** This is the activation method for power stones. A
-power stone holds a power that is mostly finished. All that's left to do
+power stone holds a power that is mostly finished. All that’s left to do
 is perform the short, simple, finishing parts of the manifestation (the
 final mental coda, as it were). To use a power completion item safely, a
 character must be of high enough level in the appropriate class to
-manifest the power already. If he can't already manifest the power,
-there's a chance he'll make a mistake (see Brainburn in the power stone
+manifest the power already. If he can’t already manifest the power,
+there’s a chance he’ll make a mistake (see Brainburn in the power stone
 description). Activating a power completion item is a standard action
 and provokes attacks of opportunity exactly as manifesting a power does.
 
 Powers stored in power completion items are usually not augmented,
 because the manifester level of such an item is assumed to be the
-minimum necessary to manifest the stored power. However, an item's
+minimum necessary to manifest the stored power. However, an item’s
 description may specify otherwise (some power stones have manifester
 levels higher than the minimum required to manifest the stored power,
 and are then assumed to be augmented as well).
@@ -82,7 +82,7 @@ and are then assumed to be augmented as well).
 **Power Trigger:** This is the activation method for dorjes and
 psicrowns. It requires the special knowledge of power manifestation that
 a character of the appropriate class would know, and the formation of
-the appropriate command thought. If a power is on a character's power
+the appropriate command thought. If a power is on a character’s power
 list, the character knows how to use a power trigger item that stores
 that power. The user must still determine what power is stored in the
 item before she can activate it. Activating a power trigger item is a
@@ -130,10 +130,10 @@ either a standard action or not an action at all and does not provoke
 attacks of opportunity, unless the use involves performing an action
 that provokes attacks of opportunity in itself. If the use of the item
 takes time before a psionic effect occurs, then use activation is a
-standard action. If the item's activation is subsumed in its use and
+standard action. If the item’s activation is subsumed in its use and
 takes no extra time, use activation is not an action at all.
 
-Use activation doesn't mean that if you use an item, you automatically
+Use activation doesn’t mean that if you use an item, you automatically
 know what it can do. You must know (or at least guess) what the item can
 do and then use the item to activate it, unless the benefit of the item
 comes automatically.
@@ -149,7 +149,7 @@ power from a psionic item is always 10 + the level of the power or
 effect + the ability modifier of the minimum ability score needed to
 manifest that level of power.
 
-Another way to figure the same number is to multiply the power's level
+Another way to figure the same number is to multiply the power’s level
 by 1-1/2 and add 10 to the result.
 
 Psicrowns are an exception to the rule. Treat the saving throw as if the
@@ -159,7 +159,7 @@ to save DC.
 Some psionic items take advantage of the fact that powers can be
 augmented to increase their saving throw DCs. These items are special
 and have their cost to create and market price calculated using the
-manifester's level instead of the power's level.
+manifester’s level instead of the power’s level.
 
 Most item descriptions give saving throw DCs for various effects,
 particularly when the effect has no exact power equivalent (making its
@@ -167,16 +167,16 @@ level otherwise difficult to quickly determine).
 
 ## Damaging Psionic Items
 
-A psionic item doesn't need to make a saving throw unless it is
+A psionic item doesn’t need to make a saving throw unless it is
 unattended, it is specifically targeted by the effect, or its wielder
 rolls a natural 1 on his saving throw. Psionic items should always get a
-save against powers or spells that might deal damage to them---even
+save against powers or spells that might deal damage to them—even
 against attacks from which a mundane item would normally get no chance
-to save. All types of psionic item saves---Fortitude, Reflex, and
-Will---are calculated the same way: The item's saving throw bonus equals
-2 + 1/2 its manifester level (round down). The only exceptions to this
-rule are intelligent psionic items, which make Will saves based on their
-own Wisdom scores.
+to save. All types of psionic item saves—Fortitude, Reflex, and Will—are
+calculated the same way: The item’s saving throw bonus equals 2 + 1/2
+its manifester level (round down). The only exceptions to this rule are
+intelligent psionic items, which make Will saves based on their own
+Wisdom scores.
 
 A psionic item, unless otherwise noted, takes damage as a normal item of
 the same type. A damaged psionic item continues to function, but if it
@@ -187,8 +187,8 @@ is destroyed, all its psionic power is lost.
 Some psionic items (especially psionic weapons and shields) may take
 damage over the course of an adventure. It costs no more to repair a
 psionic item with the Craft skill than it does to repair its nonpsionic
-counterpart. The *make whole* spell can repair a damaged---but not
-completely broken--- psionic item.
+counterpart. The *make whole* spell can repair a damaged—but not
+completely broken— psionic item.
 
 ## Intelligent Items
 
@@ -199,11 +199,11 @@ points) can be intelligent. (This means that psionic tattoos, power
 stones, and dorjes, among other items, are never intelligent.) In
 general, less than 1% of psionic items have intelligence.
 
-## Cursed Items {#psionic-items--cursed-items}
+## Cursed Items
 
-Some psionic items are cursed---incorrectly made, or corrupted by
-outside forces. Cursed items might be particularly dangerous to the
-user, or they might be normal items with a minor f law, an inconvenient
+Some psionic items are cursed—incorrectly made, or corrupted by outside
+forces. Cursed items might be particularly dangerous to the user, or
+they might be normal items with a minor f law, an inconvenient
 requirement, or an unpredictable nature. Randomly generated items are
 cursed 5% of the time.
 
@@ -223,11 +223,11 @@ by 2 to determine the number by which the manifester level is multiplied
 
 Market prices given on the tables are always for fully charged or fully
 powered items. (When an item is created, it is fully charged or fully
-powered.) For an item that's worthless when its charges or power points
+powered.) For an item that’s worthless when its charges or power points
 run out (which is the case for almost all charged or powered items), the
 value of the partially used item is proportional to the number of
 charges left. For an item that has usefulness in addition to its
-charges, only part of the item's value is based on the number of charges
+charges, only part of the item’s value is based on the number of charges
 left.
 
 Some items are single-use and expendable. Such items can often be found
@@ -238,21 +238,21 @@ in sets or groups.
 Many magic items can aid psionic characters. The table below provides
 some possibilities.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------
-  Magic Item                                                                                                                                                             Psionic Effect
-  Helm of telepathy                                                                                                                                                      Substitute power for spell
-  Pearl of power                                                                                                                                                         Treat in all ways as a *cognizance crystal* with power point capacity appropriate to the equivalent power level
-  Crystal ball                                                                                                                                                           Substitute power for spell
-  Ioun stones                                                                                                                                                            
-  Vibrant purple                                                                                                                                                         Stores three levels of psionic powers
-  Pale lavender                                                                                                                                                          Absorbs powers up to 4th level (burns out as normal)
-  Rainbow^1^                                                                                                                                                             Provides 5 power points per day (regenerates)
-  Dull gray^2^                                                                                                                                                           Provides 1 power point to a psionic character, then disintegrates
-  1 New item: Treat as a *cognizance crystal* in *ioun stone* form, except that it regenerates its stored power points each day; Price 16,000 gp.                        
-  2 Dull gray stones are useless for magic but still harbor just enough resonance that a psionic character can eke out 1 power point before the stone is gone forever.   
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                                      |                                                                                                                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Magic Item                                                                                                                                                           | Psionic Effect                                                                                                  |
+| Helm of telepathy                                                                                                                                                    | Substitute power for spell                                                                                      |
+| Pearl of power                                                                                                                                                       | Treat in all ways as a *cognizance crystal* with power point capacity appropriate to the equivalent power level |
+| Crystal ball                                                                                                                                                         | Substitute power for spell                                                                                      |
+| Ioun stones                                                                                                                                                          |                                                                                                                 |
+| Vibrant purple                                                                                                                                                       | Stores three levels of psionic powers                                                                           |
+| Pale lavender                                                                                                                                                        | Absorbs powers up to 4th level (burns out as normal)                                                            |
+| Rainbow<sup>1</sup>                                                                                                                                                  | Provides 5 power points per day (regenerates)                                                                   |
+| Dull gray<sup>2</sup>                                                                                                                                                | Provides 1 power point to a psionic character, then disintegrates                                               |
+| 1 New item: Treat as a *cognizance crystal* in *ioun stone* form, except that it regenerates its stored power points each day; Price 16,000 gp.                      |                                                                                                                 |
+| 2 Dull gray stones are useless for magic but still harbor just enough resonance that a psionic character can eke out 1 power point before the stone is gone forever. |                                                                                                                 |
 
-  : Table: Magic--Psionics Equivalencies
+Table: Magic–Psionics Equivalencies
 
 ## Psionic Item Descriptions
 
@@ -263,18 +263,18 @@ specific items.
 General descriptions include notes on activation, random generation, and
 other information. The Armor Class, hardness, hit points, and break DC
 are given for typical examples of some types of psionic items. The Armor
-Class assumes that the item is unattended and includes a --5 penalty for
-the item's effective Dexterity of 0. If a creature holds the item, use
-the creature's Dexterity modifier as an adjustment to Armor Class in
-place of the --5 penalty.
+Class assumes that the item is unattended and includes a –5 penalty for
+the item’s effective Dexterity of 0. If a creature holds the item, use
+the creature’s Dexterity modifier as an adjustment to Armor Class in
+place of the –5 penalty.
 
 Some individual items, notably those that simply store psionic powers,
-don't get full-blown descriptions. Simply reference the power's
+don’t get full-blown descriptions. Simply reference the power’s
 description. Assume that the power is manifested at the minimum level
 required to manifest it, unless otherwise noted. Increasing the
 manifester level so increases the cost of the item; see Table:
-Estimating Magic Item Gold Piece Value,substituting "spell" for "power"
-and "caster level" for "manifester level" as appropriate. The main
+Estimating Magic Item Gold Piece Value,substituting “spell” for “power”
+and “caster level” for “manifester level” as appropriate. The main
 reason to make the manifester level higher, or course, would be to
 increase the potency of the power. Raising the manifester level is
 common for powers such as *astral construct*, the duration of which
@@ -287,37 +287,37 @@ description.
 **Aura:** Most of the time, a *detect psionics* power will reveal the
 discipline associated with a psionic item and the strength of the aura
 an item emits. This information (when applicable) is given at the
-beginning of the item's notational entry in the form of a phrase. See
+beginning of the item’s notational entry in the form of a phrase. See
 the *detect psionics* power description for more information.
 
 **Manifester Level:** The next entry in the summary indicates the level
 of the creator (or the manifester level of the powers placed within the
 item, if this level is lower than the actual level of the creator). The
-manifester level provides the item's saving throw bonus, as well as
+manifester level provides the item’s saving throw bonus, as well as
 range and other level-dependent aspects of the powers of the item (if
 variable).
 
 It also determines the level that must be contended with should the item
 come under the effect of a *dispel psionics* power or a similar
-situation. This information is given in the form "ML x," where "ML" is
+situation. This information is given in the form “ML x,” where “ML” is
 an abbreviation for manifester
 
-level and "x" is an ordinal number representing the manifester level
+level and “x” is an ordinal number representing the manifester level
 itself.
 
 For psionic tattoos, power stones, and dorjes, the creator can set the
 manifester level of an item at any number high enough to manifest the
 stored power and not higher than her own manifester level. For other
 psionic items, the item itself determines the manifester level. In this
-case, the creator's manifester level must be as high as the item's
+case, the creator’s manifester level must be as high as the item’s
 manifester level (and prerequisites may effectively put a higher minimum
-on the creator's level).
+on the creator’s level).
 
 **Prerequisites:** Certain requirements must be met in order for a
 character to create a psionic item. These include feats, powers, and
 miscellaneous requirements such as level, alignment, and race or kind.
 The prerequisites for creation of an item are given in the summary
-immediately following the item's manifester level.
+immediately following the item’s manifester level.
 
 A power prerequisite can be provided by a character who knows the power,
 or through the use of a power completion or power trigger psionic item
@@ -335,19 +335,19 @@ and another character knows the rest.
 
 If two or more characters cooperate to create an item, they must agree
 among themselves who will be considered the creator for the purpose of
-determinations where the creator's level must be known. (It's sensible,
+determinations where the creator’s level must be known. (It’s sensible,
 although not mandatory, for the highest-level character involved to be
 considered the creator.) The character designated as the creator pays
 the experience points required to make the item.
 
 Typically, a list of prerequisites includes one feat and one or more
 powers (or some other requirement in addition to the feat). When two
-powers at the end of a list are separated by "or," one of those powers
+powers at the end of a list are separated by “or,” one of those powers
 is required in addition to every other power mentioned prior to the last
 two.
 
 **Market Price:** This gold piece value, given in the summary following
-the word "Price," represents the price someone should expect to pay to
+the word “Price,” represents the price someone should expect to pay to
 buy the item. Market prices are also included on the random generation
 tables for easy reference. The market price of an item that can be
 constructed with a psionic item creation feat is usually equal to the
@@ -355,39 +355,39 @@ base price + the price for any components (special materials or
 experience point expenditure).
 
 **Cost to Create:** The cost in gold pieces and experience points to
-create the item is given in the summary following the word "Cost." This
+create the item is given in the summary following the word “Cost.” This
 information appears only for items with components (material or
 experience points) that make their market prices higher than their base
 prices. The cost to create includes the costs derived from the base cost
 plus the cost of the components. Items without components do not have a
-"Cost" entry. For them, the market price and base price are the same.
+“Cost” entry. For them, the market price and base price are the same.
 The cost in gold pieces is 1/2 the market price, and the cost in
 experience points is 1/25 the market price.
 
 **Weight:** The notational entry for many items ends with a value for
-the item's weight. When a weight figure is not given, the item has no
+the item’s weight. When a weight figure is not given, the item has no
 weight worth noting (for the purpose of determining how much of a load a
 character can carry).
 
 ### Random Psionic Items
 
-  --------- --------- --------- ----------------------------------------------
-  Minor     Medium    Major     Item
-  01--02    01--05    01--05    Armor, possibly with special ability
-  03--04    06--10    06--10    Shield, possibly with special ability
-  05--06    11--15    11--15    Melee weapon, possibly with special ability
-  08--09    16--20    16--20    Ranged weapon, possibly with special ability
-  10--40    21--40    21--35    Cognizance crystal
-  41--46    41--50    36--45    Dorje
-  47--81    51--68    46--67    Power stone
-  82--87    69--82    68--75    Psicrown
-  88--93    83--89    76--87    Psionic tattoo
-  94--100   ---       ---       Minor universal item
-  ---       90--100   ---       Medium universal item
-  ---       ---       88--100   Major universal item
-  --------- --------- --------- ----------------------------------------------
+|        |        |        |                                              |
+|--------|--------|--------|----------------------------------------------|
+| Minor  | Medium | Major  | Item                                         |
+| 01–02  | 01–05  | 01–05  | Armor, possibly with special ability         |
+| 03–04  | 06–10  | 06–10  | Shield, possibly with special ability        |
+| 05–06  | 11–15  | 11–15  | Melee weapon, possibly with special ability  |
+| 08–09  | 16–20  | 16–20  | Ranged weapon, possibly with special ability |
+| 10–40  | 21–40  | 21–35  | Cognizance crystal                           |
+| 41–46  | 41–50  | 36–45  | Dorje                                        |
+| 47–81  | 51–68  | 46–67  | Power stone                                  |
+| 82–87  | 69–82  | 68–75  | Psicrown                                     |
+| 88–93  | 83–89  | 76–87  | Psionic tattoo                               |
+| 94–100 | —      | —      | Minor universal item                         |
+| —      | 90–100 | —      | Medium universal item                        |
+| —      | —      | 88–100 | Major universal item                         |
 
-  : Table: Random Psionic Item Generation
+Table: Random Psionic Item Generation
 
 ### Armor and Shields
 
@@ -402,61 +402,61 @@ their construction. Particularly powerful armor and shields may be
 entirely composed of brightly hued or transparent crystals.
 
 **Special Qualities:** Roll d%. An 01 result indicates the item is
-intelligent, an 02--31 result indicates that the command thought (if
-any) is psionically imprinted and whispers itself into the user's mind
-on acquisition, and 32--100 indicates no special qualities.
+intelligent, an 02–31 result indicates that the command thought (if any)
+is psionically imprinted and whispers itself into the user’s mind on
+acquisition, and 32–100 indicates no special qualities.
 
 Intelligent items have extra abilities and sometimes also extraordinary
 powers and special purposes. Substitute manifesting for spellcasting as
 required.
 
-  ------------------------------------------------------------------------------------------------------------------------------- -------- -------- ----------------------- ---------------------
-  Minor                                                                                                                           Medium   Major    Special Ability         Base Price Modifier
-  01--30                                                                                                                          01--07   01--03   Quickness               +1 bonus^1^
-  31--74                                                                                                                          08--30   04--05   Landing                 +4,000 gp
-  75--80                                                                                                                          31--46   06--10   Floating                +4,000 gp
-  81--96                                                                                                                          47--55   11--20   Linked                  +6,000 gp
-  97                                                                                                                              56--66   21--30   Seeing                  +6,000 gp
-  98                                                                                                                              67--75   31--40   Power resistance (13)   +2 bonus^1^
-  99                                                                                                                              76--83   41--50   Ectoplasmic             +10,800 gp
-  ---                                                                                                                             84--89   51--60   Gleaming                +3 bonus^1^
-  ---                                                                                                                             90--94   61--70   Power resistance (15)   +3 bonus^1^
-  ---                                                                                                                             95--98   71--77   Vanishing               +3 bonus^1^
-  ---                                                                                                                             99       78--83   Mindarmor               +24,000 gp
-  ---                                                                                                                             ---      84--89   Power resistance (17)   +4 bonus^1^
-  ---                                                                                                                             ---      90--94   Radiant                 +4 bonus^1^
-  ---                                                                                                                             ---      95--96   Aporter                 +40,320 gp
-  ---                                                                                                                             ---      97--98   Power resistance (19)   +5 bonus^1^
-  ---                                                                                                                             ---      99       Phasing                 +65,520 gp
-  100                                                                                                                             100      100      Roll twice again^2^     ---
-  1 Add to enhancement bonusto determine total market price.                                                                                                                
-  2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better.                                             
-  ------------------------------------------------------------------------------------------------------------------------------- -------- -------- ----------------------- ---------------------
+|                                                                                                                               |        |       |                              |                      |
+|-------------------------------------------------------------------------------------------------------------------------------|--------|-------|------------------------------|----------------------|
+| Minor                                                                                                                         | Medium | Major | Special Ability              | Base Price Modifier  |
+| 01–30                                                                                                                         | 01–07  | 01–03 | Quickness                    | +1 bonus<sup>1</sup> |
+| 31–74                                                                                                                         | 08–30  | 04–05 | Landing                      | +4,000 gp            |
+| 75–80                                                                                                                         | 31–46  | 06–10 | Floating                     | +4,000 gp            |
+| 81–96                                                                                                                         | 47–55  | 11–20 | Linked                       | +6,000 gp            |
+| 97                                                                                                                            | 56–66  | 21–30 | Seeing                       | +6,000 gp            |
+| 98                                                                                                                            | 67–75  | 31–40 | Power resistance (13)        | +2 bonus<sup>1</sup> |
+| 99                                                                                                                            | 76–83  | 41–50 | Ectoplasmic                  | +10,800 gp           |
+| —                                                                                                                             | 84–89  | 51–60 | Gleaming                     | +3 bonus<sup>1</sup> |
+| —                                                                                                                             | 90–94  | 61–70 | Power resistance (15)        | +3 bonus<sup>1</sup> |
+| —                                                                                                                             | 95–98  | 71–77 | Vanishing                    | +3 bonus<sup>1</sup> |
+| —                                                                                                                             | 99     | 78–83 | Mindarmor                    | +24,000 gp           |
+| —                                                                                                                             | —      | 84–89 | Power resistance (17)        | +4 bonus<sup>1</sup> |
+| —                                                                                                                             | —      | 90–94 | Radiant                      | +4 bonus<sup>1</sup> |
+| —                                                                                                                             | —      | 95–96 | Aporter                      | +40,320 gp           |
+| —                                                                                                                             | —      | 97–98 | Power resistance (19)        | +5 bonus<sup>1</sup> |
+| —                                                                                                                             | —      | 99    | Phasing                      | +65,520 gp           |
+| 100                                                                                                                           | 100    | 100   | Roll twice again<sup>2</sup> | —                    |
+| 1 Add to enhancement bonusto determine total market price.                                                                    |        |       |                              |                      |
+| 2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better. |        |       |                              |                      |
 
-  : Table: Psionic Armor Special Abilities
+Table: Psionic Armor Special Abilities
 
-  ------------------------------------------------------------------------------------------------------------------------------- -------- -------- ----------------------- ---------------------
-  Minor                                                                                                                           Medium   Major    Special Ability         Base Price Modifier
-  01--35                                                                                                                          01--05   01--03   Heartening              +720 gp
-  35--60                                                                                                                          06--10   04--05   Ranged                  +1 bonus^1^
-  61--89                                                                                                                          11--15   06--10   Linked                  +6,000 gp
-  90--97                                                                                                                          16--35   11--24   Power resistance (13)   +2 bonus^1^
-  98                                                                                                                              36--58   25--34   Manifester              +10,800 gp
-  99                                                                                                                              69--88   35--44   Averter                 +12,960 gp
-  ---                                                                                                                             89--92   45--54   Vanishing               +3 bonus^1^
-  ---                                                                                                                             93--96   55--64   Power resistance (15)   +3 bonus^1^
-  ---                                                                                                                             97--98   65--74   Wall                    +20,160 gp
-  ---                                                                                                                             99       75--81   Mindarmor               +24,000 gp
-  ---                                                                                                                             ---      82--88   Power resistance (17)   +4 bonus^1^
-  ---                                                                                                                             ---      89--93   Aporter                 +40,320 gp
-  ---                                                                                                                             ---      94--96   Time buttress           +5 bonus^1^
-  ---                                                                                                                             ---      97--99   Power resistance (19)   +5 bonus^1^
-  100                                                                                                                             100      100      Roll twice again^2^     ---
-  1 Add to enhancement bonus to determine total market price.                                                                                                               
-  2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better.                                             
-  ------------------------------------------------------------------------------------------------------------------------------- -------- -------- ----------------------- ---------------------
+|                                                                                                                               |        |       |                              |                      |
+|-------------------------------------------------------------------------------------------------------------------------------|--------|-------|------------------------------|----------------------|
+| Minor                                                                                                                         | Medium | Major | Special Ability              | Base Price Modifier  |
+| 01–35                                                                                                                         | 01–05  | 01–03 | Heartening                   | +720 gp              |
+| 35–60                                                                                                                         | 06–10  | 04–05 | Ranged                       | +1 bonus<sup>1</sup> |
+| 61–89                                                                                                                         | 11–15  | 06–10 | Linked                       | +6,000 gp            |
+| 90–97                                                                                                                         | 16–35  | 11–24 | Power resistance (13)        | +2 bonus<sup>1</sup> |
+| 98                                                                                                                            | 36–58  | 25–34 | Manifester                   | +10,800 gp           |
+| 99                                                                                                                            | 69–88  | 35–44 | Averter                      | +12,960 gp           |
+| —                                                                                                                             | 89–92  | 45–54 | Vanishing                    | +3 bonus<sup>1</sup> |
+| —                                                                                                                             | 93–96  | 55–64 | Power resistance (15)        | +3 bonus<sup>1</sup> |
+| —                                                                                                                             | 97–98  | 65–74 | Wall                         | +20,160 gp           |
+| —                                                                                                                             | 99     | 75–81 | Mindarmor                    | +24,000 gp           |
+| —                                                                                                                             | —      | 82–88 | Power resistance (17)        | +4 bonus<sup>1</sup> |
+| —                                                                                                                             | —      | 89–93 | Aporter                      | +40,320 gp           |
+| —                                                                                                                             | —      | 94–96 | Time buttress                | +5 bonus<sup>1</sup> |
+| —                                                                                                                             | —      | 97–99 | Power resistance (19)        | +5 bonus<sup>1</sup> |
+| 100                                                                                                                           | 100    | 100   | Roll twice again<sup>2</sup> | —                    |
+| 1 Add to enhancement bonus to determine total market price.                                                                   |        |       |                              |                      |
+| 2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better. |        |       |                              |                      |
 
-  : Table: Psionic Shield Special Abilities
+Table: Psionic Shield Special Abilities
 
 #### Psionic Armor and Shield Special Ability Descriptions
 
@@ -484,7 +484,7 @@ Faint telepathy; ML 5th; Craft Psionic Arms and Armor, *aversion;* Price
 +12,960 gp.
 
 **Ectoplasmic:** As a standard action, ectoplasmic armor converts
-itself, its wearer, and all the wearer's equipment into *ectoplasmic
+itself, its wearer, and all the wearer’s equipment into *ectoplasmic
 form* for up to 5 minutes once per day, as the power of the same name.
 In this semisolid state, the wearer gains damage reduction 10/psionics.
 
@@ -500,8 +500,8 @@ Faint psychoportation; ML 4th; Craft Psionic Arms and Armor, *float;*
 Price +4,000 gp.
 
 **Gleaming:** This kind of armor is usually made of crystal, though it
-doesn't have to be. Gleams and flashes from the armor give the wearer
-and his armor a "fuzzy" appearance, granting the wearer concealment.
+doesn’t have to be. Gleams and flashes from the armor give the wearer
+and his armor a “fuzzy” appearance, granting the wearer concealment.
 
 Faint metacreativity; ML 5th; Craft Psionic Arms and Armor, *concealing
 amorpha;* Price +3 bonus.
@@ -531,7 +531,7 @@ Price +6,000 gp.
 **Manifester:** This kind of shield generates 3 power points once per
 day that the wearer can use when manifesting a power he knows. These
 power points must all be used on the same power. As usual, a psionic
-character cannot pay a power's cost with power points from more than one
+character cannot pay a power’s cost with power points from more than one
 source, so the power points in the shield must be used for discrete
 manifestations.
 
@@ -557,7 +557,7 @@ ending up prone in front of the now impassable barrier.
 
 Phasing through a wall that separates two adjacent squares on the grid
 counts as 5 feet of distance. Phasing through a wall or barrier of any
-greater thickness counts as a distance equal to the barrier's thickness
+greater thickness counts as a distance equal to the barrier’s thickness
 plus 5 feet. feet of distance.
 
 Strong psychoportation; ML 13th; Craft Psionic Arms and Armor, *psionic
@@ -572,7 +572,7 @@ Moderate clairsentience; ML 9th; Craft Psionic Arms and Armor, *power
 resistance;* Price +2 bonus (PR 13); +3 bonus (PR 15); +4 bonus (PR 17);
 or +5 bonus (PR 19).
 
-**Quickness:** This kind of armor increases the wearer's speed by 5
+**Quickness:** This kind of armor increases the wearer’s speed by 5
 feet. Thus, a character whose normal speed in armor is 20 feet moves 25
 feet in *armor of quickness.*
 
@@ -599,15 +599,15 @@ all ways as a ranged weapon and cannot be blocked or grabbed except by
 those with appropriate feats. No matter the size of the wielder, a
 buckler or light shield deals 1d6 points of damage and a heavy one 1d8
 points. (A tower shield cannot be created with this special ability.)
-The wielder's Strength modifier and the shield's enhancement bonus add
+The wielder’s Strength modifier and the shield’s enhancement bonus add
 to the base damage.
 
 A ranged shield flies through the air back to the creature that threw
-it. It returns to the wielder just before the creature's next turn (and
+it. It returns to the wielder just before the creature’s next turn (and
 is therefore ready to use again in that turn).
 
 Catching a ranged shield when it comes back is a free action. If the
-wielder can't catch it, or if the wielder has moved since throwing it,
+wielder can’t catch it, or if the wielder has moved since throwing it,
 the shield drops to the ground in the square from which it was thrown.
 
 Faint psychokinesis; ML 5th; Craft Psionic Arms and Armor, *far hand;*
@@ -617,7 +617,7 @@ Price +1 bonus.
 vision, so that opponents flanking the wearer gain only a +1 bonus on
 their attack rolls instead of +2 (rogues still get their full sneak
 attack damage because the wearer is still flanked). The wearer gains a
-+1 enhancement bonus on Spot checks but takes a --2 penalty on saves
++1 enhancement bonus on Spot checks but takes a –2 penalty on saves
 against gaze attacks.
 
 Faint clairsentience; ML 5th; Craft Psionic Arms and Armor, *ubiquitous
@@ -631,7 +631,7 @@ Strong psychoportation; ML 17th; Craft Psionic Arms and Armor, *timeless
 body;* Price +5 bonus.
 
 **Vanishing:** On command, this suit of armor or shield renders its
-wearer and all the wearer's equipment invisible to the minds of others,
+wearer and all the wearer’s equipment invisible to the minds of others,
 as if he had manifested the power *cloud mind*. The wearer can use this
 ability twice per day.
 
@@ -682,61 +682,61 @@ weapons. Psionic weapons do not have the chance to generate light
 
 **Mentally Audible:** Fully 30% of psionic weapons telepathically
 mutter, croon, recite battle poems, scream, or produce other mental
-"noises" when first drawn, at first blood, or when they slay a
+“noises” when first drawn, at first blood, or when they slay a
 significant enemy. Such a weapon cannot be concealed from creatures
-within 15 feet when it is drawn, nor can its mental "soundtrack" be
+within 15 feet when it is drawn, nor can its mental “soundtrack” be
 curbed.
 
 **Activation:** Usually a character benefits from a psionic weapon in
-the same way a character benefits from a mundane weapon---by attacking
+the same way a character benefits from a mundane weapon—by attacking
 with it. If a weapon has a special ability that the user needs to
 activate, then the user usually needs to project a command thought (a
 standard action).
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------- --------- --------------------- ---------------------
-  Minor                                                                                                                                                                                                                                                                     Medium    Major     Special Ability       Base Price Modifier
-  01--15                                                                                                                                                                                                                                                                    01--10    ---       Psychokinetic         +1 bonus^1^
-  16--45                                                                                                                                                                                                                                                                    11--25    01--09    Dissipater            +1 bonus^1^
-  46--55                                                                                                                                                                                                                                                                    26--30    10--12    Lucky                 +1 bonus^1^
-  56--70                                                                                                                                                                                                                                                                    31--40    13--17    Sundering             +1 bonus^1^
-  71--80                                                                                                                                                                                                                                                                    41--46    18--21    Power storing         +1 bonus^1^
-  81--99                                                                                                                                                                                                                                                                    51--56    22--30    Collision             +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       57--65    31--37    Mindcrusher           +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       66--71    38--41    Psychokinetic burst   +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       72--75    42--49    Suppression           +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       76--78    50--58    Psibane               +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       79--81    59--61    Parrying              +8,000 gp
-  ---                                                                                                                                                                                                                                                                       82--85    62--65    Manifester            +16,000 gp
-  ---                                                                                                                                                                                                                                                                       86--88    66--71    Bodyfeeder            +3 bonus^1^
-  ---                                                                                                                                                                                                                                                                       89--91    72--77    Mindfeeder            +3 bonus^1^
-  ---                                                                                                                                                                                                                                                                       92--93    78--83    Soulbreaker           +3 bonus^1^
-  ---                                                                                                                                                                                                                                                                       94        84--86    Psychic               +35,000 gp
-  ---                                                                                                                                                                                                                                                                       95        87--90    Coup de grace         +5 bonus^1^
-  100                                                                                                                                                                                                                                                                       96--100   91--100   Roll again twice^2^   ---
-  1 Add to enhancement bonus to determine total market price.                                                                                                                                                                                                                                                         
-  2 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you've already rolled, or if the extra ability puts you over the +10 limit. A weapon's enhancement bonus and special ability bonus equivalents can't total more than +10.                                             
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------- --------- --------------------- ---------------------
+|                                                                                                                                                                                                                                                                         |        |        |                              |                      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|------------------------------|----------------------|
+| Minor                                                                                                                                                                                                                                                                   | Medium | Major  | Special Ability              | Base Price Modifier  |
+| 01–15                                                                                                                                                                                                                                                                   | 01–10  | —      | Psychokinetic                | +1 bonus<sup>1</sup> |
+| 16–45                                                                                                                                                                                                                                                                   | 11–25  | 01–09  | Dissipater                   | +1 bonus<sup>1</sup> |
+| 46–55                                                                                                                                                                                                                                                                   | 26–30  | 10–12  | Lucky                        | +1 bonus<sup>1</sup> |
+| 56–70                                                                                                                                                                                                                                                                   | 31–40  | 13–17  | Sundering                    | +1 bonus<sup>1</sup> |
+| 71–80                                                                                                                                                                                                                                                                   | 41–46  | 18–21  | Power storing                | +1 bonus<sup>1</sup> |
+| 81–99                                                                                                                                                                                                                                                                   | 51–56  | 22–30  | Collision                    | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 57–65  | 31–37  | Mindcrusher                  | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 66–71  | 38–41  | Psychokinetic burst          | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 72–75  | 42–49  | Suppression                  | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 76–78  | 50–58  | Psibane                      | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 79–81  | 59–61  | Parrying                     | +8,000 gp            |
+| —                                                                                                                                                                                                                                                                       | 82–85  | 62–65  | Manifester                   | +16,000 gp           |
+| —                                                                                                                                                                                                                                                                       | 86–88  | 66–71  | Bodyfeeder                   | +3 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 89–91  | 72–77  | Mindfeeder                   | +3 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 92–93  | 78–83  | Soulbreaker                  | +3 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 94     | 84–86  | Psychic                      | +35,000 gp           |
+| —                                                                                                                                                                                                                                                                       | 95     | 87–90  | Coup de grace                | +5 bonus<sup>1</sup> |
+| 100                                                                                                                                                                                                                                                                     | 96–100 | 91–100 | Roll again twice<sup>2</sup> | —                    |
+| 1 Add to enhancement bonus to determine total market price.                                                                                                                                                                                                             |        |        |                              |                      |
+| 2 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you’ve already rolled, or if the extra ability puts you over the +10 limit. A weapon’s enhancement bonus and special ability bonus equivalents can’t total more than +10. |        |        |                              |                      |
 
-  : Table: Psionic Melee Weapon Special Abilities
+Table: Psionic Melee Weapon Special Abilities
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------- --------- --------------------- ---------------------
-  Minor                                                                                                                                                                                                                                                                     Medium    Major     Special Ability       Base Price Modifier
-  01--20                                                                                                                                                                                                                                                                    01--15    ---       Teleporting           +1 bonus^1^
-  21--40                                                                                                                                                                                                                                                                    16--30    ---       Psychokinetic         +1 bonus^1^
-  41--100                                                                                                                                                                                                                                                                   31--45    01--30    Collision             +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       46--50    31--40    Suppression           +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       51--66    41--65    Psychokinetic burst   +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       67--74    66--69    Psibane               +2 bonus^1^
-  ---                                                                                                                                                                                                                                                                       75--78    70--73    Manifester            +16,000 gp
-  ---                                                                                                                                                                                                                                                                       79--82    74--79    Dislocator            +3 bonus^1^
-  ---                                                                                                                                                                                                                                                                       83--98    80--90    Great dislocator      +4 bonus^1^
-  ---                                                                                                                                                                                                                                                                       ---       91--97    Coup de grace         +5 bonus^1^
-  ---                                                                                                                                                                                                                                                                       99--100   98--100   Roll again twice^2^   ---
-  1 Add to enhancement bonus to determine total market price.                                                                                                                                                                                                                                                         
-  2 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you've already rolled, or if the extra ability puts you over the +10 limit. A weapon's enhancement bonus and special ability bonus equivalents can't total more than +10.                                             
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------- --------- --------------------- ---------------------
+|                                                                                                                                                                                                                                                                         |        |        |                              |                      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|------------------------------|----------------------|
+| Minor                                                                                                                                                                                                                                                                   | Medium | Major  | Special Ability              | Base Price Modifier  |
+| 01–20                                                                                                                                                                                                                                                                   | 01–15  | —      | Teleporting                  | +1 bonus<sup>1</sup> |
+| 21–40                                                                                                                                                                                                                                                                   | 16–30  | —      | Psychokinetic                | +1 bonus<sup>1</sup> |
+| 41–100                                                                                                                                                                                                                                                                  | 31–45  | 01–30  | Collision                    | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 46–50  | 31–40  | Suppression                  | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 51–66  | 41–65  | Psychokinetic burst          | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 67–74  | 66–69  | Psibane                      | +2 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 75–78  | 70–73  | Manifester                   | +16,000 gp           |
+| —                                                                                                                                                                                                                                                                       | 79–82  | 74–79  | Dislocator                   | +3 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 83–98  | 80–90  | Great dislocator             | +4 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | —      | 91–97  | Coup de grace                | +5 bonus<sup>1</sup> |
+| —                                                                                                                                                                                                                                                                       | 99–100 | 98–100 | Roll again twice<sup>2</sup> | —                    |
+| 1 Add to enhancement bonus to determine total market price.                                                                                                                                                                                                             |        |        |                              |                      |
+| 2 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you’ve already rolled, or if the extra ability puts you over the +10 limit. A weapon’s enhancement bonus and special ability bonus equivalents can’t total more than +10. |        |        |                              |                      |
 
-  : Table: Psionic Ranged Weapon Special Abilities
+Table: Psionic Ranged Weapon Special Abilities
 
 #### Psionic Weapon Special Ability Descriptions
 
@@ -759,7 +759,7 @@ of the vampire;* Price +3 bonus.
 
 **Collision:** Collision weapons psionically increase their own mass at
 the end point of each swing or shot. Such weapons deal an extra 5 points
-of damage on each successful strike, in addition to the weapon's
+of damage on each successful strike, in addition to the weapon’s
 enhancement bonus. Bows, crossbows, and slings bestow the extra damage
 upon their ammunition.
 
@@ -778,7 +778,7 @@ dominate;* Price +5 bonus.
 
 **Dislocator:** The wielder of this kind of weapon can attempt to
 dislocate a designated foe up to three times per day. On a successful
-hit, the foe must succeed on a DC 17 Will save or be teleported 1--100
+hit, the foe must succeed on a DC 17 Will save or be teleported 1–100
 miles in a random direction. If the weapon misses, the use is wasted.
 Bows, crossbows, and slings bestow this ability on their ammunition.
 
@@ -816,7 +816,7 @@ one;* Price +1 bonus.
 **Manifester:** This kind of weapon generates 5 power points once per
 day that the wearer can use when manifesting a power he knows. These
 power points must all be used on the same power. As usual, a psionic
-character cannot pay a power's cost with power points from more than one
+character cannot pay a power’s cost with power points from more than one
 source, so the power points in the shield must be used for discrete
 manifestations.
 
@@ -853,7 +853,7 @@ vampire;* Price +3 bonus.
 
 **Parrying:** A parrying weapon perceives an instant into the future,
 and of its own accord resists melee and ranged attacks aimed at the
-wielder, granting a +1 insight bonus to the wielder's Armor Class. The
+wielder, granting a +1 insight bonus to the wielder’s Armor Class. The
 weapon is so adept at parrying that it even affects incoming powers,
 granting the wielder a +1 insight bonus on saving throws. The bonuses
 are granted whenever the wielder holds the weapon, even if flat-footed.
@@ -891,23 +891,23 @@ ammunition.
 Strong clairsentience; ML 15th; Craft Psionic Arms and Armor, *bend
 reality;* Price +2 bonus.
 
-**Psychic:** A psychic weapon's power depends on its wielder. In the
+**Psychic:** A psychic weapon’s power depends on its wielder. In the
 hands of a nonpsionic creature, the weapon possesses the qualities of a
 nonmagical, nonpsionic masterwork weapon. When wielded by a psionic
-creature, this weapon has an enhancement bonus based on the wielder's
+creature, this weapon has an enhancement bonus based on the wielder’s
 current power point reserve, as shown on the following table. The
-weapon's enhancement bonus decreases as the wielder spends power points,
+weapon’s enhancement bonus decreases as the wielder spends power points,
 and it increases whenever the wielder gains enough power points (by any
 means) to put his power point reserve into the next higher category.
 
-  --------------------- -------------------
-  Power Point Reserve   Enhancement Bonus
-  1--4                  +1
-  5--29                 +2
-  30--79                +3
-  80--129               +4
-  130 or higher         +5
-  --------------------- -------------------
+|                     |                   |
+|---------------------|-------------------|
+| Power Point Reserve | Enhancement Bonus |
+| 1–4                 | +1                |
+| 5–29                | +2                |
+| 30–79               | +3                |
+| 80–129              | +4                |
+| 130 or higher       | +5                |
 
 Strong clairsentience; ML 17th; Craft Psionic Arms and Armor, *reality
 revision;* Price +35,000.
@@ -926,7 +926,7 @@ Moderate psychokinesis; ML 10th; Craft Psionic Arms and Armor,
 that also releases a blast of destructive psionic energy upon scoring a
 successful critical hit. In addition to the extra damage of the
 psychokinetic ability (see above), a psychokinetic burst weapon deals an
-extra 1d6 points of damage on a successful critical hit. If the weapon's
+extra 1d6 points of damage on a successful critical hit. If the weapon’s
 critical multiplier is x3, add 2d6 points of extra damage instead, and
 if the multiplier is x4, add 3d6 points of extra damage. This extra
 damage is ectoplasmic in nature and is not affected by damage reduction.
@@ -945,7 +945,7 @@ character level.
 Strong telepathy; ML 12th; Craft Psionic Arms and Armor, *mindwipe;*
 Price +3 bonus.
 
-**Sundering:** This kind of weapon allows a wielder to attack opponents'
+**Sundering:** This kind of weapon allows a wielder to attack opponents’
 weapons as if he had the Improved Sunder feat.
 
 Faint metacreativity; ML 5th; Craft Psionic Arms and Armor, Great
@@ -963,9 +963,9 @@ psionics;* Price +2 bonus.
 
 **Teleporting:** This ability can be imbedded only in weapons that can
 be thrown. A teleporting weapon returns through the Astral Plane to the
-creature that threw it. It teleports into the throwing creature's empty
+creature that threw it. It teleports into the throwing creature’s empty
 hand in the round following the round when it was thrown, just before
-that creature's turn. It is therefore ready to use again on that turn.
+that creature’s turn. It is therefore ready to use again on that turn.
 
 Faint psychoportation; ML 5th; Craft Psionic Arms and Armor, *psionic
 dimension door;* Price +1 bonus.
@@ -989,9 +989,9 @@ points stored in the crystal to manifest powers she knows.
 The maximum number of points a *cognizance crystal* can store is always
 an odd number and is never more than 17. It can store only as many power
 points as its original maximum, set at the time of its creation. When a
-*cognizance crystal's* power points are used up, the glow of the crystal
+*cognizance crystal’s* power points are used up, the glow of the crystal
 dims. However, the user can recharge it by paying power points on a
-1-for-1 basis. While doing this depletes the user's own power point
+1-for-1 basis. While doing this depletes the user’s own power point
 reserve for the day, those power points remain available in the
 *cognizance crystal* until used.
 
@@ -1000,20 +1000,20 @@ stored in a *cognizance crystal,* nor can she draw power points from
 more than one source to manifest a power. See Using Stored Power Points
 for more information.
 
-  --------- --------- --------- ----------------------------- --------------
-  Minor     Medium    Major     Maximum Power Point Storage   Market Price
-  01--90    01--40    ---       1                             1,000 gp
-  91--100   41--74    ---       3                             4,000 gp
-  ---       75--89    01--39    5                             9,000 gp
-  ---       90--98    40--59    7                             16,000 gp
-  ---       99--100   60--69    9                             25,000 gp
-  ---       ---       70--70    11                            36,000 gp
-  ---       ---       80--89    13                            49,000 gp
-  ---       ---       90--95    15                            64,000 gp
-  ---       ---       96--100   17                            81,000 gp
-  --------- --------- --------- ----------------------------- --------------
+|        |        |        |                             |              |
+|--------|--------|--------|-----------------------------|--------------|
+| Minor  | Medium | Major  | Maximum Power Point Storage | Market Price |
+| 01–90  | 01–40  | —      | 1                           | 1,000 gp     |
+| 91–100 | 41–74  | —      | 3                           | 4,000 gp     |
+| —      | 75–89  | 01–39  | 5                           | 9,000 gp     |
+| —      | 90–98  | 40–59  | 7                           | 16,000 gp    |
+| —      | 99–100 | 60–69  | 9                           | 25,000 gp    |
+| —      | —      | 70–70  | 11                          | 36,000 gp    |
+| —      | —      | 80–89  | 13                          | 49,000 gp    |
+| —      | —      | 90–95  | 15                          | 64,000 gp    |
+| —      | —      | 96–100 | 17                          | 81,000 gp    |
 
-  : Table: Cognizance Crystals
+Table: Cognizance Crystals
 
 Faint to strong psychokinesis; ML equal to maximum power point storage;
 Craft Cognizance Crystal; Weight 1 lb.
@@ -1042,35 +1042,35 @@ the general direction of the target or area to be affected.
 
 Dorjes are normally created at the minimum manifester level required to
 manifest the power, and powers that can be augmented are not augmented
-when stored in a dorje. A dorje's wielder cannot augment the power
+when stored in a dorje. A dorje’s wielder cannot augment the power
 contained within the dorje. However, dorjes can be created at a higher
 manifester level than required to manifest the power. In this case, the
 dorje that holds an augmentable power is augmented, to the limit of the
-manifester level and the power's augmentation maximums, if any. The
+manifester level and the power’s augmentation maximums, if any. The
 manifester level of a dorje cannot be more than five higher than the
 minimum manifester level to use the power it contains.
 
-  ------------------------------------------------------------------------------------------------------------------------ --------- --------- ---------------- -----------------
-  Minor                                                                                                                    Medium    Major     Power Level^1^   Market Price^2^
-  01--50                                                                                                                   ---       ---       1st              750 gp
-  51--95                                                                                                                   01--05    ---       2nd              4,500 gp
-  96--100                                                                                                                  06--65    ---       3rd              11,250 gp
-  ---                                                                                                                      66--95    01--05    4th              21,000 gp
-  ---                                                                                                                      96--100   06--50    5th              33,750 gp
-  ---                                                                                                                      ---       51--70    6th              49,500 gp
-  ---                                                                                                                      ---       71--85    7th              68,250 gp
-  ---                                                                                                                      ---       86--95    8th              90,000 gp
-  ---                                                                                                                      ---       95--100   9th              114,750 gp
-  1 Some dorjes have higher manifester levels than the minimum power level, which give them commensurately higher costs.                                        
-  2 Any dorje that stores a power with an experience point cost also has an XP cost in addition to that noted here.                                             
-  ------------------------------------------------------------------------------------------------------------------------ --------- --------- ---------------- -----------------
+|                                                                                                                        |        |        |                         |                          |
+|------------------------------------------------------------------------------------------------------------------------|--------|--------|-------------------------|--------------------------|
+| Minor                                                                                                                  | Medium | Major  | Power Level<sup>1</sup> | Market Price<sup>2</sup> |
+| 01–50                                                                                                                  | —      | —      | 1st                     | 750 gp                   |
+| 51–95                                                                                                                  | 01–05  | —      | 2nd                     | 4,500 gp                 |
+| 96–100                                                                                                                 | 06–65  | —      | 3rd                     | 11,250 gp                |
+| —                                                                                                                      | 66–95  | 01–05  | 4th                     | 21,000 gp                |
+| —                                                                                                                      | 96–100 | 06–50  | 5th                     | 33,750 gp                |
+| —                                                                                                                      | —      | 51–70  | 6th                     | 49,500 gp                |
+| —                                                                                                                      | —      | 71–85  | 7th                     | 68,250 gp                |
+| —                                                                                                                      | —      | 86–95  | 8th                     | 90,000 gp                |
+| —                                                                                                                      | —      | 95–100 | 9th                     | 114,750 gp               |
+| 1 Some dorjes have higher manifester levels than the minimum power level, which give them commensurately higher costs. |        |        |                         |                          |
+| 2 Any dorje that stores a power with an experience point cost also has an XP cost in addition to that noted here.      |        |        |                         |                          |
 
-  : Table: Dorjes
+Table: Dorjes
 
 ### Power Stones
 
 A power stone stores a power (or collection of powers). A stored power
-can be used only once, "flushing" the stone. Using a power stone is
+can be used only once, “flushing” the stone. Using a power stone is
 basically like manifesting a power.
 
 **Physical Description:** A power stone is a thumb-sized chunk of
@@ -1084,15 +1084,15 @@ points, a hardness of 8, and a break DC of 20.
 address it, as described below. Once the power is known, the power stone
 is treated as a power completion item, except as noted below.
 
-*Addressing the Stone:* A power stone must be "addressed" before a
+*Addressing the Stone:* A power stone must be “addressed” before a
 character can use it or know exactly what power it contains. Doing this
 requires a successful Psicraft check (DC 15 + power level). Once a
 particular power stone has been addressed, it is not necessary to do so
 again. Addressing a power stone in advance lets a character proceed
 directly to the next step when the time comes to use it.
 
-Using a stone's stored power after addressing the stone requires holding
-the stone and willing the power's manifestation, as if manifesting a
+Using a stone’s stored power after addressing the stone requires holding
+the stone and willing the power’s manifestation, as if manifesting a
 power normally (a standard action). Activating a power stone is subject
 to disruption just as manifesting a power normally would be.
 
@@ -1102,29 +1102,29 @@ Additionally, the user must meet the following requirements.
 -   The user must have the requisite key ability score.
 
 If the user meets these requirements and has a manifester level at least
-equal to the power's manifester level, she can automatically manifest
+equal to the power’s manifester level, she can automatically manifest
 the stored power without a check. If she meets both requirements but her
-own level is lower than the power stone's manifester level, she has to
-make a manifester level check (1d20 + user's level), against a DC equal
-to the power stone's manifester level +1, to manifest the power
+own level is lower than the power stone’s manifester level, she has to
+make a manifester level check (1d20 + user’s level), against a DC equal
+to the power stone’s manifester level +1, to manifest the power
 successfully. On a failure, the user must succeed on a DC 5 Wisdom check
 to avoid brainburn (see below). A natural roll of 1 on this check is
 always a failure.
 
 *Determine Effect:* A power successfully manifested from a power stone
-works exactly as if manifested normally. Assume the power stone's
+works exactly as if manifested normally. Assume the power stone’s
 manifester level is always the minimum level required to manifest the
 power for the character who imprinted the stone, unless the creator
 specifically desires otherwise.
 
-A power stone's glow fades when its stored power is flushed.
+A power stone’s glow fades when its stored power is flushed.
 
 *Brainburn:* When something goes awry, the user of a power stone
 improperly manifests the stored power. The resultant psionic surge
 persists for 1d4 rounds, unless the power stone is flung farther than
 100 feet away or is destroyed. This surge deals 1d6 points of damage per
 power stored per round and arcs across multiple targets, similar to
-*energy current*, except the damage type isn't specified. The user is
+*energy current*, except the damage type isn’t specified. The user is
 the primary target, and one nearby ally is the secondary target (chosen
 at random).
 
@@ -1132,39 +1132,39 @@ The manifester level for a standard power stone is the minimum
 manifester level needed to manifest the power (unless otherwise
 specified).
 
-  --------- -----------------
-  d%        Type
-  01--70    Psion/wilder
-  71--100   Psychic warrior
-  --------- -----------------
+|        |                 |
+|--------|-----------------|
+| d%     | Type            |
+| 01–70  | Psion/wilder    |
+| 71–100 | Psychic warrior |
 
-  : Table: Power Stone Types
+Table: Power Stone Types
 
-  ------------------ ------------------
-  Power Stone Type   Number of Powers
-  Minor              1d3 powers
-  Medium             1d4 powers
-  Major              1d6 powers
-  ------------------ ------------------
+|                  |                  |
+|------------------|------------------|
+| Power Stone Type | Number of Powers |
+| Minor            | 1d3 powers       |
+| Medium           | 1d4 powers       |
+| Major            | 1d6 powers       |
 
-  : Table: Powers Imprinted in a Power Stone
+Table: Powers Imprinted in a Power Stone
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------- --------- --------- ------------- -----------------
-  Minor                                                                                                                                              Medium    Major     Power Level   Market Price^1^
-  01--50                                                                                                                                             ---       ---       1st           25 gp
-  51--95                                                                                                                                             01--05    ---       2nd           150 gp
-  96--100                                                                                                                                            06--65    ---       3rd           375 gp
-  ---                                                                                                                                                66--95    01--05    4th           700 gp
-  ---                                                                                                                                                96--100   06--50    5th           1,125 gp
-  ---                                                                                                                                                ---       51--70    6th           1,650 gp
-  ---                                                                                                                                                ---       71--85    7th^2^        2,275 gp
-  ---                                                                                                                                                ---       86--95    8th^2^        3,000 gp
-  ---                                                                                                                                                ---       95--100   9th^2^        3,825 gp
-  1 Any power stone that has an imprinted power with an experience point cost also has an XP cost in addition to that noted here.                                                      
-  2 Reroll if a level of 7th or higher is indicated for a psychic warrior power stone. The maximum level for a psychic warrior power stone is 6th.                                     
-  -------------------------------------------------------------------------------------------------------------------------------------------------- --------- --------- ------------- -----------------
+|                                                                                                                                                  |        |        |                 |                          |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|-----------------|--------------------------|
+| Minor                                                                                                                                            | Medium | Major  | Power Level     | Market Price<sup>1</sup> |
+| 01–50                                                                                                                                            | —      | —      | 1st             | 25 gp                    |
+| 51–95                                                                                                                                            | 01–05  | —      | 2nd             | 150 gp                   |
+| 96–100                                                                                                                                           | 06–65  | —      | 3rd             | 375 gp                   |
+| —                                                                                                                                                | 66–95  | 01–05  | 4th             | 700 gp                   |
+| —                                                                                                                                                | 96–100 | 06–50  | 5th             | 1,125 gp                 |
+| —                                                                                                                                                | —      | 51–70  | 6th             | 1,650 gp                 |
+| —                                                                                                                                                | —      | 71–85  | 7th<sup>2</sup> | 2,275 gp                 |
+| —                                                                                                                                                | —      | 86–95  | 8th<sup>2</sup> | 3,000 gp                 |
+| —                                                                                                                                                | —      | 95–100 | 9th<sup>2</sup> | 3,825 gp                 |
+| 1 Any power stone that has an imprinted power with an experience point cost also has an XP cost in addition to that noted here.                  |        |        |                 |                          |
+| 2 Reroll if a level of 7th or higher is indicated for a psychic warrior power stone. The maximum level for a psychic warrior power stone is 6th. |        |        |                 |                          |
 
-  : Table: Power Stone Levels
+Table: Power Stone Levels
 
 ### Psicrowns
 
@@ -1192,36 +1192,36 @@ does not provoke attacks of opportunity. (If the power being manifested,
 however, has a longer manifesting time than 1 standard action, it takes
 that long to manifest the power from a psicrown.) When activating a
 psicrown, the user spends power points contained in the psicrown on any
-one of the psicrown's powers. Powers activated from a psicrown can be
+one of the psicrown’s powers. Powers activated from a psicrown can be
 augmented with additional power points from the psicrown itself, so long
-as the total number of power points spent does not exceed the user's
-manifester level. The user can't manifest a power from a psicrown using
+as the total number of power points spent does not exceed the user’s
+manifester level. The user can’t manifest a power from a psicrown using
 his own power points.
 
-  --------- --------- -------------------- --------------
-  Medium    Major     Psicrown             Market Price
-  01--20    01--09    Dominator            20,250 gp
-  21--51    10--20    Evader               28,500 gp
-  52--64    21--31    Cautious warrior     32,063 gp
-  65--79    32--41    Beast                33,750 gp
-  80--89    42--58    Great dominator      45,000 gp
-  90--97    59--68    Astral legion        47,250 gp
-  98--100   69--78    Discerning watcher   51,469 gp
-  ---       79--89    Fiery ruin           67,500 gp
-  ---       90--97    Traveler             80,156 gp
-  ---       98--100   Temporal juggler     95,625 gp
-  --------- --------- -------------------- --------------
+|        |        |                    |              |
+|--------|--------|--------------------|--------------|
+| Medium | Major  | Psicrown           | Market Price |
+| 01–20  | 01–09  | Dominator          | 20,250 gp    |
+| 21–51  | 10–20  | Evader             | 28,500 gp    |
+| 52–64  | 21–31  | Cautious warrior   | 32,063 gp    |
+| 65–79  | 32–41  | Beast              | 33,750 gp    |
+| 80–89  | 42–58  | Great dominator    | 45,000 gp    |
+| 90–97  | 59–68  | Astral legion      | 47,250 gp    |
+| 98–100 | 69–78  | Discerning watcher | 51,469 gp    |
+| —      | 79–89  | Fiery ruin         | 67,500 gp    |
+| —      | 90–97  | Traveler           | 80,156 gp    |
+| —      | 98–100 | Temporal juggler   | 95,625 gp    |
 
-  : Table: Psicrowns
+Table: Psicrowns
 
 #### Psicrown Descriptions
 
 Psicrowns have immense utility because they pack so many capabilities
-into one item and because they use the wearer's ability score and
+into one item and because they use the wearer’s ability score and
 relevant feats to set the DC for saves against their powers.
 
 Unlike with other sorts of psionic items, the wearer can use his
-manifester level when activating the power of a psicrown if it's higher
+manifester level when activating the power of a psicrown if it’s higher
 than the manifester level of the psicrown.
 
 The minimum manifester level of a psicrown is 8th. The manifester level
@@ -1245,11 +1245,11 @@ powers.
 -   *Claw of energy*
 -   *Duodimensional claw*
 -   *Prevenom*
--   *Psionic lion's charge*
+-   *Psionic lion’s charge*
 -   *Truevenom*
 
 Moderate psychometabolism; ML 9th; Craft Psicrown, *claw of energy,
-duodimensional claw, prevenom, psionic lion's charge, truevenom;* Price
+duodimensional claw, prevenom, psionic lion’s charge, truevenom;* Price
 33,750 gp.
 
 **Cautious Warrior:** This psicrown has 450 power points. It is made
@@ -1354,18 +1354,18 @@ Price 80,156 gp.
 ### Psionic Tattoos
 
 Psionic tattoos are designs scribed on the skin that manifest powers on
-their wearers. The wearer doesn't get to make any decisions about the
-tattoo's effect---the manifester who scribed it has already done so.
+their wearers. The wearer doesn’t get to make any decisions about the
+tattoo’s effect—the manifester who scribed it has already done so.
 
 Psionic tattoos can vary in size, but a creature can wear only a total
-of twenty tattoos at one time---attempting to add one more than this
+of twenty tattoos at one time—attempting to add one more than this
 maximum causes all previously scribed tattoos to simultaneously
 activate. A psionic tattoo fades away after use.
 
 **Physical Description:** A typical psionic tattoo is a colorful pattern
 of tiny, interlacing lines within a larger design. This design can be as
 simple as a circle or a star, or as complex as an artist wishes to make
-it. Once it is scribed, a tattoo's design does not change. A psionic
+it. Once it is scribed, a tattoo’s design does not change. A psionic
 tattoo usually covers an area of skin no more than 5 inches in diameter
 (larger ones could be designed, but would have no added effect).
 
@@ -1385,10 +1385,10 @@ cannot overlay one another.
 **Identifying Psionic Tattoos:** In addition to the standard methods of
 identification, the wearer of a tattoo can concentrate on it and attempt
 to gain some sense of how it would feel if activated. A successful DC 13
-Intelligence check provides a hint to the tattoo's effect.
+Intelligence check provides a hint to the tattoo’s effect.
 
 **Activation:** A psionic tattoo produces its effect when touched by its
-wearer and willed to do so. This activity, called "tapping" the tattoo,
+wearer and willed to do so. This activity, called “tapping” the tattoo,
 is a standard action that provokes attacks of opportunity. A psionic
 tattoo fades away after use.
 
@@ -1403,27 +1403,27 @@ The following rules govern the use of psionic tattoos.
     forces a Concentration check. A wearer who fails this check cannot
     concentrate effectively on the tattoo to use it. The tattoo remains
     untapped, and the wearer can make another attempt.
--   A character can trigger the effects of another's psionic tattoo if
+-   A character can trigger the effects of another’s psionic tattoo if
     the other wearer is unconscious. It is a full-round action to find,
-    touch, and concentrate on an unconscious creature's tattoo in order
+    touch, and concentrate on an unconscious creature’s tattoo in order
     to tap it.
 
 The manifester level for a standard psionic tattoo is the minimum
 manifester level needed to manifest the power (unless otherwise
 specified).
 
-  --------- --------- --------- ------------- --------------
-  Minor     Medium    Major     Power Level   Market Price
-  01--47    01--08    ---       1st           50 gp
-  47--100   09--75    01--50    2nd           300 gp
-  ---       76--100   51--100   3rd           750 gp
-  --------- --------- --------- ------------- --------------
+|        |        |        |             |              |
+|--------|--------|--------|-------------|--------------|
+| Minor  | Medium | Major  | Power Level | Market Price |
+| 01–47  | 01–08  | —      | 1st         | 50 gp        |
+| 47–100 | 09–75  | 01–50  | 2nd         | 300 gp       |
+| —      | 76–100 | 51–100 | 3rd         | 750 gp       |
 
-  : Table: Psionic Tattoos
+Table: Psionic Tattoos
 
 ### Universal Items
 
-This is a catchall category for any psionic item that doesn't fall into
+This is a catchall category for any psionic item that doesn’t fall into
 the other groups. Anyone can use a universal item (unless specified
 otherwise in the description).
 
@@ -1432,106 +1432,106 @@ otherwise in the description).
 **Activation:** Usually command thought, but details vary from item to
 item.
 
-  --------- --------------------------------- --------------
-  d%        Item                              Market Price
-  01--04    *Shard* (+1, any one skill)       10 gp
-  05--07    *Shard* (+2, any one skill)       40 gp
-  08--10    Crawling tattoo (any 1st level)   50 gp
-  11--14    Crawling tattoo of concussion     50 gp
-  15--18    *Shard* (+3, any one skill)       90 gp
-  19--21    *Shard* (+4, any one skill)       160 gp
-  22--24    *Shard* (+5, any one skill)       250 gp
-  25--28    Crawling tattoo (any 2nd level)   300 gp
-  29--31    Pearl, brain lock                 300 gp
-  32--35    *Shard* (+6, any one skill)       360 gp
-  36--38    *Shard* (+7, any one skill)       490 gp
-  39--41    Boots of stomping                 600 gp
-  42--44    *Shard* (+8, any one skill)       640 gp
-  45--47    Crawling tattoo (any 3rd level)   750 gp
-  48--50    Crawling tattoo of energy bolt    750 gp
-  51--53    Pearl, breath crisis              750 gp
-  54--56    *Shard* (+9, any one skill)       810 gp
-  57--59    Boots of landing                  1,000 gp
-  60--63    Psionic restraints, lesser        1,000 gp
-  64--67    *Shard* (+10, any one skill)      1,000 gp
-  68--71    Pearl, personality parasite       1,400 gp
-  72--75    Crystal mask of knowledge         2,500 gp
-  76--79    Crystal mask of languages         2,500 gp
-  80--85    Eyes of expanded vision           3,000 gp
-  86--89    Gloves of object reading          3,000 gp
-  90--92    Mirror of suggestion              3,600 gp
-  93--94    Psionic restraints, average       6,000 gp
-  95--97    Torc of free will                 6,000 gp
-  98--100   Boots of skating                  7,000 gp
-  --------- --------------------------------- --------------
+|        |                                 |              |
+|--------|---------------------------------|--------------|
+| d%     | Item                            | Market Price |
+| 01–04  | *Shard* (+1, any one skill)     | 10 gp        |
+| 05–07  | *Shard* (+2, any one skill)     | 40 gp        |
+| 08–10  | Crawling tattoo (any 1st level) | 50 gp        |
+| 11–14  | Crawling tattoo of concussion   | 50 gp        |
+| 15–18  | *Shard* (+3, any one skill)     | 90 gp        |
+| 19–21  | *Shard* (+4, any one skill)     | 160 gp       |
+| 22–24  | *Shard* (+5, any one skill)     | 250 gp       |
+| 25–28  | Crawling tattoo (any 2nd level) | 300 gp       |
+| 29–31  | Pearl, brain lock               | 300 gp       |
+| 32–35  | *Shard* (+6, any one skill)     | 360 gp       |
+| 36–38  | *Shard* (+7, any one skill)     | 490 gp       |
+| 39–41  | Boots of stomping               | 600 gp       |
+| 42–44  | *Shard* (+8, any one skill)     | 640 gp       |
+| 45–47  | Crawling tattoo (any 3rd level) | 750 gp       |
+| 48–50  | Crawling tattoo of energy bolt  | 750 gp       |
+| 51–53  | Pearl, breath crisis            | 750 gp       |
+| 54–56  | *Shard* (+9, any one skill)     | 810 gp       |
+| 57–59  | Boots of landing                | 1,000 gp     |
+| 60–63  | Psionic restraints, lesser      | 1,000 gp     |
+| 64–67  | *Shard* (+10, any one skill)    | 1,000 gp     |
+| 68–71  | Pearl, personality parasite     | 1,400 gp     |
+| 72–75  | Crystal mask of knowledge       | 2,500 gp     |
+| 76–79  | Crystal mask of languages       | 2,500 gp     |
+| 80–85  | Eyes of expanded vision         | 3,000 gp     |
+| 86–89  | Gloves of object reading        | 3,000 gp     |
+| 90–92  | Mirror of suggestion            | 3,600 gp     |
+| 93–94  | Psionic restraints, average     | 6,000 gp     |
+| 95–97  | Torc of free will               | 6,000 gp     |
+| 98–100 | Boots of skating                | 7,000 gp     |
 
-  : Table: Minor Universal Items
+Table: Minor Universal Items
 
-  --------- -------------------------------------- --------------
-  d%        Item                                   Market Price
-  01--04    Psionatrix of clairsentience           8,000 gp
-  05--08    Psionatrix of metacreativity           8,000 gp
-  09--12    Psionatrix of psychokinesis            8,000 gp
-  13--16    Psionatrix of psychometabolism         8,000 gp
-  17--20    Psionatrix of psychoportation          8,000 gp
-  21--25    Psionatrix of telepathy                8,000 gp
-  26--27    Third eye penetrate                    8,000 gp
-  28--29    Mirror of time hop                     9,000 gp
-  30--31    Crystal mask of detection              10,000 gp
-  32--33    Crystal mask of discernment            10,000 gp
-  34--35    Crystal mask of dread                  10,000 gp
-  36--38    Crystal mask of psionic craft          10,000 gp
-  39--41    Ring of self-sufficiency               10,000 gp
-  42--43    Skin of nimbleness                     10,000 gp
-  44--45    Third eye aware                        10,000 gp
-  46--47    Third eye concentrate                  10,000 gp
-  48--49    Third eye gather                       10,000 gp
-  50--52    Eyes of power leech                    10,080 gp
-  53--55    Third eye powerthieve                  10,080 gp
-  56--58    Third eye view                         10,180 gp
-  59--61    Crystal mask of mindarmor              10,667 gp
-  62--63    Psionic restraints, greater            12,000 gp
-  64--65    Torc of leech freedom                  12,000 gp
-  66--68    Gloves of titan's grip                 14,000 gp
-  69--70    Skin of the claw                       16,000 gp
-  71--72    Amulet of catapsi                      16,200 gp
-  73--74    Skin of the chameleon                  18,000 gp
-  75--76    Pearl, mind seed                       18,500 gp
-  77--78    Mirror of mind switch                  19,800 gp
-  79--80    Eyes of power leech, vampiric          20,160 gp
-  81--82    Crystal mask of insightful detection   20,250 gp
-  83--84    Crystal anchor, body                   24,000 gp
-  85--86    Crystal anchor, comprehension          24,000 gp
-  87--88    Crystal anchor, creation               24,000 gp
-  89--90    Crystal anchor, energy                 24,000 gp
-  91        Crystal anchor, ghost                  24,000 gp
-  92--93    Crystal anchor, mind                   24,000 gp
-  94--95    Crystal anchor, travel                 24,000 gp
-  96--97    Psionic restraints, damping            24,000 gp
-  98--100   Third eye sense                        24,000 gp
-  --------- -------------------------------------- --------------
+|        |                                      |              |
+|--------|--------------------------------------|--------------|
+| d%     | Item                                 | Market Price |
+| 01–04  | Psionatrix of clairsentience         | 8,000 gp     |
+| 05–08  | Psionatrix of metacreativity         | 8,000 gp     |
+| 09–12  | Psionatrix of psychokinesis          | 8,000 gp     |
+| 13–16  | Psionatrix of psychometabolism       | 8,000 gp     |
+| 17–20  | Psionatrix of psychoportation        | 8,000 gp     |
+| 21–25  | Psionatrix of telepathy              | 8,000 gp     |
+| 26–27  | Third eye penetrate                  | 8,000 gp     |
+| 28–29  | Mirror of time hop                   | 9,000 gp     |
+| 30–31  | Crystal mask of detection            | 10,000 gp    |
+| 32–33  | Crystal mask of discernment          | 10,000 gp    |
+| 34–35  | Crystal mask of dread                | 10,000 gp    |
+| 36–38  | Crystal mask of psionic craft        | 10,000 gp    |
+| 39–41  | Ring of self-sufficiency             | 10,000 gp    |
+| 42–43  | Skin of nimbleness                   | 10,000 gp    |
+| 44–45  | Third eye aware                      | 10,000 gp    |
+| 46–47  | Third eye concentrate                | 10,000 gp    |
+| 48–49  | Third eye gather                     | 10,000 gp    |
+| 50–52  | Eyes of power leech                  | 10,080 gp    |
+| 53–55  | Third eye powerthieve                | 10,080 gp    |
+| 56–58  | Third eye view                       | 10,180 gp    |
+| 59–61  | Crystal mask of mindarmor            | 10,667 gp    |
+| 62–63  | Psionic restraints, greater          | 12,000 gp    |
+| 64–65  | Torc of leech freedom                | 12,000 gp    |
+| 66–68  | Gloves of titan’s grip               | 14,000 gp    |
+| 69–70  | Skin of the claw                     | 16,000 gp    |
+| 71–72  | Amulet of catapsi                    | 16,200 gp    |
+| 73–74  | Skin of the chameleon                | 18,000 gp    |
+| 75–76  | Pearl, mind seed                     | 18,500 gp    |
+| 77–78  | Mirror of mind switch                | 19,800 gp    |
+| 79–80  | Eyes of power leech, vampiric        | 20,160 gp    |
+| 81–82  | Crystal mask of insightful detection | 20,250 gp    |
+| 83–84  | Crystal anchor, body                 | 24,000 gp    |
+| 85–86  | Crystal anchor, comprehension        | 24,000 gp    |
+| 87–88  | Crystal anchor, creation             | 24,000 gp    |
+| 89–90  | Crystal anchor, energy               | 24,000 gp    |
+| 91     | Crystal anchor, ghost                | 24,000 gp    |
+| 92–93  | Crystal anchor, mind                 | 24,000 gp    |
+| 94–95  | Crystal anchor, travel               | 24,000 gp    |
+| 96–97  | Psionic restraints, damping          | 24,000 gp    |
+| 98–100 | Third eye sense                      | 24,000 gp    |
 
-  : Table: Medium Universal Items
+Table: Medium Universal Items
 
-  --------- -------------------------------- --------------
-  d%        Item                             Market Price
-  01--08    Skin of the defender             32,000 gp
-  09--16    Torc of power preservation       36,000 gp
-  17--24    Boots of temporal acceleration   43,200 gp
-  25--32    Third eye repudiate              43,200 gp
-  33--40    Skin of fiery response           60,000 gp
-  41--49    Skin of the troll                61,200 gp
-  50--57    Skin of the hero                 77,500 gp
-  58--63    Skin of the spider               79,080 gp
-  64--72    Skin of proteus                  84,000 gp
-  73--80    Third eye expose                 112,000 gp
-  81--87    Third eye conceal                120,000 gp
-  88--92    Third eye dominate               120,000 gp
-  93--97    Skin of iron                     129,600 gp
-  98--100   Skin of the psion                151,000 gp
-  --------- -------------------------------- --------------
+|        |                                |              |
+|--------|--------------------------------|--------------|
+| d%     | Item                           | Market Price |
+| 01–08  | Skin of the defender           | 32,000 gp    |
+| 09–16  | Torc of power preservation     | 36,000 gp    |
+| 17–24  | Boots of temporal acceleration | 43,200 gp    |
+| 25–32  | Third eye repudiate            | 43,200 gp    |
+| 33–40  | Skin of fiery response         | 60,000 gp    |
+| 41–49  | Skin of the troll              | 61,200 gp    |
+| 50–57  | Skin of the hero               | 77,500 gp    |
+| 58–63  | Skin of the spider             | 79,080 gp    |
+| 64–72  | Skin of proteus                | 84,000 gp    |
+| 73–80  | Third eye expose               | 112,000 gp   |
+| 81–87  | Third eye conceal              | 120,000 gp   |
+| 88–92  | Third eye dominate             | 120,000 gp   |
+| 93–97  | Skin of iron                   | 129,600 gp   |
+| 98–100 | Skin of the psion              | 151,000 gp   |
 
-  : Table: Major Universal Items
+Table: Major Universal Items
 
 #### Universal Item Descriptions
 
@@ -1602,22 +1602,22 @@ tattoo once animated.
 The animated tattoo moves toward its designated target in the same round
 when it is activated. Treat it as a Fine construct that has AC 18, 10
 hit points, a hardness of 5, speed 30 feet, and a bonus on attack rolls
-equal to the wearer's manifester level + his key ability modifier.
+equal to the wearer’s manifester level + his key ability modifier.
 Crawling tattoos, unlike true constructs, are subject to illusions,
 darkness, fog, and similar effects. Should the target be killed,
 teleport away, or otherwise absent itself before the animated tattoo
 reaches it, the wearer can reclaim the tattoo. If it is destroyed, a
 crawling tattoo shatters and evaporates.
 
-A crawling tattoo must enter the target's square to attack and thus
-provokes attacks of opportunity as it passes through the target's
+A crawling tattoo must enter the target’s square to attack and thus
+provokes attacks of opportunity as it passes through the target’s
 threatened area. The tattoo makes one touch attack per round thereafter
 until it strikes its target or is destroyed. On a successful attack, the
 power scribed in the crawling tattoo affects the target if the target
 fails the appropriate saving throw; however, powers that normally allow
 a Reflex saving throw automatically affect the touched target. Crawling
 tattoos can ferry beneficial powers as well as harmful ones, and a
-target can allow the tattoo's touch attack to succeed if he or she
+target can allow the tattoo’s touch attack to succeed if he or she
 desires.
 
 Two examples of crawling tattoos are described below; many more types
@@ -1626,12 +1626,12 @@ are possible.
 *Market Price:* The cost of a crawling tattoo depends on the level of
 the power scribed in it.
 
-  ------------- --------------
-  Power Level   Market Price
-  1st           50 gp
-  2nd           300 gp
-  3rd           750 gp
-  ------------- --------------
+|             |              |
+|-------------|--------------|
+| Power Level | Market Price |
+| 1st         | 50 gp        |
+| 2nd         | 300 gp       |
+| 3rd         | 750 gp       |
 
 *Crawling Tattoo of Concussion*: This crawling tattoo delivers a
 concussion effect, dealing 1d6 points of damage to a creature hit by its
@@ -1672,7 +1672,7 @@ A *crystal anchor* can attempt to ensnare a victim only five times per
 day. Previously caught targets can remain caught day after day and do
 not count against this daily limit on attempts.
 
-An anchor's owner can designate certain creatures to be unaffected by
+An anchor’s owner can designate certain creatures to be unaffected by
 the anchor; such creatures need not make a saving throw and do not count
 against the daily limit on attempts. One *crystal anchor* can ensnare
 multiple targets simultaneously, and multiple *crystal anchors* can
@@ -1730,7 +1730,7 @@ psionic contingency*, any psychoportation power; Price 24,000 gp; Weight
 
 **Crystal Masks:** Each of the various types of crystal masks fits over
 the face of any Medium or Small humanoid, with slits for eyes and
-nostrils. The mask is transparent, although it distorts the wearer's
+nostrils. The mask is transparent, although it distorts the wearer’s
 features. Leather straps attached to small holes on the sides of a mask
 enable the owner to affix the mask to his face.
 
@@ -1794,17 +1794,17 @@ psionic craft* makes all Psicraft checks with a +10 competence bonus.
 Moderate clairsentience; ML 7th; Craft Universal Item, creator must have
 10 ranks in Psicraft; Price 10,000 gp; Weight 1/2 lb.
 
-**Eyes of Expanded Vision:** These crystal lenses fit over the user's
+**Eyes of Expanded Vision:** These crystal lenses fit over the user’s
 eyes to expand his field of vision. Flanking opponents gain only a +1
 bonus when attacking the user instead of +2 (rogues still get their full
 sneak attack damage because the wearer is still flanked). The wearer
-gains a +1 enhancement bonus on Spot checks but takes a --2 penalty on
+gains a +1 enhancement bonus on Spot checks but takes a –2 penalty on
 saves against gaze attacks.
 
 Faint clairsentience; ML 1st; Craft Universal Item, *ubiquitous vision;*
 Price 3,000 gp.
 
-**Eyes of Power Leech:** These crystal lenses fit over the user's eyes.
+**Eyes of Power Leech:** These crystal lenses fit over the user’s eyes.
 Once per day, the wearer is able to drain power points from another
 psionic creature or character by meeting its gaze as if using *power
 leech*. A selected target within 40 feet must succeed on a DC 16 Will
@@ -1835,13 +1835,13 @@ Strong telepathy; ML 15th; Craft Universal Item, *bend reality, power
 leech;* Price 20,160 gp.
 
 **Gloves of Object Reading:** While wearing these gloves, the user can
-learn the details of an inanimate object's previous owner if he handles
+learn the details of an inanimate object’s previous owner if he handles
 the object, as if manifesting the *object reading* power.
 
 Faint clairsentience; ML 1st; Craft Universal Item, *object reading;*
 Price 3,000 gp.
 
-**Gloves of Titan's Grip:** While wearing these oversize gloves, the
+**Gloves of Titan’s Grip:** While wearing these oversize gloves, the
 user gains a +8 enhancement bonus on grapple checks. The power is
 activated when the user enters a grapple. The enhancement bonus lasts
 for a maximum of 7 rounds per use, up to three uses per day.
@@ -1854,7 +1854,7 @@ once per day against a creature that sees its reflection within it, as a
 gaze attack with a range of 30 feet. Potential victims can attempt to
 avert their eyes or look away as they would from a normal gaze attack. A
 creature meeting its own gaze in the mirror must succeed on a DC 19 Will
-save, or its mind and the mind of the mirror's wielder switch, as if by
+save, or its mind and the mind of the mirror’s wielder switch, as if by
 the *mind switch* power. Because the mirror is small, only a single
 creature can meet its own gaze. The wielder of the mirror is not
 affected by seeing himself.
@@ -1867,7 +1867,7 @@ to twice per day against creatures that see their reflections within it,
 as a gaze attack with a range of 30 feet. Potential victims can attempt
 to avert their eyes or look away as they would from a normal gaze
 attack. A creature meeting its own gaze in the mirror must succeed on a
-DC 13 Will save or be affected by a *suggestion* chosen by the mirror's
+DC 13 Will save or be affected by a *suggestion* chosen by the mirror’s
 wielder. Because the mirror is small, only a single creature can meet
 its own gaze each round. The wielder of the mirror is not affected by
 seeing herself.
@@ -1914,7 +1914,7 @@ its target when hurled by its owner. He can hurl the pearl at any target
 within 150 feet that he can see and to which he has line of effect. If
 the target fails a DC 22 Will saving throw, the pearl seems to impact
 and then enter the flesh of the target. The target is affected as if by
-a *mind seed* power, with the pearl's wielder acting as the manifester.
+a *mind seed* power, with the pearl’s wielder acting as the manifester.
 The use destroys the item.
 
 Strong telepathy; ML 15th; Craft Universal Item, *mind seed;* Cost 6,000
@@ -1935,38 +1935,38 @@ amulet. Unless noted otherwise, a psionatrix adds a +1 enhancement bonus
 to the save DC when the wearer uses powers of the discipline to which
 the psionatrix is keyed.
 
-*Psionatrix of clairsentience:* Blue light glimmers in this crystal's
+*Psionatrix of clairsentience:* Blue light glimmers in this crystal’s
 heart.
 
 Moderate clairsentience; ML 8th; Craft Universal Item, creator must be a
 seer; Price 8,000 gp.
 
-*Psionatrix of metacreativity:* Green light glimmers in this crystal's
+*Psionatrix of metacreativity:* Green light glimmers in this crystal’s
 heart.
 
 Moderate metacreativity; ML 8th; Craft Universal Item, creator must be a
 shaper; Price 8,000 gp.
 
-*Psionatrix of psychokinesis:* Red light glimmers in this crystal's
+*Psionatrix of psychokinesis:* Red light glimmers in this crystal’s
 heart.
 
 Moderate psychokinesis; ML 8th; Craft Universal Item, creator must be a
 kineticist; Price 8,000 gp.
 
 *Psionatrix of psychometabolism:* Violet light glimmers in this
-crystal's heart.
+crystal’s heart.
 
 Moderate psychometabolism; ML 8th; Craft Universal Item, creator must be
 an egoist; Price 8,000 gp.
 
 *Psionatrix of psychoportation:* Yellow-red light glimmers in this
-crystal's heart.
+crystal’s heart.
 
 Moderate psychoportation; ML 8th; Craft Universal Item, creator must be
 a nomad; Price 8,000 gp.
 
 *Psionatrix of telepathy:* Piercing yellow light shines from this
-crystal's heart.
+crystal’s heart.
 
 Moderate telepathy; ML 8th; Craft Universal Item, creator must be a
 telepath; Price 8,000 gp.
@@ -1974,17 +1974,17 @@ telepath; Price 8,000 gp.
 **Psionic Restraints:** Each of the various psionic restraints is an
 iron cuff that cunningly locks around the wrist (DC 27 Open Lock check).
 The cuff limits the total number of power points a psionic creature
-wearing it can use in 1 round (regardless of the creature's total power
+wearing it can use in 1 round (regardless of the creature’s total power
 point reserve), or completely damps the ability to use psionics. All
 types of psionic restraints prevent the free manifesting of powers.
 
-  ---------------- ---------------------------- --------------
-  Restraint Type   Allowed Power Points/Round   Market Price
-  Lesser           5                            1,000 gp
-  Average          3                            6,000 gp
-  Greater          1                            12,000 gp
-  Damping          0                            24,000 gp
-  ---------------- ---------------------------- --------------
+|                |                            |              |
+|----------------|----------------------------|--------------|
+| Restraint Type | Allowed Power Points/Round | Market Price |
+| Lesser         | 5                          | 1,000 gp     |
+| Average        | 3                          | 6,000 gp     |
+| Greater        | 1                          | 12,000 gp    |
+| Damping        | 0                          | 24,000 gp    |
 
 Strong psychokinesis; ML 16th; Craft Universal Item, *bend reality,
 dispel psionics;* Weight 1 lb.
@@ -2033,8 +2033,8 @@ Price 32,000 gp; Weight 2 lb.
 
 *Skin of Fiery Response:* This psychoactive skin answers the first
 attack made against the wearer in each round with an automatically
-manifested and targeted "ectoburst" against the attacker. The burst
-ejects from the skin on the wearer's turn, making a ranged touch attack
+manifested and targeted “ectoburst” against the attacker. The burst
+ejects from the skin on the wearer’s turn, making a ranged touch attack
 as described in the *energy retort* power, but the energy type chosen is
 always fire. If the attack hits, the target takes 2d6 points of fire
 damage as the ectoburst flames up and is consumed. This attack does not
@@ -2053,7 +2053,7 @@ Price 77,500 gp; Weight 2 lb.
 
 *Skin of Iron:* This psychoactive skin affects the wearer as the
 *psionic iron body* power up to three times per day for 15 minutes with
-each use. When the skin's power is not active, it has no protective
+each use. When the skin’s power is not active, it has no protective
 qualities. Activating the *psionic iron body* effect is a standard
 action that provokes attacks of opportunity.
 
@@ -2171,7 +2171,7 @@ Moderate clairsentience; ML 7th; Craft Universal Item, creator must have
 10 ranks in Gather Information; Price 10,000 gp.
 
 *Penetrate:* While worn, a *third eye penetrate* grants the wearer a +2
-bonus on manifester level checks to overcome a creature's power
+bonus on manifester level checks to overcome a creature’s power
 resistance.
 
 Strong clairsentience; ML 15th; Craft Universal Item, *bend reality;*
@@ -2180,7 +2180,7 @@ Price 8,000 gp.
 *Powerthieve:* While worn, a *third eye powerthieve* allows the wearer
 to borrow one power from a psionic target within 40 feet once per day.
 If the target fails a DC 16 Will save, it instantly loses one power of
-the wearer's choice, and the wearer instantly gains temporary knowledge
+the wearer’s choice, and the wearer instantly gains temporary knowledge
 of this power.
 
 The wearer can manifest the borrowed power normally if she has
@@ -2248,14 +2248,14 @@ items can be worn on the body.
 Strong clairsentience; ML 15th; Craft Universal Item, *bend reality;*
 Price 36,000 gp; Weight 2 lb.
 
-### Cursed Items {#psionic-item-descriptions--cursed-items}
+### Cursed Items
 
-  --------- ------------
-  d%        Curse
-  01--33    Backfire
-  34--66    Exhausting
-  67--100   Subversive
-  --------- ------------
+|        |            |
+|--------|------------|
+| d%     | Curse      |
+| 01–33  | Backfire   |
+| 34–66  | Exhausting |
+| 67–100 | Subversive |
 
 **Backfire:** The imbedded psionic effect of the cursed item targets the
 user instead of its intended target.
@@ -2266,15 +2266,15 @@ the user of power points whenever he activates its power.
 
 **Subversive:** A cursed item of this sort appears identical to a
 standard psionic item. However, it holds an inner malice for the wearer,
-whose saving throws take a constant --2 penalty. The owner isn't
+whose saving throws take a constant –2 penalty. The owner isn’t
 instantly aware of this penalty but may become aware after a while, when
 it becomes clear that he fails saves that others make with the same
 result on the saving throw.
 
 #### Specific Cursed Item
 
-**Reverse Capacitor:** A *reverse capacitor* doesn't store power
-points---it drains them, to the surprise and chagrin of a psionic
+**Reverse Capacitor:** A *reverse capacitor* doesn’t store power
+points—it drains them, to the surprise and chagrin of a psionic
 character taken in by its resemblance to a *cognizance crystal.* Powers
 that identify psionic items incorrectly identify a *reverse capacitor*
 as a *cognizance crystal* 50% of the time.
@@ -2315,7 +2315,7 @@ Only *psychic chirurgery* or similarly extreme measures can restore
 sanity.
 
 The minds of nonpsionic beings are too clouded to benefit from the
-secrets of this book. To anyone without psionic aptitude, the book's
+secrets of this book. To anyone without psionic aptitude, the book’s
 pages appear to contain nothing but elaborate patterns and drawings of
 mysterious beings. Once it is read, the book vanishes into the Astral
 Plane to an unknown destination. Even if it is found again, the same
@@ -2325,10 +2325,10 @@ Strong telepathy; ML 20th; Weight 3 lb.
 
 #### Major Artifacts
 
-Major artifacts are unique items---only one of each such item exists.
-They are difficult to find and dangerous to handle, but once found, are
-often even more difficult to destroy. A major psionic artifact has only
-a single, specific means of destruction.
+Major artifacts are unique items—only one of each such item exists. They
+are difficult to find and dangerous to handle, but once found, are often
+even more difficult to destroy. A major psionic artifact has only a
+single, specific means of destruction.
 
 **Annulus:** This artifact is the ultimate psionic nullifier. Forged to
 keep enemies of vast psionic power at bay, the *Annulus* is an artifact
@@ -2343,7 +2343,7 @@ adequate surface for grasping the item.
 
 The *Annulus* has several powers, all of which require a wielder to
 tightly grasp the ring with at least one hand. When it is first grasped,
-knowledge of the artifact's powers immediately flood the wielder's mind.
+knowledge of the artifact’s powers immediately flood the wielder’s mind.
 The wielder can access all powers of the *Annulus* at manifester level
 20th.
 
@@ -2365,9 +2365,8 @@ specific psionic individual or item to a group of psionic beings that
 share the same philosophy. The nullification effect is accompanied by
 blasts of light, heat, and sound from the *Annulus.* Nonpsionic
 creatures and items are unaffected, as are nontargeted beings, but any
-psionic target---regardless of any protection it may
-possess---disintegrates in a terrific explosion. Nothing is left but
-floating dust.
+psionic target—regardless of any protection it may possess—disintegrates
+in a terrific explosion. Nothing is left but floating dust.
 
 It is relatively easy to nullify a single target or a small group of
 targets, but nullifying a more powerful being (such as a demigod or
@@ -2381,7 +2380,7 @@ with power that it is considered an artifact.
 
 The power points in the *Psicrown of the Crystal Mind* can be used to
 manifest any of the following powers at manifester level 20th (or at the
-wearer's manifester level if it is higher than 20th).
+wearer’s manifester level if it is higher than 20th).
 
 -   Burst
 -   Catfall
@@ -2433,7 +2432,7 @@ requirements for creating magic armor and magic weapons.
 To create a dorje, a character needs a small supply of materials, the
 most obvious being a chunk of crystal or the crystal shards of the dorje
 to be carved from or assembled. The cost of the materials is subsumed in
-the cost of creating the dorje---375 gp x the level of the power x the
+the cost of creating the dorje—375 gp x the level of the power x the
 level of the manifester. Dorjes are always fully charged (50 charges)
 when created.
 
@@ -2447,7 +2446,7 @@ you want.
 
 The creator must know the power or powers to be imprinted in the dorje
 (or must have the power available in some other form). If manifesting
-the power would reduce the manifester's experience point total, she pays
+the power would reduce the manifester’s experience point total, she pays
 the cost (multiplied by 50) upon beginning the dorje in addition to the
 experience point cost for making the dorje itself. The act of working on
 the dorje costs a number of power points per day equal to the power
@@ -2462,7 +2461,7 @@ Item Creation Feat Required: Craft Dorje.
 
 To create a power stone, a character needs a supply of incense and fine
 etching tools, the cost of which is subsumed in the cost of encoding the
-power stone---12.5 gp x the level of the power x the level of the
+power stone—12.5 gp x the level of the power x the level of the
 manifester. All materials used to imprint a power stone must be fresh
 and unused. A character must pay the full cost for encoding each power
 stone no matter how many times she previously has imprinted the same
@@ -2470,7 +2469,7 @@ power.
 
 The creator must know the power or powers to be imprinted in the power
 stone (or must have the power available in some other form). If
-manifesting the power would reduce the manifester's experience point
+manifesting the power would reduce the manifester’s experience point
 total, she pays the cost upon beginning the power stone in addition to
 the experience point cost for making the power stone itself. The act of
 encoding triggers the power as if it had been manifested, costing the
@@ -2486,7 +2485,7 @@ Item Creation Feat Required: Imprint Stone.
 To create a psicrown, a character needs a supply of materials, the most
 obvious being a circlet, crown, or the pieces of the crown to be
 assembled. The cost of the materials is subsumed in the cost of creating
-the psicrown---375 gp x the level of the highest-level power x the level
+the psicrown—375 gp x the level of the highest-level power x the level
 of the manifester, + 75% of the value of the next highest-level power
 (281.25 gp x the level of the power x the level of the manifester), +
 one-half of the value of any other powers (187.5 gp x the level of the
@@ -2516,7 +2515,7 @@ The creator of a psionic tattoo must have a patch of uncovered skin free
 of hair and fur, and at least a few containers in which to mix dyes. In
 addition, he needs special materials, usually to create dyes. The costs
 for materials and dyes are subsumed in the cost for scribing the psionic
-tattoo--- 25 gp x the level of the power x the level of the manifester.
+tattoo— 25 gp x the level of the power x the level of the manifester.
 All ingredients and materials used to scribe a psionic tattoo must be
 fresh and unused. The character must pay the full cost for scribing each
 psionic tattoo. (Economies of scale do not apply.)
@@ -2529,7 +2528,7 @@ tattoos.
 
 The creator must know the power to be placed in the psionic tattoo (or
 must have the power available in some other form). If manifesting the
-power would reduce the manifester's XP total, he pays the XP cost upon
+power would reduce the manifester’s XP total, he pays the XP cost upon
 beginning the scribing in addition to the experience point cost for
 making the psionic tattoo itself. The act of scribing triggers the power
 as if it had been manifested, costing the character an appropriate
@@ -2556,7 +2555,7 @@ power available in some other form). Any experience point cost for a
 prerequisite power is not incurred by the creator of the item. The act
 of working on the item requires a payment of power points appropriate to
 the power or powers associated with the item during each day of the
-item's creation.
+item’s creation.
 
 Crafting a universal item requires one day for each 1,000 gp of the base
 price.
